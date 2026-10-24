@@ -1,0 +1,318 @@
+2020-01-21 {{iX9lLFDvw_w@318}} principle [biceps] Curls, extensions and wrist curls are not taxing on the central nervous system, so an arm day can replace a rest day before a big session; the blood flow also aids recovery.
+2020-01-27 {{BFVw7x1fZjs@186}} prescription [forearms] Gripper work is not very fatiguing, but avoid doing it every day or the day before a pulling session done without straps, since grip needs to be fresh.
+2020-01-28 {{cHYOYTgiRlM@187}} data He never deloads and takes only one rest day a week.  {"rest_days": "1/week"}
+2020-01-28 {{cHYOYTgiRlM@250}} principle Running an 8-day program over 6-day weeks means two sessions drop out each week, so every few weeks he skips back squats or conventional deadlifts; this rests body and mind, and the next exposure gives PRs and more volume.  {"days_in_program": 8, "frequency": "6 days/week"}
+2020-01-29 {{Z-D9kRwK90I@127}} principle Supersetting different muscles costs little stamina (biceps then shoulders); be careful pairing two lifts that use the same muscles, e.g. heavy grip work followed by pulls without straps.
+2020-01-29 {{gVVj9QuCyFM@568}} principle You should finish an arm day energized and pumped, not tired; tiredness is expected after heavy squats or deadlifts, but training relatively small arm muscles shouldn't wear you out.
+2020-01-30 {{zMCZ0vGzo6c@65}} principle [shoulders] Bench volume on day 1 is kept low so his shoulders stay fresh for the overhead press, his second strength movement of the day.
+2020-01-31 {{7C5gtGrWYM0@0}} principle His goal is to gain deadlift strength without burning his CNS, because heavy deadlifting makes him more injury-prone on squats, where he usually hurts his back.
+2020-02-01 {{PLgCL_rizPU@0}} opinion Overtraining, the idea that training too much causes injury and no progress, is real.
+2020-02-01 {{PLgCL_rizPU@0}} principle Overtraining is subjective and individual: what overtrains one person may not overtrain another.
+2020-02-01 {{PLgCL_rizPU@0}} principle The more advanced you get, the less overtraining is possible.
+2020-02-01 {{PLgCL_rizPU@125}} opinion Rhabdomyolysis mostly happens with intense cardio or when a coach forces you to finish reps; training alone you'd get injured before getting rhabdo.
+2020-02-01 {{PLgCL_rizPU@250}} principle Once you understand overtraining you can use it: train right below the edge of overtraining so you work your muscles to the max and maximize hypertrophy.
+2020-02-04 {{j5PP3gx7DC4@314}} anecdote [quads] Nothing taxes his recovery more than squats, more than deadlifts, so heavy squatting every 8 days works for him.  {"frequency": "every 8 days"}
+2020-02-05 {{cknNgkOKy8Q@266}} principle [back] Rack-start slow-negative deadlifts also aid recovery since you don't pull from the floor, while still giving a deadlift-like stimulus at higher reps.
+2020-02-11 {{sT8z3ENnqAQ@567}} principle [forearms] Heavy static gripping fatigues the whole forearm and CNS without yielding hypertrophy, leaving grip too tired for next-day forearm work.
+2020-02-22 {{uTHCzF7Exck@448}} principle People new to high volume will be very sore for four or five days, maybe a week, and may struggle to train through it.  {"days": "4-7"}
+2020-02-24 {{OATtf3kPtdI@313}} principle Squat and bench don't share muscles but they share CNS and stamina demand, so a novice's bench may lag after squatting without them understanding why.
+2020-02-27 {{np9LdwTPfNs@1016}} prescription [back] Don't put heavy Coan rows on deadlift day since the lower back is already fatigued; place them on upper day at 3x10-12, superset with dumbbell shrugs because the row weight is too heavy to shrug.  {"sets": 3, "reps": "10-12"}
+2020-03-11 {{1ZgJ8kMFd9s@569}} principle The Eastern school is about training within a recovery window that lets you train again the next day, not lifting light and going home; Western athletes are criticized for overtraining and under-recovering.
+2020-03-25 {{ggFrswc8T5E@0}} principle Every exercise taxes the body by damaging muscle fibres that rebuild bigger and stronger, the basis of bodybuilding; some exercises also demand a lot of mental stamina.
+2020-03-25 {{ggFrswc8T5E@63}} principle Which exercises are most taxing varies by individual.
+2020-03-25 {{ggFrswc8T5E@63}} principle [quads] Physically taxing exercises recruit many muscles and burn many calories: compound movements, especially compound leg movements, which tax the cardiovascular system and need longer recovery, calories and macros.
+2020-03-25 {{ggFrswc8T5E@125}} anecdote Experts often name the full-ROM deadlift as most taxing, but leverages matter: for him the high-bar back squat is far more taxing; he can pull hard from the floor and feel fine the next day.
+2020-03-25 {{ggFrswc8T5E@188}} anecdote [shoulders] Although bench recruits more muscle, overhead press taxes his cardiovascular system more because he must stand, brace his core and tense everything.
+2020-03-25 {{ggFrswc8T5E@311}} principle For most lifts physical and mental taxation go together: heavy squats and deadlifts with perceived injury risk stress you out, followed by relief after a successful PR.
+2020-03-25 {{ggFrswc8T5E@374}} anecdote [shoulders] For him the bench press is like a vacation, never stressful, whereas heavy overhead pressing is high-stakes, so he limits how often he goes heavy on it each week.
+2020-04-06 {{qqAw6s-_l3o@109}} principle Volume and fatigue management matter as much as form; perfect form with poorly managed volume eventually exceeds your ability to adapt and leads to injury.
+2020-04-17 {{7Ax5O5DKoUg@0}} principle Mental fatigue is an aspect of recovery people ignore; a lift affects your mind as well as your body.
+2020-04-17 {{7Ax5O5DKoUg@63}} principle A lift you approach with confidence barely spikes stress or cortisol, while a lift you are uncomfortable with or keep failing can shatter your confidence and be hard to recover from.
+2020-04-17 {{7Ax5O5DKoUg@250}} principle A natural bodybuilder can push work capacity so high that the limit becomes the brain's ability to drive the body rather than the body itself, and a burnt-out brain prevents reaching the extra stimulus needed to grow.
+2020-04-17 {{7Ax5O5DKoUg@688}} principle Managing mentally taxing lifts matters more once you're advanced and train more often, but it is present for everyone and awareness beats training blind.
+2020-04-29 {{ADLnarIVojI@0}} principle Hypertrophy works by damaging muscle fibers in training, then rebuilding them bigger and stronger through food and rest; this is what he calls muscular fatigue.
+2020-04-29 {{ADLnarIVojI@62}} principle Muscular fatigue reduces a fiber's ability to produce force, after which it recovers bigger and stronger.
+2020-04-29 {{ADLnarIVojI@62}} principle Muscular and cardiovascular fatigue sometimes go together but must not be confused; many 'fatigue-seeking' methods actually target cardiovascular fatigue.
+2020-05-13 {{T74sR7AIOZc@758}} principle Nucleus overload is not taxing: it burns, but it shouldn't tire your cardio system or hurt your strength work, and it's easy to recover from.
+2020-05-18 {{Z1xF6eFUdBQ@254}} principle [chest] Extra tonnage on one day affects the rest of that session and later sessions; judge it by strength, performance four days later, sensations, soreness and visible results, and move it elsewhere if it doesn't work.  {"rest": "4 days"}
+2020-05-19 {{4rjywMLXt98@1138}} principle The recovery cost of nucleus overload stays low precisely because you do not make it progressively harder
+2020-05-22 {{0yIieHQjEiA@881}} prescription When adding deadlifts and these changes, start light and see how it affects recovery.
+2020-06-05 {{7e0gcEEa-ms@378}} opinion Overtraining only exists relative to a program because it depends on frequency
+2020-06-09 {{QTxLU8WTx6g@570}} principle Day-to-day readiness varies; be adaptable within your program to do the maximum you can each day without overreaching.
+2020-06-13 {{CRXE2gFfwcs@0}} opinion Taking a week or even 3-4 days fully off is a bad deload for bodybuilders; it may suit strength athletes recharging before competition.  {"weeks": "3-4 days to 1 week"}
+2020-06-13 {{CRXE2gFfwcs@64}} prescription The objectively better deload is doing your usual lifts at low intensity and low volume, reducing tonnage while keeping blood flow and movement patterns so you don't need to relearn them.
+2020-06-13 {{CRXE2gFfwcs@64}} principle Deloads exist to recharge strength so you can show max potential; bodybuilders aren't strength athletes, so that purpose doesn't apply.
+2020-06-13 {{CRXE2gFfwcs@126}} opinion If you need 3-4 days off every two months to keep progressing, your intensity or volume programming is wrong; frequency and recovery windows between days and body parts should always suffice.  {"weeks": "3-4 days every 2 months"}
+2020-06-13 {{CRXE2gFfwcs@188}} opinion A deload is either an emergency response to a programming mistake or, if scheduled, something that hurts your gains; focus on volume and intensity manipulation instead.
+2020-06-13 {{CRXE2gFfwcs@188}} anecdote He never deloads; he rests only between body-part splits and takes Sundays fully off (no band work), which is more a mental and family recharge that makes him crave training.  {"frequency": "6 days/week"}
+2020-06-13 {{CRXE2gFfwcs@314}} opinion Deload phases are boring because you don't push your limits, only to bring back strength you won't test.
+2020-06-15 {{boPKiKE26Rw@62}} principle Fatigue has to be specified: it can be muscular, cardiovascular, mechanical, tendon or CNS fatigue, each with its own sub-types
+2020-06-15 {{boPKiKE26Rw@127}} opinion Most people should not worry about accumulating too much muscular fatigue; only very motivated novices prone to overdoing it and getting hurt should heed that advice
+2020-06-15 {{boPKiKE26Rw@127}} principle You will know a muscle is no longer fit to be worked because you simply cannot use it anymore
+2020-06-15 {{boPKiKE26Rw@444}} principle When you know the type of fatigue you are getting and control volume and intensity, fatigue becomes neutral; for bodybuilders it is usually good and the goal is the maximum fatigue you can recover from
+2020-06-15 {{boPKiKE26Rw@507}} principle Fatigue is created by stimulus and there is no stimulus without fatigue; if you are not fatigued you did not push enough to grow
+2020-06-19 {{hi-kNbZnXz0@564}} anecdote NH finds back squats more taxing than deadlifts, so when two heavy lower compound days are close together he puts deadlifts first and squats second.
+2020-06-22 {{wiuVyCccWC4@311}} principle Isometric holds with supramaximal weight aren't very taxing on muscles or CNS since there's no range of motion, but they are mentally stressful, like a cold shower: fear without real danger.
+2020-06-29 {{o3RTXWAia4A@633}} principle Because the four days repeat indefinitely, the template is kept deliberately light on exercises so trainees don't accumulate overuse injuries.
+2020-06-29 {{o3RTXWAia4A@696}} principle The arm day acts as a recovery day because it barely taxes the central nervous system.
+2020-06-30 {{MjeRI-baRF8@252}} principle In training, there is no point giving everything for one day then being out for seven; someone who trains every day while managing recovery, volume and intensity wins because he accumulates more tonnage.
+2020-07-08 {{bJK7L5fb-eI@507}} principle [quads] Widowmakers tear up muscle fibers and cause the worst DOMS while leaving long recovery; squatting daily taxes the nervous system and strength output but causes less fiber damage.
+2020-07-08 {{zCo31HKOsIY@127}} principle Heavy lifts give an accurate assessment of how recovered your body is.
+2020-07-08 {{zCo31HKOsIY@190}} prescription [quads] If last session you squatted 300 lb for 4 and today only get 3, you regressed; that is a pre-emptive sign to do less volume that day, which you would miss if you went straight into fresh accessory volume.  {"load": "300 lb", "reps": "4 then 3"}
+2020-08-25 {{N8Dp4inzHog@506}} principle That much knee flexion eats recovery so heavy pulls or even overhead pressing on top become doubtful
+2020-08-25 {{pUpQypTV3Ck@61}} principle [quads] Leg training taxes the lower back heavily because the best leg hypertrophy lifts rely on it
+2020-08-25 {{pUpQypTV3Ck@312}} prescription When muscular endurance is shot, stop and go home; pushing baby weight does nothing
+2020-08-26 {{mXLMkXmIeW8@63}} principle Blue-collar training must never impair the ability to do hard work every day
+2020-08-26 {{mXLMkXmIeW8@63}} principle Construction is like low-intensity, high-volume, high-frequency training and drains the cardiovascular system
+2020-08-26 {{mXLMkXmIeW8@568}} prescription [back] Keep a pre-planned easier swap, like back extensions or light RDLs, for heavy deadlifts when the next work day needs your back
+2020-08-28 {{RgGkGiaGqks@439}} principle Don't trash yourself on lower days; it's injury risk for nothing
+2020-09-03 {{rIngKQqTJMs@627}} principle Tendonitis recovery also requires stress: saying no stress at all will not heal a tendon, you have to load it progressively until it recovers; stress levels are manipulated through volume and intensity.
+2020-09-07 {{9M7QVlvFdQY@125}} principle Most people who think they are overtraining are right: they answer regression by adding more volume, which deepens the regression
+2020-09-11 {{oLm1CDuY9zg@190}} opinion Bodybuilders should never deload; it is a waste of time
+2020-09-14 {{-banYSTnkq4@1210}} principle Bodybuilding does not need deloads; deloads are built into session volume and intensity
+2020-09-17 {{y-Z49WlVV84@100}} principle If you need a rest day because you are burnt out, the programming is wrong; rest should restore just enough to keep performance, progression and tonnage stable
+2020-09-18 {{HVD5j7hOobI@410}} principle The last lower day should leave you beat up but without lower back pain, since you get lots of recovery after it
+2020-09-26 {{ZPps_9IGdhc@190}} principle This accumulating intensity creates muscular and structural fatigue; if you don't control it you can end up unable to return to baseline
+2020-09-26 {{ZPps_9IGdhc@360}} principle Some baseline abilities, like doing ten push-ups, are never lost once trained
+2020-09-26 {{ZPps_9IGdhc@380}} principle Before the point of no return lies an overtraining zone where you can recover but the loads you can move are irrelevant
+2020-10-05 {{MIHPylz3f7Q@378}} principle How you feel during the workout and the next day means nothing for judging volume; listen to your body mainly for injury prevention
+2020-10-05 {{MIHPylz3f7Q@520}} principle Lack of progression or regression means too little stimulus to carry you or too much (overreaching)
+2020-10-05 {{MIHPylz3f7Q@697}} anecdote NH doesn't use clear-cut hard and easy weeks, which would be akin to deloads; volume and intensity fluctuate within the program
+2020-10-05 {{MIHPylz3f7Q@824}} prescription On the second upper day of the week, take a set off the secondary movement to account for accumulated fatigue  {"sets": "-1"}
+2020-10-05 {{MIHPylz3f7Q@887}} prescription On hard weeks, skip secondary movements when retraining an area; if choosing, keeping the secondary movement preserves tonnage better than keeping strength work
+2020-10-05 {{MIHPylz3f7Q@940}} prescription Sacrificial approach: day 1 strength work only at high volume and intensity, day 2 high-intensity low-volume strength work plus the secondary movement
+2020-10-18 {{cGzlMRCxvxo@1887}} opinion [back] Most people should do a deadlift variation for back-off rather than straight deadlifts because they cannot recover; he can, but is an exception
+2020-10-18 {{cGzlMRCxvxo@2132}} prescription [back] Never do deadlifts, deadlift back-offs and rack pulls in one day: rack pulls only if no back-off sets; snatch-grip shrugs can be done either way
+2020-10-18 {{cGzlMRCxvxo@2175}} prescription [back] The two deadlift-day versions keep similar lumbar stress, one heavier; on bad days pick the shrug version and skip rack pulls
+2020-10-24 {{dHXPhjaWBWk@564}} principle [back] Avoid squatting and deadlifting as strength work in the same session; the second lift suffers, entering with a fatigued lumbar and thoracic spine
+2020-10-24 {{dHXPhjaWBWk@752}} principle [back] Three sets of deadlifts at 4-6 is already a lot; deadlifts must be taken very seriously for fatigue management  {"sets": 3, "reps": "4-6"}
+2020-11-07 {{A-asa7QMiG0@620}} prescription If strength work leaves you burned out mentally or in your tendons, lower its intensity or modify the sets to train the rest of the session
+2020-11-09 {{6sFaB3rAY1A@3206}} opinion Overtraining is a myth; doing more than the minimum to stimulate growth is just training, and advanced bodies tolerate more tonnage
+2020-11-18 {{LqsqSGZooR0@1640}} opinion Deload weeks are useless for bodybuilders unless injured
+2020-11-26 {{zAUmHWbOywA@378}} prescription Mental stamina is usually lower than physical stamina; stop the workout when your mind checks out and train again the next day
+2020-11-26 {{zAUmHWbOywA@378}} opinion Grinding on after mental fatigue is like failing lifts constantly: you stop progressing
+2020-12-07 {{ZScs2L9rero@2100}} opinion You do not need a rest day for your CNS; if your muscles feel ready, keep training and let your body be the judge
+2020-12-07 {{ZScs2L9rero@2140}} anecdote He has deadlifted and squatted heavy for a year and a half with nonstop strength progress and no CNS burnout  {"weeks": "~78"}
+2020-12-07 {{ZScs2L9rero@2160}} opinion Supposed CNS burnout is usually injury or mismanaged volume and intensity: people expect strength their training never actually built
+2020-12-07 {{ZScs2L9rero@2210}} opinion Like overtraining, CNS burnout is not something most people are even capable of reaching
+2020-12-14 {{WyxeMHovPJ8@188}} principle Training beyond what you can recover from is useless and kills gains; muscle building is damage, then time and food to rebuild
+2020-12-14 {{WyxeMHovPJ8@230}} principle Train enough to stimulate growth and progression with a strong focus on recovery; your goal is to get big, not to get good at working out
+2020-12-14 {{WyxeMHovPJ8@314}} opinion Overtraining is a real threat for skinny lifters, trapping them in endless catabolism
+2020-12-17 {{twgzqTg4nug@693}} prescription Lifts in the same tree (e.g. squat and deadlift) share fatigue; a brutal high-volume squat day means adapting the deadlift's range or variation
+2020-12-17 {{twgzqTg4nug@755}} opinion Communication between upper and lower trees is almost nonexistent; he hasn't seen CNS fatigue from deadlifts affect his bench
+2020-12-17 {{twgzqTg4nug@755}} principle Overall recovery from food and sleep links both trees, and a smashed upper back can make you less tight on bench, but it's minimal
+2020-12-19 {{7ZS-mGePFXw@0}} opinion Deloads are first and foremost a strength practice and are counterproductive for bodybuilders
+2020-12-19 {{7ZS-mGePFXw@0}} opinion Taking a week off to deload is catastrophic; time off should only happen with injury or when away from the gym  {"weeks": 1}
+2020-12-19 {{7ZS-mGePFXw@30}} opinion Even massively reducing load for 3-4 days is too much and shows you either misunderstand size training or you are exceeding your maximum recoverable volume  {"days": "3-4"}
+2020-12-19 {{7ZS-mGePFXw@62}} principle Powerlifters deload because strength must peak at a specific time; bodybuilding never needs a peak
+2020-12-19 {{7ZS-mGePFXw@150}} principle The real benefits of a deload are physical recovery and mental respite, and both can be obtained through programming
+2020-12-19 {{7ZS-mGePFXw@312}} principle Needing a deload means you are digging a hole: training too frequently, too much volume, or too much strength work
+2020-12-19 {{7ZS-mGePFXw@350}} prescription It is better to cut 40-50 minutes from your week's training than to be forced to deload  {"minutes": "40-50"}
+2020-12-19 {{7ZS-mGePFXw@374}} principle Tonnage lost during a deload exceeds what you lose by voluntarily trimming the program; a self-imposed limitation beats a forced one
+2020-12-19 {{7ZS-mGePFXw@437}} principle Powerlifters deload after peaking or peak intensity, which bodybuilders don't need
+2020-12-19 {{7ZS-mGePFXw@500}} prescription If deloads help you progress keep them; if they put you in a rut, try his stable-tonnage method
+2020-12-30 {{3IMgRqcRN4Y@1316}} opinion People call the deadlift's fatigue-to-stimulus ratio low because their poor form makes it fatiguing; a proper deadlift isn't very fatiguing
+2021-01-03 {{CTMwuqNsY9Q@61}} principle A true one rep max is less fatiguing overall than 10 reps; reps at high intensity are always more tiring in global tonnage
+2021-01-11 {{A55c7v1yMn4@937}} opinion He opposes blast/cruise style polarization, volume or intensity days and deloads because they destroy tonnage stability; small dips from rep ranges are the only variation he allows  {"weeks": "6-12 on, 10-14 days off"}
+2021-01-11 {{A55c7v1yMn4@998}} principle A program that forces 10 days of low intensity to recover is unbalanced; volume above maximum recoverable volume is wasted, like a huge surplus that only adds fat
+2021-01-19 {{-anA4CV2SVU@1511}} prescription If six days feels wrong, fit the same volume into four days and use the two rest days to recover  {"frequency": "4 days/wk"}
+2021-01-19 {{-anA4CV2SVU@1511}} opinion He does not recommend deloads: the need can be prevented inside the program and bodybuilding has no peak
+2021-01-20 {{MEn975ruwTs@1949}} opinion Scheduling deloads matters; deloading whenever you feel like it is not programming
+2021-01-22 {{G7rVTseabFU@400}} principle [full_body] Fatigue carries across exercises even for unrelated muscles; by exercise five you underperform, and poor cardio makes the heart and lungs the limiter
+2021-01-22 {{G7rVTseabFU@1400}} principle Exercises late in the session progress least because energy is low; put the least important ones there
+2021-01-22 {{G7rVTseabFU@1430}} prescription Full body is unforgiving of skipped exercises; skipping the last quarter every time undertrains a quarter of the body, so vary the order
+2021-01-25 {{pey1Ni6HPlY@740}} principle [back] Three sets each of squat and RDL instead of four keeps the lower back from getting cooked, which compounds over time  {"sets": 3}
+2021-01-25 {{pey1Ni6HPlY@930}} anecdote [quads] He finds squats more tiring because of the load, so he prioritizes squat recovery
+2021-01-30 {{_2M6FhWuIvs@540}} opinion Deloads and blocks make sense for powerlifters but not bodybuilders; breaks that cause big tonnage dips make your progress yo-yo
+2021-02-12 {{p-kR3RfGBHw@470}} opinion NH disagrees with deloads meant to fully empty the pot: there is no extra recovery from something already recovered
+2021-02-26 {{BBqiphYfqMA@480}} opinion Avoid pockets of time dedicated only to work capacity, like pseudo-deload weeks of light high-rep work; that tends to be junk volume
+2021-03-08 {{1MOLCv6ojgw@305}} principle [back] Dumbbell rows and pullovers barely load the lower back, so you stay fresh for deadlifts
+2021-03-14 {{Z35bJjrc_MY@127}} principle Accumulated fatigue matters: weekly work done, how many leg days, lower back state, total volume
+2021-03-14 {{Z35bJjrc_MY@127}} principle Programming is not only for planning progression; it also tracks past fatigue so you can prevent injury in the moment
+2021-03-26 {{o05wgvQtSMc@379}} principle Any program, even the worst, is a block of fatigue; manage it to get as much as possible from as little as possible
+2021-03-26 {{o05wgvQtSMc@566}} principle The bigger the muscle group added or removed, the bigger the impact; 3 sets of curls adds no real fatigue, 3 sets of deadlifts does  {"sets": 3}
+2021-04-02 {{9J9rmzZ4V40@0}} principle Beyond the time commitment, such routines have a poor fatigue-to-stimulus ratio for hypertrophy
+2021-04-21 {{sFMQj4Lflk0@944}} opinion Stimulus and fatigue are the same thing seen positively or negatively
+2021-04-21 {{sFMQj4Lflk0@1382}} principle Injuries often come from fatigue accumulated over previous sessions rather than what you did that day
+2021-05-06 {{qDH088UUiMA@392}} prescription [back] After the heavy pull, choose follow-up lifts that are gentler on the lower back
+2021-05-06 {{qDH088UUiMA@525}} principle [back] The upper back can take massive punishment and grow very big, but it is always limited by the lower back, so find ways to load it without the legs
+2021-05-10 {{D1_tXh-Kp9Y@571}} prescription Burnout usually means doing too much in the gym and too little outside it; lanky high-metabolism lifters need less work than they think, so cut volume and raise calories
+2021-05-10 {{D1_tXh-Kp9Y@633}} prescription If you spend the last 30-40 minutes of a 90-minute session drained and going through the motions, the workout is too long; shorten it and make it more intense  {"duration": "90 min", "wasted": "30-40 min"}
+2021-05-10 {{D1_tXh-Kp9Y@1071}} opinion A 13-day 'strategic deconditioning' break is just planned detraining: you lose neural adaptation, come back weaker and waste time and tonnage  {"days": 13}
+2021-05-10 {{D1_tXh-Kp9Y@1133}} opinion He is against deloads: they come from powerlifting, and if a bodybuilding program needs one it is badly programmed and a sign of overuse
+2021-05-10 {{D1_tXh-Kp9Y@1635}} principle [quads] If your back squat max is 400 lb and late in the workout 180 lb for 3 is nearly impossible, you've dug too deep and the work is no longer relevant  {"load": "180 lb vs 400 lb max", "reps": 3}
+2021-05-13 {{8nUneZclRp0@436}} principle If you take five days off and come back stronger, your program was bad because you were under-recovered  {"days_off": 5}
+2021-06-05 {{7n8RMhsxEB4@689}} principle Autoregulation means choosing on the day, and it needs mechanisms built into the program, such as a menu of rotation options
+2021-06-10 {{YMURbaXNNZM@439}} principle If you get muscle cramps so bad at night you cannot sleep, question your training rather than continuing to max out daily
+2021-06-20 {{Mq2TaHm_ySI@1394}} prescription [quads] If you deadlifted heavy a day or two earlier, open the next leg day with pause squats at lower intensity for 6-10 reps instead of heavy 3x4 squats  {"reps": "6-10"}
+2021-06-26 {{ZkQZPnTVKpg@562}} prescription [quads] After a heavy pull, the knee flexion should be light with more reps, e.g. pause squats 3x10  {"sets": 3, "reps": 10}
+2021-06-26 {{ZkQZPnTVKpg@937}} principle Cramming too much into two days risks overuse injuries and burnout, especially for skinny guys with limited capacity
+2021-07-14 {{8ELQ2XZgpls@2957}} prescription Priming the CNS: order lifts so earlier ones warm you up for later ones, avoiding repeated warm-ups
+2021-07-14 {{8ELQ2XZgpls@3038}} principle The baseline is dug into as you train; when continuing no longer makes sense the session should end
+2021-07-14 {{8ELQ2XZgpls@4287}} opinion Sandbagging is not bad when used to prepare for maximal days; many people sandbag too much when deloading
+2021-08-05 {{lG5SZbRdOjA@627}} opinion [back] The deadlift's 'bad stimulus to fatigue ratio' really means it easily overshoots recovery; it's better to undershoot slightly, like filling a glass without overflowing it
+2021-08-07 {{ulwUVDK7RUk@504}} data A deload is a big drop in volume, tonnage and intensity meant to produce a later increase
+2021-08-07 {{ulwUVDK7RUk@504}} opinion Bodybuilders shouldn't program deloads; with evolving references the dips are already built in
+2021-08-07 {{ulwUVDK7RUk@692}} opinion Deloads are risky: coming back no stronger means you dipped for nothing; small dips are better long term
+2021-08-27 {{Q5y4wM8zcWY@502}} prescription [back] Rows after squats or deadlifts on the same day are bad programming because of the stacked lower back demand
+2021-08-27 {{Q5y4wM8zcWY@819}} prescription Never program heavy squats and heavy deadlifts on the same day; a heavy squat plus a low-intensity hinge variation is fine
+2021-09-02 {{yvhW-zyhpsM@943}} principle [quads] Being sore for seven days after leg day is a terrible sign unless you are a complete beginner; fix your frequency first  {"days": 7}
+2021-09-05 {{P89o8FBSWDI@1871}} opinion mTOR resets and breaks to resensitise muscle are a powerlifting principle repackaged; muscle is never desensitised, and evolving rep ranges and rotations already handle accumulated fatigue
+2021-09-12 {{cNGPCn9Uupc@1066}} principle Lifting causes more muscle damage than sport for the same time; 40 minutes of team practice might equal about 15 minutes of top-set lifting in recovery cost
+2021-09-12 {{cNGPCn9Uupc@1260}} prescription Never do a heavy lifting session the day before practice or competition
+2021-10-23 {{jAnfGqpsK38@990}} prescription [shoulders] Seated DB overhead press 4x6-12 after dips and upright rows may be overkill for some; substitute diamond/handstand push-ups or skip until shoulders are conditioned  {"sets": 4, "reps": "6-12"}
+2021-11-10 {{UrFS3Gs5zh0@1556}} prescription When accumulated fatigue pushes your sets out of the useful window, end the session and go home
+2021-12-18 {{bqcRtC3bbK8@818}} prescription [lats] Saturday pullovers are light pump sets for blood flow and recovery, since heavy pullovers come on Monday
+2022-01-05 {{O5xVdqgt8Uo@582}} principle Because machines reduce stabilizer recruitment they can give tendons and small structures a rest while still training the big muscle, improving the stimulus-to-fatigue ratio
+2022-01-05 {{O5xVdqgt8Uo@806}} principle [chest] Illustration: a bench press might produce 100 points of fatigue with 60 to muscle and 40 to tendon, while a good chest machine produces 50 with 45 to muscle; sometimes the machine is the better choice
+2022-01-17 {{9y2s6kyFkPc@1689}} prescription After a break, start with about a third of your usual tonnage; you'll regain muscle quickly, and jumping back to old loads causes injuries
+2022-01-20 {{v-F3QHSM2hg@1002}} prescription Place sessions around sparring: don't lift the day before a hard sparring session; recover first and train when fresh
+2022-01-20 {{v-F3QHSM2hg@1438}} prescription If the new lifting fatigue degrades your sparring, cut the lifting back; work capacity improves only with time
+2022-02-06 {{wLx5BRx8AaU@1866}} principle Warm-up sets do count, because they fatigue you
+2022-02-10 {{GNJkAcgUJ_0@5585}} principle Deloads exist to prepare for or recover from a peak; bodybuilders never peak, so deloading only sacrifices tonnage and intensity. He never deloads
+2022-02-18 {{BJXFeQWGUuY@0}} anecdote [full_body] NH never takes a week off, never deliberately reduces the load on his lifts, takes no rest days except Sundays, and never trains further than 1-2 reps from failure  {"rir": "0-2", "rest_days": "Sunday only"}
+2022-02-18 {{BJXFeQWGUuY@191}} principle The training must dictate the deload, never the reverse; planning a deload first and fitting training around it is reverse engineering at its worst
+2022-02-18 {{BJXFeQWGUuY@255}} principle Fixing a one-week deload and then a five-week block before it suits powerlifters, but bodybuilders should first set optimal work and then see what recovery it needs  {"weeks": "5+1"}
+2022-02-18 {{BJXFeQWGUuY@255}} principle A deload has two purposes: recovery and preparing for peak performance; the peaking half is useless for bodybuilders, who want stable, slowly progressing strength rather than peak strength
+2022-02-18 {{BJXFeQWGUuY@381}} opinion Full week-off deloads have mostly disappeared from YouTube fitness; most now train with submaximal loads, which makes sense for strength but does almost nothing for hypertrophy
+2022-02-18 {{BJXFeQWGUuY@444}} prescription Reduce the workload before the deload week so a deload never becomes necessary, rather than reducing load during a deload week
+2022-02-18 {{BJXFeQWGUuY@507}} prescription Never plan on a deload week to save you; knowing one is coming makes people overzealous with volume or intensity beforehand
+2022-02-18 {{BJXFeQWGUuY@507}} opinion Deload weeks lose quality tonnage, create performance instability you must rebuild, and encourage PR-chasing at the expense of muscle damage
+2022-02-18 {{BJXFeQWGUuY@699}} principle A deload can only restore a muscle to its normal capacity (100), never beyond it, so emptying it fully before a deload gains nothing
+2022-02-18 {{BJXFeQWGUuY@951}} principle His approach is autoregulation, a 'bodybuilding deload' that keeps each muscle stimulated continuously rather than letting it fully recover
+2022-02-18 {{BJXFeQWGUuY@1766}} prescription Picture body parts flashing red when they need work and green when they need recovery, and let the program respond
+2022-02-18 {{BJXFeQWGUuY@1828}} prescription [chest] On a day where chest needs rest, reduce it to a single evolving-rep set or rotate it out entirely  {"sets": "1"}
+2022-02-18 {{BJXFeQWGUuY@1828}} principle This autoregulated system suits more advanced lifters who know their bodies; beginners should work towards it gradually
+2022-02-18 {{BJXFeQWGUuY@1890}} principle [biceps] Bodybuilding deloads are non-arbitrary: if the biceps are fresh despite a planned rotation, he trains them anyway
+2022-02-18 {{BJXFeQWGUuY@1953}} opinion Scheduled deload weeks taken when not fatigued are a complete waste of time
+2022-02-18 {{BJXFeQWGUuY@2140}} principle Bodybuilding deloads are micro-blocks built into each day: the grey deload block is split into switchable patches spread across the week
+2022-02-18 {{BJXFeQWGUuY@2203}} opinion Rigid hard blocks contradict the stability muscle growth needs
+2022-02-18 {{BJXFeQWGUuY@2203}} principle Volume, intensity and frequency are the holy trinity of bodybuilding and are really one thing: tools to manage fatigue
+2022-03-04 {{NPlGK0-7h0A@0}} principle Recovery has two big aspects: the muscles and the nervous system; muscles cannot be stimulated in a vacuum because nerves trigger every contraction, so each session also fatigues the CNS
+2022-03-04 {{NPlGK0-7h0A@250}} principle CNS fatigue management matters much less for aesthetics-oriented lifters than for strength athletes, whose performance depends on maximal neural recruitment
+2022-03-04 {{NPlGK0-7h0A@312}} principle A bodybuilder does not need peak neural output because the goal is not hitting one-rep maxes, so a slightly under-recovered CNS costs little
+2022-03-04 {{NPlGK0-7h0A@437}} principle Powerlifters must watch CNS recovery because they test maxes and repeat heavy big-three compounds, which justifies their deloads; a bodybuilder never taxes the CNS that much, so powerlifting-style deloads are useless for him
+2022-03-04 {{NPlGK0-7h0A@813}} anecdote Coconut-helmet analogy: lifters who fear CNS fatigue copy the caution of strength athletes even though they never tax their CNS enough for it to matter
+2022-03-04 {{NPlGK0-7h0A@940}} principle Strength loss is often wrongly blamed on CNS fatigue when a caloric deficit, poor sleep, stress or a bad day could explain it
+2022-03-04 {{NPlGK0-7h0A@1003}} principle If your muscles can move a load, that load cannot fry your CNS, because the CNS is what lets the muscles move it
+2022-03-04 {{NPlGK0-7h0A@1127}} opinion Preemptive detraining to avoid CNS fatigue is like sacrificing a chicken nightly to keep away a wolf that never existed; the absence of fatigue is wrongly credited to the deload
+2022-03-04 {{NPlGK0-7h0A@1438}} principle The CNS is trainable: chronically undertraining it out of fear limits current gains and future work capacity, and because CNS and muscles are linked, an undertrained CNS means undertrained muscles
+2022-03-04 {{NPlGK0-7h0A@1688}} prescription [quads] Keep reps conservative on lower days to avoid fully emptying the bucket; he has trained this way for years without trouble progressing
+2022-03-04 {{NPlGK0-7h0A@1937}} principle Bodybuilders should let training dictate recovery; strength athletes let recovery dictate training because they aim for performance
+2022-03-04 {{NPlGK0-7h0A@2000}} opinion Planning training around the big CNS bucket is the best way to neglect the small muscles and end up underdeveloped
+2022-03-06 {{PuIp9cGKMHo@0}} opinion The current deload fashion on YouTube is powerlifting-centric and suits strength athletes far more than bodybuilders
+2022-03-06 {{PuIp9cGKMHo@664}} opinion Letting life dictate deloads may work for minimalist hobbyists with stressful lives, but he would regress because something comes up every week
+2022-03-06 {{PuIp9cGKMHo@788}} principle Total rest weeks are bad; neural adaptations detrain much faster than muscle, so after a break you waste weeks rebuilding before you can challenge the muscle again
+2022-03-06 {{PuIp9cGKMHo@851}} data [quads] Example: quads that can squat three plates may only manage about 255 lb after two weeks off, even though the muscle could still handle three plates (low-confidence)  {"weeks": 2, "load": "315 to 255 lb"}
+2022-03-06 {{PuIp9cGKMHo@1018}} principle Size regresses slowly; the problem with time off is not lost muscle but lost performance and work capacity that must be rebuilt
+2022-03-06 {{PuIp9cGKMHo@1706}} principle Optimally the recovery bucket is at 100% before training again, but 90% still leaves enough function to empty it; bodybuilders do not need peak performance  {"recovery": "90-100%"}
+2022-03-06 {{PuIp9cGKMHo@1768}} principle Small recovery shortfalls can accumulate into under-recovery; that is poor fatigue management that demands attention, so his method is not for novices
+2022-03-06 {{PuIp9cGKMHo@1955}} opinion Deload advocates suffer confirmation bias: they deload, never meet CNS fatigue, and credit the deload for preventing something that may never have come
+2022-03-06 {{PuIp9cGKMHo@2080}} opinion Deload weeks are a cop-out that stop lifters learning day-to-day fatigue management; a PR after a week off only shows full performance, not better long-term muscle building
+2022-03-06 {{PuIp9cGKMHo@2143}} principle Taking a week off every 6 or 12 weeks adds up to a lot of lost work over years; on a three-day schedule one missed day is about 30% of the week's training  {"weeks": "6-12"}
+2022-03-06 {{PuIp9cGKMHo@2393}} principle Weekly deloads reset muscle, CNS and tendon fatigue to zero, hiding how these variables relate and wasting muscle stimulus
+2022-03-06 {{PuIp9cGKMHo@2455}} principle Bodybuilders should grow the CNS to serve the muscles, keeping it fresh enough to activate them, not manage muscles around the CNS as strength athletes do
+2022-03-06 {{PuIp9cGKMHo@2643}} principle Junk volume before a deload is not the deload's fault; likewise injuries from his method are poor fatigue management, not the method's fault
+2022-03-06 {{PuIp9cGKMHo@3335}} principle A 10% loss returned quickly on one lift becomes huge when multiplied across six or more movement patterns, so breaks cost bodybuilders more  {"loss": "10%"}
+2022-03-06 {{PuIp9cGKMHo@3712}} principle He does deload, constantly, through set and rep management; 'I never deload' meant he does not deload the powerlifter way
+2022-03-06 {{PuIp9cGKMHo@4274}} principle A deload gives absolute recovery, not optimal recovery; optimal recovery frequency means recovering as often as possible by juggling muscle buckets
+2022-03-06 {{PuIp9cGKMHo@4399}} principle Without accumulated fatigue a week off is detraining, not deloading; you can only deload from a load, and you can recover while still loading
+2022-03-06 {{PuIp9cGKMHo@5473}} principle Calling fatigue 'the bad stuff' demonizes it; without fatigue there is no fitness
+2022-03-06 {{PuIp9cGKMHo@5599}} principle Fatigue decays fast and fitness slowly, so chasing a pure fatigue flush risks lowering fitness; fatigue should be accumulated rather than flushed
+2022-03-06 {{PuIp9cGKMHo@5913}} principle His bodybuilding formula: performance minus fatigue equals fitness; performance only exists to let you accumulate fatigue
+2022-03-06 {{PuIp9cGKMHo@6605}} prescription His deload is built into every week via evolving reps, sets and rotations that slightly vary volume, intensity and frequency while keeping tonnage stable
+2022-03-24 {{LNggSj0WBd8@1447}} principle Done right, NO takes only 2-3% out of the recovery bucket; take 10-20% and your hard sets suffer, and because it is high-frequency, the small amounts add up to a lot of tonnage over a year  {"recovery cost": "2-3%"}
+2022-06-05 {{QfHfxLYRu88@690}} prescription MMA and lifting draw from the same recovery pot; start MMA with one day a week and assess fatigue  {"frequency": "1x/wk"}
+2022-06-05 {{QfHfxLYRu88@690}} prescription [back] Deadlifts Monday then barbell rows Tuesday won't work because they share muscles; pull-ups then pullovers can, depending on fatigue
+2022-06-20 {{qrBLykvU_EE@442}} anecdote [hamstrings] Fighting for 2-3 extra heavy deadlift reps can cost the ability to do another hip hinge afterward, losing tonnage and adding injury risk  {"reps": "2-3"}
+2022-06-20 {{qrBLykvU_EE@1065}} principle Stimulate, don't annihilate: work the muscle, not the tendons and joints around it
+2022-06-23 {{itnjfi6RYtY@1004}} opinion He never deloads because rotating muscles and lifts manages recovery
+2022-07-22 {{iDua_rNsBO8@253}} principle Recovery-tank analogy: 9 sets once a week drain you to zero and you recover from one stimulus, while 3 sets three times a week each drain about 30% and deliver roughly double the quality work
+2022-07-22 {{iDua_rNsBO8@695}} opinion Poor recovery is better than no recovery at all because there was no muscle damage to recover from, unless taken to the extreme
+2022-07-22 {{iDua_rNsBO8@1069}} principle Very low sets per session do not let you recover in 24 hours because tendon and nervous fatigue still accumulate; Bulgarian-style daily training for bodybuilding fails  {"sets": "1-2", "recovery": "24h"}
+2022-08-03 {{yUecX6qONXg@170}} anecdote NH's own programs include days off because he peaks fatigue and then lets it recover
+2022-08-03 {{yUecX6qONXg@315}} opinion Deloads are a crude blanket fatigue tool; NH prefers to micromanage fatigue precisely instead of taking a submaximal week  {"weeks": 1}
+2022-08-03 {{yUecX6qONXg@379}} prescription If deloads feel like wasted time, skip them but manage fatigue another way
+2022-08-03 {{yUecX6qONXg@400}} opinion Resensitizing a muscle with weeks or months off is dubious; plateaus come from mismatched fatigue and recovery, and a plateaued muscle needs more work
+2022-08-06 {{lmhW2W2UQto@818}} opinion Mentzer's plateau fix of adding rest days until training once every five days makes people regress if their real problem is too little stimulus
+2022-08-06 {{lmhW2W2UQto@1150}} data Mentzer advised taking two to three weeks completely off before starting HIT to recover from overtraining  {"weeks": "2-3"}
+2022-08-18 {{o_x3Ij2GBXM@440}} principle Low leg volume opens recovery; training legs every two days as he does creates a lot of fatigue
+2022-09-07 {{XAcv427WvMw@1120}} principle Squats and deadlifts share one lower back, so fatigue management is essential if you program both hip hinges and knee flexions
+2022-09-07 {{XAcv427WvMw@1313}} prescription [hamstrings] The advice to do more back and hamstring volume than quad volume does not mean doubling hip hinges; do hinges with styles that reduce axial loading
+2022-09-09 {{JnWWva91QUM@63}} opinion Mesocycles, low-volume phases and deloads are unnecessary for hypertrophy; a good program can be run indefinitely
+2022-09-09 {{JnWWva91QUM@1730}} principle Compare days by stimulus-to-fatigue ratio: two lower days with the same number of exercises can differ hugely in fatigue
+2022-09-10 {{gizylGr0ebo@1126}} opinion The lower back exists to be used for hinges and knee flexions; babying it is only justified if you need it the next day
+2022-09-10 {{gizylGr0ebo@2521}} opinion Machines have a good stimulus-to-fatigue ratio but fatiguing the lower back also trains glutes and hamstrings; the plan lacks hip hinges and pulls from the floor
+2022-09-17 {{bPUrJ3CSqEA@127}} principle Fatigue is also stimulus: cut deadlift sets and reps until you get just enough fatigue to grow without being wrecked
+2022-09-19 {{QNxCVZro9jc@501}} prescription [lats] If chin-up performance drops in the biceps giant set, remove one of the curls
+2022-10-02 {{CSwbuwl33eA@253}} principle Going from 4 to 5 days raises both volume and frequency, making fatigue harder to manage; watch your recovery
+2022-10-04 {{nmgidpn3DNM@571}} principle Stimulus-to-fatigue ratio is simple: every lift gives fatigue and stimulus; fatigue is what turns into stimulus, so less fatigue also means less stimulus
+2022-10-04 {{nmgidpn3DNM@634}} principle Compound lifts may give more of both fatigue and stimulus; they are only worse if the excess fatigue overtakes the excess stimulus
+2022-10-04 {{nmgidpn3DNM@948}} principle [hamstrings] A deadlift only has a bad ratio if you do too much volume; that is your programming problem, not the lift's
+2022-10-06 {{bJ7gfILR6RA@441}} principle Baseline concept: you start a session at 100% capacity and dig into it with each set; when a weight under 50% of your max feels hard you are doing junk volume
+2022-10-06 {{bJ7gfILR6RA@565}} principle Being destroyed after a workout is not a goal; it hurts frequency and the ability to return to the gym
+2022-10-06 {{bJ7gfILR6RA@1190}} principle You should leave the gym with some energy left, wanting to come back; being wiped out every session means working dumb, not hard
+2022-10-06 {{bJ7gfILR6RA@1379}} principle If a session cannot be repeated within about 5 days because recovery is insufficient, it is a bad session; good sessions are repeatable for years  {"days": 5}
+2022-10-11 {{BhOuuyriBDw@945}} principle [shoulders] You only have one set of shoulders, so horizontal pressing volume competes with vertical pressing
+2022-10-21 {{UgkxtZTlDw-PUutOW9RsNCsa7EgURcXHUB2q@0}} opinion Joke implying he resists deloads and would have to be forced into one (low-confidence)
+2022-10-23 {{g-pqgciOSgE@1072}} principle [full_body] Full body 3x/week accumulates fatigue to peak on Friday, then the weekend flushes it out and keeps your hunger to train
+2022-11-11 {{wB-ydKSfQ5k@1769}} principle [biceps] A proper arm day is a sneaky recovery day: minimal compounds, mostly isolation, low nervous system fatigue
+2022-11-11 {{wB-ydKSfQ5k@1769}} prescription With high frequency end each day with about 20% in the tank, and an arm day with about 40% left
+2022-11-17 {{FC8x-cwd4DQ@453}} principle Isolation lifts give a break from heavy compounds, act as active recovery and round out the physique
+2022-11-25 {{gYyqqbs2SLI@946}} principle Squats stress the whole system and nervous system too, so the system, not the legs, can limit how soon you can train again
+2022-11-25 {{gYyqqbs2SLI@1449}} principle The squat is more axially loading than the deadlift, so spamming it makes the lower back the limiting factor
+2022-12-15 {{z2uzpl_smSg@1320}} opinion Because fatigue never dips massively, the 85% rule makes deloads unnecessary
+2022-12-15 {{z2uzpl_smSg@2337}} prescription Avoid rep ranges that redline the body and require long breaks, and avoid adding sets with irrelevant weights
+2022-12-15 {{z2uzpl_smSg@2400}} principle Sign of doing too much: performance drops, meaning you lose reps and sets; for a bodybuilder the bar weight should never go backward, only volume dips temporarily after a load increase
+2022-12-15 {{z2uzpl_smSg@2463}} principle Missing a rep target at the same weight (e.g. getting 7 instead of 8-9) is a milder warning that the muscle is under-recovered
+2022-12-15 {{z2uzpl_smSg@2525}} principle Under-training shows up as lost volume capacity rather than lost strength; strength may even rise after a break, which is why people like deloads
+2022-12-15 {{z2uzpl_smSg@2587}} opinion A week of no volume (a deload) cannot be justified in bodybuilding even if the weight goes up afterward
+2023-02-09 {{upmJaBt1WHk@569}} principle [quads] Machine squats (belt, hack, leg press) allow more sets than barbell squats because of less systemic and spinal fatigue  {"sets": "4 vs 3"}
+2023-03-06 {{HOgwZO70z_M@626}} prescription Maintaining otter mode takes only 1-2 sessions a week of 45-60 minutes and a normal diet  {"frequency": "1-2x/wk", "duration": "45-60 min"}
+2023-03-20 {{-izcpmcGs-c@382}} principle [abs] Relying on squats and deadlifts for abs has a terrible stimulus-to-fatigue ratio compared with direct isolation
+2023-03-24 {{1apseBbt0-o@2012}} principle Managing effective ROM also manages the stimulus-to-fatigue ratio; always chasing full ROM accumulates unnecessary fatigue
+2023-04-10 {{-sf34ScWLK8@1011}} principle [back] A 10x10 on chest-supported rows works because the lower back is not taxed; on barbell rows it would be idiotic
+2023-05-09 {{7KDB5wzgY4c@826}} prescription [abs] Weighted ab work can impair core rigidity; avoid it the day before heavy lower-body sessions, or do it at the end of leg days
+2023-05-21 {{mMA3KF3qmlQ@1008}} principle Heavy deadlift singles aren't optimal for hypertrophy; keep low-stimulus, high-fatigue work to a minimum, e.g. one rep at RPE 9  {"reps": 1, "rpe": 9}
+2023-05-21 {{mMA3KF3qmlQ@1072}} opinion [hamstrings] Two heavy hip hinges in one session (deadlift plus good morning) is counterproductive for most people
+2023-06-12 {{Z-hGdKz28RY@881}} principle An arm or isolation day mid-week replaces a rest day with low-fatigue volume without hurting recovery; true full rest days should become rare as you advance
+2023-07-02 {{_IBSNO56zuE@3205}} principle [quads] Lower-back fatigue is often the limiting factor in leg training; manage it so you can train legs hard and often
+2023-07-08 {{awwJ5sbyz6A@380}} principle Order exercises in a giant set by descending intensity so the most demanding lift gets peak energy
+2023-07-15 {{6KA80BQ9W3k@444}} opinion Lower days with only 3 exercises are more strenuous than his 7-exercise upper days
+2023-07-23 {{Mn34v5Y1d-0@1948}} opinion When you train twice a day it makes sense to have a day with no compounds, because you probably did upper-body compounds in the previous session
+2023-07-26 {{0X2PxuT3tuE@956}} anecdote [shoulders] His shoulders were already fried that day, so he skipped vertical presses and trained chest and forearms instead
+2023-11-05 {{SxqjF2oPasg@943}} opinion Stimulus-to-fatigue ratio is B tier: high-stimulus lifts bring fatigue, so people who only use machines and high reps to avoid fatigue also avoid stimulus
+2023-11-05 {{SxqjF2oPasg@2015}} opinion CNS fatigue is D tier: training hard and often, he has never experienced it as long as fatigue is managed
+2023-11-20 {{DA7QvIAyptw@254}} principle Training so much that you must hold back intensity to survive the next day is poor planning and frequency scheduling, not an inherent PPL flaw
+2023-11-20 {{DA7QvIAyptw@1514}} principle Leg days spare the lower back because on PPL low-back fatigue is split between pulling from the floor and training legs
+2023-12-25 {{hEuy__sCbZA@885}} principle Order qualities within a day: dynamic/explosive work before static heavy work, and heavy work before hypertrophy work, to perform when needed while managing fatigue
+2024-01-09 {{lGbT0aT2hOk@1476}} principle Fear of losing gains from one missed session is irrational; muscle doesn't vanish and you can take days off
+2024-02-02 {{GyK1Y6WTR-g@887}} principle Over-focusing on fatiguing compounds leaves no energy for isolation, so arms get no direct volume
+2024-02-28 {{ZRNSc-xBVnc@505}} opinion The classic mesocycle (train far from failure, ramp volume until you can't recover, then deload and wait for supercompensation) is a poor way to build muscle, because growth stops once the stimulus is gone
+2024-02-28 {{ZRNSc-xBVnc@567}} principle Pre-deload blocks pile up low-intensity volume far from failure, then overshoot into junk volume your muscles can't recover from
+2024-02-28 {{ZRNSc-xBVnc@567}} principle Deload fatigue clears in about the first three days; the rest of the week nothing grows, and repeating this through the year wastes a lot of time  {"days": 3}
+2024-02-28 {{ZRNSc-xBVnc@567}} opinion Saying you shrink during a deload is an exaggeration; muscle isn't lost that fast
+2024-02-28 {{ZRNSc-xBVnc@691}} opinion Deloads appear nowhere in bronze, silver or golden era bodybuilding; the term spread about 20 years ago with the internet and the powerlifting boom, and it makes sense for strength athletes who peak, not bodybuilders  {"years": 20}
+2024-02-28 {{ZRNSc-xBVnc@691}} opinion You can grow using deloads and some top naturals do, but they can't justify it; better fatigue and intensity management avoids needing them
+2024-02-28 {{ZRNSc-xBVnc@691}} opinion Even an active deload, training far from failure, is wasted time for hypertrophy
+2024-02-28 {{ZRNSc-xBVnc@754}} opinion People love deloads for the mental break and the PRs afterwards, but PRs after rest are expected; bodybuilding is about maintaining performance, not hitting PRs. If you like them, keep doing them
+2024-04-04 {{-OYtq2AHGX8@2146}} principle [hamstrings] Soreness from a new exercise shows lack of adaptation, not progress; long-term soreness from a lift like RDLs can be a sign it works
+2024-04-21 {{Ft039H8jzXU@2135}} principle Starting a session with a 1RM wrecks the rest of the day: fatigue lowers the intensity of later work and a failed max kills motivation
+2024-09-07 {{bRKQIOYo2u4@10631}} opinion Feeling drained after heavy deadlifts and squats is normal, he attributes it to blood sugar fluctuations (low-confidence)
+2024-09-14 {{okm6bZHKHI4@6063}} opinion Light submaximal calisthenics next to lifting is fine; training for skills like a muscle-up or planche costs real recovery
+2024-09-14 {{okm6bZHKHI4@6127}} prescription Manual laborers should train intensely but as rarely and with as little volume as possible, since work already gives them volume
+2024-09-14 {{okm6bZHKHI4@7155}} opinion Lifting three times a week on top of three martial arts sessions with long exercise lists means chasing two rabbits; cut sets and exercises
+2024-09-14 {{okm6bZHKHI4@7431}} opinion He can take his lats to failure one day and do RDLs the next without lower performance, so he doubts the idea that the previous day's training hurts the next (low-confidence)
+2024-09-14 {{okm6bZHKHI4@13610}} prescription To stop fatiguing before failure in supersets, build work capacity and eat before training
+2024-10-19 {{c7hl9u3h_s0@5927}} prescription Blue-collar workers can grow but should train less often, with more intensity and less volume
+2024-10-19 {{c7hl9u3h_s0@10491}} principle End each session with a little energy left; that shows good programming
+2024-10-26 {{wBct3Pl8OY4@10055}} opinion Deloads after periods of high volume and intensity are idiotic; do slightly less and never need a week off, getting about 25% more work across two weeks  {"extra_work": "25%"}
+2024-11-17 {{6yW3GSskl8g@1203}} opinion Stimulus-to-fatigue ranks only 5th for him: it is often used as an excuse to avoid heavy free-weight compounds, and fatigue is part of stimulus
+2024-11-17 {{6yW3GSskl8g@1266}} principle SFR matters most for small muscles: once you isolate forearms, biceps, triceps, calves, core, traps and more, fatigue piles up and drops frequency, set quality and effective volume
+2024-11-23 {{6p2x4kDDjzs@6800}} prescription A deload of two sets at 2 RIR is a reasonable deload  {"sets": 2, "rir": 2}
+2024-12-22 {{ZLheQPgEfoA@5952}} opinion A lower-body compound paired with anything in a superset wrecks the cardio system; doing the whole workout as one giant set sabotages performance
+2025-03-15 {{ACFKXT44BzM@627}} principle He proposes fatigue roughly equals reps times weight, modulated by the lift: 10-15 reps at 50 lb is a lot for laterals and nothing for good mornings  {"reps": "10-15", "load": "50 lb"}
+2025-03-15 {{ACFKXT44BzM@688}} anecdote The stronger you get, the less recovery keeps up with strength; he needs about 72 hours to recover from hard lower-body work  {"rest": "72 h"}
+2025-03-15 {{ACFKXT44BzM@751}} anecdote [quads] After two sets of 8-12 Bulgarian split squats on Monday he was still sore on Friday, so lower reps might fit very taxing lifts  {"sets": 2, "reps": "8-12"}
+2025-03-15 {{ACFKXT44BzM@876}} principle Fatigue management matters, but stimulus and fatigue cannot be separated: every set produces both
+2025-03-15 {{ACFKXT44BzM@939}} principle Recovery pot analogy: volume fills the pot, recovery evaporates fatigue and keeps stimulus; junk volume brings lots of fatigue for little stimulus

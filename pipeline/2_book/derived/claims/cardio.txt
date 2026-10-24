@@ -1,0 +1,198 @@
+2020-01-29 {{Z-D9kRwK90I@190}} principle Giant sets act as GPP: they tax the cardiovascular system and spare you separate cardio.
+2020-01-29 {{Z-D9kRwK90I@190}} opinion Cardio isn't just running outside; any time your heart is pumping hard and your breath is short, that is cardio.
+2020-03-05 {{b4rMVrWFVEg@1383}} prescription GPP is context based: swim, run or do sport; for lifting, do high-volume pull-ups, push-ups, ab work, plate carries, trap work and bodyweight hyperextensions that won't fry you for the next session.
+2020-04-27 {{87CMjYjX2jY@1504}} prescription If you don't train legs, use more supersets to compensate for the cardiovascular and caloric benefit you'd otherwise get from leg training.
+2020-04-30 {{PxMpAWWtcrg@444}} prescription He sees no benefit to warming up with cardio; ramping up the lift is enough. Start with layers like a hoodie so you're sweating by your working sets.
+2020-05-05 {{LCpa0h89TJM@0}} principle [quads] Without stamina you can't build high lower-body tonnage, because heavy squats and deadlifts for many reps make you gas out.
+2020-05-05 {{LCpa0h89TJM@65}} data [quads] On 20-rep squats ('widow makers') with a challenging weight, you're usually stopped by breathing, not your muscles.  {"reps": 20}
+2020-05-05 {{LCpa0h89TJM@128}} principle Consistently failing to finish sets or workouts from poor conditioning means lost tonnage and, ultimately, lost size.
+2020-05-05 {{LCpa0h89TJM@192}} principle Former athletes in highly conditioned sports (wrestling, football, basketball) build work capacity easily when they start lifting.
+2020-05-05 {{LCpa0h89TJM@255}} anecdote Before lifting he built work capacity with uphill sprints and morning runs, but sport-specific stamina isn't specific enough for lifting.
+2020-05-05 {{LCpa0h89TJM@255}} principle Lifters should build conditioning (GPP) within their program, using the movements of their own discipline.
+2020-05-05 {{LCpa0h89TJM@255}} prescription For bodybuilders, supersets and giant sets are the answer: pair isolation movements that don't interfere with each other and do them non-stop.
+2020-05-05 {{LCpa0h89TJM@318}} principle The heart and lungs serve the whole body, so giant sets of any muscle groups build cardiovascular endurance that carries over to strength work.
+2020-05-05 {{LCpa0h89TJM@380}} anecdote He deadlifts up to 5 reps and squats up to 8 reps at max weights without ever gassing out or needing 5 minutes between sets to recover his breath.  {"reps": "5 deadlift, 8 squat", "rest": "never needs 5 min"}
+2020-05-05 {{LCpa0h89TJM@380}} principle Because giant sets use working weights, conditioning rises alongside strength as the weights get heavier.
+2020-05-05 {{LCpa0h89TJM@380}} anecdote He hasn't done cardio in three years but has excellent stamina, which lets him train 2-3 hours a day, 6 days a week, and keep gaining.  {"weeks": 156, "frequency": "6 days/week, 2-3 h/day"}
+2020-05-05 {{LCpa0h89TJM@445}} principle Cardiovascular and muscular capacity should be balanced; being a cardio machine is pointless for muscle growth if you never push muscular endurance, and excess conditioning won't hinder growth the way unfinished sets do.
+2020-06-08 {{MCUpClPnPkQ@875}} opinion Diet is overhyped for people who already know how to control calories; he partly agrees that cardio is unnecessary
+2020-06-12 {{ZKgM-tX_ODU@62}} opinion [hamstrings] Uphill running is tough on hamstrings and glutes, decent even for size though below resistance training, and unmatched for cardio.  {"distance": "5 km"}
+2020-06-15 {{boPKiKE26Rw@381}} opinion Anyone in shape should be able to deadlift, even for high reps, without getting gassed; cardiovascular endurance should match muscular endurance
+2020-06-17 {{g4mX62QGzTo@1876}} opinion NH's definition of an athlete: someone who puts the body they built to use in a sport or competition, and has some cardiovascular endurance; you don't have to look lean (shot putters, sumo wrestlers count).
+2020-07-03 {{u10c43TRDb0@945}} prescription Getting winded from daily squats means you need more cardio; sprinters train by repeating sprints
+2020-07-03 {{u10c43TRDb0@1070}} principle Sprinting and cardio depend on posture; a tired lower body collapses posture and limits cardiovascular work
+2020-07-03 {{u10c43TRDb0@1381}} prescription For rugby, fartlek-style 'Indian runs' (jog a minute, sprint five seconds, repeat) match the sport's demands  {"rest": "60 s jog / 5 s sprint"}
+2020-07-03 {{u10c43TRDb0@1444}} prescription Place sprints and longer cardio on days off or after leg day before a push day, and use light days for cardio since they won't hurt performance  {"frequency": "2-3x/wk"}
+2020-07-15 {{YcHkXwsIOI8@689}} principle GPP builds work capacity and recovery; many people fail intermediate programs because their muscular or cardiovascular endurance cannot keep up
+2020-07-15 {{YcHkXwsIOI8@750}} opinion Placing GPP after the two squat days sends blood to the legs without being too intense before deadlift day
+2020-07-23 {{cRLiTTlzXxk@253}} principle Nose breathing lets you control oxygen intake precisely, so heart and lungs work more efficiently and stamina increases
+2020-07-23 {{cRLiTTlzXxk@253}} anecdote Coaches used to punish him for mouth breathing with 15 push-ups  {"reps": 15}
+2020-08-09 {{3dLu3VQinL8@695}} principle You can do as much health cardio as you like, but you cannot develop a competitive endurance athlete's traits while also being a high-level bodybuilder
+2020-08-09 {{3dLu3VQinL8@757}} principle A bodybuilder needs a decent cardiovascular system: if you gas out after four reps you will never accumulate enough tonnage to get big
+2020-08-09 {{3dLu3VQinL8@757}} principle How much cardio you can do depends on calorie intake, because cardio burns calories that would otherwise build muscle
+2020-08-09 {{3dLu3VQinL8@757}} principle Cardio also loads muscles and joints, so it has to be factored into frequency and recovery; swimming two hours a day tires the shoulders, upper back and legs  {"hours": 2}
+2020-08-25 {{pUpQypTV3Ck@249}} principle [quads] High reps for legs are a requirement; poor cardio is a weak point to address
+2020-08-26 {{mXLMkXmIeW8@631}} opinion Blue-collar workers don't need much cardio; white-collar desk workers need more
+2020-09-04 {{i4YmJhlw7cs@935}} opinion Intense supersets can replace cardio without hurting strength output
+2020-09-25 {{aaQr-Av0x9Y@62}} opinion [quads] Using only sprints or plyometrics for legs is fine if it works for you, though strength training is always an asset for athletes
+2020-10-21 {{ckDmNEFcwW8@0}} anecdote He does not do cardio in the conventional way
+2020-10-21 {{ckDmNEFcwW8@0}} principle Cardio means either straining the cardiovascular system or the activities people do for that; if you lift you already do some
+2020-10-21 {{ckDmNEFcwW8@64}} principle Cardio should be specific to your goal: athletes should mimic how their sport moves the body
+2020-10-21 {{ckDmNEFcwW8@127}} principle Cardio for health and cardio for performance are separate; cardiovascular stamina can be good while cardiovascular health is poor, which also depends on diet and lifestyle
+2020-10-21 {{ckDmNEFcwW8@189}} principle For a bodybuilder the point of cardio is endurance so high you are never limited by it; stopping a squat set out of breath means your heart and lungs limited the set
+2020-10-21 {{ckDmNEFcwW8@252}} principle Cardiovascular recovery between sessions is fast compared to muscle rebuilding; it matters mainly within the workout
+2020-10-21 {{ckDmNEFcwW8@378}} principle Calorie-burning cardio both uses energy and builds the cardiovascular system whether you want it or not
+2020-10-21 {{ckDmNEFcwW8@378}} anecdote With his low appetite, burning extra calories would be counterproductive, so he never does cardio to burn calories
+2020-10-21 {{ckDmNEFcwW8@441}} opinion The classic hour of lifting plus 30 minutes of treadmill is not bad but can waste time and lack specificity  {"duration": "30 min"}
+2020-10-21 {{ckDmNEFcwW8@441}} prescription [calves] If you do separate gym cardio, prefer the stepper (builds calves and posterior chain) or jump rope over the treadmill; incline treadmill if you must
+2020-10-21 {{ckDmNEFcwW8@441}} opinion Jogging is already not great for cardio and the treadmill is a weaker version of running
+2020-10-21 {{ckDmNEFcwW8@503}} prescription Best cardio is outdoors; never run on pavement or stone because it damages the knees; run on dirt, grass or sand
+2020-10-21 {{ckDmNEFcwW8@503}} prescription Fartlek (5-10 second sprints alternated with about a minute of jogging until exhausted) is top tier: time efficient and mimics how heavy lifting taxes the heart  {"sprint": "5-10 s", "jog": "~1 min"}
+2020-10-21 {{ckDmNEFcwW8@628}} anecdote He builds his cardiovascular system with giant sets of movements done with no breaks, moving cardio inside training and saving time
+2020-10-21 {{ckDmNEFcwW8@691}} opinion [back] Supersetting stiff-legged deadlifts with rows is too demanding on the lower back and cardio for 99% of people
+2020-10-21 {{ckDmNEFcwW8@691}} prescription He does not recommend that people do cardio only through weight training
+2020-10-21 {{ckDmNEFcwW8@691}} principle [quads] Heavy squats for high reps or heavy deadlifts for moderately high reps are compressed high-intensity cardio
+2020-10-21 {{ckDmNEFcwW8@755}} principle Specificity matters: training high-rep squats carries over to breathing during heavy squats better than sprints do, and vice versa for runners
+2020-10-21 {{ckDmNEFcwW8@755}} prescription Do a cardio activity you like on the side, such as swimming or hiking
+2020-10-21 {{ckDmNEFcwW8@818}} opinion Do not be the guy who lifts heavy but gets winded on stairs; that also correlates with body fat
+2020-11-09 {{6sFaB3rAY1A@1506}} prescription Program sprints like deadlifts: intense, well warmed up, once or twice a week, and as far from heavy squat/deadlift days as possible  {"frequency": "1-2x/wk"}
+2020-11-09 {{6sFaB3rAY1A@2008}} principle Cardio doesn't cannibalize muscle; it uses calories that should fuel recovery, so it kills gains indirectly
+2020-11-29 {{ZDKdqqbQ5Gk@317}} prescription Lifting alone isn't enough activity; walk 40-50 minutes a day and choose to carry groceries rather than drive  {"duration": "40-50 min/day"}
+2020-11-29 {{ZDKdqqbQ5Gk@317}} principle Being stationary encourages muscle and tendon pain and a degenerative lifestyle
+2020-12-02 {{sDSQpzFJ3iE@378}} prescription Walk instead of taking the bus, subway or car; take every chance to be active
+2020-12-09 {{0AaQZ0A3CUA@1915}} opinion Doing three hours of slow stationary biking while gaming and still staying obese shows a minimal-effort approach that ignores what actually works
+2020-12-09 {{0AaQZ0A3CUA@2734}} opinion A strength athlete should be able to talk for 40 minutes without getting out of breath; constant breathlessness signals poor cardiovascular health
+2020-12-14 {{DQo0DGn_wI4@754}} principle Your cardiovascular system and muscular endurance should be very strong
+2020-12-14 {{WyxeMHovPJ8@125}} prescription Skinny men prioritizing muscle should avoid cardio-focused activity, which burns calories needed to repair muscle and takes time from lifting
+2020-12-16 {{so6MbvvtM1w@1013}} principle Fat adds weight without vascularity, hurting cardiovascular endurance; muscle brings veins and oxygen delivery
+2021-01-03 {{CTMwuqNsY9Q@123}} opinion Being out of breath after a single deadlift or squat rep means garbage cardio  {"reps": 1}
+2021-01-03 {{CTMwuqNsY9Q@123}} principle People who call anything over five reps 'cardio' often lack work capacity, and avoiding reps reinforces that weakness so volume never builds  {"reps": ">5"}
+2021-01-11 {{A55c7v1yMn4@875}} opinion High-rep lower-body work and giant sets already provide enough moderate cardiovascular conditioning
+2021-02-13 {{kCVudEfVU0c@189}} prescription [full_body] Sedentary workers should add walking, steps, a stepper or laps, and calisthenics like pull-ups and push-ups to keep the ability to move the body through space
+2021-02-24 {{EP1Qw9aEKOU@1490}} opinion NH does not do cardio; it is not necessary to be lean
+2021-02-26 {{BBqiphYfqMA@62}} principle [quads] You should never have to end a set of squats or deadlifts because you are out of breath while the muscles still have reps left; fix it by slowing tempo or improving cardiovascular fitness
+2021-02-26 {{BBqiphYfqMA@441}} opinion [full_body] Lower-body lifts are best for building work capacity because they tax the whole body; overhead pressing rarely overtaxes you
+2021-02-26 {{BBqiphYfqMA@504}} anecdote NH does all his cardio with weights: giant sets and high reps, never ellipticals or stair-steppers
+2021-02-26 {{BBqiphYfqMA@566}} opinion Treadmills, jump rope and stair-steppers are orthodox bodybuilding cardio but neither specific nor necessary
+2021-02-26 {{BBqiphYfqMA@600}} prescription Make cardio specific by identifying what in your program is most taxing on the cardiovascular system and making it easier over time, e.g. via variation, shorter rests or giant sets
+2021-02-26 {{BBqiphYfqMA@629}} principle Weight training is not very metabolically demanding because you can rest as long as you want, so you must actively seek out breathlessness
+2021-02-26 {{BBqiphYfqMA@660}} prescription [full_body] Example giant set: 10 reps of a lower-body movement, then a weighted carry, then an ab movement; you will be panting  {"reps": 10}
+2021-02-26 {{BBqiphYfqMA@690}} opinion [quads] Three sets of paused squats carry over far more to leg size and squat strength than 30 minutes on a treadmill  {"minutes": 30, "sets": 3}
+2021-02-26 {{BBqiphYfqMA@710}} principle Weighted cardio has a recovery cost but saves time and works synergistically with the rest of training
+2021-02-26 {{BBqiphYfqMA@740}} prescription [shoulders] End upper-body days with an endless giant set, e.g. push-ups, lateral raises and face pulls repeated until reps stop being quality
+2021-02-26 {{BBqiphYfqMA@819}} prescription Strongmen can do specific cardio with farmer's walks for distance or hiking; powerlifters with squats or rack pulls/isometric pulls, since bench rarely leaves you breathless
+2021-02-26 {{BBqiphYfqMA@890}} opinion Cardio is boring but necessary for health and performance, so make it tolerable by doing something linked to your practice
+2021-03-29 {{BvF2Tc-krG4@253}} principle Rolling demands immense flexibility, strength and stamina
+2021-04-05 {{XASWAdsSu0M@260}} principle Lifting is great for health but burns few calories; moving the body through space is what burns calories
+2021-04-05 {{XASWAdsSu0M@1144}} opinion Cardio isn't needed for a recomp; it burns calories but can increase appetite, so weigh whether it's worth it
+2021-06-26 {{ZkQZPnTVKpg@315}} prescription Superset pull-ups and dips; most novices have poor cardiovascular fitness and it will challenge them
+2021-06-30 {{ANvvVrMqF7Y@1566}} prescription To maintain leg size: train legs once a week with a little strength work, or squat and deadlift every 15 days and do cardio the rest of the time  {"frequency": "1x/wk or every 15 days"}
+2021-06-30 {{ANvvVrMqF7Y@1691}} anecdote Cardio does not kill leg gains: biking 30 minutes to and from the gym did not reduce his squat or deadlift or slow his recovery  {"rest": "30 min bike each way"}
+2021-06-30 {{ANvvVrMqF7Y@1818}} principle Low intensity cardio barely touches heavy lifters' recovery, but heavy leg training can hurt endurance performance, so fighters and athletes must program legs carefully
+2021-06-30 {{ANvvVrMqF7Y@1880}} principle Getting winded on squats and deadlifts means a weak cardiovascular system; he can squat 8 reps to failure without breathing hard  {"reps": 8}
+2021-06-30 {{ANvvVrMqF7Y@1880}} prescription Build lifting endurance with higher-rep squats and deadlifts or high-intensity cardio; once built, cardio endurance is easy to maintain
+2021-07-14 {{8ELQ2XZgpls@1394}} opinion Cardio is not necessary and does not kill gains, but 30 minutes of lifting beats 30 minutes of cardio  {"time": "30 min"}
+2021-07-14 {{8ELQ2XZgpls@2049}} principle Weak cardiovascular endurance can limit work capacity when lungs and heart give out before muscle
+2021-09-12 {{cNGPCn9Uupc@1193}} principle Athletes don't need extra cardio-heavy lifting; their sport already covers conditioning, so lifting should target muscle fibre damage the sport leaves untouched
+2021-09-12 {{cNGPCn9Uupc@0}} prescription Cycling Day C conditioning: 3x500 m dashes plus single-leg calf raises AMRAP, shiko 5x10-25 plus bicycle crunches AMRAP  {"sets": "3-5"}
+2021-09-17 {{XncJr9uMpWo@1106}} prescription Starting a giant set with a squat and moving straight to easy exercises builds work capacity and works as high-intensity cardio
+2021-09-17 {{XncJr9uMpWo@1169}} opinion [quads] If a set of squats leaves you winded, your cardiovascular endurance is low
+2021-09-29 {{eaypnfdz3J0@821}} principle GPP like sled drags is very demanding on the heart and lungs
+2021-09-29 {{eaypnfdz3J0@1383}} opinion Slow pedalling while playing video games or walking a treadmill at 1 mph for 30 minutes does essentially nothing as cardio  {"speed": "1 mph", "duration": "30 min"}
+2021-10-17 {{THV7B11oalk@761}} principle Cardio before weights is a bad idea because it reduces your intensity on the lifts; the best warm-up for lifting is lifting lighter weights
+2021-10-17 {{THV7B11oalk@1138}} principle [full_body] Losing the ability to walk is a sign health markers are declining and you're packing on too much mass; keep calisthenics in your training
+2021-10-17 {{THV7B11oalk@1266}} principle Cardio just means getting your heart rate up; any method works, even jumping jacks, treadmills and steppers are not mandatory
+2021-10-17 {{THV7B11oalk@1266}} opinion The claim that long slow distance work inhibits muscle growth and fat loss is nonsense; it could only limit growth through calorie shortfall
+2021-10-17 {{THV7B11oalk@1328}} opinion He prefers HIIT because it saves time and is more fun; sprints, beep tests or giant sets work well
+2021-12-10 {{qcRCMVABEQM@925}} prescription Reeves power-walked briskly over long distances about four times a week; NH sees it as a good way to stay healthy  {"frequency": "4x/wk"}
+2022-01-05 {{O5xVdqgt8Uo@2290}} principle Machines barely tax the cardiovascular system, especially since most target the upper body; older machine-only lifters should do lower body work for heart health
+2022-01-17 {{9y2s6kyFkPc@126}} prescription [quads] During the no-gym stretch keep conditioning and work capacity with very high-rep, high-frequency, short-rest lower body work like band good mornings and band squats
+2022-01-17 {{9y2s6kyFkPc@2128}} prescription Cardio and lifting on the same day doesn't kill gains; just avoid intense leg cardio on leg days
+2022-01-20 {{v-F3QHSM2hg@1314}} prescription He uses supersets both to save time and to tax the cardiovascular system, since a fighter without cardio is a sitting duck
+2022-01-20 {{v-F3QHSM2hg@1376}} prescription Conditioning days are deliberately short, brutal and stressful, to replicate the short intense bursts of a fight
+2022-01-20 {{v-F3QHSM2hg@1939}} prescription The conditioning day is optional, takes 35-40 minutes and creates mostly cardiovascular rather than muscular fatigue, a safer option than a third lifting session  {"duration": "35-40 min"}
+2022-01-27 {{3JNwlqx3Z6w@842}} prescription Boxing conditioning: 3-5 dashes of 3 minutes, matching round length, at the fastest pace you can hold, progressing by covering more distance  {"sets": "3-5", "duration": "3 min"}
+2022-01-27 {{3JNwlqx3Z6w@1498}} prescription [lats] Rope climbing is the supreme conditioning exercise for grapplers; substitutes are sled pulls, pull-ups, lat pulldowns or dead hangs  {"sets": 3, "distance": "5 m rope / 15 m sled"}
+2022-01-27 {{3JNwlqx3Z6w@1560}} prescription Conditioning sessions should take 30-40 minutes, alternating intense pockets with plenty of rest, not long runs, because a BJJ match is intense  {"duration": "30-40 min"}
+2022-01-27 {{3JNwlqx3Z6w@2291}} prescription MMA conditioning uses 5-minute dashes at top pace matching round length, or sled drags if you prioritise hypertrophy  {"duration": "5 min"}
+2022-01-27 {{3JNwlqx3Z6w@2688}} prescription Sprints of 10x10 m develop short, explosive intensity for strikers  {"sets": 10, "distance": "10 m"}
+2022-01-27 {{3JNwlqx3Z6w@3451}} opinion Bear crawls are great but rarely programmed because he finds them too taxing and redundant
+2022-01-27 {{3JNwlqx3Z6w@3513}} principle Conditioning days always combine cardio, thoracic extension, abs, posterior chain and carries or bodyweight pulls, with a hypertrophy twist
+2022-03-06 {{PuIp9cGKMHo@1018}} opinion Running does nothing for his muscles, so cardio is not a substitute for bodybuilding-specific training during a break
+2022-04-06 {{3W-yE2pgTec@2328}} data [full_body] Knights built endurance by walking, jogging and marching in 50-70 lb of armor, which developed back, legs and cardio; most modern people could not wear a 20 lb vest for long  {"load": "50-70 lb"}
+2022-05-12 {{k9_dDbGLFZQ@871}} opinion If you are out of breath after a set of bench, lose weight and work on your heart and lungs
+2022-06-05 {{QfHfxLYRu88@128}} opinion Matt Wenning-style high-rep warm-ups aren't ideal for bodybuilding; GPP is sport-specific and a bodybuilder's GPP is cardiovascular, best done with giant sets
+2022-06-05 {{QfHfxLYRu88@472}} prescription [traps] Sandbag carries and tosses are good low-impact GPP, and carrying the bag high with shrugging trains the yoke
+2022-06-05 {{QfHfxLYRu88@472}} anecdote For cardio and GPP NH hikes in the mountains, swims and sprints in the pool
+2022-06-09 {{kAVZsNLPNQ4@1824}} opinion Sprints are functional only for getting faster at sprinting
+2022-09-07 {{XAcv427WvMw@1439}} prescription Walk and get steps daily; only squatting left him with sore feet and ankles and reduced walking ability
+2022-09-07 {{XAcv427WvMw@1501}} opinion Cardio does not kill gains; poor conditioning limits how hard you can recruit your legs on squats
+2022-10-06 {{bJ7gfILR6RA@1316}} principle Being out of breath during lifting means you prioritise cardiovascular over muscular endurance; fix your cardio or your methods
+2022-11-27 {{Cbq-vxVba4k@2448}} opinion [back] The rowing machine is Peewee tier for the back; it is a full-body cardio exercise driven by the legs
+2023-02-05 {{k3yRgcmiCls@2321}} opinion [shoulders] Swimming builds big shoulders but takes 5-10 times the time to match an overhead press stimulus and makes the physique disproportionate
+2023-05-03 {{d1eLAd5WvIA@1630}} principle Low-intensity running 2x a week for 20-30 min does not hurt gains; the idea that cardio kills gains or testosterone is a myth  {"frequency": "2x/wk", "duration": "20-30 min"}
+2023-07-02 {{_IBSNO56zuE@2829}} opinion [quads] Rowing machines and air bikes are chicken tier for legs; people who did rowing instead of leg day kept chicken legs
+2023-10-12 {{oytzIPcqih4@62}} data All four swimming strokes are upper-body driven because leg joints lack the range of motion for propulsion and big leg muscles consume up to 3x more oxygen, building more lactate  {"oxygen": "3x"}
+2023-10-12 {{oytzIPcqih4@379}} opinion Swimming beats running as a cardio option for slimming down while building muscle
+2023-10-12 {{oytzIPcqih4@826}} opinion Swimming is a noble pursuit and fine if it relaxes you, but it isn't a shortcut to a great physique
+2023-11-05 {{SxqjF2oPasg@1952}} prescription Cardio is S tier: replace pump finishers with 5-15 minutes of high-intensity cardio after every session, plus hill sprints, brisk walks or swimming  {"duration": "5-15 min"}
+2023-11-05 {{SxqjF2oPasg@2015}} principle Cardio also aids fat loss, circulation, pumps and mobility, and barely causes muscular fatigue
+2023-11-20 {{DA7QvIAyptw@1199}} opinion If a pull-up plus face-pull superset kills performance, your work capacity or cardiovascular fitness is poor
+2024-02-11 {{ryWJV6yN3ZE@63}} principle Cardio is ranked for bodybuilding conditioning (calories, fatigue, time, tendon impact), not sport performance
+2024-02-11 {{ryWJV6yN3ZE@126}} principle Being big, lean or vascular does not mean being fit; heart and lung fitness is separate from hypertrophy
+2024-02-11 {{ryWJV6yN3ZE@189}} principle [full_body] Good cardio does not kill gains; it boosts them through better work capacity (more volume), better pumps and faster recovery
+2024-02-11 {{ryWJV6yN3ZE@252}} opinion Walking is B tier: very low impact and low fatigue but time-consuming (10,000-20,000 steps)  {"steps": "10000-20000"}
+2024-02-11 {{ryWJV6yN3ZE@316}} opinion Running is C tier because it taxes lower back, shins and knees and can interfere with leg training
+2024-02-11 {{ryWJV6yN3ZE@379}} opinion Long-distance running is D tier: it requires losing muscle mass and is too demanding in time and energy
+2024-02-11 {{ryWJV6yN3ZE@442}} prescription [hamstrings] Sprinting is A tier: short and intense, 1-2 times a week is already a lot, but it carries hamstring strain risk so warm up and do weighted stretches  {"frequency": "1-2x/wk"}
+2024-02-11 {{ryWJV6yN3ZE@506}} data Joggers typically need to run 3-4 times a week to benefit  {"frequency": "3-4x/wk"}
+2024-02-11 {{ryWJV6yN3ZE@567}} prescription Fartlek (jog 1-2 min, sprint about 10 s, repeat) is S tier; NH has practised it for a long time  {"jog": "1-2 min", "sprint": "10 s"}
+2024-02-11 {{ryWJV6yN3ZE@631}} prescription Rebounding on a trampoline is S tier: about as intense as jogging with no tendon impact, good for the lymphatic system, 15-50 minutes a day at home  {"minutes": "15-50/day"}
+2024-02-11 {{ryWJV6yN3ZE@693}} opinion The treadmill is D tier: it does part of the work for you so 10,000 steps on it are far easier than outside
+2024-02-11 {{ryWJV6yN3ZE@757}} opinion Jump rope is a poor cardio choice for bodybuilders: high coordination cost and low taxation once learned
+2024-02-11 {{ryWJV6yN3ZE@757}} opinion Jumping jacks are B tier: no coordination or equipment needed
+2024-02-11 {{ryWJV6yN3ZE@820}} opinion Burpees are A tier: full-body, very breathless, build some muscle
+2024-02-11 {{ryWJV6yN3ZE@883}} opinion The rowing machine is S tier: big back and leg muscles, little knee and shoulder impact, very time-efficient if done properly
+2024-02-11 {{ryWJV6yN3ZE@883}} prescription [quads] AMRAP sets on compounds (e.g., 30-40 rep squats) are C tier: stopped by heart and lungs, taxing on joints, use sparingly  {"reps": "30-40"}
+2024-02-11 {{ryWJV6yN3ZE@1011}} prescription Giant sets are B tier: passive cardio with almost no cost if not turned into a circuit
+2024-02-11 {{ryWJV6yN3ZE@1074}} principle HIIT as a method is A tier: spiking heart rate then lower intensity is very beneficial for health and fat loss
+2024-02-11 {{ryWJV6yN3ZE@1137}} opinion Swimming is A tier: low impact, fun, builds shoulders and back; less than 15 minutes of sprint intervals will spend you; shoulder injuries possible  {"minutes": "<15-30"}
+2024-02-11 {{ryWJV6yN3ZE@1264}} opinion [shoulders] Battle ropes are C tier because shoulder endurance gives out before heart and lungs
+2024-02-11 {{ryWJV6yN3ZE@1327}} opinion Medicine ball slams are B tier: rotational training for athletes, not ideal for bodybuilders
+2024-02-11 {{ryWJV6yN3ZE@1327}} opinion Kettlebell training is A tier: versatile, easy on joints, high reps, builds muscle
+2024-02-11 {{ryWJV6yN3ZE@1390}} opinion [full_body] Sandbag training is S tier: cheap DIY implement, versatile and very hard
+2024-02-11 {{ryWJV6yN3ZE@1454}} opinion [abs] Mountain climbers are C tier: decent ab and cardio work but chest and shoulders give out first
+2024-02-11 {{ryWJV6yN3ZE@1578}} opinion [back] Vertical climber machine is B tier; rope climbing is A tier and reveals strength-to-weight weaknesses like grip and back
+2024-02-11 {{ryWJV6yN3ZE@1705}} opinion Jacob's ladder is A tier but the machine costs about $6,000  {"cost": "$6000"}
+2024-02-11 {{ryWJV6yN3ZE@1769}} prescription StairMaster is S tier, the best cardio machine; used at high pace you won't last over 20 minutes; half bodyweight in a backpack for 10 minutes makes you a cardio monster  {"minutes": "<=20", "load": "50% bodyweight", "time": "10 min"}
+2024-02-11 {{ryWJV6yN3ZE@1831}} opinion Climbing real stairs is B tier: falls, the descent, slippery steps
+2024-02-11 {{ryWJV6yN3ZE@1957}} opinion [full_body] Crawling is S tier: challenges the whole body and lungs, no equipment
+2024-02-11 {{ryWJV6yN3ZE@1957}} opinion Under-desk steppers are D tier and do nothing
+2024-02-11 {{ryWJV6yN3ZE@2023}} opinion Stationary exercise bikes are C tier, elliptical B tier, air (assault) bike A tier
+2024-02-11 {{ryWJV6yN3ZE@2151}} opinion Outdoor biking is S tier: 10 minutes up a hill is a great workout and also works calves  {"minutes": 10}
+2024-02-11 {{ryWJV6yN3ZE@2216}} opinion Alpine skiing is D tier: high rate of knee ligament injuries and expensive; cross-country skiing is B tier
+2024-02-11 {{ryWJV6yN3ZE@2279}} opinion [quads] Snowshoeing is A tier: builds stamina and big legs but is hard on knee ligaments
+2024-02-11 {{ryWJV6yN3ZE@2341}} opinion Hiking is A tier: uneven terrain conditions ankles, knees and lower back
+2024-02-11 {{ryWJV6yN3ZE@2404}} prescription Rucking (weighted backpack walk) is S tier; 15-30 minutes under heavy load builds posture and comfort under heavy weights  {"minutes": "15-30"}
+2024-02-11 {{ryWJV6yN3ZE@2466}} opinion [back] Wood chopping is A tier: back, shoulders, mobility and explosiveness
+2024-04-25 {{APmM-moU9z8@63}} principle Manual treadmills are significantly harder than electric ones because you create and maintain your own momentum
+2024-04-25 {{APmM-moU9z8@126}} data The top cardio performers were all lightweights from CrossFit, rugby, soccer and MMA; no strongmen or bodybuilders
+2024-05-24 {{Eta-sxecx9E@505}} principle [quads] Puking during training means low work capacity, not a good session; if a set of 10 squats makes you vomit, improve your conditioning  {"reps": 10}
+2024-09-07 {{bRKQIOYo2u4@3754}} opinion 10k steps a day gets people walking, but its promoters work in fitness and forget desk-bound workers cannot find the time  {"frequency": "10,000 steps/day"}
+2024-09-07 {{bRKQIOYo2u4@5037}} anecdote His cardio is the stepper
+2024-10-26 {{wBct3Pl8OY4@9732}} prescription On a cut do cardio separately, e.g. in the morning, because energy is too low to do it right before or after lifting; on a bulk before or after lifting is fine
+2024-11-09 {{yZC3Nsmmzb8@575}} anecdote [forearms] On rest days he lifts the strongman implements outdoors as light conditioning, and uses the 25 lb plates for finger curls  {"load": "25 lb plates"}
+2024-11-17 {{6yW3GSskl8g@887}} principle Getting winded by curls or squats means poor conditioning, not a bad lift; cardio makes you a better bodybuilder
+2024-11-17 {{6yW3GSskl8g@887}} prescription Bodybuilders should do 10-15 minutes of high-intensity cardio plus low-intensity work like hikes and swimming, and supersets add conditioning without hurting performance  {"hiit": "10-15 min"}
+2024-11-23 {{6p2x4kDDjzs@3344}} prescription Do cardio after lifting, on another day, or at another time of day, never before training, because it should be intense and would hurt performance
+2024-11-23 {{6p2x4kDDjzs@3467}} anecdote His cardio is 10 hard minutes after the gym: a run at 7-8 min/mile or the stairmaster with an 80 lb backpack, plus daily walks, swimming or hikes  {"rest": "10 min", "load": "80 lb backpack"}
+2024-12-01 {{TvKzeUKgZcY@6052}} anecdote As a teen he ran uphill with a stray dog, which was humbling but good motivation
+2024-12-07 {{pt4mbNb7NJ0@569}} anecdote He runs on a self-powered (non-motorized) treadmill where your stride sets the pace; he holds a 10-minute mile for one mile and aims for a 7-minute mile  {"distance": "1 mile", "pace": "10 min/mile"}
+2024-12-07 {{pt4mbNb7NJ0@569}} anecdote [calves] His hardest cardio is the stair machine on tiptoes, stepping only on the edge of the step, with an 80 lb backpack for 10 minutes at moderate pace; it works as high-intensity cardio and also hammers the calves  {"load": "80 lb", "duration": "10 min"}
+2024-12-07 {{pt4mbNb7NJ0@633}} anecdote His moderate-intensity cardio is weighted carries for distance in his backyard
+2024-12-11 {{-OjJEzZTXtQ@1134}} principle Cardio doesn't kill gains; hard cardio on top of leg training boosts recovery and conditioning
+2024-12-11 {{-OjJEzZTXtQ@1197}} prescription [calves] He does cardio twice a week: a hard threshold mile on a non-motorized treadmill pushing off the calves  {"frequency": "2x/wk"}
+2024-12-11 {{-OjJEzZTXtQ@1197}} anecdote [calves] Stair stepper on tiptoes for 10 minutes with a weighted backpack, now 80 lb, about 300 lb total  {"time": "10 min", "load": "80 lb"}
+2024-12-11 {{-OjJEzZTXtQ@1261}} prescription [full_body] On his two days off from the gym he does 30 minutes of weighted carries outdoors  {"time": "30 min"}
+2024-12-16 {{qvWxIzhT1QU@948}} anecdote [full_body] On non-lifting days he does 20-30 min of outdoor weighted carries instead of resting; it gets him active and connected to nature  {"duration": "20-30 min"}
+2025-01-04 {{0O0nG2jLadU@2893}} anecdote At the Newark airport he sprinted all-out for the first time in five years at about 220 lb (last time he was around 170 lb) and his joints creaked  {"load": "220 lb bodyweight"}

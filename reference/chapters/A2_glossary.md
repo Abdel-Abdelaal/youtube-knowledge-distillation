@@ -1,0 +1,122 @@
+# Appendix B. Glossary
+
+NH's own vocabulary and the training jargon used in this book, defined as he uses it, with pointers to the principles where each term does its work.
+
+- **1/2/3/4-plate standard** — The idea that a trained man should bench 1 plate, squat 2 and so on; NH says it roughly fits novices because the loads are low, but leverages make fixed numbers meaningless after that. See STR-59, STR-57.
+- **85% rule** — His step-loading rule: build reps and sets at a weight until it feels like about 70% effort, then add weight to get back to about 85%, trim sets or reps, and rebuild. It deliberately does not maximise strength, so volume can accumulate. See PRG-48, STR-29.
+- **543 (elevator) scheme** — A ladder for heavy deadlifts and overhead press: keep the weight, climb sets and reps up the ladder, then add weight and restart at the bottom. See PRG-43.
+- **Ab anxiety** — Clinging to a skinny six-pack and refusing to gain weight; a form of "small guy syndrome" that keeps lifters small. See BLK-87.
+- **Absolute intensity** — What you can move fresh and warmed up. Contrast relative intensity, which climbs through each set and session as fatigue builds. See INT-09, INT-10, VOL-04.
+- **Accidental physique** — The look you get from strength-only or compound-only training without aesthetic intent: big trunk and quads, small arms. See AES-02, AES-30.
+- **Adherence** — Sticking with a program. He puts it at the top of the muscle-building pyramid: a lift or program you enjoy beats a "better" one you skip. See MND-14, BEG-73, PRG-117.
+- **AMRAP** — "As many reps as possible." He keeps it for finishers and unweighted calisthenics, never for loaded top sets or deadlifts. See INT-59, INJ-76.
+- **Anabolic bank** — His image for how naturals grow: long, stable exposure to their own hormones over years, as opposed to the flat, permanently high levels of an injector. See NAT-17, GEN-57.
+- **Anabolic window** — The supposed post-workout deadline for protein; he calls it a protein-powder marketing tactic. See NUT-36, IND-11.
+- **Apollonian vs Herculean** — Two branches of the Greek ideal: Apollonian is wide shoulders and lats, small waist, smaller legs, low fat; Herculean (Farnese) is thicker waist, big limbs, legs and core. He prefers the Herculean. See AES-20.
+- **Arm day** — A low-CNS day of a few upper compounds then arm isolation; earned once legs are trained twice a week, optional, and able to double as active recovery. See FRQ-66, FRQ-67, ARM-37.
+- **Artificial failure** — A set ended by cardio, burn, pump, occlusion or a structural breakdown rather than by the target muscle; it feels hard but builds little. See INT-25, TEC-16.
+- **Autoregulation** — Adjusting the day's work to how you are recovering. It needs rotation options built into the program and regulation skill first, so it suits advanced lifters. See FAT-16, PRG-116.
+- **Back-off sets** — Sets after the opening strength work, tied to its weight and still pushed near failure; usually 2-3 of the same pattern with a modest drop. See INT-50, VOL-51, PRG-84.
+- **Bear mode** — His term for the thick, Herculean look: big limbs, waist, legs, upper back and traps. See AES-20, AES-39.
+- **Berserker physique** — His personal ideal: massive arms, forearms and legs slightly out of proportion with the trunk, a strong core, developed upper back and smaller shoulders. See AES-21.
+- **Big ten** — The bare-minimum list of lifts that together cover every body part and the six size patterns. See EXS-09.
+- **Bigorexia** — Muscle dysmorphia, the "I am too small" feeling; he says every lifter meets it, himself included. See MND-87, MND-88, JRN-72.
+- **Blackpill** — Demoralised fatalism about genetics or natural potential; he calls it an excuse for passivity and a self-fulfilling prophecy. See MND-76, NAT-73, PHI-113.
+- **Body English** — Using torso movement to finish a rep. Acceptable in small doses on heavy back rows, not on isolation work. See TEC-67, TEC-64.
+- **Bracing** — A normal nose breath and tightening the abs as if about to be punched, holding the spine position through the rep; it matters mainly on heavy squats and deadlifts. See TEC-30.
+- **Bridge program** — A transition program between low-volume novice training and high-volume intermediate training, because "an advanced program must be earned". See VOL-39, BEG-64.
+- **Bro split** — One muscle per day, once a week. He calls it the worst template for naturals: too little frequency, too much per-session volume. See FRQ-37, NAT-28.
+- **Bulk-cut purgatory** — Yo-yoing the same 10-20 lb up and down forever with no real progress. See BLK-78, BLK-79.
+- **Bulking hypnosis** — "Size goggles" that hide fat gain on a bulk; the cut-side version is "lean goggles". Checking the mirror as often as the scale counters it. See BLK-35.
+- **Cheerleader effect** — One outstanding muscle makes the weaker ones around it look better. See AES-27.
+- **CNS fatigue** — Nervous-system fatigue; he says most people can't reach real CNS burnout, and strength loss blamed on it is usually diet, sleep or stress. See FAT-27, FAT-28, FAT-29.
+- **Compounds and isolation ("shotgun and sniper")** — Compounds supply most of the tonnage, isolation covers what they miss; neither works alone. See EXS-01, EXS-02, EXS-08.
+- **Crabs in the bucket** — People who ridicule and pull you down because your progress removes their excuses. See MND-77, PHI-50.
+- **Danger rep** — The last grinding rep on a heavy squat, deadlift or variation, which he leaves in the tank. See INT-33, INT-28.
+- **Deload** — A planned week of reduced training. For bodybuilders he calls scheduled deloads unnecessary, an emergency response to a programming mistake. See FAT-01, FAT-03, FAT-04.
+- **Dirty bulk** — Gaining with junk food and a big surplus; he says it adds mostly fat and leverage, and his own was "wasted years". See BLK-41, JRN-14.
+- **Educated barbarian** — His ideal of the lifter who develops body and mind together and arrives at the gym knowing exactly what to do. See MND-18, PHI-01.
+- **Ego lifting** — Using more weight than the exercise can turn into a justified stimulus, including cutting range to lift more; he notes the label is often thrown as an insult. See TEC-19, MND-68.
+- **Evolving rep ranges** — His core progression method: a fixed rep range per lift, start near the bottom, add reps, add weight when the first set hits the ceiling, stay in the range. See PRG-20, PRG-21, INT-46.
+- **Evolving sets** — Progressing the number of sets inside a narrow span (usually 2-4): add a set when the top set tops the range, then add weight and drop a set. See PRG-26, VOL-52.
+- **Fake natty** — Someone who uses PEDs while claiming to be natural; he says their real crime is killing trust that naturals can grow. See NAT-74, IND-38.
+- **Failure** — The point where no further clean rep is possible; the set ends as soon as body English is needed. Only failure where the target muscle is the limit counts. See INT-26, INT-25, INT-27.
+- **FFMI** — Fat-free mass index; he calls it worthless for judging natural status. See NAT-58.
+- **Fishing-rod deadlift** — Knees locking early with a rounded back, so the back finishes the lift and the lifter struggles past the knees. See TEC-99, JRN-60.
+- **Frame** — Clavicle width, waist, hips and joint size; it sets potential width and how muscle looks, and can't be trained. See AES-62, GEN-36, GEN-37.
+- **Frequency** — How often a muscle or pattern is trained; the pillar of the trinity he says naturals ignore most. See FRQ-01, FRQ-04, NAT-29.
+- **Fridge physique** — A thick trunk and back with no width or V-taper, typically from deadlift-only back training. See BAK-04, AES-02.
+- **Frog physique** — Big legs on a small upper body, from PR-driven, squat-heavy or powerlifting training. See AES-55, STR-64.
+- **Gentleman split** — His favourite template: an upper/lower skeleton whose days are built around synergistic muscle groups and a main compound, with flexible boundaries. See FRQ-38, FRQ-43.
+- **Giant set** — Four or more exercises back to back; 4-5 is the sweet spot, ordered from most to least intense, and they double as a bodybuilder's conditioning. See RST-14, RST-15, CAR-21.
+- **GOMAD** — "A gallon of milk a day"; he calls it idiotic, an uncontrolled surplus of milk fat and protein. See NUT-87, BLK-43.
+- **Good-morning squat** — The cardinal squat fault: hips rise first, the squat turns into a good morning and the lower back takes the load instead of the quads. See TEC-109, TEC-33.
+- **GPP** — General physical preparedness. For a bodybuilder, mostly supersets and giant sets of non-interfering moves plus carries and similar low-cost work. See CAR-21, CAR-27.
+- **Grease the groove** — Very frequent submaximal practice of one movement; he allows it for pull-ups as an exception but blames highly repetitive Big-3 versions for novice injuries. See FRQ-26, INJ-53.
+- **Gym look** — Looking like you lift in everyday clothes, relaxed. He says a relatively lean 200 lb already reads as trained, and it takes years before people notice. See AES-60, AES-66, AES-79.
+- **Gymcel** — Someone who isolates in the gym believing a better body fixes everything; NH describes a "gymcel phase" of his own. See MND-96, JRN-70.
+- **Hard set** — A set with a challenging load that ends at muscular failure and is repeatable within 2-3 days; he wants as much tonnage as possible to come from hard sets. See INT-40, INT-41, INT-32.
+- **Hard vs soft variation** — A soft variation keeps the pattern and changes implement, grip, pause or range (near-full carryover); a hard variation is a different pattern and a new skill, so cap it. See EXS-15, EXS-17.
+- **Hardgainer** — The supposed person who can't gain; he says there are no true hardgainers, only people who don't eat or train enough. See GEN-03, NUT-85, BLK-52.
+- **HIT** — High-intensity training, one set to failure with long gaps (Mentzer); he says it is right about intensity but far too little volume for naturals. See INT-62, VOL-12.
+- **Holy trinity of fake-natty nonsense** — His name for three ideas he says come from enhanced lifters: volume without an intensity window, avoiding compounds, and not understanding frequency. See NAT-25.
+- **Intermediate hell** — The stage after novice gains where precise programming is needed and many lifters stall for years; "intermediate syndrome" is crashing by jumping straight to high volume. See JRN-26, VOL-39, MND-73.
+- **Junk volume** — Work outside a relevant intensity window: unchallenging loads, pump chasing and sets ended by cardio rather than the muscle. It hurts most when it replaces hard sets. See VOL-07, VOL-08, VOL-09.
+- **Lengthened partials** — Partial reps in the stretched part of the range. He says they may work and in 2024 likely beat full range, but finds them hard to standardise and prefers rest-pause. See INT-58, TEC-52.
+- **Liquid tonnage** — His term for PEDs: each injection works like weeks of training. See NAT-16.
+- **Maingaining** — He calls it a rebranded lean bulk and prefers "lean bulk" or "recomp". See BLK-88.
+- **Mechanical failure** — The set ends because your structure (thoracic extension, setup, technique) gives out before the muscle, so tonnage stops reaching the target. See TEC-15, TEC-16, INJ-07.
+- **Microloading** — Adding very small increments (microplates) to extend linear progression, especially on small muscles and presses; it also stalls eventually. See PRG-58, PRG-59.
+- **Milo paradox** — Load-only progression is "designed to fail" because the ability to add weight outpaces recovery. See PRG-12.
+- **Mind-muscle connection** — Prioritising the target muscle within a lift so stronger muscles don't take the work; useful for muscles that won't grow, no excuse for baby weights. See TEC-68, TEC-69, TEC-70.
+- **Mirror days** — A/B days with the same emphasis but different lifts, rep ranges or order, to reduce boredom and overuse. See FRQ-75, FRQ-56.
+- **MRV (maximum recoverable volume)** — The most work you can recover and grow from; individual, found by experiment and rising with training age. He aims between medium volume and MRV. See VOL-16, SLP-30.
+- **Muscle memory** — Lost muscle comes back faster than it was first built; real, but not magic. See SCI-48, NAT-02.
+- **Natty-or-not** — Content judging whether people are natural; he says it mostly hurts viewers by lowering standards and pushing beginners toward PEDs. See NAT-60, IND-48.
+- **Natural ("natty")** — Never having taken PEDs, including TRT; take them once and you can never be natural again. See NAT-51, NAT-46.
+- **Natural limit** — The claimed point where a natural stops growing. He calls it "a cultural limit, not a biological one": progress slows but continues if weight, volume and intensity keep rising. See GEN-11, GEN-12, GEN-13.
+- **Noble natty** — A natural who takes pride in building a big, strong body naturally, not merely in being natural. See NAT-71.
+- **Noob gains** — Fast early gains; he treats them as a quantity of development (about half your potential), not a time window that closes. See BEG-04, GEN-17, GEN-60.
+- **Novice** — A lifter still on session-to-session linear progression; the stage ends when that stops, or when you want to and can write your own program, not at a strength standard. See PRG-93, BEG-06, BEG-07.
+- **Novice syndrome** — Overdoing it as a beginner, the main reason novices crash; burnout is over-stimulation, not lack of potential. See BEG-71, BEG-16.
+- **Nucleus overload (NO)** — Frequent, high-volume, very light work kept easy enough to repeat, complementing strength work for a muscle; the one exception to intensity windows. Later rated minor. See VOL-55, FAT-52, SCI-35.
+- **Otter mode** — The lean, athletic, not-too-big look (Fight Club Brad Pitt) most women pick; staying there means never getting really strong or fully big. See AES-73, STR-17, GEN-37.
+- **Overtraining** — Real but relative to the program; he says it is mostly coming back under-rested, and most "overtrained" lifters answered regression with more volume. See FAT-58, FAT-59, FAT-60.
+- **Pain valley** — The window between inactive moderate pain and acute pain where he trains an irritated area to widen the pain-free range. See INJ-35.
+- **Power coper / strength coper** — A lifter who hides poor muscle gains behind strength numbers or claims "the best way to get big is to get strong". See MND-64, STR-66.
+- **Powerbuilding** — Heavy big-three work plus lazy isolation; he calls it a marketing term that delivers neither size nor strength. See STR-63, IND-58.
+- **Progressive overload** — Something must go up for the muscles to go up: load, reps, sets, frequency, rest, variation or range. Non-negotiable. See PRG-01, PRG-11.
+- **Pull-push-legs** — His order for a PPL split, so pull day's hinges and rows don't fatigue the legs right before squats. See FRQ-40, FRQ-41.
+- **Pump** — The swollen feeling from fast, light reps; a by-product, not a growth signal. See INT-54, SCI-28.
+- **Recomp** — Training hard at roughly maintenance so the body trades fat for muscle; slow but real, needs fat to trade, and needs at least a year. See BLK-54, BLK-55, BLK-57.
+- **Recovery pot** — His model of recovery as a tub whose size is your MRV: take only part of it each session, keep it relatively full, never empty. See SLP-30, FRQ-07, SLP-31.
+- **Red zone** — The disadvantaged part of a rep, usually where the negative turns into the positive; it stimulates most and is where injuries happen. Enter it with care, don't avoid it. See TEC-22, INJ-04.
+- **Relevant intensity window** — The load range where volume actually counts (roughly 60-95% of 1RM); tonnage outside it is junk. See VOL-02, INT-15.
+- **Rest-pause** — His preferred intensity technique: at failure, rest briefly, then add reps that must be the hardest of the set. See INT-56, INT-55.
+- **RIR (reps in reserve)** — Reps left in the tank at the end of a set. He uses it on heavy, risky, low-rep work and says you must learn real failure first. See INT-34, INT-35, INT-36.
+- **Rotation** — Alternating close variations in one slot (week A / week B) to fight overuse and accommodation; never because a lift stalled. See EXS-17, EXS-21, FRQ-76.
+- **RPE** — Rating of perceived exertion; with percentages and RIR, an "A-tier" tool he doesn't use himself. See INT-37, INT-36.
+- **Sandbagging** — Giving less than full effort without a reason. Chosen sandbagging (warm-ups, planned RIR) is fine; sandbagging forced by a fixed scheme wastes quality tonnage. See INT-44, INT-45, INT-38.
+- **Schrödinger's genetics** — Before working you can't know your potential; those who stick with it get called gifted, those who quit get called low-T. See GEN-06, NAT-61.
+- **Selective failure** — Taking isolation, presses, rows and other low-risk lifts to failure, while keeping 1-2 reps in reserve on squats, deadlifts and good mornings. See INT-28, INT-39.
+- **SFR (stimulus-to-fatigue ratio)** — How much growth stimulus a lift gives for the fatigue it costs. He calls it overrated as an excuse to avoid compounds, but relevant where fatigue lands on tendons and stabilisers. See FAT-22, FAT-24.
+- **Shelf muscles** — Delts, traps and upper chest, the muscles that give the "bodybuilder look". See AES-37.
+- **Skinny-fat** — Low muscle with some fat; he calls it metabolic distress, not a body type, and says to recomp at maintenance rather than cut. See BLK-05.
+- **Skinny pack** — Abs that only show because the person is skinny, as opposed to trained abs that stay visible at higher body fat. See ABS-02.
+- **Specificity tree** — His early way of organising lifts: movement-pattern branches topped by a king lift fed by lower lifts. Later rated C tier for bodybuilding. See EXS-39.
+- **Spider physique** — A big torso on spaghetti arms, from programs that neglect arm isolation. See AES-30, ARM-39.
+- **Static (fixed) schemes** — Fixed sets and reps such as 5x5 or 4x10; they force sandbagging and can only progress by adding weight. Fine for novices and as deliberate tools. See PRG-51, PRG-52, PRG-53.
+- **Step loading** — Adding stimulus as reps first, then sets, then frequency, then weight, always in small steps. See PRG-14, PRG-48.
+- **Strength restoration** — Tiny band or light exercises for problem tendons, supersetted between sets of main lifts at almost no recovery cost. See INJ-63.
+- **Strength work** — The 1-3 heavy opening sets of a session: the "lighthouse" that drives progression while being a minority of the tonnage. Never supersetted. See PRG-83, STR-21, VOL-41.
+- **Superset** — Exercises back to back with no planned rest, then rest after the round. He supersets accessory and isolation work for different or antagonist muscles. See RST-13, RST-09, RST-10.
+- **Technical rating** — How much practice a lift takes to master and keep; high-rated lifts are "jealous" and decay without constant practice. See TEC-74, TEC-75.
+- **Tonnage** — Reps x weight accumulated over time; "tonnage is king" as long as it sits in a relevant intensity window. See VOL-02, PRG-02, VOL-06.
+- **Tonnage sacrifice** — Deliberately holding strength work steady while pushing volume or a secondary lift; not a plateau. See PRG-80.
+- **Top set** — The first and heaviest working set of a lift; only it needs to reach the top of the range before you add weight. See PRG-21, PRG-47.
+- **Trinity (volume, intensity, frequency)** — The three variables he treats as one system and the main drivers of hypertrophy; push one while ignoring the others and the system breaks. See VOL-01, SCI-25, FAT-15.
+- **TRT** — Testosterone replacement therapy. He says any exogenous hormone revokes natural status, real TRT is rare, and clinics use it as a gateway. See NAT-46, NAT-47, NAT-48.
+- **V-taper** — Width from shoulders, lats and serratus over a small waist; without lats you get a T-taper. See AES-36, BAK-21.
+- **Weighted stretch** — Loading a muscle in its lengthened position; he calls it underused, and the way traps and forearms grow from heavy holds. See TEC-89, BAK-35, FOR-04.
+- **Widowmaker** — A high-effort squat set he treats, like burnouts, as an occasional tool rather than regular programming; also the last phase of his knee rehab ladder. See INT-60, INJ-81.
+- **Work capacity** — The ability to do and recover from the volume that drives growth; built and lost gradually. Novices lack it more than they lack recovery. See VOL-38, BEG-15, CAR-02.

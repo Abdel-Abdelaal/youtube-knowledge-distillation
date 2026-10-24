@@ -1,0 +1,235 @@
+2020-01-20 {{LAgzh6KSUu0@126}} principle [triceps] Sending blood in and around the joint helps push nutrients in and speeds recovery.
+2020-01-22 {{VUNsazYt-uo@124}} prescription [forearms] Do it once every 4-6 days, not daily: the forearm is a small muscle that needs recovery, and hitting it with the same movement daily causes perpetual breakdown without strengthening.  {"frequency": "every 4-6 days"}
+2020-02-01 {{PLgCL_rizPU@188}} principle 'Under-rested' or 'under-recovered' is a better term: overtraining within one session is nearly impossible with some experience, but you can train too much and come back to the next session not fully recovered.
+2020-02-01 {{PLgCL_rizPU@188}} principle Showing up under-recovered means wasted training, injury risk or not performing at your best.
+2020-02-07 {{SVGIPYo1mDg@311}} anecdote [biceps] Strength fades much faster than size: when NH stopped training arms for 4-5 months they shrank only a little, and size returned quickly though strength was low.  {"weeks": "4-5 months"}
+2020-02-26 {{J9Y9VZhnZ5M@192}} principle [back] Pull-ups done with the back don't touch the CNS, shouldn't hurt wrists, elbows or shoulders, and the upper back recovers very fast, which allows daily frequency.
+2020-02-26 {{J9Y9VZhnZ5M@255}} anecdote [lats] Lats get sore but it never lasts; they're always ready to work.
+2020-02-29 {{y_lPAdWi4sU@445}} prescription Intermediates must control alcohol, sleep hours and stress, which all damage gains.
+2020-03-05 {{b4rMVrWFVEg@1005}} prescription After the lower day, two full rest days are needed before the Thursday full body.  {"frequency": "2 rest days"}
+2020-03-19 {{smAsuyqAQOo@124}} principle Any physical activity (swimming, running, climbing, dancing) helps hormone production; you don't have to lift weights.
+2020-03-24 {{Jd2wr0Qe42I@125}} opinion Exercise already boosts immunity, so adding raw garlic is a double benefit.
+2020-03-24 {{Jd2wr0Qe42I@501}} opinion Garlic may aid recovery and longevity by making you more resilient to disease.
+2020-03-25 {{ggFrswc8T5E@436}} principle Mental recovery is underrated; when programming, ask not only whether a lift will tire you but whether it will stress you out.
+2020-04-09 {{tZ9CSu2DMIE@186}} opinion Light, non-strenuous work for a muscle trained the day before, just to bring in blood, can help recovery.
+2020-04-29 {{ADLnarIVojI@380}} principle You can judge recovery by the common 48-hour rule or by feel, but checking whether a muscle is sore to the touch is inaccurate, since soreness can last a week.  {"hours": 48}
+2020-04-30 {{PxMpAWWtcrg@127}} principle Static stretching after lifting is different because muscles are warm and less susceptible to injury.
+2020-05-01 {{eFhwWirR70o@127}} anecdote Recovery speed differs by muscle across people, but there are individual differences: his triceps recover very fast while his quads take forever.
+2020-05-01 {{eFhwWirR70o@190}} principle [back] The upper back recovers very quickly compared with other muscles.
+2020-05-01 {{eFhwWirR70o@1685}} principle Placing the most taxing day (four heavy compounds) right before the weekend is smart, since you get two days to eat and sleep.  {"recovery_days": 2}
+2020-05-14 {{mViZdjZIv6s@767}} principle [chest] Two to three days between chest sessions is enough recovery for most people.  {"rest": "2-3 days"}
+2020-05-18 {{rucwL-SIefg@377}} opinion Martial artists, like bodybuilders, never stop learning; someone who trains several disciplines needs to manage recovery to perform.
+2020-05-20 {{GClcGq2tIDU@1260}} principle Bigger muscle groups need more recovery because they move more weight; small muscles recover faster partly because you cannot load them as hard
+2020-05-20 {{Vbk_2AALm3M@65}} principle Baseline exists in two dimensions: within a workout (between sets) and between workouts (recovery).
+2020-05-22 {{0yIieHQjEiA@1319}} opinion [back] Doing calisthenics like pull-ups even when not fully recovered improves recovery and doesn't hurt muscle building.
+2020-05-29 {{-6i7xt92Khg@1133}} prescription Off days are for mental and physical recovery; leave chest, shoulders and upper back alone on them
+2020-06-01 {{mfweKhLM5L0@0}} opinion Cold showers are a fitness urban legend with little real science; claims range from miracle cure to harmful, giving them a mystical aura.
+2020-06-01 {{mfweKhLM5L0@63}} principle He distinguishes cold showers from cold baths and ice baths, which he has never done and doesn't speak about.
+2020-06-01 {{mfweKhLM5L0@63}} data Critics say cold exposure blunts protein synthesis, promotes inflammation and may stress the cardiovascular system.
+2020-06-01 {{mfweKhLM5L0@315}} principle Cold showers only chill the surface briefly; the body rushes blood back and you rewarm quickly, so he doesn't believe they impair protein synthesis.
+2020-06-01 {{mfweKhLM5L0@379}} anecdote He gained about 40 lb from age 20 to 25 while taking cold showers daily, so they likely don't damage muscle growth.  {"weight_gain": "40 lb", "years": 5}
+2020-06-01 {{mfweKhLM5L0@379}} prescription A cold shower before bed improves sleep quality by lowering body temperature, especially useful on hot summer nights.
+2020-06-01 {{mfweKhLM5L0@441}} prescription Before bed, let cold water hit the legs, upper chest and upper back, then wipe off without fully drying and go to bed; you sleep better and don't sweat.
+2020-06-01 {{mfweKhLM5L0@752}} prescription After training, keep it short: a contrast-style blast of cold for about a minute while warm, not long enough to chill to the bone.  {"duration": "~1 min"}
+2020-06-01 {{mfweKhLM5L0@752}} prescription Before bed, stay in the cold shower until you start shivering a little so the body is properly cooled down.
+2020-06-01 {{mfweKhLM5L0@752}} principle Contrast showers alternate very hot and very cold; cold pulls blood to the organs, heat sends it to the skin, which is good for circulation.
+2020-06-01 {{mfweKhLM5L0@814}} opinion Contrast showers are reportedly risky for people with weak hearts, but Scandinavian and Japanese hot-to-cold bathing habits don't show many heart attacks, so be cautious but you should be fine.
+2020-06-01 {{mfweKhLM5L0@877}} prescription Only do contrast showers once you are used to very cold showers.
+2020-06-01 {{mfweKhLM5L0@877}} opinion He suspects cold showers affect hormonal profile and wouldn't be surprised if they boost testosterone.
+2020-06-08 {{B4aHn6pXfTo@316}} principle Feeling fresh, tired or sore does not reliably tell you whether you are recovered
+2020-07-03 {{u10c43TRDb0@817}} anecdote [back] With lower back out of the equation he can do upper back pulls day in, day out
+2020-07-03 {{u10c43TRDb0@880}} principle [biceps] Biceps recover within three days, so four sets is fine  {"sets": 4}
+2020-07-08 {{bJK7L5fb-eI@507}} opinion [quads] After a widowmaker you need about 72 hours just to squat light again, and roughly 20 more hours for optimal recovery.  {"rest": "72h + ~20h"}
+2020-07-13 {{eaXDVkHjsZQ@431}} opinion [shoulders] Light shoulder work the day after a heavy day, hitting different heads, may speed recovery
+2020-07-15 {{YscWck8HQyY@128}} principle The amount of volume a muscle takes is directly correlated with how long it needs to recover
+2020-07-29 {{Vvr512xTfRE@2340}} anecdote Naps were not allowed in his house growing up and he admits he is prejudiced against them
+2020-08-12 {{ewvy5V03gTE@570}} prescription With poor sleep, don't take sleeping pills or try to force more sleep; accept it and organise training around reduced recovery
+2020-08-12 {{ewvy5V03gTE@632}} principle Consistency plus whatever sleep and food you get will raise your metabolism, which then improves sleep and training in a virtuous circle
+2020-08-14 {{jSUmn33lmlI@1511}} anecdote Deadlifts don't tax him but squats do: he can deadlift heavy then squat two days later, but not the reverse
+2020-08-15 {{cjLJ_8OjSOE@0}} principle Baseline acts both as a recovery tool between sessions and as a way to regulate intensity between sets within a session
+2020-08-15 {{cjLJ_8OjSOE@440}} prescription [quads] If you can't repeat a knee flexion effort three days later, you weren't recovered for strength work; swap in a lighter variation in a different rep range  {"days": 3}
+2020-08-15 {{cjLJ_8OjSOE@502}} principle Some lifters want full recovery before hitting a muscle again, others partial or over-recovery; all are valid if justified by volume, intensity and tonnage
+2020-08-15 {{cjLJ_8OjSOE@502}} anecdote He can do heavy hip hinges frequently, but heavy knee flexion wrecks his recovery
+2020-08-23 {{VXwYO2qG9ZY@820}} principle Insomnia is often a vicious circle: tired mornings lead to caffeine abuse, which wrecks sleep and overtaxes the adrenals
+2020-08-23 {{VXwYO2qG9ZY@884}} principle Insomnia can be stress, genetic or hormonal, and anxiety about not sleeping makes it worse
+2020-08-27 {{7eZtMIgSnOE@8}} principle Sleep is the most underrated part of recovery; perfect diet, training and low stress mean nothing without enough good sleep
+2020-08-27 {{7eZtMIgSnOE@27}} principle Sleep quality matters as much as quantity: a short optimized night can beat a long poor one
+2020-08-27 {{7eZtMIgSnOE@52}} data Sleep need is largely genetic; most adults stabilize around 7-8 hours and need less with age  {"hours": "7-8"}
+2020-08-27 {{7eZtMIgSnOE@82}} prescription Find your sleep need by sleeping without alarm, light or noise when not sleep-deprived or on stimulants
+2020-08-27 {{7eZtMIgSnOE@187}} prescription You fall asleep better with low body temperature: sleep in a cool room with the window open
+2020-08-27 {{7eZtMIgSnOE@262}} prescription Take a cold shower before bed, staying until you're cold to the bone; especially effective in summer
+2020-08-27 {{7eZtMIgSnOE@560}} opinion Blue light doesn't bother him because he respects the other tips; susceptible people should avoid screens before bed
+2020-08-27 {{7eZtMIgSnOE@594}} prescription Make the bedroom sacred: no phone, TV or laptop, and keep pets out if you can
+2020-08-27 {{7eZtMIgSnOE@630}} anecdote He only lies down when he goes to sleep, so lying down immediately makes him sleepy
+2020-08-27 {{7eZtMIgSnOE@660}} prescription Reserve lying down for bed so the position becomes a sleep trigger
+2020-08-27 {{7eZtMIgSnOE@720}} principle Much insomnia is psychological: fear of not sleeping triggers it, like recurring panic attacks
+2020-08-27 {{7eZtMIgSnOE@777}} opinion 'Don't think about anything' is bad advice; let your mind drift freely instead
+2020-08-27 {{7eZtMIgSnOE@856}} opinion Being 'too lazy to sleep' and staying up past your window is your own fault
+2020-08-27 {{7eZtMIgSnOE@880}} prescription Don't obsess over sleep cycle lengths; go to bed as early as you can and focus on quality
+2020-09-01 {{Qgpc7evE7_4@1074}} principle Hard work must be balanced with rest
+2020-09-05 {{sfUkrygYNiU@315}} principle Training again before full recovery steals gains from previous sessions
+2020-09-05 {{sfUkrygYNiU@315}} principle Frequency is about how much time you need between sessions to train hard every time; you must discover your own recovery
+2020-09-07 {{9M7QVlvFdQY@350}} principle Some lifters have high in-session work capacity but poor between-session recovery; full body fails them because they destroy everything and cannot repeat it three days later
+2020-09-14 {{-banYSTnkq4@1250}} principle Match training stress to recovery ability; weeks at low intensity waste recovery because there is nothing to recover from
+2020-09-15 {{1z494UcRwqo@826}} anecdote I was sick constantly as a child; since I started training I have not been sick once in 10 years  {"years": 10}
+2020-09-16 {{EnmFDF2DxAo@420}} principle [neck] The neck recovers fast and tolerates a lot of volume; it should not cause pain
+2020-09-17 {{y-Z49WlVV84@63}} principle A rest day is programmed and as important as a training day; skipping a session impromptu is a skip day, not a rest day
+2020-09-17 {{y-Z49WlVV84@192}} prescription [quads] The days before a rest day should be lower body days: more load, tonnage, fatigue, cardio demand and tendon stress from squats and deadlifts
+2020-09-17 {{y-Z49WlVV84@256}} principle A rest day need not be 24 hours; with morning and evening sessions it can be half a day or a day and a half
+2020-09-17 {{y-Z49WlVV84@360}} principle A typical rest day actually gives about 48 hours between sessions  {"rest": "48 h"}
+2020-09-17 {{y-Z49WlVV84@382}} prescription Let progression, recovery, tendon feel and psychology guide how many rest days you need
+2020-09-21 {{ZdcKQXMmmPY@650}} data Endorphins are real: intense exercise can trigger a release that blunts pain, the runner's high, and lifters experience it too
+2020-09-21 {{ZdcKQXMmmPY@770}} principle Training all day with no breaks limits recovery windows to nights and invites muscle tears, tendon damage and tendinitis
+2020-10-05 {{MIHPylz3f7Q@420}} principle Soreness is not a good sign of activation or hypertrophy; it fades as recovery improves while you keep progressing
+2020-10-11 {{yAHuQgkq2x4@125}} principle Soreness fades with training age; still being routinely sore 5 years in means inconsistency or constant program hopping  {"years": 5}
+2020-10-16 {{sCMGXCXKVjs@502}} prescription [biceps] Allow at least 48 hours between an arm day and a following upper body day  {"rest": "48 h"}
+2020-11-18 {{LqsqSGZooR0@1150}} principle Trembling, flu-like symptoms or soreness aren't signs of growth; the best indicators are strength progression and tonnage over time
+2020-11-27 {{9jAjNyxeiXc@63}} prescription A rest day isn't a couch day: do mobility, cardio, swimming or neglected parts like calves, neck and forearms
+2020-11-29 {{ZDKdqqbQ5Gk@253}} prescription Get 20-30 minutes of sun on your skin daily; screens are not sunlight  {"duration": "20-30 min/day"}
+2020-11-29 {{ZDKdqqbQ5Gk@755}} prescription Sleep eight hours if you need eight; skipping sleep is like quitting the workout halfway  {"sleep": "8 h"}
+2020-11-29 {{ZDKdqqbQ5Gk@755}} prescription Wake without an alarm when you can so your body recovers fully
+2020-11-29 {{ZDKdqqbQ5Gk@755}} principle Recovery is what lets you increase frequency and muscle damage and grow over time
+2020-12-14 {{WyxeMHovPJ8@270}} principle [biceps] Muscles grow after training through supercompensation, not during; curls for five years nonstop without rest would never grow the biceps
+2020-12-29 {{gAmsgcm-8Q8@435}} prescription [forearms] Contrast showers on the forearms after training, alternating hot and cold, increase blood flow for recovery
+2020-12-31 {{2dgtL3DKo3k@439}} opinion Cold showers or cold environments promote capillary formation throughout the body
+2021-01-01 {{bWBgpdQwl64@0}} anecdote After leg days he follows a stretching routine as active recovery to keep the lower body fresh and nimble
+2021-01-02 {{lZP5NoQ5pF4@48}} principle At 64 recovery ability is lower, so frequency and volume must be managed carefully; this doesn't mean people over 40 must drop volume
+2021-01-04 {{xlarSnYhRVc@381}} opinion A purely mental job is a blessing for bodybuilding because all physical energy goes to training; bodybuilding with a blue collar job is tough
+2021-01-04 {{xlarSnYhRVc@865}} anecdote He hasn't been sick in about 10 years and still trains when he feels weak, underslept or a sickness coming on; training makes him feel better  {"years": 10}
+2021-01-04 {{xlarSnYhRVc@928}} prescription If a little unwell, hungry or underslept, still train but avoid heavy work; real flu may be the exception
+2021-01-22 {{G7rVTseabFU@1600}} opinion [full_body] Recovery is his main objection to full body: it is hard to let muscles recover when you hit them all every session, and getting it wrong leaves you under-recovered for heavy days
+2021-01-22 {{G7rVTseabFU@1630}} opinion A light pump on a muscle between hard sessions can help recovery, but managing it is more art than science
+2021-01-22 {{G7rVTseabFU@1695}} opinion Recovery is like a pot emptying into the muscle: once it is empty, waiting more days adds nothing for muscle, though tendons may benefit
+2021-01-28 {{dyeeKOQJhrM@780}} principle Lower-body branches carry a higher recovery cost than upper-body ones, which affects frequency
+2021-01-28 {{dyeeKOQJhrM@840}} principle Flies barely affect deadlift recovery, while squats do damage hinge performance
+2021-02-10 {{GJudkSxdp-Q@210}} opinion The never-rest, sleep-when-dead warrior attitude is stupid; rest is natural, but accepting rest as necessary means accepting work as equally necessary
+2021-02-10 {{GJudkSxdp-Q@260}} principle A rest day is a rest from something; if you have not trained, it is not a rest day, you are just skipping
+2021-02-12 {{p-kR3RfGBHw@40}} principle Picture all the muscle damage you inflict going into a pot; its size, which varies by individual, is your maximum recoverable volume
+2021-02-12 {{p-kR3RfGBHw@120}} principle Pots drain at different rates: two lifters can accumulate and tolerate the same damage yet need different times to fully recover
+2021-02-12 {{p-kR3RfGBHw@240}} principle Because the pot is always draining, the goal is to keep it relatively full; outside a powerlifting meet peak you never want it fully empty
+2021-02-12 {{p-kR3RfGBHw@330}} principle There is a pot for every muscle group and for structures like tendons, and pots can feed into one another; training legs also fills the lower back pot with both muscle and structural damage
+2021-02-12 {{p-kR3RfGBHw@420}} principle The body repairs whether or not you trained, so any time the pot is not filled to the desirable level is time spent wasting gains
+2021-02-12 {{p-kR3RfGBHw@0}} principle Leaving the pot empty for several days has no hypertrophy benefit, but you do not need to be fully recovered to train; you could train a muscle at 20% recovery and still grow
+2021-02-13 {{kCVudEfVU0c@0}} principle Office workers sit 7-8 hours a day and are very sedentary compared with blue-collar workers, who have to manage physical volume coming from work  {"hours": "7-8 h/day sitting"}
+2021-02-13 {{kCVudEfVU0c@127}} principle Mental stress from work can ruin focus and weight selection and aggravate injuries, especially tendinitis, especially when it costs you sleep; you are never at 100%
+2021-02-13 {{kCVudEfVU0c@280}} principle Office workers have excellent recovery windows because work is not physically stressful, as long as they eat enough
+2021-02-18 {{hDAcqWHzrJE@290}} principle Training a muscle only once a week leaves it unconditioned, so recovery is poor and soreness is severe  {"frequency": "1x/wk"}
+2021-02-26 {{BBqiphYfqMA@188}} opinion Needing about 10 days before you can deadlift again means your recovery and work capacity are poor  {"days": 10}
+2021-03-01 {{kkbfHkyQ_q0@1300}} opinion He is not a morning person; he is strongest around 5-8 pm, but people can adapt to training at any time; learn your internal clock
+2021-03-01 {{kkbfHkyQ_q0@1790}} anecdote He hasn't had a cold or flu in about 10 years since he started training daily at 15  {"years": 10}
+2021-03-01 {{kkbfHkyQ_q0@1823}} opinion He attributes his immunity to good nutrition without processed food, lots of water, enough sleep and not hiding from the cold
+2021-03-01 {{kkbfHkyQ_q0@1900}} opinion When he feels like he might be getting sick, training makes the feeling go away; training is the best thing for immunity
+2021-03-01 {{kkbfHkyQ_q0@2620}} opinion Doing a learning ritual right before bed helps retention and consistency
+2021-03-01 {{kkbfHkyQ_q0@3082}} prescription If kept up very late, sleep instead of training; forced workouts without energy have given him bad sessions or injuries
+2021-03-01 {{kkbfHkyQ_q0@3100}} prescription Learn to say no to social pressure that would wreck your sleep and next-day training
+2021-03-24 {{BnzVYV9_IQc@503}} principle Waking at 3-4 am to train does nothing for muscle or testosterone; total volume and tonnage matter, not the time of day
+2021-03-30 {{xGoJNq78htU@889}} principle Too much comfort makes you soft; comfort is good only to the degree it preserves health and recovery
+2021-04-07 {{8cVxNMz_S_Q@453}} principle Rest and sleep are productive, just like rest days in bodybuilding, which is when muscle is built; training and recovery are equally important
+2021-04-12 {{YKCNJS5KNvw@693}} prescription If a deficit hurts your sleep, fast during the day and eat a big meal before bed; sleep matters more than the hunger
+2021-04-23 {{VdBmYdUYCKM@568}} opinion [neck] Studies linking neck growth to sleep apnea involve men who also got fat all over; muscular neck growth shouldn't cause apnea
+2021-04-23 {{VdBmYdUYCKM@630}} anecdote [neck] He had sleep apnea at 240 lb with the same neck size he has now, and none since dropping the fat  {"bodyweight": "240 lb"}
+2021-05-10 {{D1_tXh-Kp9Y@1323}} principle Waking with numb arms is harmless if sensation returns; a truly pinched nerve, however, can cause atrophy and sometimes need surgery
+2021-05-10 {{D1_tXh-Kp9Y@1385}} prescription For nerve issues use elastic-band nerve decompression drills and change sleeping position or pillow so the arm isn't trapped
+2021-05-30 {{QTHtVBP_36g@2998}} prescription He sleeps 7 hours; wake when you need to be productive, not at 4-5 am to copy celebrities  {"sleep": "7 h"}
+2021-06-07 {{6K7xyjI5lYE@126}} principle Jack trained masochistically without rest and could only gain with steroids; Baki respected recovery and got results
+2021-06-28 {{9kIIW251uiI@2772}} principle Mental illness and everyday stress impair recovery and raise injury rates
+2021-07-14 {{8ELQ2XZgpls@1441}} principle Recovery, including sleep and nutrition, is where growth is actualized; skinny people especially cannot underestimate it
+2021-07-30 {{4sXkXeKAxIM@1714}} principle Drink plenty of water and sleep enough; NH's skin degrades when he sleeps less
+2021-08-18 {{Zt6bvNqnJmA@1431}} principle Endless effort without rest is impossible because recovery can't keep up
+2021-09-05 {{P89o8FBSWDI@1933}} opinion Sauna is likely good for health by forcing adaptation, like cold showers; its effect on growth is unknown and you should watch your heart
+2021-10-13 {{I2aR7F5rCuE@1968}} principle The background of training, meaning recovery, diet, social life and what you study, has its own timing, and a good action at the wrong time fails
+2021-10-17 {{THV7B11oalk@383}} opinion Sleeping 10-12 hours like elite performers is unrealistic and overkill for most; 7-8 hours is what most working people can and should get  {"sleep": "7-8 h"}
+2021-10-17 {{THV7B11oalk@383}} opinion Oversleeping can leave you sluggish and feeling worse with no gain in recovery
+2021-10-17 {{THV7B11oalk@447}} opinion Sleep is as important as, if not more important than, diet for recovery; he avoids caffeine to protect it
+2021-10-17 {{THV7B11oalk@1202}} anecdote He spends 30-minute breaks walking shirtless outside in the sun for movement and vitamin D  {"duration": "30 min"}
+2021-10-23 {{jAnfGqpsK38@1880}} prescription [back] The hybrid program expects the upper back to fully recover in 48 hours, so reverse rows are weighted at 3x6-10  {"sets": 3, "reps": "6-10"}
+2021-11-07 {{45S8RV2nyKE@1335}} anecdote NH says training cures his illnesses and anxiety and strengthens his immune system: when sick, he trains and feels better
+2021-11-07 {{45S8RV2nyKE@2042}} principle [biceps] You don't lose muscle at 40; you lose it because you stop training and stop paying attention to diet. LaLanne still had a bicep peak at 60
+2021-12-05 {{oAXzDQIwvLg@569}} principle Chronic stress and cortisol damage muscle building and health; stress is an underrated part of recovery
+2022-01-17 {{9y2s6kyFkPc@2379}} prescription Night shift workers should train before work, which also wakes them up, instead of after a tiring shift
+2022-01-31 {{eC9Srr3ZygE@2171}} prescription Adapt to training in the cold with cold showers and by going out lightly dressed in autumn (around 50 F) so tendons and muscles get used to it  {"temperature": "~50 F"}
+2022-02-18 {{BJXFeQWGUuY@126}} principle Recovery only matters if real training preceded it; many lifters allocate rest disproportionate to the stimulus they actually applied
+2022-02-18 {{BJXFeQWGUuY@191}} opinion Most people overestimate the muscle damage they cause and so inflate how much rest and recovery they need
+2022-02-18 {{BJXFeQWGUuY@635}} principle A muscle doesn't need a full week off; it needs around 48 hours, up to 72, and even a fully trashed muscle is fresh again in 4-5 days  {"rest": "48-72 h; max 4-5 days"}
+2022-02-18 {{BJXFeQWGUuY@762}} principle Bucket metaphor: training empties the bucket, rest refills it; dropping to 40 and refilling to 100 twice (120 points) beats one 100-to-0 crash and a full refill
+2022-02-18 {{BJXFeQWGUuY@1016}} principle A muscle doesn't need to recover to 100% before retraining; 90-95% still works, and waiting for full recovery pushes people towards bro splits  {"recovery": "90-95%"}
+2022-02-18 {{BJXFeQWGUuY@1079}} principle Training a muscle before it has fully recovered is not wasted; it just adds fatigue and lengthens the next recovery, a problem only if done constantly
+2022-02-24 {{dVssxcEh1UQ@999}} principle [quads] NH trains legs every two days and never gets sore; soreness is a sign of unpreparedness, not of growth  {"frequency": "every 2 days"}
+2022-02-24 {{dVssxcEh1UQ@1061}} principle [back] The upper back recovers fast because it is made of small muscles, and together they still give good work capacity
+2022-03-04 {{NPlGK0-7h0A@564}} principle Recovery bucket metaphor: the body is a giant bucket containing smaller muscle buckets; training any muscle also spills some water from the big CNS bucket
+2022-03-04 {{NPlGK0-7h0A@564}} principle The CNS bucket can expend more than any muscle but does not refill faster; drain it deeply and you must rest a long time, so leave plenty of water in the tank
+2022-03-04 {{NPlGK0-7h0A@688}} principle Not all muscle buckets are the same size or recover at the same pace, and emptying a small one does not drain the CNS at the same rate
+2022-03-04 {{NPlGK0-7h0A@688}} principle Poor sleep, stress, adrenal fatigue and caffeine also tax the nervous system; lifters who constantly need deloads may be overtaxing it through life outside the gym
+2022-03-04 {{NPlGK0-7h0A@813}} principle Humans historically did physical labor 8-12 hours a day without deloads; CNS capacity is large and trainable, and bucket size differs between individuals  {"hours": "8-12/day"}
+2022-03-04 {{NPlGK0-7h0A@1626}} principle The CNS keeps recovering while you train other muscles; you can refill the bucket while pouring from it
+2022-03-06 {{PuIp9cGKMHo@4085}} principle 'Gains happen when you rest' is a platitude; gains are triggered in training and materialize in recovery, and fatigue accumulation drives progression
+2022-03-06 {{PuIp9cGKMHo@4211}} principle Training is the number one priority; you can over-recover and miss stimulus windows, which wastes time
+2022-07-16 {{u8IRHcUWfPs@249}} principle Rest feels best after strenuous effort, which is why holidays after a hard week are the sweetest
+2022-07-16 {{u8IRHcUWfPs@944}} prescription Never sacrifice sleep to get more done; he sleeps 7-8 hours every night  {"sleep": "7-8 h"}
+2022-08-03 {{yUecX6qONXg@125}} principle Training different muscles on consecutive days still rests the untrained ones
+2022-08-03 {{yUecX6qONXg@889}} principle Being sore means the muscle was challenged, but no soreness does not mean no growth
+2022-08-03 {{yUecX6qONXg@951}} anecdote NH barely gets sore except traps and chest after extra volume, yet progresses fine
+2022-08-03 {{yUecX6qONXg@951}} principle Constant heavy soreness signals poor adaptation and recovery, not growth
+2022-08-03 {{yUecX6qONXg@1015}} prescription Aim to reach a state of no soreness on a program, then soreness becomes meaningful
+2022-09-09 {{JnWWva91QUM@1503}} prescription If a 7-day schedule is too much physically or psychologically, add a rest day after day five; it will not kill your gains
+2022-10-11 {{BhOuuyriBDw@884}} principle [shoulders] Spread shoulder sessions to maximise recovery between them
+2022-10-18 {{0xZ2Yl1PUmc@317}} principle Raising testosterone naturally is simple: clean diet, lots of sleep, low stress and rigorous training sustained for years
+2022-11-05 {{ttUzFhGo6Bc@1204}} prescription [full_body] Health basics are simple and in your control: sleep, cut toxins (caffeine, drugs, alcohol), resistance training, and stay at a reasonably low body fat; thyroid hacks, infrared lights and enemas are bogus
+2022-12-07 {{eWP2m4lLq_0@2896}} prescription The 4-5 a.m. wake-up culture is a dick-measuring contest; wake at the time that suits your job and biology
+2022-12-07 {{eWP2m4lLq_0@3085}} anecdote He is a zombie in the morning and most productive at night, so morning training is not inherently better
+2022-12-07 {{eWP2m4lLq_0@3211}} prescription Sleeping an hour less to be more productive backfires because you are more tired for every waking hour; he regrets staying up 3-4 hours at night editing videos
+2022-12-15 {{z2uzpl_smSg@1829}} principle The recovery schedule must be planned, not guessed: if a session leaves you unable to train for longer than expected, that is poor planning
+2022-12-15 {{z2uzpl_smSg@2839}} principle Small muscles recover faster because they interact less with other muscles; the more interaction, the stricter the 85% rule must be applied
+2022-12-29 {{6YWa3qOu6BY@637}} opinion Bodyweight movements are easy to recover from, so you can train by instinct without overreaching and rarely need deloads
+2023-01-11 {{_P0-kYyVMn4@1137}} prescription [back] Since the upper back is trained every session, check recovery: pick ring rows instead of dumbbell rows on Friday if needed
+2023-01-12 {{h3U30oRVrMU@1326}} principle You can gain muscle with sub-par sleep, but sleep matters for mood, hormones, and reducing Parkinson's, Alzheimer's and heart disease risk
+2023-01-12 {{h3U30oRVrMU@1326}} anecdote NH admits he sometimes skimps on sleep to make an extra video; the grindset hurts vitality
+2023-01-18 {{BiVfpZEchws@690}} principle [chest] Push-ups and dips on day 7 followed by heavy chest and triceps on day 1 ignores that the week repeats
+2023-01-27 {{pBszDfFvoVI@1195}} opinion Training the body lets mental stamina recover faster (like meditation) and reading lets physical stamina recover, so 5 hours of intellectual work plus 2 hours of training beats 7 hours of intellectual work  {"hours": "5+2 vs 7"}
+2023-02-09 {{upmJaBt1WHk@1007}} prescription Optional Sunday: standing or seated calf raises 6-10x10-20 + neck flexions and extensions 6-10x10-25; shrugs 3-4x15-20 + band triceps extensions 3-4 sets of 30-50 not to failure for elbow health; planks 3x1 min; plus low-impact activity like hiking, swimming or biking
+2023-03-26 {{iPtxiNtBY-M@2197}} anecdote [forearms] Finger extensions with an elastic band are good for blood flow and elbow or wrist pain but not hypertrophy; they gave him knuckle tendinitis  {"cost": "$5"}
+2023-03-26 {{iPtxiNtBY-M@2260}} prescription [forearms] Opening and closing the hand in a rice bucket is B tier active recovery that gives a big pump
+2023-04-30 {{9L90ktKGPLw@2138}} principle [glutes] Strong glutes and lower back matter for longevity and posture even if they need no isolation
+2023-05-03 {{d1eLAd5WvIA@3312}} principle [triceps] Triceps take long to recover, especially if untrained, so the third long-head session is done only if fresh
+2023-07-23 {{Mn34v5Y1d-0@2828}} principle Joel sleeps 9-10 hours; recovery has to match training, not the other way round, and once-a-week training does too little damage to need much rest  {"sleep": "9-10 h"}
+2023-07-29 {{1TKqwXCge9E@2398}} principle If you still plateau with all of this, either recovery is lacking (eat and sleep more), the rep range or weight jumps are wrong, or the plateau is psychological
+2023-11-05 {{SxqjF2oPasg@1385}} opinion Soreness is C tier: new programs make you sore because you're adapting, not growing more; it's only useful for seeing where a new lift hits
+2023-11-20 {{DA7QvIAyptw@692}} prescription Best suited to people who can sleep a lot, have low stress and can dedicate lots of time to the gym
+2024-01-02 {{uOAia_t5c_I@375}} principle Skinny under-recovered under-eaters tend to grow best from low volume, high intensity and long recovery; what they do outside the gym matters most
+2024-01-06 {{yX1br2PHa0w@829}} principle Overtraining is really under-recovering; a skinny weak lifter with low work capacity who under-eats can overtrain easily, while someone with on-point recovery barely can
+2024-01-06 {{yX1br2PHa0w@893}} principle Recovery periods can matter more than training if training is too dense and intense
+2024-03-08 {{RPW-PxhYqrA@502}} principle Training the same thing every day leaves no recovery, so you train sore and under-recovered, underperform and grow slower
+2024-05-24 {{Eta-sxecx9E@255}} principle Waking at 3-5 am is pointless if you sleep the same amount; follow the schedule that suits you
+2024-05-24 {{Eta-sxecx9E@330}} anecdote During his master's he slept at 3-4 am because of teaching and coursework and still made tremendous gains
+2024-05-24 {{Eta-sxecx9E@360}} opinion Any growth-hormone benefit from an early bedtime is minimal
+2024-05-24 {{Eta-sxecx9E@400}} principle Recovery means eating, sleeping and napping, not cold plunges or runs in the rain; nothing is more anabolic than a nap
+2024-05-24 {{Eta-sxecx9E@442}} anecdote He took only cold showers for 5 years and still made gains; they may have benefits but won't revolutionise your life or recovery  {"years": 5}
+2024-05-24 {{Eta-sxecx9E@480}} principle Constant 'active recovery' keeps you permanently fatigued; train hard, then actually rest
+2024-08-08 {{sZntx8mqaH8@1073}} anecdote Stress from the job dispute caused high blood pressure and other health complications
+2024-09-03 {{JW73oft8Q60@1110}} anecdote [quads] Hard leg sessions now need 72 hours or more to recover; soreness from heavy RDLs peaks around 48 hours, so lower body three times a week is too much  {"rest": "72 h+"}
+2024-09-03 {{JW73oft8Q60@1160}} principle Optimal recovery is simple: less frequency, less junk volume, better nutrition and lots of passive rest such as reading on the couch
+2024-09-07 {{bRKQIOYo2u4@3105}} principle Your ability to work harder is limited by your ability to recover; to work harder, recover harder
+2024-09-07 {{bRKQIOYo2u4@3564}} principle [shoulders] Sleeping on your side and crushing an arm or shoulder can pinch nerves and eventually hinder growth
+2024-09-07 {{bRKQIOYo2u4@8425}} opinion [neck] Sleep apnea comes from fat around the chest and neck, not neck muscle
+2024-09-14 {{okm6bZHKHI4@10132}} prescription Recovery is just rest: eat, sleep as much as you can, be lazy; you do not need active recovery
+2024-09-14 {{okm6bZHKHI4@13353}} prescription When forced to choose between sleep and training, do a minimal 20-minute session  {"minutes": 20}
+2024-10-12 {{D5AUHq98RdY@2344}} prescription To have more dreams, drink a lot of water before bed so you wake to urinate and re-enter dream sleep
+2024-10-12 {{D5AUHq98RdY@4119}} anecdote He breaks sleep paralysis by keeping his eyes closed and wiggling his toes, then foot, then leg
+2024-10-19 {{c7hl9u3h_s0@8149}} principle Avoid the same isolation on consecutive days; give it 48 hours  {"rest": "48 h"}
+2024-10-26 {{wBct3Pl8OY4@637}} prescription On rest days stay lightly active (push-mowing, walking, hiking) but passive recovery on the couch reading or watching TV is also important for bodybuilding
+2024-10-26 {{wBct3Pl8OY4@10120}} prescription If it is between sleep and watching the stream, always choose sleep
+2024-11-03 {{o40xCjIzl14@134}} prescription He goes to bed before midnight every day; late-night internet use steals sleep that would be more productive
+2024-11-03 {{o40xCjIzl14@134}} prescription Ban screens and doomscrolling for at least 1.5 hours before bed and read a book instead  {"screen_free_before_bed": "1.5 h"}
+2024-11-03 {{o40xCjIzl14@195}} opinion He doubts the claim that going to bed after midnight costs growth hormone; total sleep hours matter
+2024-11-16 {{fPU3nRIH8sM@8580}} prescription If you are tired, rest: being tired means you have been productive too long
+2024-11-17 {{6yW3GSskl8g@633}} principle Soreness ranks last (10th): it is inconsistent between people, fades as the muscle adapts, and can just signal poor recovery capacity
+2024-11-17 {{6yW3GSskl8g@697}} opinion [hamstrings] Yet a lift that keeps making you sore for years gives a really good workout; RDLs always leave his hamstrings and glutes very sore, so he keeps them
+2024-11-23 {{6p2x4kDDjzs@1990}} anecdote [neck] Neck training does not cause sleep apnea: at 240 lb with a smaller neck he had bad apnea, at 220 lb with a bigger neck he has none  {"load": "240 lb vs 220 lb bodyweight"}
+2024-11-23 {{6p2x4kDDjzs@2930}} principle [forearms] Forearms recover fast enough to isolate on consecutive days with different curl types
+2024-11-23 {{6p2x4kDDjzs@10691}} principle Large rep drop-off between sets shows low work capacity, mostly trainable, partly genetic
+2024-12-01 {{TvKzeUKgZcY@130}} opinion To get sick less often, paradoxically expose yourself more to the elements and the cold
+2024-12-22 {{ZLheQPgEfoA@4687}} anecdote He tries to sleep 8-9 hours  {"sleep": "8-9 h"}
+2025-01-04 {{0O0nG2jLadU@509}} principle Hypertrophy training increases how much sleep you need because the nervous system requires more rest
+2025-01-04 {{0O0nG2jLadU@572}} opinion Training right before bed is a bad idea because it revs you up too much; night work shifts are fine
+2025-01-04 {{0O0nG2jLadU@947}} opinion Daily foam rolling is fine, a bit like rice-bucket training, as long as you don't go too hard
+2025-01-04 {{0O0nG2jLadU@1072}} anecdote He has taken cold showers for seven years; it is a habit he thinks is good, especially in a cold climate  {"weeks": "7 yrs"}

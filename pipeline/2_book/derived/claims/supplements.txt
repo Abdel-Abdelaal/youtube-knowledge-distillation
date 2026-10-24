@@ -1,0 +1,222 @@
+2020-04-01 {{Xx7A1dAAPDo@379}} anecdote Because of his condition he must keep omega-3 levels from getting too high, so he limits fatty fish and fish oil.
+2020-04-13 {{jA3PfQmxrYA@513}} opinion Relying on an artificial hyped mindset leads to dependence on pre-workouts and caffeine; a steady spirit gives more consistent workouts.
+2020-06-02 {{6nKKGsCCqxo@445}} opinion Commercial weight gainers are garbage: pure sugar, industrial by-products, and expensive.
+2020-06-15 {{UgafGUt-VBc@0}} opinion He is not big on supplements for muscle, but for joint integrity and recovery they matter more
+2020-06-15 {{UgafGUt-VBc@816}} prescription MSM powder is cheap, horribly bitter and takes weeks to work, but is anti-inflammatory and reduces tendon pain; take about a teaspoon a day in juice, starting lower; he still takes it  {"dose": "1 tsp/day"}
+2020-06-15 {{UgafGUt-VBc@880}} opinion Glucosamine costs more than MSM and he saw little difference from it
+2020-06-15 {{UgafGUt-VBc@942}} prescription He put turmeric in every dish and drink while healing; absorption is debated, but he considers it great for health
+2020-06-15 {{UgafGUt-VBc@942}} anecdote Fish oil did nothing noticeable for him, so he stopped
+2020-06-15 {{UgafGUt-VBc@1004}} principle Supplements are only supplements; healing requires actions and good habits
+2020-06-27 {{dgxdlxNZUUs@63}} opinion About 90% of supplements are nonsense that does not work, and some are dangerous
+2020-06-27 {{dgxdlxNZUUs@63}} principle Supplements only provide what food can, in a more concentrated ratio; keeping that in mind lets you avoid most of them
+2020-06-27 {{dgxdlxNZUUs@63}} opinion Weight gainers and carb powders are stupid; make your own shake or just eat rice
+2020-06-27 {{dgxdlxNZUUs@126}} anecdote He uses whey or pea protein for convenience: he needs few calories to maintain, avoids animal products for genetic health reasons, has a low appetite and eats one to two meals a day  {"meals": "1-2/day"}
+2020-06-27 {{dgxdlxNZUUs@188}} prescription Pick a protein powder that is actually protein, without lots of carbs or added sugar
+2020-06-27 {{dgxdlxNZUUs@188}} anecdote Creatine works great for him: no hair loss (his hair is thicker than ever), longer and higher-volume workouts, and intramuscular water that makes him stronger and look bigger
+2020-06-27 {{dgxdlxNZUUs@249}} anecdote He checks his bloodwork every six months to make sure creatine does no damage  {"frequency": "every 6 months"}
+2020-06-27 {{dgxdlxNZUUs@249}} anecdote Creatine replaces the red meat he has to minimize for health reasons
+2020-06-27 {{dgxdlxNZUUs@312}} prescription He tries cheap supplements not obviously marketed to beginners, and stops anything that shows no improvement
+2020-06-27 {{dgxdlxNZUUs@312}} anecdote He took fish oil for a long time with no effect and stopped when his doctor said too much omega-3 was bad for him
+2020-06-27 {{dgxdlxNZUUs@312}} anecdote He takes MSM powder once or twice a week for tendon health; it improved his knee tendinitis and he has used it for years  {"frequency": "1-2x/wk"}
+2020-06-27 {{dgxdlxNZUUs@312}} anecdote He uses bee pollen with his own careful protocol to treat his pollen allergy, warning that allergic people risk anaphylactic shock
+2020-06-27 {{dgxdlxNZUUs@502}} opinion No supplement will make you big; a flashy tub that does may contain illegal substances
+2020-06-27 {{dgxdlxNZUUs@627}} anecdote He sometimes takes B12 without noticing a difference, takes no pre-workout, drinks no coffee and refuses to depend on stimulants
+2020-06-27 {{dgxdlxNZUUs@691}} prescription For intra-workout energy a carb drink is enough, and plain water is perfectly fine
+2020-07-22 {{pr6glFcyye0@254}} principle You do not need supplements to get bigger or shredded, only food, hard work and sleep
+2020-08-27 {{7eZtMIgSnOE@415}} anecdote He doesn't drink coffee; he tried it once, felt nothing and dislikes stimulants
+2020-08-27 {{7eZtMIgSnOE@436}} principle Most people drink more coffee than they think, and even a noon cup affects sleep
+2020-08-27 {{7eZtMIgSnOE@476}} principle Caffeine borrows energy you don't have, builds tolerance and creates a coffee-insomnia cycle
+2020-08-27 {{7eZtMIgSnOE@512}} principle A pre-workout at 7 pm for an 8-9 pm session wrecks sleep; better performance is worthless if recovery suffers
+2020-08-27 {{7eZtMIgSnOE@910}} opinion He does not recommend sleeping pills; fix your body yourself instead of taking drugs
+2020-10-26 {{W-s1ft_HqYE@1642}} anecdote He takes MSM powder for joints
+2020-11-07 {{A-asa7QMiG0@375}} opinion NH does not recommend pre-workout
+2020-11-17 {{vC9cKh9tFxs@530}} prescription Rule of thumb for supplements: take half the dose the label recommends
+2020-11-29 {{ZDKdqqbQ5Gk@380}} prescription Filtered water lacks minerals, so get minerals from a good diet or mineral supplements
+2020-12-31 {{2dgtL3DKo3k@439}} anecdote Long-term garlic consumption has helped his vascularity
+2021-01-08 {{xi9CuNbLd9g@188}} opinion Supplement sellers push absurd intakes like 200 g of protein a day for a 112 lb person so you finish the tub faster  {"protein": "200 g/day", "bodyweight": "112 lb"}
+2021-02-06 {{JpSZFxsTyKk@2300}} prescription Pledge never to buy a YouTube program or a supplement pushed by a creator; learn to program, use free programs, eat whole foods and train for a long time
+2021-03-01 {{kkbfHkyQ_q0@1890}} opinion Raw garlic can boost the immune system
+2021-03-31 {{eKBDacpRYSU@2391}} prescription Hide supplements from disapproving parents
+2021-04-05 {{XASWAdsSu0M@1271}} opinion Coffee is addictive; many people can't function without it because caffeine has replaced their natural wake-up hormones, much like steroid users who stop producing testosterone
+2021-04-05 {{XASWAdsSu0M@1334}} prescription Take a caffeine break of 1-2 weeks every two months  {"weeks": "1-2 every 2 months"}
+2021-04-05 {{XASWAdsSu0M@1271}} anecdote He is ready to work 15-20 minutes after waking at 7 a.m. without coffee
+2021-04-12 {{K4oH8Uta5JM@0}} anecdote NH takes only 3 supplements for bodybuilding; they are cheap, easy to sustain and healthy at appropriate doses  {"count": 3}
+2021-04-12 {{K4oH8Uta5JM@0}} opinion Most supplements are useless
+2021-04-12 {{YKCNJS5KNvw@376}} opinion Carb powders sell for about 10 times the price of the foods they're made from
+2021-04-12 {{YKCNJS5KNvw@1568}} prescription Night-time protein shakes are fine if protein intake falls short
+2021-05-26 {{ncd9mxXViBk@4609}} opinion No supplement gives muscle without side effects; the 'miracle' supplements that worked were banned because they were hormonal
+2021-06-09 {{b1o8K8EjpS0@2613}} anecdote NH says Blaha once wrote for Tiger Fitness selling supplements, despite now calling supplements a scam (low-confidence)
+2021-07-14 {{8ELQ2XZgpls@1211}} opinion Supplements are useless at this stage; programming is 100 times more important
+2021-07-30 {{4sXkXeKAxIM@1126}} opinion Creatine can speed hair loss in some people, as can stress and harsh shampoos
+2021-08-12 {{9mnLRQsrs9k@2480}} opinion Supplements and magic pills don't speed progress; some people quit after focusing on 15 supplements a day
+2021-08-12 {{9mnLRQsrs9k@2480}} principle Lifting is a free hobby; you don't need to buy anything to progress
+2021-08-20 {{qq459xqmq5A@1181}} opinion BCAAs, omega-3s and pre-workout are not why CBum looks the way he does; affiliate supplement lists exploit viewers
+2021-09-25 {{74XVh8ghvs4@1379}} opinion Natural test boosters are either disguised steroids or junk; focus on training instead
+2021-10-21 {{Ugw_uaUnz6F61H8ojYl4AaABCQ@0}} principle There is no magic pill: the fastest route to your goal physique is effort, not the industry's latest miracle powder
+2021-10-21 {{UgyIUuWZckZjqyitNvd4AaABCQ@0}} opinion Mocks lifters who depend on caffeine to train properly, calling it weak-willed (low-confidence)
+2021-11-07 {{45S8RV2nyKE@2378}} opinion LaLanne pioneered protein powder and the juicer, but you don't need whey to be jacked; he used little; the juicer helps obese people get vitamins easily
+2021-11-20 {{JEv9yOb0rbc@330}} anecdote Rich sold supplements while telling people they didn't need them and should eat real food
+2021-12-02 {{k80R-bpvcRk@2705}} opinion Zyzz shilled Jack3D, a pre-workout containing an amphetamine-like stimulant that harms the heart
+2021-12-16 {{S_EF3ebs5Jg@636}} opinion Whey protein was the first big hype supplement, sold as a magic potion that builds muscle without effort; in reality it only makes protein easier to consume
+2021-12-16 {{S_EF3ebs5Jg@888}} opinion He has never taken turkesterone or ecdysterone and never intends to; the video is about marketing rather than a product review
+2021-12-16 {{S_EF3ebs5Jg@1205}} principle Bulk discounts exist because the more product you have at home, the faster you consume it; buy three tubs and you'll drink more protein
+2021-12-16 {{S_EF3ebs5Jg@1267}} opinion Protein powder isn't physically addictive but stockpiling creates psychological dependence; stimulants are physically addictive through caffeine so they need less marketing
+2021-12-16 {{S_EF3ebs5Jg@1457}} prescription The way out is experience: stop or reduce protein powder for a while and watch your progress; nine times out of ten nothing changes
+2021-12-16 {{S_EF3ebs5Jg@1457}} anecdote He went from protein powder three times a day to about two scoops a week with no loss of weight or gains, and feels he wasted hundreds or thousands of dollars  {"frequency": "3x/day to 2 scoops/wk"}
+2021-12-16 {{S_EF3ebs5Jg@1519}} prescription Take half the recommended dose of any supplement (half a scoop of protein or pre-workout); results are the same and you buy half as many tubs
+2021-12-16 {{S_EF3ebs5Jg@1582}} opinion Creatine loading phases are useless and exist only to make you use up the product faster
+2021-12-16 {{S_EF3ebs5Jg@2345}} data By his research, 96-98.2% of exposure to turkesterone and ecdysterone came from viral campaigns on YouTube, Instagram and TikTok (low-confidence)  {"share": "96-98.2%"}
+2021-12-16 {{S_EF3ebs5Jg@3218}} anecdote A YouTuber 'tested' turkesterone after dieting in a deficit and losing muscle for a month, then credited the supplement for regains that were really muscle memory  {"weeks": 4}
+2021-12-16 {{S_EF3ebs5Jg@3474}} opinion Comparing ecdysterone to spinach is a straw man: eat spinach freely, but don't buy an extract that costs about 300 times more and gives less benefit
+2021-12-16 {{S_EF3ebs5Jg@3536}} opinion Ecdysterone sells for about $60 a small bottle at a margin near 200%; product prices are unrelated to manufacturing cost, like Nike shoes  {"price": "$60"}
+2021-12-16 {{S_EF3ebs5Jg@3599}} opinion Creatine is one of the most proven and potent supplements, yet one tub of ecdysterone costs as much as six tubs of creatine; the price gap is marketing, not potency
+2021-12-16 {{S_EF3ebs5Jg@4359}} anecdote He left negative reviews on 12-15 turkesterone/ecdysterone sites and 95% were deleted  {"sites": "12-15", "deleted": "95%"}
+2021-12-16 {{S_EF3ebs5Jg@4482}} opinion Fake comment accounts push turkesterone: untraceable names, muscular stock profile pictures, histories that only defend the product, and copy-pasted claims like '20 lb on my bench'
+2021-12-16 {{S_EF3ebs5Jg@4670}} opinion Any gains on turkesterone come from placebo or from training harder because you believe in it; keep training the same without it and gains are equal
+2021-12-16 {{S_EF3ebs5Jg@4732}} opinion Vegans eat lots of ecdysterone-rich quinoa yet aren't known for size, which undermines the hype
+2021-12-16 {{S_EF3ebs5Jg@4795}} principle Megadoses don't scale gains: creatine powder is about 20 times denser than red meat but doesn't give 20 times the gains; the body has a threshold
+2021-12-16 {{S_EF3ebs5Jg@4920}} opinion Show me the monsters: these products have been around for years, yet nobody bigger than top naturals got there on them
+2021-12-16 {{S_EF3ebs5Jg@5109}} opinion Every magic pill is either a laced steroid that alters hormones or a dud; the few that work, like creatine, don't justify $60  {"price": "$60"}
+2021-12-16 {{S_EF3ebs5Jg@5298}} opinion He predicts the next magic supplement will be a black pepper or capsaicin extract, based on studies linking spicy food to higher testosterone
+2022-01-26 {{he2KJeMcoAI@1009}} opinion [abs] Fat-loss creams rubbed on the abs are snake oil aimed at lazy people
+2022-01-29 {{GCc2vcnw3Bs@236}} principle Commandment 2, seek no magic pills: a product that truly works is probably a steroid that replaces your own anabolism, otherwise it is a bunk supplement; either way falling for it shows a lack of willpower
+2022-02-20 {{5ANLeP4QvX8@1259}} opinion The funnel is a hard 'ancestral' habit first, then a pricier, easier supplement version of it, because everyone prefers the path of least resistance
+2022-03-29 {{7Sp526pPxEU@1005}} opinion Natural supplement stacks are copied from PED users; when he cut 80% of his stack nothing changed, so cut yours in half  {"cut": "50-80%"}
+2022-03-29 {{7Sp526pPxEU@1005}} anecdote Only three supplements work for him: creatine, MSM powder and bee pollen, the last taken six months a year; the most expensive, most hyped supplements tend to be garbage
+2022-03-29 {{7Sp526pPxEU@1070}} anecdote He takes raw garlic and ginger and recommends trying tonic herbs instead of supplements
+2022-04-03 {{umQZm2ALxl8@2924}} opinion Creatine is the least damaging supplement to sell
+2022-04-12 {{GowuEmDClqY@1694}} opinion Testosterone-boosting supplements are bogus
+2022-04-12 {{GowuEmDClqY@3339}} opinion Most supplements are bogus scams pushed by influencers
+2022-04-16 {{L_aq5x4lom8@0}} opinion He critiques Sigma's marketing and logic without buying it, arguing you don't need to try a product to judge whether its pitch is sound
+2022-04-16 {{L_aq5x4lom8@940}} opinion Huberman claimed supplement benefits are felt immediately, but adaptogenic herbs take months and work by accumulation
+2022-04-16 {{L_aq5x4lom8@1690}} opinion Tongkat ali is the core of Sigma and the rest is fluff, as with pre-workouts where only caffeine and beta-alanine matter
+2022-04-16 {{L_aq5x4lom8@1816}} data A tongkat ali extract costs about $10 while Sigma costs $50-60; extra ingredients pad the label and justify the price  {"price": "$10 vs $50-60"}
+2022-04-16 {{L_aq5x4lom8@1879}} opinion Tongkat ali has been sold since at least 2003 and eaten for centuries in Thailand, Malaysia and Vietnam, whose populations are not unusually muscular
+2022-04-16 {{L_aq5x4lom8@2006}} opinion Names like ecdysterone and turkesterone deliberately evoke steroids for compounds sourced from spinach and quinoa
+2022-04-16 {{L_aq5x4lom8@2504}} anecdote Rogan once promoted deer antler velvet spray as boosting testosterone 200%, which was debunked like most test boosters  {"testosterone": "+200%"}
+2022-04-16 {{L_aq5x4lom8@2877}} opinion Supplements replace positive lifestyle changes: vitamin D replaces getting sun, ashwagandha for stress replaces dealing with the stressors
+2022-04-16 {{L_aq5x4lom8@3254}} opinion Test boosters are sold under the cover of health, like TRT, but bought for muscle; Derek never mentions tongkat ali's studied anti-cancer properties
+2022-04-16 {{L_aq5x4lom8@3758}} opinion Test boosters would only make sense for very advanced naturals, and those are exactly the people who never buy them
+2022-04-16 {{L_aq5x4lom8@3884}} opinion Novices credit supplements for newbie gains they'd have made anyway; their testimonials fuel viral social-proof marketing
+2022-04-16 {{L_aq5x4lom8@4261}} principle Whatever the formula or the science behind it, supplements are mostly overhyped, overpriced external factors; real change comes from within
+2022-05-05 {{goz7V7ncH8s@1137}} opinion Testosterone boosters are snake oil, usually sold by the same enhanced people who spread the fear, like old market charlatans who used planted accomplices
+2022-05-16 {{wNunDhhIvRE@188}} opinion Working for Tiger Fitness, a garbage supplement company, costs Steve Shaw integrity and supplement points
+2022-05-16 {{wNunDhhIvRE@3307}} opinion Scott Herman never launching a supplement line despite millions of subscribers earns a 9, docked once for hyping BCAAs
+2022-05-16 {{wNunDhhIvRE@4124}} opinion Supplements like ecdysterone and turkesterone have never created high-level physiques
+2022-05-16 {{wNunDhhIvRE@5134}} opinion Big creators who profit from their own supplement lines are graded down for it
+2022-06-26 {{MaolgGQTwKI@62}} data Greg Doucette and Derek of MPMD sold turkesterone that independent testing found to contain barely any turkesterone
+2022-06-26 {{MaolgGQTwKI@124}} opinion Turkesterone does nothing even in pure form, so buyers lost nothing extra; the anger targets the wrong issue
+2022-06-26 {{MaolgGQTwKI@249}} opinion Buyers of bunk turk scammed themselves by trying to dodge hard work; most were novices with no gains
+2022-06-26 {{MaolgGQTwKI@436}} anecdote Derek repeatedly said his supplements might only work for hyper-responders and do nothing for most people
+2022-06-26 {{MaolgGQTwKI@1440}} opinion He estimates 70-80% of buyers were teenagers spending their parents' money; someone on minimum wage would not spend 80 dollars on a bottle
+2022-06-26 {{MaolgGQTwKI@1630}} opinion The supplement industry is the real system; individual sellers are replaceable heads of a hydra
+2022-06-26 {{MaolgGQTwKI@1757}} anecdote Community testimonials like '+25 lb on my bench from Gorilla Mode turk' did more damage than Derek himself through social proof  {"load": "25 lb"}
+2022-06-26 {{MaolgGQTwKI@2516}} opinion The placebo defense fails: whatever effect buyers felt came from training harder, and they could have had it without the product
+2022-06-26 {{MaolgGQTwKI@2704}} opinion Saying Derek did not scam on purpose is worse: a supplement seller who does not check suppliers could just as easily sell something overdosed and toxic
+2022-06-26 {{MaolgGQTwKI@2893}} opinion A new magic muscle supplement will appear within 6-12 months and people will fall for it again
+2022-06-26 {{MaolgGQTwKI@3142}} prescription The only real fix is to stop buying supplements and products from fitness youtubers altogether
+2022-07-14 {{zAh18SRUOLw@2271}} opinion SARM, pre-workout and test-booster companies use flashy childish marketing aimed at zoomers' arrested development
+2022-07-14 {{zAh18SRUOLw@2334}} anecdote Viewers who quit stimulants for two weeks after his caffeine video reported their headaches, fatigue and shaking disappeared  {"weeks": 2}
+2022-07-24 {{Sp_95PdknW4@881}} opinion The best stance on supplements is to never mention them; Enkiri also fought the turkesterone craze
+2022-07-24 {{Sp_95PdknW4@1125}} opinion Associating with scammy supplement sellers lowers your integrity even if you don't scam yourself
+2022-07-24 {{Sp_95PdknW4@1693}} opinion Supplement promotion is more harmful the larger and younger the audience
+2022-07-24 {{Sp_95PdknW4@3665}} opinion Anyone selling testosterone boosters is a scam artist
+2022-07-24 {{Sp_95PdknW4@4835}} prescription Promote real whole food rather than supplements
+2022-07-24 {{Sp_95PdknW4@5844}} opinion Pump supplements don't do much
+2022-07-28 {{gSFUgZ42R1A@1263}} prescription Focus on micronutrients; a balanced diet removes the need for vitamin supplements, which are crutches
+2022-08-22 {{IzUEOsA4nIw@820}} principle Supplements attach the image of a muscular body to the product, so buyers unconsciously expect to look like the seller
+2022-08-22 {{IzUEOsA4nIw@1952}} opinion The 'might as well try it in case it works' mindset (as with turkesterone and ecdysterone) is what funds the industry
+2022-08-22 {{IzUEOsA4nIw@2705}} opinion The Doucette and More Plates More Dates Blitz controversy was never about the supplement being bunk; buying a supplement to get big was the problem
+2022-09-11 {{B17sX2hT-5w@956}} opinion Taking money from a supplement company costs a creator points even if the company is good
+2022-09-11 {{B17sX2hT-5w@2813}} opinion Promoting nootropics to an uneducated audience is selling smart pills and is risky
+2022-09-15 {{gSMmb820owE@2709}} data Whey per 100 g: about 400 kcal, 86 g protein, 4 g fat, 1 g carb, 100% bioavailable, about $3 per 100 g, keeps about 2 years; total 16/20  {"kcal": 400, "protein": "86 g", "price": "$3/100 g", "shelf_life": "2 yr"}
+2022-09-15 {{gSMmb820owE@2772}} principle Whey is a supplement to food intake; eat real food first
+2022-09-15 {{gSMmb820owE@2834}} prescription Don't dry scoop protein powder
+2022-09-15 {{gSMmb820owE@2961}} data Cricket powder per 100 g: 445 kcal, 70 g protein, 18 g fat, 1 g carb  {"kcal": 445, "protein": "70 g", "fat": "18 g"}
+2022-09-15 {{gSMmb820owE@3023}} data He claims you absorb about 20 g of whey vs 30 g of cricket powder per hour, and that an 80 g shake is only about 30% used because it transits in 1-1.5 h, so sip shakes slowly or take smaller ones (low-confidence)  {"absorption": "20-30 g/h"}
+2022-09-15 {{gSMmb820owE@3147}} data Cricket powder costs $5 (Thailand) to $15 (US) per 100 g, tastes like crickets but more bitter, and may suit lactose-intolerant lifters; total 13.5/20  {"price": "$5-15/100 g"}
+2022-09-15 {{gSMmb820owE@3398}} anecdote He eats a small packet of crickets as a snack about once a week and plans to try half cricket powder, half whey  {"frequency": "1x/wk"}
+2022-10-18 {{0xZ2Yl1PUmc@1328}} opinion Test boosters (e.g. boron) sold by influencers like More Plates More Dates are garbage that makes teens hyper-focus on T levels instead of training
+2022-10-21 {{Ugkx510-ghrzPoWMiwJxk3wGCmS9SnUaRbRt@0}} opinion Satirical plan to replace whey with insect protein and become 'the Bug King', riffing on his videos about eating bugs
+2022-10-25 {{E1er3oQ3IeM@2704}} opinion (Guest Stand Strength) Supplements are mostly useless; tiredness needs sleep, low protein needs food
+2022-12-07 {{eWP2m4lLq_0@564}} opinion Stimulants like caffeine work like motivation: when the spike fades through tolerance or running out, the training that depended on it stops too
+2022-12-12 {{uF-j7u5VLaY@1016}} opinion Katcherian scores 10 on supplements: he could make a fortune selling 'Golden Era' supplements but does not
+2022-12-12 {{uF-j7u5VLaY@1933}} opinion Smelling salts are a meme; if you need them to lift, rethink your approach because it is not sustainable
+2022-12-12 {{uF-j7u5VLaY@2863}} principle Supplement powders do not build muscle; only training and food do
+2022-12-12 {{uF-j7u5VLaY@4617}} opinion Selling organ meat supplements works because people find real organ meat smelly, unappetizing and hard to source, so the pill becomes the easy path
+2023-05-28 {{8C3R94M4yNM@0}} opinion Most supplements are useless for bodybuilding; you don't need hundreds of dollars of powders and pills to build muscle
+2023-05-28 {{8C3R94M4yNM@185}} principle Raw garlic boosts the immune system, so you get sick less and miss fewer workouts, avoiding the regression that follows a flu
+2023-05-28 {{8C3R94M4yNM@185}} data Garlic supplementation has been shown to lower blood pressure naturally
+2023-05-28 {{8C3R94M4yNM@249}} opinion Better blood flow from healthy arteries delivers more nutrients to muscle and so helps recovery, so even young lifters benefit from starting garlic early
+2023-05-28 {{8C3R94M4yNM@249}} data Garlic lowers LDL cholesterol while keeping HDL intact, useful for lifters who eat lots of eggs and animal products
+2023-05-28 {{8C3R94M4yNM@313}} opinion Garlic acts as an antibiotic that kills bad gut bacteria and candida while sparing beneficial flora, unlike pharmaceutical antibiotics that wipe out the gut and cost you gym performance
+2023-05-28 {{8C3R94M4yNM@500}} opinion Test boosters and similar products are nonsense marketing; nothing natural raises testosterone or simply makes muscles bigger
+2023-05-28 {{8C3R94M4yNM@500}} anecdote Raw garlic gives big pumps through better blood flow (nitric oxide); the effect lessens with habituation but stays as a constant improved circulation
+2023-05-28 {{8C3R94M4yNM@562}} opinion Garlic gives a sustained stimulant effect through the day, cheaper and healthier than pre-workouts that spike and crash
+2023-05-28 {{8C3R94M4yNM@624}} prescription Never eat a whole bulb; one to two cloves is enough and more will make you vomit and lose the effect  {"dose": "1-2 cloves"}
+2023-05-28 {{8C3R94M4yNM@624}} principle Downsides of garlic: breath and body odour, sweat smelling of garlic, gas, stomach pain and heartburn; some people simply cannot digest it
+2023-05-28 {{8C3R94M4yNM@686}} prescription Start with half a clove, always with a meal, never on an empty stomach, twice a week  {"dose": "0.5 clove", "frequency": "2x/wk"}
+2023-05-28 {{8C3R94M4yNM@686}} prescription Target dose is one to two cloves every other day; studies show one clove per 24 hours maximises allicin benefits  {"dose": "1-2 cloves", "frequency": "every other day"}
+2023-05-28 {{8C3R94M4yNM@748}} prescription Eat garlic at lunch, not before bed, to avoid heartburn; evening trainees will feel the effect during their session
+2023-05-28 {{8C3R94M4yNM@811}} prescription Always eat garlic raw; cooking destroys allicin
+2023-05-28 {{8C3R94M4yNM@811}} prescription Slice garlic very thin, let it rest 60 seconds (the 10-minute rule is a myth), and chew thoroughly to avoid stomach pain  {"rest": "60 s"}
+2023-05-28 {{8C3R94M4yNM@875}} prescription Buy organic garlic; good garlic smells strongly at the root, is hard like wood, and has no sprouts
+2023-05-28 {{8C3R94M4yNM@1001}} data Ginger extract reduces waist-to-hip ratio in obese patients, may help arthritis and joint pain, improves insulin sensitivity, aids digestion and may lower heart disease, cancer and Alzheimer's risk
+2023-05-28 {{8C3R94M4yNM@1129}} anecdote Good insulin sensitivity shows as a pump and fuller muscles after carbs; since eating ginger he gets full muscles after rice or pasta instead of lethargy and brain fog
+2023-05-28 {{8C3R94M4yNM@1253}} anecdote Ginger improves mental focus, better than nootropic brain pills, but does not give garlic's energy boost
+2023-05-28 {{8C3R94M4yNM@1319}} anecdote Both garlic and ginger boost libido, likely through improved blood flow
+2023-05-28 {{8C3R94M4yNM@1319}} anecdote Ginger downsides: sour armpit odour and it can cause diarrhoea
+2023-05-28 {{8C3R94M4yNM@1380}} prescription Start ginger with a small piece every 48 hours; he now eats four to five sizeable pieces every 48 hours  {"frequency": "every 48 h"}
+2023-05-28 {{8C3R94M4yNM@1443}} prescription Buy ginger from Asian markets; it must be dry, hard, clean (no mould), smell strong, show yellow juicy flesh and little fibre when broken
+2023-05-28 {{8C3R94M4yNM@1568}} prescription Pickle peeled ginger chunks in fruit juice (cranberry, cherry, apple, pineapple, grape) at least four days, replacing the juice, or in honey with a little water for 10-15 days in the fridge  {"days": "4+ (juice), 10-15 (honey)"}
+2023-05-28 {{8C3R94M4yNM@1695}} prescription Don't buy garlic pills or store-bought pickled ginger; they lack the active compounds, so prepare the herbs yourself
+2023-06-04 {{JSOvpTDcSvA@1131}} opinion [abs] Fat burners don't work, and without developed abs underneath you just get a poor six-pack
+2023-08-01 {{aOk65xuzIPE@2151}} opinion More Plates More Dates draws people in with PED curiosity, convinces them they can't look good natural, then sells supplements such as test boosters (placebo at best) and co-owns a TRT clinic
+2023-10-19 {{TxDUQPe3B0E@188}} opinion He doesn't drink coffee or use stimulants because he sees relying on them to get going as a slippery slope
+2023-10-19 {{TxDUQPe3B0E@252}} prescription He has only one scoop of whey a day; if you need many scoops to hit protein, the rest of your diet is garbage, and a diet that is 50% supplements is wrong  {"scoops": 1}
+2023-10-19 {{TxDUQPe3B0E@252}} prescription He adds collagen to his oat-milk whey for tendon health, and it also helps the whey mix
+2023-10-19 {{TxDUQPe3B0E@1070}} opinion He takes no stimulant pre-workout because he enjoys training and shouldn't need to be amped up for it
+2023-11-05 {{SxqjF2oPasg@3464}} opinion Pre-workout and intra-workout supplements are C tier; he's personally against pre-workouts
+2023-11-05 {{SxqjF2oPasg@3590}} opinion Supplements are D tier, worth maybe 1% if you're lucky
+2024-01-14 {{jDk3LytTEjA@942}} opinion Being sponsored by Gorilla Mind is a red flag for natty claims; he knows no verifiable natural sponsored by that brand
+2024-01-14 {{jDk3LytTEjA@1611}} prescription The only supplements worth anything are whey protein, creatine, multivitamins and vitamin D; everything else is a bonus at most
+2024-01-14 {{jDk3LytTEjA@3530}} opinion Pro-bodybuilder supplement brands sell products unrelated to why they are big; $40 pre-workout is a scam, just drink coffee  {"price": "$40"}
+2024-03-03 {{SV5rA-iMHRE@1838}} principle Supplements are the least important part of a bulk; they do almost nothing compared with food
+2024-03-03 {{SV5rA-iMHRE@1900}} prescription He takes one scoop of whey a day, sometimes 3-4 times a week; if shakes are most of your protein you are bulking wrong  {"frequency": "3-4x/wk"}
+2024-03-03 {{SV5rA-iMHRE@1900}} prescription He takes creatine daily without cycling, above the label dose, for work capacity; stop it if it causes hair loss
+2024-03-03 {{SV5rA-iMHRE@1962}} anecdote He has taken MSM powder nonstop for 5 years for knees he hurt long ago; it was the only thing that worked, tastes awful, and boosts hair and nail growth  {"duration": "5 yr"}
+2024-03-03 {{SV5rA-iMHRE@2025}} opinion Any supplement that truly builds muscle is a steroid and will wreck your hormones
+2024-05-05 {{K--tJia2Wnc@0}} principle If you are allergic to pollen, taking bee pollen can trigger anaphylactic shock and kill you
+2024-05-05 {{K--tJia2Wnc@64}} anecdote He started bee pollen three years earlier to fight severe spring pollen allergies without drowsy antihistamines  {"years": 3}
+2024-05-05 {{K--tJia2Wnc@126}} prescription Microdosing protocol: start in early April with one or two pellets on the tongue once a day, increase frequency and dose slowly, stop if you react
+2024-05-05 {{K--tJia2Wnc@190}} anecdote Tingling or numbness on the palate is an allergic reaction that fades with daily exposure; by end of April he tolerates a quarter teaspoon
+2024-05-05 {{K--tJia2Wnc@254}} data Ancient Egyptians, Greeks (ambrosia), Romans and Native Americans used bee pollen for energy, health and athletic or military performance (low-confidence)
+2024-05-05 {{K--tJia2Wnc@569}} data Bee pollen is claimed to be antioxidant, anti-diabetic, liver- and kidney-protective, and anti-inflammatory (low-confidence)
+2024-05-05 {{K--tJia2Wnc@569}} opinion Creatine won't necessarily destroy kidneys but can cause kidney stones in some individuals
+2024-05-05 {{K--tJia2Wnc@631}} anecdote He believes bee pollen improves skin, hair quality and digestion, especially on an empty stomach
+2024-05-05 {{K--tJia2Wnc@694}} data Studies suggest bee pollen improves protein synthesis (low-confidence)
+2024-05-05 {{K--tJia2Wnc@820}} data Studies suggest bee pollen users do more volume at higher frequency, recover faster and gain strength faster (low-confidence)
+2024-05-05 {{K--tJia2Wnc@946}} data Bee pollen is pollen mixed with nectar and bee saliva; the enzymes from the saliva make it potent (low-confidence)
+2024-05-05 {{K--tJia2Wnc@1071}} anecdote Bee pollen gives him euphoric, almost manic energy all day; people prone to anxiety may find it worsens it
+2024-05-05 {{K--tJia2Wnc@1385}} prescription Dose for an adult male: three teaspoons a day, one on waking (on an empty stomach, delaying breakfast about 90 min), one after lunch and one after dinner  {"frequency": "3x/day"}
+2024-05-05 {{K--tJia2Wnc@1510}} prescription Let the bee pollen dissolve fully in your saliva before swallowing to absorb the nutrients
+2024-05-05 {{K--tJia2Wnc@1510}} prescription Buy local bee pollen, not from Amazon: it is cheaper, often organic, and local pollen helps with local allergies
+2024-05-05 {{K--tJia2Wnc@1573}} prescription A month of organic bee pollen should cost about 10-15 euros or up to 20 dollars; paying more is a scam  {"price": "$12-20/month"}
+2024-05-05 {{K--tJia2Wnc@1635}} principle Training always beats any supplement; bee pollen without hard work builds nothing
+2024-05-05 {{K--tJia2Wnc@1699}} prescription Avoid bee pollen capsules or blends with creatine; buy the real organic pellets
+2024-09-07 {{bRKQIOYo2u4@326}} opinion He still takes bee pollen every single day because the benefits are too large to stop
+2024-09-07 {{bRKQIOYo2u4@1791}} opinion He takes MSM daily: it helps tendon pain and makes nails and hair grow faster
+2024-09-07 {{bRKQIOYo2u4@2368}} opinion Creatine gives some people water retention but never caused him any adverse effect
+2024-09-07 {{bRKQIOYo2u4@12049}} opinion Protein powder is not worth the money at current prices
+2024-09-14 {{okm6bZHKHI4@13741}} opinion He is against stimulant pre-workouts because needing to be wired to train builds an unhealthy relationship with lifting
+2024-09-21 {{lyj1BFZ85Dg@8510}} opinion One morning coffee is a ritual, not an addiction; coffee all day long is what sustains the addiction
+2024-10-19 {{c7hl9u3h_s0@1906}} anecdote He keeps taking MSM because his joints suffer quickly when he stops
+2024-10-19 {{c7hl9u3h_s0@6052}} opinion He takes only creatine, MSM and protein; test boosters are a scam
+2024-10-19 {{c7hl9u3h_s0@6442}} opinion He is anti-stimulant and takes no pre-workout
+2024-11-03 {{o40xCjIzl14@3499}} anecdote He barely drinks (a beer or two a year) and considers alcohol poison  {"beers": "1-2/yr"}
+2024-11-30 {{z9MttM0Bq-I@760}} opinion If you can only train when hyped on pre-workout or caffeine, your relationship with training is compromised; it's fine to start that way but not as a crutch
+2024-12-01 {{TvKzeUKgZcY@827}} opinion Creatine side effects vary: some report bloating, water retention or hair loss (DHT); he takes a tablespoon daily with no issues  {"dose": "1 tablespoon/day"}
+2024-12-11 {{Plr3f3LXO_o@3681}} anecdote Taking taurine before bed gave him very vivid dreams, deeper sleep and staying in REM without waking; it costs about 10 dollars for six months  {"cost": "~$10 for 6 months"}
+2024-12-22 {{ZLheQPgEfoA@7593}} opinion There are no natural steroids: if it works it is a steroid; tongkat-type supplements do not work and those who say they do sell them
+2024-12-22 {{ZLheQPgEfoA@7593}} opinion Creatine is natural, cheap and works, but the effect is small
+2025-02-08 {{-7bzbmL-x3Q@564}} opinion His favourite joint supplement is MSM powder: it tastes terrible but he uses it to keep ligaments and joints strong

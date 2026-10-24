@@ -1,0 +1,1002 @@
+2020-01-06 {{zXjb2_iz7DM@1}} anecdote The channel documents his bodybuilding journey, where bodybuilding means expanding the body's ability to get bigger, outside the professional sport.
+2020-01-06 {{zXjb2_iz7DM@64}} anecdote [biceps] He sets clear numeric size goals per body part, e.g. reaching an 18-inch arm, and films the workouts toward them.  {"arm_goal": "18 in"}
+2020-01-06 {{zXjb2_iz7DM@127}} anecdote He will tape-measure body parts on camera to prove progress, then recap what worked, what didn't, and what he advises, for arms, calves, thighs, forearms, neck and more.
+2020-01-08 {{m6zOEA6DjCg@5}} anecdote [quads] His thighs measure 26 inches and his goal is 28 inches, with no deadline: it could take five months or a year.  {"current": "26 in", "goal": "28 in"}
+2020-01-08 {{m6zOEA6DjCg@5}} anecdote [quads] He will film every leg workout and post updates at 27 inches and at 28 inches.  {"milestone": "27 in"}
+2020-01-08 {{m6zOEA6DjCg@70}} anecdote [quads] His left leg is slightly bigger than his right; the right is also 26 inches but with slightly less quad and more hamstring.
+2020-01-09 {{IZXtM80btS4@0}} anecdote [biceps] His arms measure about 17 inches (one arm about 17.5 flexed) and his goal is 19 inches, done naturally, with no deadline.  {"current": "17-17.5 in", "goal": "19 in"}
+2020-01-09 {{IZXtM80btS4@0}} anecdote [biceps] He will post all his arm training and make an update video on reaching 18 inches.  {"milestone": "18 in"}
+2020-01-10 {{OgnADmMnIsk@64}} anecdote [back] He agrees with a commenter who said his physique lacks traps and rear delts.
+2020-01-10 {{OgnADmMnIsk@190}} anecdote [back] His three back goals are upper traps, rear delts and lats, with progress photos compared after 6-8 months.  {"weeks": "6-8 months"}
+2020-01-11 {{CVY-PytvEjw@190}} anecdote [forearms] Both forearms measure 13.5 inches against 17.5-inch upper arms; his goal is 15-inch forearms.  {"current": "13.5 in", "goal": "15 in"}
+2020-01-11 {{D3EIDEZqCwU@70}} anecdote [chest] Chest is not the body part he is most excited about, but he loves bench pressing.
+2020-01-12 {{PfqgZ3_2EcM@0}} anecdote [neck] His neck is 16 inches and he has never trained it directly.  {"current": "16 in"}
+2020-01-12 {{PfqgZ3_2EcM@128}} anecdote [neck] His neck goal is 18 inches, which he thinks will extend it past his jawline.  {"goal": "18 in"}
+2020-01-12 {{TN76DttpTKI@0}} anecdote [calves] He has never trained calves directly; five years of high-school football and college basketball (running, plyometrics) built them to 16 inches.  {"current": "16 in", "years": "5"}
+2020-01-13 {{nBxKfXv6lTA@0}} anecdote After almost 10 years of lifting he wants to give back by teaching people to get bigger naturally.  {"years": "~10"}
+2020-01-13 {{nBxKfXv6lTA@61}} anecdote The 'Road to' playlists summarize all his training per body part so viewers can replicate the workouts.
+2020-01-18 {{S1h9qEhIo-I@0}} anecdote NH started lifting at 15 weighing 120 lb; he was so weak he couldn't do a single push-up and had to do them on his knees.  {"bodyweight": "120 lb"}
+2020-01-18 {{S1h9qEhIo-I@0}} anecdote At the start he could only train about 10 minutes (knee push-ups, sit-ups, light pink dumbbell curls) but did it every day, eventually progressing to full push-ups and bodyweight squats.  {"frequency": "daily", "duration": "10 min"}
+2020-01-18 {{S1h9qEhIo-I@61}} anecdote With no gym or weights where he lived, he curled chairs and anything liftable; two years of bedroom calisthenics took him to about 140-150 lb by age 17.  {"bodyweight": "140-150 lb", "years": 2}
+2020-01-18 {{S1h9qEhIo-I@61}} anecdote At 17 he started high school football and bought adjustable dumbbells (about 50 lb total), doing lifts his coach suggested such as raises, curls and rows.  {"load": "~50 lb"}
+2020-01-18 {{S1h9qEhIo-I@124}} anecdote Dumbbell training alone took him to about 170-175 lb with decent definition by age 20.  {"bodyweight": "170-175 lb"}
+2020-01-18 {{S1h9qEhIo-I@124}} anecdote From 19 he trained for basketball (weights, plyometrics, lots of swimming) purely for sport performance, not looks.
+2020-01-18 {{S1h9qEhIo-I@187}} anecdote He first set foot in a gym at 20 after leaving his country for college, with five years of training behind him but never having touched a barbell, squatted or benched; he weighed about 180 lb.  {"bodyweight": "180 lb", "years": 5}
+2020-01-18 {{S1h9qEhIo-I@187}} anecdote For roughly his first year in a gym he did random workouts with no program before discovering powerlifting.  {"years": 1}
+2020-01-18 {{S1h9qEhIo-I@311}} anecdote Between 20 and 22 he gained about 40 lb (180 to 220 lb) and got strong, but had mass only in chest, back and legs, with no lats or traps, bad shoulders, knee pain and back pain.  {"bodyweight": "180->220 lb"}
+2020-01-18 {{S1h9qEhIo-I@374}} opinion Anyone whose goal is their physique is a bodybuilder, however they train, and NH created the channel because he now has the experience to teach such people.
+2020-01-19 {{cebtGvbT1F8@0}} opinion NH keeps his real name and location private; he thinks a community of natural lifters doesn't need to know him by name.
+2020-01-19 {{cebtGvbT1F8@0}} data NH's stats: age 25, 6 ft without shoes, 215 lb, 17.5-inch arms, 13-inch forearms, 16-inch calves, 26-inch thighs, 16-inch neck.  {"age": 25, "height": "6 ft", "bodyweight": "215 lb"}
+2020-01-19 {{cebtGvbT1F8@62}} opinion He created the channel not for fame, money or attention but to build a community of natural lifters working together to get bigger.
+2020-01-19 {{cebtGvbT1F8@62}} anecdote He trains alone and feels a need to teach, and also wants to expose himself to criticism through the channel.
+2020-01-21 {{iX9lLFDvw_w@380}} data [biceps] NH's arms are 18 inches pumped and 17.5 inches cold, which he cites as grounds to speak on the topic.  {"size": "18 in pumped / 17.5 in cold"}
+2020-01-25 {{ZvKRTWehUDk@63}} anecdote NH used to wear gloves and refused to listen when people told him to lift bare-handed.
+2020-01-28 {{4FY2Ct22qXU@62}} anecdote He ran a body part split when he did powerlifting as a beginner and it worked for him.
+2020-01-28 {{cHYOYTgiRlM@250}} anecdote He built up training time gradually: at first he couldn't train 10 minutes, then 40 minutes, 1 hour, 2 hours; now a 1-hour session doesn't feel like a workout.  {"duration": "10 min -> 40 min -> 1 h -> 2 h"}
+2020-02-02 {{RaGX9rPQr4k@247}} anecdote He played high school football and college basketball, but since it can't be verified online he doesn't use it as a credential.
+2020-02-02 {{RaGX9rPQr4k@1104}} anecdote He too did too many squats and deadlifts and is now balancing it; he was saved because he skipped legs his first five years, giving him a big upper body and arms.  {"years": 5}
+2020-02-02 {{XXLuK_9Ilf4@0}} anecdote He started with calisthenics only, then moved to home dumbbells because where he lived minors weren't allowed in gyms.
+2020-02-02 {{XXLuK_9Ilf4@0}} anecdote With one set of adjustable dumbbells he did every exercise with the same weight, knew nothing about training and copied movements he saw on TV.
+2020-02-02 {{XXLuK_9Ilf4@64}} anecdote Having read that the body needs only 24 hours to recover, he did the same full body workout every day.  {"recovery": "24 h", "frequency": "daily"}
+2020-02-02 {{XXLuK_9Ilf4@127}} anecdote [biceps] From age 17 to almost 22 his only biceps exercise was daily cheat curls: no strict curls, no chin-ups, no stretch work.  {"years": "~5", "frequency": "daily"}
+2020-02-04 {{M9QpHgTUago@63}} anecdote NH broke both sides of his ribcage about 1.5-2 years earlier and still has chronic intercostal pain he must manage or risk re-breaking it.  {"years": "1.5-2"}
+2020-02-05 {{GyI1_wJJcKE@0}} anecdote [calves] NH ignored calves for years because football and basketball plyometrics and running gave them work, and he was focused on squat, bench and deadlift.
+2020-02-06 {{iY2uzM3vlBA@380}} anecdote [back] In four years of conventional deadlifting NH never woke up sore-backed or had a back injury, which he credits to avoiding fishing rod form.  {"years": 4}
+2020-02-07 {{SVGIPYo1mDg@124}} anecdote NH's grandfather, a construction worker, farmer and hunter for 30-40 years, still wakes at 5am, chops wood and carries logs at 90, which NH attributes to muscle built early and maintained.  {"age": 90}
+2020-02-08 {{S5i157GyQGo@78}} anecdote [forearms] At 170-180 lbs bodyweight NH did sets of 20 thumb-only push-ups and 1-2 reps on the index finger, never any on other single fingers.  {"reps": 20, "load": "170-180 lbs bodyweight"}
+2020-02-08 {{S5i157GyQGo@142}} anecdote [forearms] His current goal is to do two-finger push-ups at 215 lbs bodyweight.  {"load": "215 lbs bodyweight"}
+2020-02-11 {{4aIHcNEDTNA@190}} anecdote NH meets only one criterion: he is young, has no sport-science diploma, and his body is his only proof.
+2020-02-11 {{sT8z3ENnqAQ@567}} anecdote [back] NH has scoliosis, so his back sits naturally to one side; he pulled all his deadlifts mixed grip when he cared about numbers and loved it. (low-confidence)
+2020-02-12 {{NAkUxLa5Ttg@377}} anecdote NH trains about three hours a day and works nine hours a day; replacing all compounds with isolation would mean 4-5 hours of training daily.  {"training": "3 h/day", "work": "9 h/day"}
+2020-02-12 {{VAblRcVMjqw@63}} anecdote NH started as a very skinny 120 lbs and went to 240 lbs over about 7-8 years.  {"weight": "120 -> 240 lbs", "years": "7-8"}
+2020-02-12 {{VAblRcVMjqw@186}} anecdote At 6 ft with a small frame, 240 lbs was far too heavy; breaking both ribs squatting made him realize he was fat, not massive.  {"height": "6 ft", "weight": "240 lbs"}
+2020-02-14 {{IahVc0kbGOU@0}} anecdote [shoulders] In four years of benching he injured himself several times: once a pec strain, otherwise always his right shoulder (rotator cuff sprains or AC joint issues).  {"years": 4}
+2020-02-14 {{IahVc0kbGOU@63}} anecdote [shoulders] He kept re-injuring his shoulder at the same point, around 285-295 lbs touch-and-go for 5-6 reps, rebuilding then getting hurt again, until at 23 he realized the problem was becoming chronic and changed his approach.  {"load": "285-295 lbs", "reps": "5-6"}
+2020-02-16 {{VpPf9o5923k@379}} anecdote He went from 120 lbs to 190-200 lbs gradually without spikes and made his best gains then; bulking from 200 to 240 is when he put on the most fat.  {"load": "120 to 190-200 lbs; 200 to 240 lbs"}
+2020-02-17 {{_4wWgin1dVY@504}} anecdote He has never followed someone else's program; a self-written program may not be optimal but is most suitable and you learn from its mistakes.
+2020-02-18 {{kxlHPQmV5uI@125}} anecdote At his strongest, when focused on powerlifting and heaviest, he weighed 225 lbs with a 335 bench, 500 deadlift and a 400-something squat.  {"bodyweight": "225 lbs", "load": "335 bench / 500 deadlift / 400+ squat"}
+2020-02-18 {{kxlHPQmV5uI@189}} anecdote He describes himself as standoffish at the gym and rarely talking to people.
+2020-02-18 {{reo4jrbds-U@126}} anecdote [calves] He is adding this to his calf routine with the goal of reaching 18-inch calves and beyond.  {"inches": 18}
+2020-02-20 {{eU_f4lGi9vA@251}} anecdote He used mixed grip for every pull two years earlier when training for powerlifting without ever competing, and now regrets it.
+2020-02-20 {{eU_f4lGi9vA@314}} anecdote He has scoliosis with one shoulder lower, so mixed grip happened not to worsen his symmetry; people without it create an imbalance.
+2020-02-20 {{ghUmr86Es4Y@125}} anecdote He can explain how every one of his body parts grew and which exercises built them; none just grew, even the gifted ones.
+2020-02-20 {{ghUmr86Es4Y@186}} anecdote [biceps] He has trained arms passionately for almost a decade and could talk about arm training for 30 minutes; behind a physique there should be shareable knowledge for the community.  {"years": "~10"}
+2020-02-23 {{JWwA9H6xUC0@0}} anecdote He has mostly perma-bulked his whole lifting career and only had a few stints of cutting.
+2020-02-23 {{JWwA9H6xUC0@129}} anecdote He bulked to 240 lbs, got scared when he realised he was fat, and crash-cut 30 lbs to 210 in about five months, losing fat and water but also muscle.  {"load": "240 to 210 lbs", "weeks": "~20"}
+2020-02-23 {{JWwA9H6xUC0@256}} anecdote After the traumatic cut to 210 he recomped, did a mini-bulk to 225, then decided to be smarter and has been recomping for a year and a half, now around 215 lbs.  {"load": "210 to 225 to ~215 lbs", "weeks": "~78"}
+2020-02-24 {{OATtf3kPtdI@1001}} anecdote [back] He was an excellent calisthenics athlete, gave up pull-ups for almost two years when he got heavy, and when he returned could barely do five; he regrets the lost back development.  {"weeks": "~100", "reps": 5}
+2020-02-24 {{OATtf3kPtdI@1629}} anecdote [back] Training at home without a barbell, he built his lower back with bed bridges stacking plates on his belly for minutes at a time, and has never had a lower back injury.
+2020-02-28 {{xe1s_--iA98@251}} anecdote Despite being fairly advanced, he barely trained triceps, calves, traps and forearms before and is now getting noob gains on them.
+2020-02-28 {{xe1s_--iA98@377}} anecdote In his country his football team had no gym, yet on their first gym visit a ~170 lb teammate cleaned about 205 lbs on his first try.  {"load": "~205 lbs clean at ~170 lbs bodyweight"}
+2020-02-29 {{y_lPAdWi4sU@65}} anecdote He used to do powerlifting but no longer does.
+2020-02-29 {{y_lPAdWi4sU@507}} anecdote He still discovers what works for him and drops things he's done for years.
+2020-03-01 {{EJAKZvfktBI@124}} anecdote He answers and likes every single comment he can see.
+2020-03-01 {{Pa9RvC5Es0U@61}} anecdote He started training at 15 and is 25, so he has 10 years of lifting, but breaks, skipped days and ineffective training made some periods worthless.
+2020-03-01 {{Pa9RvC5Es0U@125}} anecdote He doesn't consider himself elite, or even advanced for most body parts, because he has only trained seriously for bodybuilding for about two years.
+2020-03-01 {{Pa9RvC5Es0U@125}} anecdote His first five years of lifting were for football and then basketball, focused on athletic ability; then he did powerlifting before turning to bodybuilding.
+2020-03-01 {{Pa9RvC5Es0U@187}} anecdote The earlier eight years built a lot of mass, but his results since getting serious about bodybuilding are incomparable, and he knows he's nowhere near his limits.
+2020-03-02 {{qdPmmahWTVA@563}} anecdote He made the mistake of training only compound movements and plans to show the physique he had back then.
+2020-03-03 {{K4UBm1dV6WM@1574}} anecdote He used to be the heavy guy strong on compounds and now wants to move better.
+2020-03-03 {{K4UBm1dV6WM@1886}} anecdote English is his third language and he speaks four languages.
+2020-03-03 {{K4UBm1dV6WM@1949}} anecdote He works in IT and refuses Skype calls to protect his identity, since IP and personal data are easy to extract.
+2020-03-03 {{a02c10s3Pjk@318}} anecdote He started lifting at about 100 lbs; the weight he gained was muscle and a lot of fat, but distributed around muscle rather than mostly fat.  {"load": "100 lbs bodyweight"}
+2020-03-03 {{a02c10s3Pjk@505}} anecdote He was forced into a clean bulk by lack of resources, which he now sees as a blessing.
+2020-03-04 {{E783zHvVUdk@126}} anecdote As a young lifter he drank 1 to 1.5 liters of milk daily because it was cheap and his only protein source; whey was unavailable where he lived.  {"protein": "1-1.5 L milk/day"}
+2020-03-04 {{E783zHvVUdk@192}} anecdote In his country milk is pushed on kids as making them big and strong.
+2020-03-04 {{E783zHvVUdk@759}} anecdote Seeing someone he knew die made him realize he was next in line and change his diet.
+2020-03-05 {{0oH8-YBdpys@130}} anecdote At 17, after a few months of dumbbell training, he thought he was hugely muscular, but actually had 13-inch arms, a six-pack and weighed maybe 160 lbs.  {"load": "160 lbs bodyweight, 13-inch arms"}
+2020-03-05 {{BBgeJBYPy9Q@0}} anecdote [biceps] He had not had a biceps pump in 4 months because it was too cold to train arms (temperature finally above 40F).  {"weeks": "4 months"}
+2020-03-05 {{nWHewU0tAwQ@64}} anecdote He has never followed anyone else's program; he learned by gathering information and doing his own thing.
+2020-03-08 {{g4-X8efWhTQ@124}} anecdote His yearly blood tests show testosterone slightly above the normal range and stable since puberty; he is not an outlier.  {"frequency": "blood test yearly"}
+2020-03-08 {{g4-X8efWhTQ@376}} anecdote His blood tests show only a minimal increase in testosterone over the years, not enough to explain the mass he has gained.
+2020-03-09 {{aayHBXFiz7k@123}} anecdote At that time NH weighed about 225 lbs, bigger but much fatter than now, and was one of the biggest at his gym, training every day for about 2 hours.  {"load": "225 lbs", "frequency": "daily, ~2 hours"}
+2020-03-10 {{m-DWvBP_ncU@379}} anecdote [forearms] His goal is 15-inch forearms; he'll add fat grips if he stalls or after reaching that.  {"load": "15-inch forearms goal"}
+2020-03-12 {{egBEW3Iaiak@126}} anecdote [abs] His imbalance comes from spending his first 5 years of training working only the top four abs.  {"weeks": "5 years"}
+2020-03-12 {{rGt7TWcWD60@0}} anecdote [abs] He started lifting at 14 and was obsessed with getting a six-pack, overdoing ab work, which now benefits him.
+2020-03-12 {{rGt7TWcWD60@64}} anecdote [abs] In his youth he did full-range crunches with feet anchored under furniture, progressing from bodyweight to dumbbells and plates, sometimes for an hour while watching TV.  {"rest": "up to 1 hour sessions"}
+2020-03-13 {{VVckf4vyYPE@815}} anecdote [chest] You can maintain strength while losing size: in grad school, working 60 h/week, he only worked up to a 1RM bench and overhead press in 25-30 minutes, kept a three-plate bench for months with zero volume but lost lots of size.  {"load": "315 lbs bench", "time": "25-30 min", "hours": "60 h/week"}
+2020-03-14 {{1roZlKwps8Y@440}} anecdote [biceps] He has done heavy cheat curls nearly every week for 10 years (120 lbs EZ-bar curls, 80 lbs dumbbell preacher curls) and never had tendinitis, a biceps injury or a tear, thanks to these rules.  {"years": 10, "load": "120 lbs EZ bar, 80 lbs dumbbell"}
+2020-03-16 {{sQSM1JiaN80@188}} anecdote The Nether Beast research took about four months, tracking down mirror channels and private copies of deleted videos.  {"months": 4}
+2020-03-16 {{sQSM1JiaN80@2093}} anecdote [back] From his calisthenics days: at 160 lbs he could do about two one-arm chin-ups, at 170 lbs none; a 240 lbs man repping them is implausible, and footage showed Nether jumping, using straps and doing quarter reps.  {"bodyweight": "160 lbs vs 170 lbs", "reps": 2}
+2020-03-18 {{jPw1ZJko9rY@63}} anecdote Being extremely meticulous, he built his whole home gym at once, about one month from start of preparation to fully assembled, and is glad he did now that gyms are closed.  {"months": 1}
+2020-03-21 {{dpwvdQqKxQI@0}} anecdote English is his third language, so he may use some established fitness terms in his own way.
+2020-03-23 {{RxnaWqkkVlg@38}} anecdote He planned his gym about 8 months earlier, already knowing the local cold after living there a long time.  {"months": 8}
+2020-03-23 {{RxnaWqkkVlg@267}} anecdote He tolerates cold extremely well (coat and T-shirt in snowstorms) and never skipped a session even during a polar vortex at -15 to -20 F outside.  {"temperature": "-15 to -20 F"}
+2020-03-23 {{RxnaWqkkVlg@304}} anecdote His weakness is humidity; he can't train when it's humid and would not build a gym where he couldn't control it.
+2020-03-24 {{Jd2wr0Qe42I@63}} anecdote He hasn't been sick in 10 years, since he started working out at 15.  {"years": 10, "age": 15}
+2020-03-24 {{UXzapA1Q6Mk@0}} anecdote He has a very addictive personality, evident since age 8-9 and still present at 25: he does something until he's fed up or it consumes him.  {"age": "8-9, now 25"}
+2020-03-24 {{UXzapA1Q6Mk@252}} anecdote At 15 his internet went out for two months (he suspects his housemates did it on purpose); he started lifting then, and lifting eventually displaced video games entirely.  {"age": 15, "months": 2}
+2020-03-24 {{UXzapA1Q6Mk@314}} anecdote Addictive types fall out of love with past passions; he lost his obsession with football and then basketball, but lifting has stayed for 10 years and he expects it to last his whole life.  {"years": 10}
+2020-03-26 {{rDfa3uMzwMQ@128}} anecdote At his university gym a staff member decided he was not allowed to deadlift, followed him around and kicked him out whenever he started, which forced him to build his own gym.
+2020-03-26 {{rDfa3uMzwMQ@192}} anecdote He has been approached by gym staff and told he was too big and intimidating to other members.
+2020-03-28 {{QwoBxHI7NBU@187}} anecdote He ran a powerlifting program of only compounds and variations for 1.5 years; some body parts grew a lot while others didn't move.  {"weeks": "1.5 years"}
+2020-03-31 {{mhizcFzRp5I@501}} anecdote His ancestors lived long without his advantages; he would be ashamed not to at least match them and wants to be healthy for longer.
+2020-04-01 {{Xx7A1dAAPDo@64}} anecdote He trained for sports, then strength, now size and aesthetics, and always built effective training without reading books, making up for mistakes with hard work.
+2020-04-01 {{Xx7A1dAAPDo@189}} anecdote He has a hereditary disease risk and uses diet as the main way to prevent it, which shapes many of his restrictions.
+2020-04-06 {{TBv73UwG_JM@128}} anecdote [biceps] Even when he was small, his biceps were always big because he put 100% into biceps training; now he's catching up the triceps but wants the biceps to stay dominant.
+2020-04-06 {{qqAw6s-_l3o@389}} anecdote He has interrupted his own training to help someone in the gym about to get hurt, only to be ignored, but will always offer help to people who look like they don't know what they're doing.
+2020-04-07 {{_Af_kG__xVg@61}} anecdote He holds degrees in literature and translation.
+2020-04-10 {{37WbiLy4Dkc@314}} anecdote He made his best gains knowing nothing about squat angles, protein timing or optimal volume, and believes knowing it would have made him too timid with the weights.
+2020-04-13 {{jA3PfQmxrYA@703}} anecdote He trained for basketball and football but enjoyed weight-room training more than the matches, unlike teammates; that's how he realised lifting was his true path.
+2020-04-15 {{TX8oBw9wHmU@252}} anecdote During a period when he channeled anger at people into lifting, he became aggressive with people outside the gym and caught himself calling up bad memories to fuel heavy lifts, which is when he decided to stop.
+2020-04-17 {{7Ax5O5DKoUg@63}} anecdote [quads] The squat is currently his most stressful lift because of nagging issues that reflect a glaring weak spot he needs to work on, so dropping it would cost him gains.
+2020-04-18 {{yenqGI_FVQ4@63}} anecdote At 15 he weighed 110 lb, was the smallest in his class, and decided he didn't want to be small for the rest of his life; that is what made him start training.  {"bodyweight": "110 lb", "age": 15}
+2020-04-18 {{yenqGI_FVQ4@128}} anecdote When he started he couldn't do a single push-up; three or four knee push-ups wiped him out and he could only work out for about 10 minutes.  {"minutes": 10}
+2020-04-18 {{yenqGI_FVQ4@128}} anecdote He grew almost a foot in three years during puberty while his weight barely rose, leaving him with arms of maybe 10-11 inches; he was training against his body's growth.  {"arm": "10-11 in"}
+2020-04-18 {{yenqGI_FVQ4@192}} anecdote From 15 he trained daily with push-ups, sit-ups, squats and curling chairs, and ate like a madman.  {"frequency": "daily"}
+2020-04-18 {{yenqGI_FVQ4@255}} anecdote At 18 he bought dumbbells and trained in his bedroom every day, partly because he started playing football against 180-190 lb players who smashed him.  {"frequency": "daily"}
+2020-04-18 {{yenqGI_FVQ4@383}} anecdote At 19, after about four years of training, he weighed around 150-160 lb and still looked untrained; building a physique naturally is a game of patience.  {"bodyweight": "150-160 lb", "years": 4}
+2020-04-18 {{yenqGI_FVQ4@642}} anecdote He played football and basketball before falling in love with weight training, then moved from home training to a real gym doing bench, squat and deadlift.
+2020-04-18 {{yenqGI_FVQ4@958}} anecdote His channel's mission is to promote natural bodybuilding and give the advice he wished he had when starting.
+2020-04-23 {{9HgmVcXXm-Q@253}} anecdote The channel's first purpose is promoting natural bodybuilding and guiding younger lifters; he doesn't claim to know more, only that he started earlier and has seen what to prevent.
+2020-04-24 {{UQguwgxTC9E@0}} anecdote He breaks hypertrophy theory into short ~10-minute episodes, planning a weekly upload and at least 50 episodes.  {"episodes": "50+"}
+2020-04-24 {{_iugC-xY1Og@145}} anecdote His family had a saying that they often 'had sleep for dinner': going to bed hungry didn't matter because you don't feel hunger while asleep.
+2020-04-25 {{TwuT80wJql8@63}} anecdote He has the opposite temperament: extremely diligent and happy to do the same thing a thousand times, more like a monk.
+2020-04-27 {{TIsnQ03FegQ@298}} anecdote His 91-year-old grandfather still works in the fields for hours daily, and men in his mountain village stay physically active into their 60s and 70s thanks to lifelong physical work.  {"age": 91}
+2020-04-27 {{TIsnQ03FegQ@573}} anecdote At 25 he feels he is just getting started on a long road.  {"age": 25}
+2020-04-27 {{bjxj5mm_2bA@63}} anecdote People have started talking to him mid-rep while he was overhead pressing 150; the overhead press seems to attract chatty people.  {"load": "150"}
+2020-04-27 {{bjxj5mm_2bA@190}} anecdote He has a bad history with gym staff; in gyms with 'don't drop the weights' rules you can say goodbye to deadlifts, and staff have interrupted his heavy sets.
+2020-04-27 {{bjxj5mm_2bA@378}} anecdote His university gym made loudspeaker announcements every 15 minutes, so nobody listened, including once when it was a real fire evacuation during his front squats.
+2020-04-28 {{KadH0ZYObS0@755}} anecdote As a football cornerback he had tunnel vision and was often beaten on reverses, but basketball came easier because he already could keep his head up; field of vision is partly talent and broadens with practice.
+2020-04-28 {{KadH0ZYObS0@943}} anecdote His progress was slow and took 10 years, but he keeps going because the Way is in training.  {"years": 10}
+2020-04-30 {{PxMpAWWtcrg@0}} anecdote He did lots of static stretching before and after practice over five years of team sports and carried the habit into lifting at first.  {"years": 5}
+2020-05-02 {{INvQIstsTz8@188}} anecdote He started as a skeleton, so it took him a long time just to build a sturdy body; average starters climb faster, but there is a speed limit.
+2020-05-02 {{INvQIstsTz8@314}} anecdote He's glad YouTube fitness didn't exist during his formative years, as it might have discouraged him.
+2020-05-03 {{qmpvEERwXVI@0}} anecdote He overbulked to 240 lbs, panic-cut about 30 lbs in a month to around 210, and lost mostly water and muscle rather than fat, so he stayed fairly high bodyfat.  {"load": "240 to 210 lbs", "weeks": 4}
+2020-05-04 {{U8Lp_lYlj_M@62}} anecdote His gains and physique development tracked directly with his ability to program; his programs from nine years ago versus now are night and day.  {"years": 9}
+2020-05-11 {{Cn38kgCdOhw@952}} anecdote [biceps] Three years into lifting after puberty his arms were about 13 inches; now they're 18. Size is added around the whole arm, so the 'look at the gap in the tape' argument is meaningless.  {"arm": "13 to 18 in"}
+2020-05-14 {{mViZdjZIv6s@63}} anecdote [chest] He got his own 3-plate bench while bulking.  {"load": "315 lbs"}
+2020-05-15 {{IeYLu4_hkZY@317}} anecdote His weight history: slowly bulked to 240 lbs and got too fat, panicked and crash-cut to 210 losing muscle, panicked again from body dysmorphia and bulked fast to 225, then slowly cut to about 215 and started recomping.  {"load": "240 -> 210 -> 225 -> 215 lbs"}
+2020-05-16 {{awroGsPwNPU@63}} anecdote [quads] Two years of near-daily outdoor street basketball (his country had no open gyms) gave him debilitating patellar tendinitis below his right knee that lasted about two years and stopped him running.  {"weeks": "2 years"}
+2020-05-19 {{4rjywMLXt98@504}} anecdote He does not do nucleus overload for every muscle every day; he rotates days across rear delts, neck, triceps and calves
+2020-05-20 {{GClcGq2tIDU@442}} anecdote [back] On his accessory deadlift day he opens with snatch-grip deadlifts and closes with heavy block pulls so both count as strength work
+2020-05-23 {{-i6A0etUfmE@442}} anecdote He wasn't motivated at 13-14; he had to find motivation, and the more he worked on himself the more it grew until it became part of him, a discipline he nourished.  {"age": "13-14"}
+2020-05-25 {{vHf2ZoHWHQs@187}} anecdote [quads] He had such severe tendinitis he could barely walk, climb stairs or sleep, and healed it 100%, returning to heavy squatting.
+2020-05-25 {{vHf2ZoHWHQs@1004}} anecdote [quads] He had patellar tendinitis for close to two years; the pain persisted from the 135 widowmakers up to roughly 285-295 lbs squats.  {"weeks": "~2 years", "load": "285-295 lbs"}
+2020-05-27 {{JYl3S7yuN6M@127}} anecdote Online critics guessed him at about 12% from a video when he is actually 16-17%  {"bodyfat": "16-17% vs 12%"}
+2020-05-27 {{JYl3S7yuN6M@377}} anecdote At 17-18% he has a full six-pack and visible obliques  {"bodyfat": "17-18%"}
+2020-05-27 {{Qd3RB_agebg@0}} anecdote [calves] His biggest bodybuilding regret is not training his calves sooner
+2020-05-27 {{Qd3RB_agebg@126}} anecdote [biceps] The body parts that grew most on him, biceps and abs, are the ones he trained like a madman
+2020-05-27 {{Qd3RB_agebg@253}} anecdote [calves] His calves are 16 inches without ever training them, grown through sports; he is aiming for 18 inches to match his upper legs  {"size": "16 -> 18 in"}
+2020-05-29 {{-6i7xt92Khg@127}} anecdote [biceps] His arms also started at 10 inches flexed  {"size": "10 in"}
+2020-05-29 {{-6i7xt92Khg@1133}} anecdote His side projects are technical and fun, tax tendons more than muscle, and are kept from interfering with the program
+2020-06-01 {{mfweKhLM5L0@126}} anecdote His football coach taught him to rinse sore, heavy legs with very cold water after training, which made them feel better.
+2020-06-01 {{mfweKhLM5L0@126}} anecdote After moving to a much colder country, he started cold showers before bed to prepare his body for the harsh winters.
+2020-06-01 {{mfweKhLM5L0@189}} anecdote Starting lifting around age 20, he rinsed with the coldest water available after training because hot water felt terrible when already warm.  {"age": 20}
+2020-06-01 {{mfweKhLM5L0@379}} anecdote He has taken a cold shower every single day for five years without interruption and can't go without them now.  {"years": 5}
+2020-06-02 {{6nKKGsCCqxo@695}} anecdote He started at 110 lb and gained 100 lb over 10 years; people who gain 100 lb in three years usually don't build the same quality of muscle.  {"weight_gain": "100 lb", "years": 10}
+2020-06-03 {{UieXEWMNnfI@253}} anecdote His strength has gone up since starting the recomp; some main lifts stall but variations and accessories keep progressing
+2020-06-03 {{UieXEWMNnfI@505}} anecdote On his recomp his legs lost no fat and even grew at the same bodyweight, while his abs, obliques, shoulders and traps got much leaner; his chest always holds fat
+2020-06-03 {{UieXEWMNnfI@753}} anecdote [biceps] His arms kept their size and even grew, triceps especially, still measuring 17.5 inches while looking leaner with biceps veins  {"size": "17.5 in"}
+2020-06-04 {{k3O630Nz4B8@503}} anecdote He never ran 5x5 as a beginner and used evolving rep ranges from the start, though he admits 5x5 would have pushed him through the novice phase faster
+2020-06-05 {{7e0gcEEa-ms@503}} anecdote He is at the high end: his strength work is high but not maximal intensity with little tonnage, so he follows it with many supersetted variations and accessories, and workouts run up to 3 hours  {"time": "3 h"}
+2020-06-05 {{PYmr91aELnE@127}} anecdote He trains about three hours but considers himself a special case; most people do not need that long  {"time": "3 h"}
+2020-06-08 {{eeK8e2KIvwY@383}} anecdote He has been destroyed at judo, crushed at swimming meets and outclassed at basketball, and kept going anyway
+2020-06-08 {{eeK8e2KIvwY@1451}} anecdote [biceps] At 18 his arms were the size of his wrists; if he had decided he had no potential it would have been a self-fulfilling prophecy
+2020-06-09 {{QTxLU8WTx6g@378}} anecdote In high school he trained every day, leaving friends to go home and train; they couldn't understand doing something painful with no reward, especially since he was skinny and weak and progressed slower than most.  {"frequency": "daily"}
+2020-06-09 {{QTxLU8WTx6g@1077}} anecdote When confronted by people trying to rob him, treating them as friends defused the situation every time; he once got would-be phone thieves to guide him through their neighborhood.
+2020-06-13 {{CRXE2gFfwcs@251}} anecdote He used to train seven days a week without problems or deloads; injuries from that period came from poor programming.  {"frequency": "7 days/week"}
+2020-06-15 {{NiV6lE0XUH8@127}} anecdote He trained with dumbbells only for years as a novice; it is fine at that stage, but learning barbell patterns early helps later progress
+2020-06-16 {{swSh89g9Gts@1326}} anecdote After 10 years of lifting it took him a long time to conceptualize the principles he applied daily  {"years": 10}
+2020-06-17 {{g4mX62QGzTo@315}} anecdote NH says he has followed Blaha since his YouTube beginnings and that this episode covers about one sixth of his material.
+2020-06-22 {{wiuVyCccWC4@0}} anecdote NH borrows techniques from sports he respects, like Olympic weightlifting, to make his training more interesting; he has done front rack holds for two years.  {"weeks": "2 years"}
+2020-06-24 {{wTisNk9Av6Y@0}} anecdote [triceps] He barely trained triceps for the first six years of lifting and is now paying for it with catch-up work  {"years": 6}
+2020-06-27 {{dgxdlxNZUUs@502}} anecdote He took no supplements at all for his first seven years and grew fine on food and water  {"years": 7}
+2020-07-06 {{DrAKKhJU0fY@267}} anecdote [traps] He has followed Alpha Destiny since 2015 and learned the weighted trap stretch and Olympic rings work from him, though Alex sometimes runs with ideas that are factually wrong
+2020-07-07 {{1CZQe76Ty4k@63}} anecdote Literature analysis is one of his passions and what he studied in school.
+2020-07-07 {{1CZQe76Ty4k@1258}} anecdote He started chasing strength and size to feel better about himself; once he did, he realized he could help others, which never crossed his mind when he lacked confidence.
+2020-07-07 {{1CZQe76Ty4k@1385}} anecdote Everything starts with a pledge: about 10 years ago he promised himself to get bigger, and his current physique started with that promise made before the action.
+2020-07-08 {{bJK7L5fb-eI@0}} anecdote He has never run either squat-every-day or widowmaker squats long enough to give personal data.
+2020-07-09 {{8I6IPBr2_z0@443}} anecdote He is naming such concepts deliberately to build his own vocabulary for talking to viewers.
+2020-07-11 {{_28uxew-emM@376}} anecdote He was lanky with spaghetti arms into his 20s despite hard training and eating, and people told him there was no point; now viewers ask if he is a mesomorph.
+2020-07-12 {{fFrwijSyMMI@62}} anecdote [quads] His plan is to keep grinding squats and deadlifts toward 28 inches, with the next update at 27.
+2020-07-13 {{6lggo2XPomI@189}} anecdote When he first made real strength progress he added 10 lb per side (20 lb) to his rep work each time; once he stalled it took him forever to realise the jumps were too big  {"load": "+10 lb per side"}
+2020-07-13 {{uND20Zam2jI@0}} anecdote [biceps] He has done cheat curls for seven years, never missing a session, and they are what grew his biceps  {"years": 7}
+2020-07-15 {{YcHkXwsIOI8@62}} anecdote Alan Thrall was one of the first channels he followed and taught him a lot about proper form and technique
+2020-07-17 {{Tfa-eM5LUV0@440}} anecdote [biceps] At 18 he was torso dominant, a torso with two spaghetti arms, because of short clavicles; years of heavy curls in his room later made his arms bigger than his shoulders and chest  {"age": 18}
+2020-07-17 {{Zkhc-j-6ptU@582}} anecdote [quads] His legs are big but his squat is low because repeated injuries made him retake the same portion of tonnage again and again; it grew his legs but was not optimal
+2020-07-20 {{7XqE7GhDsgc@126}} anecdote He could not go two days without lifting
+2020-07-20 {{7XqE7GhDsgc@1126}} opinion Three years of training is not advanced; at three years he was 170 lb; advanced means a decade of hard training, so he calls himself intermediate with some advanced body parts  {"years": 10, "bodyweight": "170 lb at 3 years"}
+2020-07-21 {{RPUhg61IV-g@126}} anecdote He is not a personal coach because he is too impatient and too hard on people
+2020-07-21 {{RPUhg61IV-g@314}} anecdote Older-generation coaches motivated him by calling him a wimp; he still tends to do this and it is never well received
+2020-07-21 {{RPUhg61IV-g@885}} anecdote His channel's audience is 98 percent men  {"percent": "98%"}
+2020-07-21 {{RPUhg61IV-g@1077}} anecdote As a kid he was targeted by bullies who sensed his weakness; once he started working out it stopped, even in a dangerous area
+2020-07-27 {{et6AylDr1uk@820}} anecdote As a self-described triple weakling who started very low, a calisthenics phase helped him build a base for his base and may reduce injury
+2020-07-29 {{Lmpt_MQHvus@1375}} anecdote As a teacher he found the most obvious concepts were the hardest for students to see
+2020-07-29 {{Vvr512xTfRE@1270}} anecdote He comments on other channels for exposure without linking or asking for subscribers, which he distinguishes from spamming
+2020-08-01 {{nHt2c7PIGME@63}} anecdote [biceps] He learned it from a French arm wrestler, has done it every 10 days for a year, and is still progressing  {"frequency": "every 10 days", "weeks": 52}
+2020-08-02 {{7lwWsxNXDmo@0}} anecdote [biceps] He has done cheat curls every week for seven years and gained most of his biceps size from them  {"years": 7}
+2020-08-02 {{7lwWsxNXDmo@0}} anecdote [biceps] For his first five years the only biceps work he did was cheat curls; he never curled strictly because he did not know there was a difference  {"years": 5}
+2020-08-02 {{7lwWsxNXDmo@63}} anecdote [biceps] For his first three years he cheat-curled every single day, effectively a high-intensity, high-frequency, low-volume nucleus overload, and his biceps remain one of his best body parts  {"years": 3, "frequency": "daily"}
+2020-08-09 {{3dLu3VQinL8@506}} anecdote His ancestry is half Spanish, a quarter German and a quarter West African
+2020-08-09 {{3dLu3VQinL8@569}} anecdote He started the channel to express himself and because he believes he has a rare perspective; he posts only when he is adding something new
+2020-08-09 {{3dLu3VQinL8@633}} anecdote He learned everything about lifting from YouTube fitness, then experimented to create new knowledge, and now wants to give back so viewers improve on his theories in turn
+2020-08-09 {{3dLu3VQinL8@821}} anecdote He works in artificial intelligence and has done so for close to two years since his master's  {"years": 2}
+2020-08-09 {{3dLu3VQinL8@1008}} anecdote He has ethical reservations about mixing money with his passion, but would like to train athletes in a fighting sport whose training he finds lacking
+2020-08-09 {{3dLu3VQinL8@1133}} anecdote He will never use admin powers to censor comments; the comment section is an open forum
+2020-08-09 {{3dLu3VQinL8@1196}} anecdote His bodybuilding videos are never edited: raw knowledge filmed on weekends
+2020-08-09 {{3dLu3VQinL8@1260}} anecdote His worst injury ever was a fence spike through his hand while climbing into a basketball court
+2020-08-12 {{ewvy5V03gTE@0}} anecdote He is neurotypical but has had dark periods, and lifting is what got his life under control
+2020-08-12 {{mUAHGlseeyk@693}} anecdote [quads] For six-plus months he has held his weight while lowering body fat; his legs got stronger and bigger but have lost no fat yet  {"months": 6}
+2020-08-17 {{o9uDgF5J89U@752}} anecdote He wrote his current program as an intermediate and has run it for close to two years with good progress  {"years": 2}
+2020-08-19 {{J99Xzu8JbqY@694}} anecdote His real home is a small mountain village where people work the fields and hunt; big cities are home to no one
+2020-08-19 {{RYkGN4SOkX0@252}} anecdote He grew his own channel from zero using only YouTube comments
+2020-08-22 {{2ag0uM9zhs4@1473}} anecdote At 18 he weighed the same as this 160 lb viewer  {"bodyweight": "~160 lb"}
+2020-08-25 {{N8Dp4inzHog@1012}} anecdote [biceps] He once curled every day with massive tonnage, biceps grew, and after cutting back he kept size and strength
+2020-08-26 {{JpQ7Hg6VS-A@442}} anecdote His will came the day he decided he couldn't keep living as he was, and it never left
+2020-08-26 {{JpQ7Hg6VS-A@571}} anecdote He realized he loved bodybuilding around 20-21, but always preferred weight training over sport practices since doing push-ups and curls as a small kid  {"age": "20-21"}
+2020-08-26 {{JpQ7Hg6VS-A@694}} anecdote His trigger for losing passion would be bodybuilding becoming a job, so he refuses to make money from it to keep it pure
+2020-08-26 {{m-XeEY4xRDU@0}} anecdote [chest] He cares little for chest and shoulders aesthetically but trains everything, and only began targeting upper chest 3-4 months ago  {"weeks": "12-16"}
+2020-08-31 {{Of7VDakRks4@249}} anecdote He trains alone in his gym and still lifts heavy
+2020-09-01 {{Qgpc7evE7_4@694}} anecdote As a kid he hopped between judo, swimming, soccer, wrestling and taekwondo before bodybuilding stuck as his true love
+2020-09-01 {{Qgpc7evE7_4@947}} anecdote He got addicted to training; he still won't miss more than two or three days and finds a gym when traveling  {"days": "2-3"}
+2020-09-01 {{TgPYObguEM0@187}} anecdote He grew slowly as a teen only because he couldn't afford more food; once free he dirty bulked, got fat, made no progress and regrets it
+2020-09-07 {{-GYV9s5Ad8s@381}} anecdote [forearms] He mixed-gripped deadlifts for two years for no reason; it didn't grow his forearms  {"years": 2}
+2020-09-07 {{9M7QVlvFdQY@750}} anecdote When I played football, guys chasing a target weight at all cost always backfired
+2020-09-09 {{vijsrI1dkqs@372}} anecdote My catalogue: S1 calves, S2 neck, S3 shoulders, R1 ribs and lats, R2 triceps, R3 ribs
+2020-09-09 {{vijsrI1dkqs@313}} anecdote I broke ribs twice and tore intercostals squatting, so I do my rib routine between warm-up and top sets of squats and deadlifts, which aggravate them
+2020-09-10 {{hjb70fJ0MGk@40}} anecdote [abs] Obliques are now more defined and separated from the six-pack while my waist remains wide
+2020-09-10 {{hjb70fJ0MGk@90}} anecdote [abs] I long thought I only had a four-pack; lower abs are catching up though the middle ones dominate
+2020-09-10 {{qlIicZePKtU@378}} opinion Tall athletic men often stay in sports too long; every year without compound lifts is size left on the table
+2020-09-14 {{Zg0oUngwPK4@62}} anecdote I like work, reading and lifting; I used to do swimming and running but now only lift
+2020-09-14 {{Zg0oUngwPK4@126}} anecdote I live where winter lasts eight months with no sun  {"months": 8}
+2020-09-14 {{Zg0oUngwPK4@250}} anecdote My dreams: own a large piece of land, push my body's limits, and help build a world where people teach each other
+2020-09-14 {{Zg0oUngwPK4@312}} anecdote Top of my class growing up; double bachelor's in communication and modern literature, then a master's in the US in an applied literature/linguistics field; I work in AI; born in France
+2020-09-14 {{Zg0oUngwPK4@400}} opinion The channel's main goal is building a community of natural lifters who push limits and help each other
+2020-09-14 {{Zg0oUngwPK4@900}} anecdote Not Japanese or of Asian descent despite people often assuming so
+2020-09-14 {{Zg0oUngwPK4@1255}} anecdote I comment on many channels for visibility because YouTube does not promote small channels; I do not watch most of them
+2020-09-15 {{1z494UcRwqo@635}} anecdote Teaching is its own reward; I have been a teacher for a long time
+2020-09-15 {{1z494UcRwqo@740}} anecdote I was always strong intellectually but weak physically, and that weakness pushed me to keep improving
+2020-09-16 {{7naFa8JCGHQ@1600}} opinion I will never ban anyone from commenting on my channel, except for doxxing
+2020-09-18 {{HVD5j7hOobI@540}} opinion I make programs for free and will not sell them; I would rather you learn to program yourself
+2020-09-23 {{-cPcWQqMRC8@1418}} anecdote NH promises that if he spends a year in a plateau he'll call himself a failure rather than blame a natural limit
+2020-09-23 {{-cPcWQqMRC8@1041}} anecdote NH says he started training seriously only about three years earlier  {"years": 3}
+2020-09-24 {{HpEz3fFWEeA@700}} anecdote NH took 1.5-2 years to convert his whole program to evolving ranges and about three years to understand how they interact  {"years": "1.5-3"}
+2020-09-26 {{01jOBsrQCPg@515}} anecdote [shoulders] NH's rear delts went from nonexistent to visibly developed with this lift
+2020-09-30 {{vZUEtun_5no@314}} anecdote Pure positive reinforcement has limits; some kids need negativity, and NH was one who needed the world to kick him
+2020-10-01 {{NpIo8tFRESg@0}} anecdote NH made more diet mistakes than training mistakes over his lifting career
+2020-10-01 {{NpIo8tFRESg@125}} anecdote In his first five years NH ate without tracking, supplements or knowing macros and went from 110 to about 170 lb  {"years": 5}
+2020-10-01 {{NpIo8tFRESg@315}} anecdote In the US at 20 he ate two foot-long Subway subs (about 1,200 kcal each) plus soup daily, around 3,000 kcal, and gained fast  {"kcal": 3000}
+2020-10-01 {{NpIo8tFRESg@491}} anecdote While broke he ate only chicken breast, white rice, spinach and olives, about six meals a day, for a full year  {"meals": 6}
+2020-10-01 {{NpIo8tFRESg@563}} anecdote His dirty bulk included 12 eggs a day, pounds of beef and pounds of spaghetti bolognese  {"eggs": 12}
+2020-10-05 {{yo59lp4drEM@350}} anecdote NH played Pokemon at Baki's age
+2020-10-06 {{RLwjGoejUXk@566}} anecdote He says he has not been sick in 10 years  {"years": 10}
+2020-10-07 {{zAVrOW1w8rk@770}} anecdote His own youthful lifestyle was not conducive to gains; the purer the environment he gives his body as he ages, the bigger he gets
+2020-10-07 {{zAVrOW1w8rk@2432}} anecdote He did idiotic things with his diet in the past whose damage cannot be repaired, a debt he will pay sooner or later
+2020-10-11 {{yAHuQgkq2x4@507}} opinion He would rather reach his goal five years later with a structurally sound body than ruin his joints  {"years": 5}
+2020-10-11 {{yAHuQgkq2x4@507}} anecdote He trains frequently with only one rest day a week and no deload weeks, thanks to these principles  {"rest": "1 day/wk"}
+2020-10-13 {{mO3cqgBEqdc@381}} anecdote He can barely remember having nothing to do; his rare leisure is rest that serves future work and prevents burnout
+2020-10-14 {{EElvKR4K_HE@1763}} anecdote He started his channel during the COVID-19 lockdown and grew it on his own
+2020-10-14 {{EElvKR4K_HE@1956}} anecdote English is his third language
+2020-10-14 {{EElvKR4K_HE@2492}} anecdote He does not ban commenters because, having trolled plenty online himself, he sees trolling he receives as karma
+2020-10-18 {{cGzlMRCxvxo@61}} anecdote He made this one exception because the requester was a good case study and wanted a gentleman split, letting him show the concept in practice
+2020-10-18 {{cGzlMRCxvxo@691}} anecdote [lats] He personally cannot do weighted chin-ups
+2020-10-18 {{cGzlMRCxvxo@968}} anecdote [quads] He himself does 1-3 sets of 4-8 on squats because his quads are already massive and not a focus  {"sets": "1-3", "reps": "4-8"}
+2020-10-19 {{kh--k3genZA@0}} anecdote He holds a double degree in literature and communication plus a literature-related master's he will not name, to protect his anonymity
+2020-10-19 {{kh--k3genZA@63}} anecdote He preferred high school to his bachelor's; the low level and lack of structure let him coast for three years, then a very competitive master's forced a crash course
+2020-10-19 {{kh--k3genZA@126}} anecdote His scholarship meant he had to finish the master's in exactly two years  {"years": 2}
+2020-10-19 {{kh--k3genZA@188}} opinion Academia is toxic and passive-aggressive; he never wants to go back for a PhD
+2020-10-19 {{kh--k3genZA@690}} anecdote You do not need a STEM degree to work in AI; teams include people with master's degrees in history and languages
+2020-10-19 {{kh--k3genZA@878}} anecdote He is a strong introvert from a family of extroverts; people drain him and he needs solitude to recharge
+2020-10-19 {{kh--k3genZA@1190}} opinion If the channel became a job he would lose pleasure and quit; he refuses sponsorships too
+2020-10-19 {{kh--k3genZA@1882}} anecdote He started dating late in his 20s, had wild years in his early 20s, found it did not make him happy, and is now happily monogamous
+2020-10-21 {{ckDmNEFcwW8@565}} anecdote He shovels snow in winter and does fast mountain hikes in summer as a test that his endurance is still there, not to build it
+2020-10-21 {{ckDmNEFcwW8@565}} anecdote He trained for football and basketball, with about 80% of training being running, hill sprints and beach fartlek, and kept that endurance  {"percent": "80%"}
+2020-10-24 {{Rz4uzjM068M@190}} anecdote [back] People attacked his speed pulls video title; it was not speed work in the strength sense, speed is just the value dictating progression
+2020-10-24 {{Rz4uzjM068M@377}} anecdote [quads] He always does paused squats and paused bench as back-offs because pushing his squat and bench is not a priority; his chest and quads are already big
+2020-10-26 {{W-s1ft_HqYE@1124}} anecdote [hamstrings] He was quad-dominant with weak hamstrings and is slowly correcting it
+2020-10-29 {{ylbxNE-2Im0@372}} anecdote Colon and prostate disease kill every male in NH's family, and he considers himself next in line
+2020-11-01 {{LOXdxKNqSag@220}} anecdote NH's own role models were fictional, not real people
+2020-11-09 {{6sFaB3rAY1A@315}} anecdote He has been neglecting his quads and biceps while prioritizing weaker body parts like triceps for over a year and plans to continue  {"weeks": "52+"}
+2020-11-09 {{6sFaB3rAY1A@1443}} anecdote He is not athletic and hasn't run in a year; when he trained for athleticism he never combined it with squats or deadlifts
+2020-11-09 {{6sFaB3rAY1A@1630}} anecdote [back] He does pull-ups every day for 40-60 reps  {"reps": "40-60/day"}
+2020-11-09 {{6sFaB3rAY1A@1756}} anecdote [back] His back had zero width when he only deadlifted; it was thick but not wide
+2020-11-10 {{xoxYiiTPdIs@560}} anecdote NH has trained tens of thousands of hours, of which maybe 1% was seen by others; people judge you mainly by your words and the expression of your practice
+2020-11-12 {{gWdAfpJIXbc@450}} anecdote NH started alone without knowledge and has followed his own programs from day one, which he admits was not optimal
+2020-11-17 {{vC9cKh9tFxs@1128}} anecdote At 140 lb NH never imagined reaching 210 lb with abs  {"load": "140 to 210 lb"}
+2020-11-18 {{LqsqSGZooR0@1730}} anecdote NH says he has progressed on every filmed lift without interruption, adding a rep every session
+2020-11-23 {{m1fD0HP6sIg@629}} anecdote He does about two hours of non-fitness YouTube a day and no longer watches fitness YouTube
+2020-11-23 {{m1fD0HP6sIg@629}} anecdote He did judo from about age 5 to 7-8, reached orange belt, and quit after an opponent pulled his hair to avoid throws and the referee ignored it
+2020-11-23 {{m1fD0HP6sIg@881}} anecdote As a teen he trained obsessively for football (5am sprints, two hours of dumbbells after class) and lost his love for it once matches kept being forfeited
+2020-11-23 {{m1fD0HP6sIg@1573}} anecdote He would teach if he didn't work in AI; he is still a French teacher
+2020-11-23 {{m1fD0HP6sIg@1760}} anecdote He was academically disciplined thanks to his immigrant family's emphasis on school, but physically weak until he forced himself to train
+2020-11-23 {{m1fD0HP6sIg@2076}} anecdote He was bullied and beaten at 12-13; once he hit back, bullies stopped because they only respect strength
+2020-11-23 {{m1fD0HP6sIg@2203}} anecdote He has surpassed the anime physiques that first motivated him; his 15-year-old self would never have believed it
+2020-11-25 {{gxo4R0lHJIk@188}} anecdote [traps] His traps grew less than other areas but look better because the recomp leaned him out
+2020-11-25 {{gxo4R0lHJIk@377}} anecdote He wants to enter a natural bodybuilding competition as soon as one is available
+2020-11-25 {{xxOQxGwiX4I@1067}} anecdote Football aggression gave him tunnel vision and made him a bad player, while in calmer basketball he could see the field
+2020-11-26 {{zAUmHWbOywA@63}} anecdote His anxiety comes from not being productive, and obsessing over small details spirals it
+2020-11-26 {{zAUmHWbOywA@378}} anecdote He trains six days a week for two to three hours and his one rest day tends to be high-anxiety  {"frequency": "6x/wk", "sessions": "2-3 h"}
+2020-11-29 {{ZDKdqqbQ5Gk@126}} anecdote He looked like he had a poor hormonal profile but simply did things that made his body feel better and they compounded
+2020-11-29 {{ZDKdqqbQ5Gk@879}} anecdote He used to eat fast food every Friday and boxed pasta at 15 and now eats only whole foods for life
+2020-11-30 {{sK78-yohV1s@436}} anecdote He has scoliosis and had to work around it
+2020-12-02 {{xCzoFKSPkIc@438}} anecdote At 15-16 he was skinny, narrow-shouldered, wide-waisted with small limbs, and still unimpressive three years into training
+2020-12-02 {{xCzoFKSPkIc@752}} anecdote Without training he'd still be 150-160 lb at six feet, about 60 lb lighter; training boosted his hormonal profile  {"bodyweight": "150-160 lb untrained", "height": "6 ft"}
+2020-12-02 {{xCzoFKSPkIc@1638}} anecdote People told him for years lifting was a waste with his genetics, then later said he had good genetics all along
+2020-12-02 {{xCzoFKSPkIc@1827}} anecdote [lats] He thought he had bad calves and high lat insertions, but his back grew a lot in eight months once he trained it properly  {"weeks": "8 months"}
+2020-12-06 {{SbPaZ5giUNs@1688}} anecdote He trains 2-3 hours every day except Sunday  {"frequency": "6x/wk", "duration": "2-3 h"}
+2020-12-06 {{SbPaZ5giUNs@1874}} opinion The channel's core value is a community where natural lifters gather and learn; numbers don't matter
+2020-12-16 {{so6MbvvtM1w@365}} anecdote He was once 240 lb at six feet with a narrow frame, and his body already suffered at that weight  {"bodyweight": "240 lb", "height": "6 ft"}
+2020-12-17 {{QLUXXk0OtX4@562}} anecdote Since taking his lower body lifts seriously this way about two years ago, he has greatly increased lower body frequency and volume
+2020-12-19 {{hYFO2eKn-m4@590}} anecdote [hamstrings] He prioritises hamstrings over quads, so only one of his four lower days is knee-flexion based; the rest are hip hinges  {"frequency": "1 of 4 lower days"}
+2020-12-20 {{YDTUYiKFcFo@90}} anecdote [back] He did unsupported dumbbell rows daily for four years when starting, because he had no bench and a fragile floor  {"years": 4}
+2020-12-20 {{YDTUYiKFcFo@220}} anecdote [back] He now does about 70% of his dumbbell rows supported on a bench and 30% unsupported  {"ratio": "70/30"}
+2020-12-23 {{TMAJzmrQVvc@632}} anecdote He personally fears changing and losing who he is, which shows up as anxiety about writing down video ideas before they escape
+2020-12-23 {{TMAJzmrQVvc@2019}} anecdote He admits he is far from free of pleasure; being immune to insults is the easiest Stoic quality once you stop caring what others think
+2020-12-24 {{4xgx3q5a1DQ@374}} anecdote He was highly demoralized as a teen and lifting saved him; growing up mostly offline let him build resilience
+2020-12-25 {{CojMme7jr3o@60}} anecdote His training playlist is the result of about 15 years of curation, started at age 11; a song only stays if he still loves it after repeated listening over time  {"years": 15}
+2020-12-25 {{CojMme7jr3o@186}} anecdote The playlist has around 360 songs, enough to take weeks or a month of training to get through  {"songs": 360}
+2020-12-25 {{sFn68CtUaXI@495}} anecdote He says he never uses names, clickbait or name drops in titles; the character studies get about a thousand views while his ab video got 50k  {"views": "~1000 vs 50k"}
+2020-12-25 {{sFn68CtUaXI@1745}} anecdote He boxed and got beaten by smaller opponents, which he used as a lesson rather than dismissing the sport
+2020-12-30 {{3IMgRqcRN4Y@812}} anecdote [back] He used to have a surfboard back from only deadlifting after falling for the deadlift meme
+2020-12-30 {{3IMgRqcRN4Y@2005}} anecdote He deadlifts every week and pulls from the floor all the time in his program  {"frequency": "weekly"}
+2021-01-04 {{xlarSnYhRVc@126}} opinion His channel is too small, mostly beginners, to run an online natural bodybuilding show
+2021-01-04 {{xlarSnYhRVc@189}} anecdote He would enter an online natural show without cutting for it, showing up with his muscle and fat
+2021-01-04 {{xlarSnYhRVc@252}} anecdote He talks with his hands because half his family is Spanish; it also helps viewers follow his unedited videos
+2021-01-04 {{xlarSnYhRVc@252}} anecdote Both his pinkies are naturally crooked from a hereditary missing-tendon condition passed down from his great-grandfather; it doesn't affect lifting
+2021-01-04 {{xlarSnYhRVc@318}} anecdote He loves being productive and repetitive work, so he enjoys most jobs
+2021-01-04 {{xlarSnYhRVc@566}} anecdote Men in his family die young, the previous generation before 60, so he'd be happy to reach 60  {"age": 60}
+2021-01-06 {{662MjNpnQcw@2829}} anecdote He learned everything from YouTube fitness plus his own action and reflection; never read a book on programming or a study on curls
+2021-01-06 {{662MjNpnQcw@2829}} anecdote He says he will never make money from the channel; his one goal is helping natural bodybuilders reach their potential
+2021-01-10 {{jKXrRzZt6Vw@559}} anecdote [shoulders] He states he will never overhead press 225 lb in his life  {"load": "225 lb"}
+2021-01-17 {{80X9-HluEDA@0}} anecdote He has been dealing with bigorexia for years
+2021-01-19 {{-anA4CV2SVU@691}} anecdote He started with knee push-ups and pink dumbbells, did dumbbell-only workouts daily for about three years, then five years of barbell training  {"years": "3 dumbbell + 5 barbell"}
+2021-01-19 {{6Bn9h4niPag@190}} anecdote In middle school and early high school he was consumed by what others thought, which made his first months of high school hell
+2021-01-20 {{MEn975ruwTs@2326}} anecdote He records his videos about a week in advance
+2021-01-21 {{h21r7Mrxfo8@310}} anecdote [back] He nearly got banned for deadlifting: staff claimed he damaged the floor, scared people, and called the police on him several times
+2021-01-22 {{G7rVTseabFU@63}} anecdote He trained full body for three years when he was starting out  {"years": 3}
+2021-01-22 {{G7rVTseabFU@900}} anecdote He runs a gentleman split because he wants his strength work only at the start of the session; for him volume is king
+2021-01-22 {{G7rVTseabFU@990}} anecdote If he had to cut below five training days he would struggle, since he is not strong enough to make up lost volume with intensity  {"frequency": "5x/wk"}
+2021-01-24 {{RSkzA1l5jlk@400}} anecdote [biceps] He does 5-6 sets of heavy biceps movements on his arm day, even while sandbagging biceps  {"sets": "5-6"}
+2021-01-30 {{RlnOXG0OjPE@126}} anecdote He did not grow up with Arnold; his heroes were anime and manga characters, and he only saw pro bodybuilders in his early 20s through YouTube Fitness
+2021-01-30 {{RlnOXG0OjPE@251}} anecdote He only watches the highest level of any sport (NBA, World Cup quarter-finals onward), which is why he watches pro bodybuilding
+2021-01-30 {{_2M6FhWuIvs@188}} anecdote He used to get 4 reps on a first set but only 1-2 on the next after 3-4 minutes of rest, which hurt tonnage accumulation, so he worked to fix it  {"rest": "3-4 min"}
+2021-02-03 {{YHm-qSHgGSk@1322}} anecdote Being small-framed, he could not carry 240 lb; it was too heavy for him  {"bodyweight": "240 lb"}
+2021-02-03 {{YHm-qSHgGSk@1340}} anecdote [forearms] Despite 6-6.5 inch wrists and small hands he built 18 inch pumped upper arms by never worrying about wrist size and just training curls and wrist flexions
+2021-02-04 {{rlWIogS2Qho@631}} anecdote His final program took close to four years: two years running a program to gather information, six months writing, two years of beta testing, finalized about four months ago  {"years": 4}
+2021-02-06 {{JpSZFxsTyKk@62}} anecdote He created the channel about a year earlier to promote natural bodybuilding; if YouTube Fitness were healthy he would not have bothered  {"years": 1}
+2021-02-06 {{JpSZFxsTyKk@1443}} anecdote He is straight edge: anti-drugs, anti-alcohol, so the you-drink-too whataboutism does not apply to him
+2021-02-06 {{JpSZFxsTyKk@1882}} anecdote As a child he lied constantly to escape a reality he hated; when he started over in a new environment he vowed never to lie again and has kept it
+2021-02-08 {{eEhfcVidJns@1013}} anecdote [abs] NH says he once sprained his intercostal muscles and the pain made the rib-nerve torture scene nauseating to watch
+2021-02-10 {{3nyuEtmqL-I@64}} anecdote NH is 6 feet, at the cutoff for tall, and says every inch above that adds more difficulty  {"height": "6 ft"}
+2021-02-10 {{GJudkSxdp-Q@20}} anecdote As a child NH was told on waking to count his limbs and be happy if they were all there, and to be grateful for a bed, a roof and food; he still tries to live by that
+2021-02-10 {{GJudkSxdp-Q@255}} anecdote NH gets antsy if he rests several days in a row because he feels he has not earned it; rest is sweetest after work
+2021-02-13 {{kCVudEfVU0c@240}} anecdote [lats] NH stopped vertical pulls for a long time and was terrible when he returned because the neurological adaptation was gone
+2021-02-17 {{tLvshnh6vZA@1060}} anecdote NH was happiest once his body matched his soul; his soul was never a skinny guy's, and reaching a satisfying level of muscularity made him far more confident and at home
+2021-02-17 {{tLvshnh6vZA@1653}} anecdote NH is highly introverted but believes living entirely alone would be a life wasted
+2021-03-01 {{kkbfHkyQ_q0@9}} anecdote Most of what NH teaches comes from personal experimentation in and out of the gym, tested enough times to believe it carries over; he avoids topics where he isn't solid
+2021-03-01 {{kkbfHkyQ_q0@185}} anecdote NH left France because of its government and institutions; he felt there was no future for someone like him there
+2021-03-01 {{kkbfHkyQ_q0@319}} anecdote He earns about twice as much in North America as he would in France for the same job
+2021-03-01 {{kkbfHkyQ_q0@1258}} anecdote NH trains daily from about 4:30-8:00 or 5:30-8:30 pm after work, resting on Sundays  {"frequency": "6x/wk"}
+2021-03-01 {{kkbfHkyQ_q0@1530}} anecdote He warms up clothed and strips as he goes to force his body to produce heat; he finds his muscles stay warm until the end of the workout
+2021-03-01 {{kkbfHkyQ_q0@1697}} anecdote NH quit video games around 21 because they are a time sink for addictive personalities; League of Legends made him depressed  {"age": 21}
+2021-03-03 {{McAet6dp70U@890}} anecdote NH started training skinny-fat with a gamer, junk food, low-water, low-sleep lifestyle and made very small gains for a long time
+2021-03-03 {{McAet6dp70U@1030}} anecdote NH weighs about 100 lb more than as a teen; his friends who didn't change their environment stayed the same  {"load": "100 lb"}
+2021-03-03 {{McAet6dp70U@1050}} anecdote Without training he would be 26, six feet and about 160 lb  {"load": "160 lb"}
+2021-03-03 {{McAet6dp70U@1420}} anecdote NH had all the signs of low T when young (low energy, almost no gains) and stuck with training until rewarded
+2021-03-07 {{FIaOVjDHT4k@0}} anecdote NH has pulled heavy every two weeks for two years with no injuries or nagging pains, which he credits to technique  {"years": 2}
+2021-03-11 {{S0qBQppUtTQ@50}} anecdote NH used to go to the gym and do whatever: random machines one day, bench another; he never adapted neurologically to lifts and never progressed
+2021-03-11 {{S0qBQppUtTQ@1400}} anecdote Training only bench, squat and deadlift wasn't great for hypertrophy and became boring for NH
+2021-03-11 {{S0qBQppUtTQ@1500}} anecdote NH's first sessions were 20 minutes of push-ups, sit-ups and air squats; more would have burnt him out  {"minutes": 20}
+2021-03-12 {{K7cehT_XyBQ@1600}} anecdote NH has never plugged his channel in other creators' comments
+2021-03-15 {{_L5wLHlFfI0@874}} anecdote He stopped going to biology class at 14; programming for novices is not complicated  {"age": 14}
+2021-03-16 {{fsyx5y-VYns@1325}} anecdote What bodybuilding made of his brain and willpower is 15 times more valuable to him than the physique
+2021-03-18 {{pHNNbwju0GU@332}} anecdote He learned the front squat from an Olympic weightlifter friend and didn't realise what a time sink it would be
+2021-03-18 {{pHNNbwju0GU@577}} anecdote [quads] He has two leg days: regular front squats on one, box front squats on the other; they never rotate or he regresses  {"frequency": "2x/wk"}
+2021-03-24 {{EFhzEtjSG6s@574}} anecdote His first reaction to contradiction is emotional; after stepping back he can assess it and has changed things on the channel after viewer feedback
+2021-03-24 {{EFhzEtjSG6s@887}} anecdote He tends to berate beginners because a kick in the butt got him started, but it can push people away from lifting and he needs to work on it
+2021-03-30 {{xGoJNq78htU@312}} anecdote He is deeply selfish but balances it with total selflessness elsewhere; keeping some selfishness lets you reach your potential
+2021-03-31 {{eKBDacpRYSU@377}} anecdote He trains 2-3 hours a day, six days a week, while working 50-55 hours a week  {"sessions": "6x/wk", "duration": "2-3h"}
+2021-03-31 {{eKBDacpRYSU@818}} anecdote At parties he would play dumb with people who assumed a muscular guy was stupid, though he already had a master's degree
+2021-03-31 {{eKBDacpRYSU@1135}} anecdote A philosophy teacher mocked him for developing his body when he started lifting
+2021-03-31 {{eKBDacpRYSU@1446}} anecdote Comfort-seeking, hardship-avoiding peers at his leftist first-degree college were visibly depressed and miserable
+2021-03-31 {{eKBDacpRYSU@1821}} anecdote He was bullied extensively, even life-threateningly; it taught him that if you can't defend yourself physically you get crushed
+2021-03-31 {{eKBDacpRYSU@2329}} anecdote Mothers often resist their child lifting because they don't want their baby to change; his mother claimed whey was steroids that would wreck his kidneys
+2021-04-01 {{FDnJTJkQ9YE@12}} anecdote NH has had scoliosis since his teens; one shoulder sits visibly lower than the other
+2021-04-05 {{XASWAdsSu0M@450}} anecdote Bulking to 230-240 lb wrecked his appetite and was not fun  {"bodyweight": "230-240 lb"}
+2021-04-05 {{XASWAdsSu0M@2274}} anecdote He bulked to 240, dropped to 220, 215, then 210, and began recomping at 210 lb at about 17-18% body fat; he could keep recomping for 3-4 years  {"bodyweight": "210 lb", "bodyfat": "17-18%"}
+2021-04-12 {{YKCNJS5KNvw@693}} anecdote He was raised going to bed hungry and can sleep on an empty stomach
+2021-04-14 {{-c9oXlYva3k@127}} opinion NH says he personally doesn't care about strength; he trains for size
+2021-04-23 {{VdBmYdUYCKM@756}} anecdote He trains in arctic conditions 8 months a year, never gets a pump, and still grows  {"months": 8}
+2021-04-28 {{j1bS37-7AHA@1432}} anecdote He discovered lifting by himself, curling chairs, lifting rocks and sprinting in the mountains; gains were not optimal but it built his own identity
+2021-05-01 {{MkhKlZeBpg4@190}} anecdote [shoulders] His plan is to keep throwing tonnage at the shoulders and expects more definition, vascularity and roundness rather than major size
+2021-05-02 {{vVlpg3202Uw@1496}} anecdote Greg put screenshots of NH's comments in a video without the context of his replies, which led Greg's audience to attack him in the comments
+2021-05-02 {{vVlpg3202Uw@4046}} anecdote He has received death threats for criticizing Greg, which he blames on Greg's behavior
+2021-05-02 {{vVlpg3202Uw@4311}} anecdote He followed Greg for about seven years, says his channel of roughly 10,000 subs is not monetized, and will unsubscribe and stop commenting until Greg apologizes
+2021-05-12 {{2qPocEhaU0I@879}} anecdote His channel just got an abusive copyright strike (1 of 3); his lesson was that copyright law is blurry and he must be more careful, since the world is impersonal forces  {"strikes": "1/3"}
+2021-05-13 {{8nUneZclRp0@62}} anecdote He has run 40 minutes or biked an hour just to reach a park with rusty pull-up bars when no gym was available  {"run": "40 min", "bike": "60 min"}
+2021-05-13 {{8nUneZclRp0@1436}} anecdote He trains six days a week for two to three hours and never asks himself whether he wants to; scheduled training is like going to work  {"frequency": "6x/wk", "duration": "2-3 h"}
+2021-05-13 {{8nUneZclRp0@1623}} anecdote He estimates he felt truly motivated for only about 5% of his workouts  {"motivated": "5%"}
+2021-05-20 {{8A7hSygtWfM@693}} anecdote He beta tested his current plan for two years with about 10-15 tiny changes, one every 1.5-2 months, and now intends to run it indefinitely  {"years": 2, "changes": "10-15"}
+2021-05-26 {{ncd9mxXViBk@318}} anecdote In 2016-17 he was tempted by PEDs because he thought he had hit his natural limit, though he was still progressing at the time
+2021-05-26 {{ncd9mxXViBk@443}} anecdote What stopped him was meeting real PED users at gyms and online; seeing how grim their lives were turned him into an active opponent
+2021-05-26 {{ncd9mxXViBk@380}} anecdote As an immigrant, using PEDs (a felony) could have gotten him deported
+2021-05-30 {{QTHtVBP_36g@312}} anecdote He moved to North America at about 20-21 after his first degree, with €3,000 saved, for a master's on a scholarship  {"savings": "3000 EUR"}
+2021-05-30 {{QTHtVBP_36g@481}} anecdote He left France because merit was not rewarded there: as a top student he was sent to bad schools and denied scholarships, while the US offered him money and a 75k scholarship
+2021-05-30 {{QTHtVBP_36g@374}} anecdote Being dropped alone into a foreign country with no safety net made him grow up faster than anything else
+2021-05-30 {{QTHtVBP_36g@806}} anecdote He is extremely introverted, never gets lonely, and keeps only a few close friends who usually pursued him
+2021-05-30 {{QTHtVBP_36g@1542}} anecdote He listens to podcasts during warm-ups and watches about 2 hours of YouTube a day  {"time": "2 h/day"}
+2021-05-30 {{QTHtVBP_36g@1924}} anecdote He lived about a year in housing that turned out to be part of a mosque, for $300 a month, while in grad school  {"rent": "$300"}
+2021-05-30 {{QTHtVBP_36g@2549}} anecdote He no longer plays video games; his hobbies are reading and lifting because he prioritises
+2021-05-30 {{QTHtVBP_36g@2819}} anecdote He never had gyno and had only mild teenage acne
+2021-06-02 {{HrUPp573ki0@1585}} anecdote [lats] At 165-170 lb he could do 20 pull-ups; after bulking too much and dropping calisthenics for two years he could barely do 2
+2021-06-07 {{6K7xyjI5lYE@312}} anecdote One summer he trained 5-6 hours every day with a feverish drive to progress  {"hours": "5-6/day"}
+2021-06-09 {{P5N7KRKl3c0@1198}} anecdote Everything he does has a goal, sometimes two years away; when he deliberately disconnects he allows himself about 20 minutes before getting back to work  {"rest": "20 min"}
+2021-06-30 {{ANvvVrMqF7Y@125}} anecdote [quads] His dream physique has legs so big they become upsetting
+2021-06-30 {{p42qv-VEEOk@565}} anecdote He was once a slave to lifting: forcing himself to train without enjoyment, feeling obligated and anxious if he missed a day
+2021-06-30 {{p42qv-VEEOk@630}} anecdote Most of his lack of physical and spiritual progress was linked to that obsession; after freeing himself from it he made better gains
+2021-06-30 {{p42qv-VEEOk@946}} anecdote At 27 he does not seek total renunciation but is gradually cutting unnecessary desires from his life
+2021-06-30 {{p42qv-VEEOk@1259}} anecdote His family treats the 13th as a lucky day because his grandmother was born on a 13th, flipping a superstition
+2021-07-02 {{5Nhv3cgzrAg@126}} anecdote Before he started squatting he watched Coleman's 800 lb squat clip for inspiration; pro bodybuilders inspired much of his early lifting
+2021-07-02 {{5Nhv3cgzrAg@568}} anecdote [quads] There is a history of leg paralysis in his family, but that will not stop him training his legs while they work
+2021-07-07 {{_k8bxXE1-Jk@380}} anecdote When he was trying to get bigger, family members told him it was a waste of time and he would never get big
+2021-07-08 {{4mW1c9W4QRk@316}} anecdote At his huge university gym it took 15-20 minutes from entrance to lifting and about 10 minutes to walk to the bathroom  {"time": "15-20 min"}
+2021-07-14 {{8ELQ2XZgpls@4037}} anecdote He spent about three years in the sky, three on the tip and two at the surface before reaching the depths  {"years": "3+3+2"}
+2021-07-21 {{GH8tqzGTgH8@1903}} anecdote [quads] Comments on NH's squat videos misjudged his depth every time, telling him to go deeper even when his glutes were folded onto his hamstrings
+2021-07-21 {{GH8tqzGTgH8@2190}} anecdote In years of commercial gyms nobody ever corrected NH's form, because people saw he was bigger than them
+2021-07-28 {{yr4zj-WbG4I@179}} anecdote At 14-15 NH hated his body so much that he hid under coats and grew his hair long and greasy to cover his face
+2021-07-28 {{yr4zj-WbG4I@2488}} anecdote When skinny NH was bullied into constant fights; since getting big he hasn't had to fight in 6-7 years  {"years": "6-7"}
+2021-07-28 {{yr4zj-WbG4I@3073}} anecdote NH can't go more than two days without lifting before his body aches; five days off would drive him insane  {"days": "2"}
+2021-07-30 {{4sXkXeKAxIM@735}} anecdote NH attributes his acceptance into a prestigious school to sitting upright with eye contact while other candidates slouched
+2021-08-05 {{lG5SZbRdOjA@314}} anecdote He trained conventional for four years, trap bar for a year and a half, and sumo for eight months; he has never done Jefferson or hack deadlifts  {"years": "4 / 1.5 / 0.67"}
+2021-08-05 {{lG5SZbRdOjA@1068}} anecdote [glutes] For him sumo felt like a glute press and bracing drill with little hamstring or lower back work, partly why he dropped it
+2021-08-07 {{aIjUTEtXOcM@63}} anecdote He started training at 14, under five feet and around 100 lb, after losing an arm-wrestling match to a skinny girl  {"bodyweight": "100 lb"}
+2021-08-07 {{aIjUTEtXOcM@440}} anecdote From 14 to 17 he trained only calisthenics and went from 100 to 140 lb while growing a full foot  {"bodyweight": "100->140 lb", "years": 3}
+2021-08-07 {{aIjUTEtXOcM@503}} opinion He believes lifting during puberty guided his growth so he didn't end up gangly
+2021-08-07 {{aIjUTEtXOcM@879}} anecdote [biceps] At 17 he bought a 50 lb dumbbell set and started curling 5 lb dumbbells (after 2-3 lb pink and blue ones)  {"load": "5 lb"}
+2021-08-07 {{aIjUTEtXOcM@940}} anecdote He trained two hours a day every day with no rest days for years because training gave him peace  {"duration": "2 hr/day"}
+2021-08-07 {{aIjUTEtXOcM@1129}} anecdote From 17 to 20 his dumbbell training took him from 140 to 170 lb  {"bodyweight": "140->170 lb", "years": 3}
+2021-08-07 {{aIjUTEtXOcM@1316}} anecdote After moving countries, his first six months in a real gym went nowhere because he kept trying everything instead of focusing  {"months": 6}
+2021-08-07 {{aIjUTEtXOcM@1880}} anecdote Since 25 he has stayed at the same bodyweight while measurements and strength rise slowly; it's his proudest progress
+2021-08-25 {{2ezr-xUf9v0@562}} anecdote His boxing coach at 19, aged 55-60, radiated virtue and something like enlightenment
+2021-08-25 {{CcKOfe_nznI@711}} anecdote When he started training he didn't know what steroids were and thought whey protein was a steroid; that naivety is what let him last
+2021-08-27 {{Q5y4wM8zcWY@1009}} anecdote [back] About a year earlier he rowed 315 lb for sets of 15 with a cheating, RDL-like style driven mostly by his legs  {"load": "315 lb", "reps": 15}
+2021-09-08 {{mW8_jnUR8gg@3352}} anecdote He helped an old man off a bus in Paris who tearfully said he used to squat 200 kg; nostalgia for lost strength is understandable when it isn't used to put others down  {"load": "200 kg"}
+2021-09-08 {{mW8_jnUR8gg@3626}} anecdote A rich man in his 50s set a safety clip on a boat rope and told teenage NH to pull it so he would fail; NH broke the clip by brute strength and the man was furious
+2021-09-12 {{cNGPCn9Uupc@376}} anecdote He trained for football for two years and basketball for three, but he is a pure bodybuilder, so his athlete programs lean towards size  {"weeks": "2 yrs football, 3 yrs basketball"}
+2021-09-15 {{PYICG0hBlVo@884}} anecdote The goal body evolves as you grow; at 100 lb his goal was naturally not a 240 lb physique  {"bodyweight": "100 lb"}
+2021-09-25 {{74XVh8ghvs4@1882}} anecdote He was a skinny 'pure ectomorph' with spaghetti arms and small legs, and has pictures showing his change
+2021-09-28 {{0zEVs8KDOPY@2479}} anecdote He loves very cold weather (below minus 20) and treats it as an offering of nature rather than suffering
+2021-09-30 {{C4CnYbHCCGo@0}} anecdote [back] He neglected pull-ups in the past and ended up with a small back
+2021-10-02 {{ilGY8qFjuxI@614}} anecdote He will not date a woman who smokes, even though nearly every woman in Paris smokes
+2021-10-02 {{ilGY8qFjuxI@826}} anecdote Teaching is the most important profession, but many teachers are trained in their subject and never in how to teach; he got silence by standing and waiting until students policed each other
+2021-10-02 {{ilGY8qFjuxI@1241}} anecdote He planned to compete in a natural bodybuilding show and film full-body workouts and full days of eating, but the show was cancelled; big channels avoid hosting shows because there is no money in natural bodybuilding
+2021-10-02 {{ilGY8qFjuxI@3299}} anecdote He did judo for about 2 years, taekwondo 4, wrestling 4 and boxing 1; he quit judo as a small child after an unfair loss and gave up boxing for basketball partly because of a high risk of detached retinas
+2021-10-02 {{ilGY8qFjuxI@3351}} opinion If he takes up a martial art later it would be jiu-jitsu, because it pairs well with lifting
+2021-10-13 {{I2aR7F5rCuE@860}} anecdote He started training at 15 but really bloomed at 20-21; what matters is how the flower looks at the end, even if it takes 20 or 30 years  {"age": "15 / 20-21"}
+2021-10-13 {{I2aR7F5rCuE@2068}} anecdote Lifting is an intellectual pursuit for him; he trains two to three hours a day, and the thinking he does outside the gym is what keeps him going  {"duration": "2-3 h/day"}
+2021-10-17 {{THV7B11oalk@1138}} anecdote Walking is essential for health; when he was very heavy with 400 lb squats he couldn't walk 15 minutes without ankle pain and breathlessness  {"load": "400 lb squat", "walk": "15 min"}
+2021-10-17 {{THV7B11oalk@1951}} anecdote As a 14-year-old he was told by older men not to eat after training because blood would leave the muscles, and he believed it  {"age": 14}
+2021-10-20 {{f-XiVNy25tw@780}} anecdote [abs] When he chased size, his love handles grew enormous; looking back at those pictures embarrasses him
+2021-10-20 {{f-XiVNy25tw@1042}} anecdote [abs] He has a 36-inch waist from bone structure; training abs made his waist look much better than when he was young  {"waist": "36 in"}
+2021-10-20 {{f-XiVNy25tw@2642}} anecdote [abs] Early on he did lots of ab isolation but also trained everything else; his abs are now much bigger with his current method
+2021-10-30 {{-FCb3nTgaJg@30}} anecdote NH describes himself as fairly skeptical, not really believing in ghosts, yet unable to rationally explain these two experiences
+2021-10-30 {{-FCb3nTgaJg@100}} anecdote He first came to America to study about five to six years earlier; his university dorm was a set of bare concrete towers resembling the projects he grew up in for 20 years  {"years": "5-6"}
+2021-10-30 {{-FCb3nTgaJg@1262}} anecdote He walked back from the gym at night to his tower during his college years
+2021-10-30 {{-FCb3nTgaJg@1361}} anecdote He spent two months every year as a child in his ancestors' remote mountain village, which he calls the best months of his life as a city kid  {"weeks": 8}
+2021-10-30 {{-FCb3nTgaJg@2740}} anecdote He was already nearsighted as a child
+2021-11-03 {{IPSRlANKpDw@5844}} anecdote Early exposure to porn at 10-11, before a boy's first masturbation, badly damages his future sexuality and relationships; he discovered porn at 14-15 and used it from 16-17  {"age": "14-17"}
+2021-11-03 {{IPSRlANKpDw@7447}} anecdote On Instagram he only follows male fitness pages yet the explore feed always shows a sexualized woman; he feels the urge to click but never does, and men should treat such posts as an aggression and refuse to click
+2021-11-03 {{IPSRlANKpDw@9989}} anecdote He quit porn largely because of what he was seeing on porn sites, which disgusted him
+2021-11-03 {{IPSRlANKpDw@11210}} anecdote Sex is the opposite of masturbation: masturbation drains his energy while sex leaves him energized, pumped and confident
+2021-11-17 {{9U-lpqDAlMY@2540}} anecdote NH spends tens of hours researching a topic before making an hour-long video
+2021-11-17 {{9U-lpqDAlMY@2099}} anecdote The view count of his own videos doesn't concern him
+2021-11-18 {{Tos7dHreF3k@1355}} anecdote NH still has days where he looks in the mirror and feels tiny; it never fully goes away
+2021-11-18 {{Tos7dHreF3k@1920}} anecdote NH had severe BDD a few years ago and made big progress using the practices from his own videos
+2021-11-20 {{JEv9yOb0rbc@350}} anecdote NH bought Rich's supplements in college despite finding them disgusting, purely because he liked the man
+2021-11-26 {{KzXUgd-SnMw@1272}} anecdote NH had tendinitis in both knees (acute in the left) and both elbows for years and is now completely pain-free after rehabbing properly
+2021-11-26 {{KzXUgd-SnMw@1398}} anecdote [biceps] NH lifts very heavy on biceps exercises and has never had biceps tendinitis or injury
+2021-11-27 {{-T8qWCI4_No@616}} anecdote NH dirty bulked to 240 lb and was borderline obese while his body dysmorphia told him it was working  {"bodyweight": "240 lb"}
+2021-11-27 {{-T8qWCI4_No@901}} anecdote NH went from 240 to 210 lb when he cut, losing about 30 lb of fat  {"bodyweight": "240->210 lb"}
+2021-11-27 {{-T8qWCI4_No@1109}} anecdote [abs] NH's dirty bulk left lasting love handles that still gain fat easily
+2021-12-02 {{k80R-bpvcRk@1181}} anecdote NH was 110 lb at 6 ft as a teen, a skeleton like the young Zyzz  {"bodyweight": "110 lb", "height": "6 ft"}
+2021-12-02 {{k80R-bpvcRk@4140}} anecdote NH regrets his own promiscuity in his early twenties
+2021-12-10 {{qcRCMVABEQM@64}} anecdote Steve Reeves, born 1926, lost his father before age one; his mother made him wear a brace that poked him whenever he slouched, giving him perfect posture
+2021-12-10 {{qcRCMVABEQM@228}} anecdote NH started working on himself after losing an arm-wrestling match to a small girl
+2021-12-10 {{qcRCMVABEQM@331}} anecdote In WWII Reeves caught malaria four times and lost 30 lb, yet rebuilt by secretly lifting a 210 lb barbell under his bed every day  {"bodyweight_loss": "30 lb", "load": "210 lb"}
+2021-12-13 {{n-n3txKjGmE@118}} anecdote NH is not gifted for bodybuilding but was a natural swimming talent
+2021-12-13 {{n-n3txKjGmE@118}} anecdote At two NH nearly drowned yet was instinctively doing breaststroke; he was swimming by three or four
+2021-12-13 {{n-n3txKjGmE@344}} anecdote Before age 10 NH could swim an Olympic pool length underwater on one breath  {"meters": 50}
+2021-12-13 {{n-n3txKjGmE@506}} anecdote As a teen NH swam big waves on the island's most dangerous beach and beat fit adults without training
+2021-12-13 {{n-n3txKjGmE@632}} anecdote Untrained for two years, NH entered a school 4x25 m competition against trained swimmers and went all out on the first length  {"meters": 100}
+2021-12-13 {{n-n3txKjGmE@729}} anecdote He led after 25 m, was last after 50 m, finished alone with cramps and had to be dragged out
+2021-12-27 {{0ZZwr3REW5c@502}} anecdote NH only became attracted to women around 19-20, had his first real kiss around 20 and lost his virginity at 21; at 27 he was in a lifelong committed relationship  {"age": "19-21"}
+2021-12-27 {{0ZZwr3REW5c@566}} anecdote For 2-3 years he was a serial seducer seeing 3-4 women a week purely for sex; it never fulfilled him and it hurt those women  {"years": "2-3"}
+2021-12-27 {{0ZZwr3REW5c@2455}} anecdote From 14 to 21 NH spent about seven years working on himself with almost no relationships  {"years": 7}
+2021-12-27 {{0ZZwr3REW5c@3334}} anecdote Casual sex left him empty, made him meaner and degraded his ability to love
+2021-12-27 {{0ZZwr3REW5c@4587}} anecdote He was rejected about 15 times in a row before learning; rejection is normal for men and builds toughness  {"count": 15}
+2021-12-27 {{0ZZwr3REW5c@5400}} anecdote Taking rejection calmly signals options; several women came back about two weeks after turning him down  {"weeks": 2}
+2021-12-27 {{0ZZwr3REW5c@9758}} anecdote About four years earlier NH was borderline obese at 240 lb; body dysmorphia hid it from him and his partner never criticised him  {"bodyweight": "240 lb"}
+2021-12-27 {{0ZZwr3REW5c@10696}} anecdote Leave a relationship that is truly incompatible; NH does not care about money, has not checked his bank account in about three years, and could not be with a money-driven woman
+2021-12-27 {{0ZZwr3REW5c@12139}} anecdote He believes his past manipulation of women created bitter women who distrust men
+2021-12-27 {{0ZZwr3REW5c@12429}} anecdote Recently two women on a beach offered him a threesome; he walked away and hid behind a dumpster
+2021-12-27 {{0ZZwr3REW5c@14119}} anecdote Before marrying he asked himself whether he could have only one sexual partner for life; the answer was yes
+2022-01-01 {{Bg7jQfbI1w8@255}} anecdote After 10 years of lifting he is often unmotivated, for example training in a 20-degree garage after a 10-hour shift, but he goes because it is scheduled  {"years": 10}
+2022-01-01 {{Bg7jQfbI1w8@571}} anecdote It took him years to realise pure bodybuilding was his calling
+2022-01-03 {{rYxVtz6bqGg@503}} anecdote After 10 years of natural training, people notice his physique when he takes his shirt off in public  {"years": 10}
+2022-01-03 {{rYxVtz6bqGg@2638}} anecdote NH expects to make the best gains of his life in his 30s
+2022-01-03 {{rYxVtz6bqGg@2764}} anecdote He would not take a risk-free pill that gave the effects of a cycle
+2022-01-03 {{rYxVtz6bqGg@2954}} anecdote He researched PEDs himself, but reasoning stopped him from using them
+2022-01-03 {{rYxVtz6bqGg@3079}} anecdote He watched pro bodybuilding for years and was on the edge himself; making this channel showed him the mistake
+2022-01-05 {{O5xVdqgt8Uo@110}} anecdote NH started training with only machines and cables, then switched to only barbells and dumbbells after watching powerlifting content
+2022-01-05 {{O5xVdqgt8Uo@1178}} anecdote NH stalled on machines because the fixed path gave no way to vary the lift
+2022-01-05 {{O5xVdqgt8Uo@1379}} anecdote [back] NH programmed a single-arm cable row after deadlifts and ended up doing it about twice a year because it was so dull
+2022-01-07 {{RryibwmuOWE@1093}} anecdote NH's best gains came from a very small, consistent calorie surplus held over years
+2022-01-07 {{RryibwmuOWE@1261}} anecdote NH has been recomping for two years without knowing his bodyfat; he simply reached a mass he was comfortable with and wanted to refine it  {"weeks": "~104"}
+2022-01-07 {{RryibwmuOWE@2290}} anecdote NH built 70-80 lb of mass going from about 110 to about 180-190 lb on a lean bulk without ever being chubby
+2022-01-07 {{RryibwmuOWE@2290}} anecdote NH later got fat eating too much, reaching 240 lb; he considers those years wasted and cutting back was hard  {"bodyweight": "240 lb"}
+2022-01-10 {{Yqg8LaZNMDA@2906}} anecdote NH is straight edge against inebriation but drinks a glass of wine roughly every two months; his issue is dependence, and PED users physically cannot live without the drug
+2022-01-10 {{Yqg8LaZNMDA@7811}} anecdote NH has talked friends out of PEDs and lost others he couldn't help
+2022-01-17 {{9y2s6kyFkPc@252}} anecdote [quads] NH's legs started visibly growing after about two years of squatting 2-3 times a week, and they are still growing; natural leg potential is very high  {"frequency": "2-3x/wk"}
+2022-01-20 {{v-F3QHSM2hg@126}} anecdote He has no fighting credentials: he did martial arts in the past but never at a high level, so he only speaks to building muscle and strength that carries over
+2022-01-26 {{he2KJeMcoAI@504}} anecdote Only about 2% of his viewers are female, but he may write a women-specific program  {"percent": "2%"}
+2022-01-29 {{GCc2vcnw3Bs@622}} anecdote He is bigger than many viewers because he started sooner and never gave up, not because of different potential
+2022-01-31 {{eC9Srr3ZygE@57}} anecdote He will never show his grandfather on camera to keep his private life private, but plans story videos about the mountains where his grandfather lives and where his life-changing moments happened
+2022-01-31 {{eC9Srr3ZygE@727}} anecdote Stoicism did not change his life but confirmed it: before becoming stoic he was angry, jealous, anxious and projected his insecurities onto others
+2022-01-31 {{eC9Srr3ZygE@910}} anecdote He speaks English and French fluently and understands Spanish and Portuguese but cannot speak them well
+2022-01-31 {{eC9Srr3ZygE@1201}} anecdote His harsh character-study persona is quarantined to that series; he admits he can be cruel in real life and uses vulgarity when it gets things done
+2022-01-31 {{eC9Srr3ZygE@1439}} anecdote As a kid he had daily headaches while taking painkillers; now he gets one about twice a year and just waits it out so his body handles it  {"frequency": "~2/yr"}
+2022-01-31 {{eC9Srr3ZygE@1483}} anecdote He is vaccinated against diseases that can kill him or loved ones but has never had a flu shot; he says he hasn't been sick since age 15, 13 years ago  {"years": 13}
+2022-01-31 {{eC9Srr3ZygE@1545}} anecdote His parents kept his tonsils and wisdom teeth, and he has never had a cavity, which he takes as proof the body knows what it is doing
+2022-01-31 {{eC9Srr3ZygE@1708}} anecdote [forearms] He has had sleep paralysis and once tore a finger tendon struggling to break out of it
+2022-01-31 {{eC9Srr3ZygE@1810}} anecdote He never studied a lifting degree because making money from his hobby could kill his passion
+2022-01-31 {{eC9Srr3ZygE@2731}} anecdote A two-week trip to India shocked him with caste discrimination and visible poverty, making him aware of his privilege in France  {"weeks": 2}
+2022-01-31 {{eC9Srr3ZygE@3224}} anecdote He used to live in a basic cabin and only needs a bed, a fridge and a gym
+2022-01-31 {{eC9Srr3ZygE@3804}} anecdote Part of his family is Spanish and he has visited Spain every year for over 20 years  {"years": "20+"}
+2022-02-02 {{VhD3iVVCHa0@3388}} anecdote He no longer shares screenshots or sources because remnants of the MISC used previously shared sources to try to dox him
+2022-02-10 {{GNJkAcgUJ_0@312}} anecdote Early YouTube bodybuilding advice was machines, 20-rep sets, chase the pump, avoid bench and squat; he ran such a machine-only high-rep program for months with no results  {"reps": 20}
+2022-02-10 {{GNJkAcgUJ_0@498}} anecdote He learned to squat from Candito, to deadlift and press from Alan Thrall, and to bench from Omar Isuf
+2022-02-10 {{GNJkAcgUJ_0@2892}} anecdote [chest] He will never give strength advice: benching 255 lb, he has no business teaching people to bench more  {"load": "255 lb"}
+2022-02-10 {{GNJkAcgUJ_0@3394}} anecdote He followed powerlifting principles for a long time: gains at first, then a plateau and lost direction, until he pivoted back to natural bodybuilding
+2022-02-10 {{GNJkAcgUJ_0@3580}} anecdote [quads] He learned the front squat from an Olympic weightlifter at his university gym and still front squats
+2022-02-16 {{NV6tkzYeKgE@64}} anecdote His channel was deleted after a video arguing that sexual media hijacks male libido, illustrated with Ikkitousen season 1 footage that YouTube itself hosted without age restriction
+2022-02-16 {{NV6tkzYeKgE@64}} anecdote Ikkitousen, watched as a boy, was his gateway to softcore and then hardcore porn, an addiction that took him a long time to break
+2022-02-16 {{NV6tkzYeKgE@1263}} anecdote YouTube terminated the channel and his Google account with no warning or strikes; it was restored in 24 hours after a Twitter, Instagram and fax campaign with help from Alpha Destiny, Jeff Nippard, Mario Tomic and others  {"hours": 24}
+2022-02-16 {{NV6tkzYeKgE@1958}} anecdote He will keep tackling politically incorrect topics but won't re-upload the uncensored video, since YouTube could use it as a pretext
+2022-02-18 {{BJXFeQWGUuY@62}} anecdote [full_body] He trains 2-3 hours every day at or near failure on every exercise yet keeps progressing year-round without deloads  {"session_length": "2-3 h", "frequency": "6x/wk"}
+2022-02-23 {{jkQHeNZIHnY@0}} anecdote The channel had been deleted, which caused a skipped week; the series continues exploring Beyond Good and Evil
+2022-02-24 {{dVssxcEh1UQ@314}} anecdote [back] NH trained for years with an upper back that stayed flat with no ridges or 3D pop because he only hit it as an assistant to prime movers
+2022-03-02 {{-64JDG_Aoio@670}} anecdote NH was bullied throughout school until about age 14 because he was weak and wouldn't stand up for himself; he holds no resentment toward his bullies  {"age": "until ~14"}
+2022-03-02 {{-64JDG_Aoio@1700}} anecdote Reporting bullying to adults rarely helped him; the one time it stopped was when a teacher physically confronted the bully
+2022-03-02 {{-64JDG_Aoio@1813}} anecdote In middle school, as the smallest and youngest, he was beaten by strangers, including two kids who broke his nose for fun
+2022-03-02 {{-64JDG_Aoio@1933}} anecdote He saw an equally weak friend respected because he always retaliated, including stabbing a bully's hand with a fork; this changed his outlook
+2022-03-02 {{-64JDG_Aoio@2102}} anecdote From then on he attacked anyone who bullied him; he lost every fight but each bully left him alone afterward, and he never had to fight after middle school
+2022-03-02 {{-64JDG_Aoio@2620}} anecdote He kicked a boy in the face who slapped a book out of his hand; disproportionate, but it never happened again
+2022-03-02 {{-64JDG_Aoio@2747}} anecdote Bullying taught him at 14 that being cerebral wasn't enough and that he had to be able to defend himself  {"age": "14"}
+2022-03-04 {{NPlGK0-7h0A@1313}} anecdote He used to train four or five hours a day and run for hours in the mountains without ever getting rhabdomyolysis; at worst overtraining is junk volume that does nothing  {"hours": "4-5/day"}
+2022-03-06 {{PuIp9cGKMHo@439}} anecdote He works 55 hours a week and has a family, so he would cut training time if he could get the same gains; every set he does is there for a reason  {"hours_work": "55/wk"}
+2022-03-06 {{PuIp9cGKMHo@788}} anecdote He does not travel, stays home and lives like a sedentary monk, a lower-stress life than many
+2022-03-06 {{PuIp9cGKMHo@4712}} anecdote He trains six days a week for hours, near maximal loads and to failure, which only works because his programming is smart  {"frequency": "6x/wk"}
+2022-03-08 {{DbyjAnMGGAA@907}} anecdote His bullying video was condemned by people judging its assumed intent, though its content actually helped victims fight back
+2022-03-08 {{DbyjAnMGGAA@1682}} anecdote Living 20 years in a big city changed his desires and disconnected him from nature in ways that did not lead to happiness  {"years": 20}
+2022-03-18 {{j72vYLtzBxw@756}} anecdote He admits he may have been one bad day away from taking drugs himself and would have wanted to be welcomed back
+2022-03-20 {{ZPBwBrOktgA@1518}} anecdote Lifting made him better in every aspect of life; before lifting he describes himself as mediocre
+2022-03-24 {{LNggSj0WBd8@250}} anecdote [lats] He has run NO for his lats for about 1.5 years and for his calves for 6 months; the lat results convinced him it works  {"duration": "1.5 yr lats, 6 mo calves"}
+2022-03-24 {{LNggSj0WBd8@312}} anecdote He plans to run NO for every lagging muscle: lats, calves, forearms and triceps
+2022-03-24 {{LNggSj0WBd8@1324}} anecdote [lats] He does NO pull-ups and NO pullovers on the same day, which he admits is suboptimal but suits his preference
+2022-03-26 {{Jdv6dG_Stzw@2384}} anecdote Use checkpoints to reassess; he trained for years thinking it was for size while actually training for strength and getting fatter
+2022-04-12 {{GowuEmDClqY@2581}} anecdote Neither GVS nor NH has yet put in 10 years of hardcore lifting  {"years": "<10"}
+2022-04-12 {{GowuEmDClqY@3530}} anecdote CT Fletcher was one of the first people NH followed when he started out as a young skinny lifter
+2022-04-14 {{LxGdGChvk2c@2570}} anecdote [chest] He reached a 3-plate bench after being told it would reveal all of life's answers and felt absolutely nothing: PR culture sells milestones that change nothing  {"load": "315 lb"}
+2022-04-14 {{LxGdGChvk2c@3202}} anecdote [quads] After a squat injury near 3 plates he regressed to 2 plates; when he got back to 3 plates his legs were bigger than before at the same strength  {"load": "2-3 plates"}
+2022-04-27 {{bM23N1IPrDk@127}} anecdote NH logged thousands of real hours on video games, quit around age 18-19 and had not played in about 8-9 years at the time of filming  {"years": "8-9 without games"}
+2022-04-27 {{bM23N1IPrDk@1955}} anecdote Every year he spent gaming as a teenager was a year he had to make up in his early 20s, socially and in personal development
+2022-04-27 {{bM23N1IPrDk@2903}} anecdote As a middle-schooler on holidays he gamed from 8 am to 8 pm, spent an hour with his mother, then played until midnight, about 12-14 hours a day  {"hours": "12-14/day"}
+2022-04-27 {{bM23N1IPrDk@3155}} anecdote Without quitting games he believes he would be either overweight or very skinny and the channel would not exist
+2022-04-27 {{bM23N1IPrDk@5860}} anecdote NH reached Diamond in League within his first year and played alongside semi-professional teams; he quit because the game made him depressed
+2022-04-30 {{traEzBUl8aU@881}} anecdote [triceps] For years NH trained only his biceps, so his triceps lagged; he is now catching up
+2022-05-05 {{goz7V7ncH8s@2204}} anecdote In 2016-17 NH thought he had hit his natural limit, blamed his T levels and seriously considered taking drugs
+2022-05-09 {{rVy03_C5jEU@1195}} anecdote NH calls himself a naturally gifted swimmer: as a toddler who nearly drowned he already knew how to swim
+2022-05-09 {{rVy03_C5jEU@1195}} anecdote He started boxing at 16, was moved up to the adult class because the kids would not spar him, and was known for a hard punch, partly from rage built up during two years of bullying  {"age": 16}
+2022-05-09 {{rVy03_C5jEU@1384}} anecdote He stopped boxing for basketball after an eye exam found that his nearsightedness put him at high risk of retinal detachment; his coach had wanted him to go pro and he regrets stopping
+2022-05-12 {{k9_dDbGLFZQ@0}} anecdote [chest] He built a thick chest largely with push-ups and bench early on and now only maintains it
+2022-05-14 {{JNBgBfmTqx8@189}} anecdote As a kid he was the smallest in class, could not do a single push-up or leg raise, and was beaten up almost daily
+2022-05-14 {{JNBgBfmTqx8@189}} anecdote He fought back by becoming more violent than the bullies; it stopped the beatings but left him insecure and he lashed out at people he loved
+2022-05-14 {{JNBgBfmTqx8@630}} anecdote He spent thousands of hours training alone  {"hours": "thousands"}
+2022-05-14 {{JNBgBfmTqx8@1823}} anecdote He was never suicidal but had started questioning whether to put in effort at all
+2022-05-14 {{JNBgBfmTqx8@1886}} anecdote Five years earlier he would never have believed he would look and feel like this  {"years": 5}
+2022-05-16 {{wNunDhhIvRE@1943}} opinion Nobody gets 10 for experience before 10 years of serious hardcore training; NH has lifted around 15 years  {"years": 15}
+2022-05-22 {{kKX0AUrXzIw@1576}} anecdote NH calls himself conservative and a prima donna who takes the smartest path; he was a good swimmer but never won a title because he never pushed
+2022-05-26 {{rGMi5_hLRH8@1014}} anecdote NH says he was among those who started the virgin vs Chad memes on 4chan and made some originals still in circulation
+2022-05-28 {{iL0AsMX4-hA@0}} anecdote [biceps] As a beginner obsessed with big biceps he naturally cheat curled for 5-6 years without knowing strict curls existed; he has curled for 13 years  {"years": 13}
+2022-05-28 {{iL0AsMX4-hA@509}} anecdote [biceps] He built his arms up from 10 inches and protects his biceps tendons carefully  {"arm": "10 in"}
+2022-05-28 {{iL0AsMX4-hA@699}} anecdote [biceps] His goal was a 100 lb cheat curl; he reached it and is quitting cheat curls because he no longer wants to chase the number  {"load": "100 lb"}
+2022-05-30 {{iaNBZcYLMkY@1070}} anecdote [forearms] As a youth he did only grippers, developed a hand pathology and ended up with a ball of muscle on skinny forearms
+2022-06-05 {{QfHfxLYRu88@1883}} anecdote He looked barely passable for 5-6 years and really good only 9-10 years in; beginners should build a mental and intellectual base, not rush  {"years": "9-10"}
+2022-06-07 {{uGUNvG8ul6o@2991}} anecdote In his family the grandfather is the official patriarch, but his grandmother really ran things through her hold on his heart
+2022-06-09 {{kAVZsNLPNQ4@1382}} anecdote [abs] He has a great six-pack yet can barely run or jump, and is less athletic than many people who look worse
+2022-06-14 {{pgwot_D2Bas@0}} anecdote The Japanese rights holder of Grappler Baki blocked many of his videos and answers each counter-claim at the deadline with a new claim, abusing YouTube's copyright system
+2022-06-14 {{pgwot_D2Bas@125}} anecdote With month-long waits per claim, recovering all his videos could take 5-6 years  {"years": "5-6"}
+2022-06-14 {{pgwot_D2Bas@125}} anecdote He refuses to fold because he hates censorship, and the channel was already wrongly terminated once and restored by his viewers' support
+2022-06-14 {{pgwot_D2Bas@377}} anecdote He will take strikes one at a time and contest them so the company must show legal action, accepting the channel could be wiped
+2022-06-20 {{qrBLykvU_EE@1507}} anecdote Three years without tendon pain probably saved his relationship with lifting  {"years": 3}
+2022-06-22 {{rzFu7_usvL8@6179}} anecdote The line 'a woman needs a man like a fish needs a bicycle' haunted him for ten years; he reads it as coming from a disappointed woman
+2022-06-22 {{rzFu7_usvL8@3904}} anecdote He recorded the second half the next day in 105F heat amid forest fires, with 110F in his garage
+2022-06-23 {{itnjfi6RYtY@1004}} anecdote Sessions take 2-3 hours
+2022-07-02 {{Mt7cGMJZjkw@1321}} anecdote [back] He neglected his back for years, started retraining it about two years ago, and regrets the gains he lost
+2022-07-06 {{EGCKBEWh8ng@872}} anecdote [lats] NH built his lats strictly with pull-ups and pullovers, the only two lat lifts available in his home gym, proving lifts without a tight arm work
+2022-07-16 {{u8IRHcUWfPs@0}} anecdote NH works about 50 hours a week on top of the channel, family and hobbies  {"work": "50 h/wk"}
+2022-07-16 {{u8IRHcUWfPs@312}} anecdote In high school he ran home when school ended at 5 pm so he could lift at 5:30 every day, refusing friends' invitations
+2022-07-16 {{u8IRHcUWfPs@882}} anecdote Prioritize according to your personality: for him lifting and work come first, then family, and he sacrifices social gatherings
+2022-07-18 {{P0SI2703w-I@125}} anecdote [abs] As a teenager he did thousands of anchored crunches every day, which built his abs
+2022-07-20 {{ZzcNdESueDs@2822}} anecdote NH saved $10k in his first year at a modest entry-level job while paying rent and food  {"savings": "$10k"}
+2022-07-20 {{ZzcNdESueDs@3262}} anecdote In his early 30s NH has nearly enough savings to buy a $130k condo in cash
+2022-07-28 {{gSFUgZ42R1A@0}} anecdote NH is fighting copyright claims from two Japanese companies, one allegedly blackmailing him for money; one more strike would delete the channel
+2022-07-30 {{_KT_9vmHNzE@2207}} anecdote NH was an awkward, bullied kid with a tough puberty; the wound healed and made him stronger
+2022-07-30 {{_KT_9vmHNzE@3152}} anecdote NH spent five or six years looking like a skeleton with no muscle before building his physique  {"years": "5-6"}
+2022-08-03 {{yUecX6qONXg@150}} anecdote NH trained every day with no days off for three years when he started, about 1000 sessions  {"years": 3}
+2022-08-06 {{lmhW2W2UQto@0}} anecdote NH's earlier Mentzer video was poorly researched and biased; this one is based on hours of his lectures
+2022-08-07 {{egu7WVtu80I@376}} anecdote He was short until a very late growth spurt; the worst part of being short is the resentment it breeds, which damages social interactions
+2022-08-07 {{egu7WVtu80I@944}} anecdote Reveal your weaknesses slowly; during the first year with his now wife he revealed none of his  {"years": 1}
+2022-08-07 {{egu7WVtu80I@1447}} anecdote His first rejection left him depressed for about two weeks; with repetition rejection stops affecting you  {"weeks": 2}
+2022-08-07 {{egu7WVtu80I@1634}} anecdote He later learned that three or four girls in his high-school class wanted to date him but he could not read their signals
+2022-08-07 {{egu7WVtu80I@3451}} anecdote He often goes shirtless and his wife does not mind, because men and women process outside attention differently
+2022-08-07 {{egu7WVtu80I@3953}} anecdote In his early 20s he slept with girls once and left them, which he is ashamed of; time alone led him to meet his wife
+2022-08-11 {{98cRcFkEN8o@691}} anecdote He himself spent hours listening to tren and deca talk as a young lifter and was being lured in
+2022-08-14 {{_KypKq9Hbe0@0}} anecdote [biceps] Big arms are achievable naturally; he went from about 11 inches at 18 to about 18 inches after 10 years of natural training  {"weeks": "10 years"}
+2022-08-24 {{WdFEEkLfBRc@2459}} anecdote People who had no problem with him started mocking his efforts and calling him vain once he began improving, because he reflected their own inaction back at them
+2022-08-27 {{9WA6eQODjHQ@502}} anecdote He was stuck gaining and cutting 30 lb repeatedly, piling up injuries and stubborn fat; the recomp let his body heal and he now feels better than ever  {"load": "30 lb"}
+2022-08-27 {{9WA6eQODjHQ@752}} anecdote He started his recomp at 18-19% body fat and ended around 15-17%; at 210 lb each percent is more mass than for a 150 lb lifter, so three years was what it took  {"bodyfat": "18-19% to 15-17%", "weeks": 156}
+2022-08-29 {{O9txIDHBBIk@0}} anecdote The channel reached 50K subscribers in three years
+2022-08-29 {{O9txIDHBBIk@1440}} anecdote The biggest benefit of the recomp was better mental and physical health and no pain
+2022-09-03 {{ihFhv7P3wpI@253}} anecdote No natural with a decade of training regrets it; lifting is the best part of his life
+2022-09-03 {{ihFhv7P3wpI@443}} anecdote He looked like he did not lift for his first five years and still progresses every year  {"weeks": "5 years"}
+2022-09-05 {{EH4tG1AXblQ@1563}} anecdote He says he would rather starve than eat a roach
+2022-09-07 {{XAcv427WvMw@420}} anecdote [quads] His leg size came from back squats plus lots of SSB and front squats; when he only back squatted he regressed and got hurt
+2022-09-10 {{gizylGr0ebo@63}} anecdote He will not delete his flawed review because hiding mistakes is cowardly and the video still helps people
+2022-09-25 {{q1XhaAN9M5k@0}} anecdote A Japanese company struck his anime videos for about five months and ignored counterclaims even through a hired translator; he risked fighting legally rather than surrender his freedom of speech  {"weeks": "~20"}
+2022-09-25 {{q1XhaAN9M5k@63}} anecdote He won back one video after three months; when the company re-blocked it, YouTube found the block illegal and removed the company from the copyright ID system, restoring all his videos
+2022-09-25 {{q1XhaAN9M5k@250}} anecdote A second claimant over a drawing used in a thumbnail backed off once he sent a lawyer-drafted challenge
+2022-09-25 {{q1XhaAN9M5k@690}} anecdote If he writes a book it will be free heroic fantasy fiction with themes such as masculine archetypes
+2022-09-25 {{q1XhaAN9M5k@939}} anecdote His day: up at 8, work 8:30-5:30, gym about 6:20-9 PM, family time, then video work 10 PM-1 AM; roughly 50 h work, 20 h training and 10-15 h content per week  {"training": "~20 h/wk", "work": "~50 h/wk"}
+2022-09-25 {{q1XhaAN9M5k@1066}} anecdote His work ethic comes from immigrant parents who instilled discipline; his struggle is not doing too much, as he burnt out working 60-80 h weeks
+2022-09-25 {{q1XhaAN9M5k@1377}} anecdote Subscriber program reviews stopped because the programs were all the same and taught nothing new; a new format is planned
+2022-09-25 {{q1XhaAN9M5k@1939}} anecdote He doesn't know how to pose and won't teach posing, tanning or peaking
+2022-09-25 {{q1XhaAN9M5k@2503}} anecdote His grandfather, in his early 90s, still swings a chainsaw and slaughters pigs, proving physical activity is the pinnacle of health; he also built houses himself  {"age": "92-94"}
+2022-09-25 {{q1XhaAN9M5k@2941}} anecdote He declined the vaccine, hasn't gotten sick, and says you must live by your own principles rather than submit to something you may regret
+2022-09-27 {{vlnnV8BdWCE@845}} anecdote [quads] He hated lunges after a football coach made the team do lunge laps, but has reintroduced Bulgarian split squats, partly to target his VMO
+2022-09-28 {{6HGBdDOAReA@191}} anecdote He trained without a program his first 2 years; the next 3 years on a simple linear program with dumbbells in his bedroom were his best gains, taking him from skinny to visibly trained
+2022-09-28 {{6HGBdDOAReA@632}} anecdote He was stuck in a powerlifting mindset for years, roughly 2017-2018 to 2021, before properly transitioning to bodybuilding training
+2022-09-28 {{6HGBdDOAReA@761}} anecdote He enjoyed his early years because the journey mattered; chasing a finish line turned lifting into self-punishment
+2022-09-28 {{6HGBdDOAReA@949}} anecdote His most productive years came when he loved lifting, his worst when he followed 'no pain no gain': he overate and squatted and deadlifted with broken bones
+2022-09-28 {{6HGBdDOAReA@1012}} anecdote After he found YouTube Fitness he followed others' plans, his growth stopped and he was constantly in pain
+2022-10-08 {{vdEfTs-aMmM@254}} anecdote At 16 he woke at 5 am daily to sprint in the park before school regardless of rain or snow, and ran in the mountains in bad weather  {"age": 16}
+2022-10-08 {{vdEfTs-aMmM@1693}} anecdote His mother would make him look at his roof, bed and moving limbs to show he had everything needed to get up and become someone
+2022-10-11 {{BhOuuyriBDw@0}} anecdote [shoulders] He de-prioritised shoulders for two years (no vertical pressing) so his biceps and triceps would overpower his delts; now his arms are big enough to let the delts catch up  {"years": 2}
+2022-10-11 {{BhOuuyriBDw@632}} anecdote [shoulders] He tested the plan for three months beforehand: shoulders catching up and perfect tendon health  {"weeks": 12}
+2022-10-11 {{BhOuuyriBDw@1258}} prescription [shoulders] His plan: OHP plus DB lateral raises, cable lateral raises and bent-over raises, 3x/week, targeting 12-16 shoulder sets per week  {"frequency": "3x/wk", "sets": "12-16/wk"}
+2022-10-13 {{RwEJpHTwWm0@565}} anecdote [biceps] He did cheat curls for 10 years, tens of thousands of reps, and still says they are not a good exercise  {"years": 10}
+2022-10-16 {{crP2w97XXfs@1132}} anecdote [glutes] Anecdote: a woman at his commercial gym returned from Brazil with butt implants that looked absurd on her frame; he could see the implant shape when she squatted
+2022-10-18 {{0xZ2Yl1PUmc@947}} anecdote At 17 he believes his T was far below normal range, but he never tested and fixed his environment instead; he expects it is now mid-to-high range
+2022-10-25 {{E1er3oQ3IeM@249}} anecdote Two years earlier he dogmatically pushed the idea of a final program; there is no such thing because your body evolves forever
+2022-10-25 {{E1er3oQ3IeM@1505}} anecdote Stuck in a powerlifting mindset, it took him roughly from 2017-18 to 2020-21 just to transition to proper bodybuilding training
+2022-10-25 {{E1er3oQ3IeM@2138}} anecdote For his first two years he trained without a program; he still gained, but a plan would have been far more productive
+2022-10-25 {{E1er3oQ3IeM@3783}} anecdote When he got started he was patient and enjoyed the journey; chasing the finish line turned lifting into a punishment he inflicted on himself
+2022-10-27 {{Zv9QAIb5nGk@443}} anecdote He trains up to three hours in the gym, not because he enjoys it but because volume matters for him
+2022-10-30 {{kpgHWNfclVo@40}} anecdote He was supposed to stay at a Thai hotel hit by the 2004 tsunami but the trip was delayed by a week
+2022-10-30 {{kpgHWNfclVo@101}} anecdote He has a conflicted relationship with water: nearly drowned at two, nearly swept out by a riptide in Miami a year ago; his name means friend of the sea in some language
+2022-10-30 {{kpgHWNfclVo@228}} anecdote Around age 10 he was left behind while snorkeling in the Caribbean, blocked by jellyfish, climbed onto a shark-filled reef bleeding, and was rescued by a guide before passing out
+2022-10-30 {{kpgHWNfclVo@923}} anecdote As a kid he was a pudgy, insecure boy while an older teen in the group had a six-pack
+2022-10-30 {{kpgHWNfclVo@1743}} data He is exactly six feet tall, the same as the depth of the pool he nearly drowned in at two
+2022-11-05 {{ttUzFhGo6Bc@1455}} anecdote His great-grandfather (70), grandfather (60s) and father (50s, three years ago) all died of prostate cancer; his father avoided doctors out of fear and was diagnosed at stage three once it had spread to the bones
+2022-11-05 {{ttUzFhGo6Bc@1646}} anecdote His uncle from the same bloodline got checked in his 30s, had problems caught early, and is now in his 70s and a grandfather
+2022-11-08 {{h7D6CB4p1oU@318}} anecdote He went from 110 to 210 lb by bulking slowly and conservatively; his years of eating big were the ones with the least muscle gain and the most fat
+2022-11-08 {{h7D6CB4p1oU@445}} anecdote His best gains came on a lean bulk as a skinny teen fed by his parents, adding just a bowl of rice or some roast beef a day and gaining 10-15 lb of quality mass a year  {"weight_gain": "10-15 lb/yr"}
+2022-11-08 {{h7D6CB4p1oU@1326}} anecdote He bulked to 240 lb thinking he was big, cut to 210 and found the 30 lb he lost had been almost all fat  {"bodyweight": "240->210 lb"}
+2022-11-11 {{wB-ydKSfQ5k@1}} anecdote He avoids video games himself because of past addiction issues but follows the lore
+2022-11-13 {{ImJqBwLqHcw@1087}} anecdote His small boxing teacher (5'4", 130 lb) was always cordial because he was secure; the men who gave NH a hard time for his size were insecure
+2022-11-13 {{ImJqBwLqHcw@1985}} anecdote He did martial arts but chose bodybuilding because he lacked the bloodlust and aggressiveness needed to excel at fighting
+2022-11-13 {{ImJqBwLqHcw@2221}} anecdote Bullied as a kid, he became aggressive and started attacking others; bodybuilding and fixing his body ended that spiral and gave him peace
+2022-11-21 {{7dDEDax8854@569}} anecdote He trained two hours in a 0 °C garage until his toes froze, while the average man skips sessions in a heated commercial gym; that makes him objectively superior on that score  {"duration": "2 h"}
+2022-11-22 {{1U5cgUdos88@315}} anecdote [neck] His neck is 17 inches and he is satisfied with it
+2022-11-25 {{gYyqqbs2SLI@252}} anecdote [quads] He built his big legs with squats alone
+2022-11-25 {{gYyqqbs2SLI@1386}} anecdote [quads] He once squatted three times a week with the same style and hit injuries and plateaus; treat the squat as a special lift and fill volume with leg press, leg extensions and hack squats  {"frequency": "3x/wk"}
+2022-11-27 {{Cbq-vxVba4k@316}} anecdote [lats] Pull-ups made one of the biggest differences in his own back aesthetics
+2022-12-12 {{uF-j7u5VLaY@2736}} anecdote He has a job, is married and owns a house
+2022-12-15 {{z2uzpl_smSg@2337}} anecdote NH balances programs like a budget; every program he writes or critiques follows the 85% rule
+2022-12-18 {{eCR3dcmCPV8@125}} anecdote NH's own Instagram photos look very different from how he looks on camera in normal light
+2022-12-18 {{eCR3dcmCPV8@1567}} anecdote [back] NH started skinny and is now jacked, proof that building a big back naturally is possible
+2022-12-24 {{cUkWvnY8AJI@251}} anecdote [chest] NH built his chest mainly with the bench press and push-ups, without fancy methods
+2023-01-11 {{_P0-kYyVMn4@0}} anecdote NH got sick for the first time in 15 years and chose training and recovery over making videos  {"years": 15}
+2023-01-18 {{BiVfpZEchws@0}} anecdote NH says he works in AI, which makes him skeptical of chatbot intelligence
+2023-01-23 {{HXoY7xzHlWU@62}} anecdote [biceps] He built 18-inch arms naturally through isolation, not compounds  {"arm": "18 in"}
+2023-01-23 {{HXoY7xzHlWU@1262}} anecdote [biceps] He made insane arm gains in three months by refining the process rather than adding anything new  {"weeks": "~13"}
+2023-01-27 {{pBszDfFvoVI@253}} anecdote In school he had 2 hours of PE a week versus about 30 hours sitting in a chair  {"PE": "2 h/wk", "class": "30 h/wk"}
+2023-01-27 {{pBszDfFvoVI@381}} anecdote Even with a desk job in AI he trains rigorously because the job does not give his body what it needs to stay healthy
+2023-01-27 {{pBszDfFvoVI@1383}} anecdote As a kid he was intellectual but a skinny, weak wimp who looked down on athletic boys; being bullied taught him he had to toughen up
+2023-02-02 {{clzLnKrm6Ao@1452}} anecdote [forearms] He is personally at step 5 of the plan
+2023-02-05 {{k3yRgcmiCls@3449}} anecdote [forearms] The forearm tier list is next and forearms have become his favourite muscle to train
+2023-02-13 {{bntFiuquKGI@441}} anecdote He has never once worried about a partner leaving him for another man, which he attributes to confidence and treating her well
+2023-02-16 {{ABTeMrXdgI4@250}} anecdote [back] Two-arm bent-over dumbbell rows were his only posterior chain exercise for about two years, and his first real deadlift was 275 lb for 5 with good form  {"load": "275 lb x5"}
+2023-02-16 {{ABTeMrXdgI4@350}} anecdote [quads] He had 26-27 inch quads purely from squats before he ever did leg extensions or other methods
+2023-02-16 {{ABTeMrXdgI4@628}} anecdote [chest] Push-ups made the single biggest difference to his physique: he did hundreds every day with no rest days, and abandoning them for the bench press was a mistake  {"frequency": "daily"}
+2023-02-25 {{K2h1QhDo4qU@818}} anecdote [lats] Results take years: Steve Reeves did them for four years, and he saw massive changes two years into doing them twice a week without missing a week  {"frequency": "2x/wk", "weeks": "~104"}
+2023-03-01 {{Z2JQ5n0dbkY@632}} anecdote Every fitness YouTuber speaks from their own perspective; at 6 ft he needs about 200 lb to be big, so calling 160 lb small is his frame talking  {"bodyweight": "200 lb"}
+2023-03-01 {{Z2JQ5n0dbkY@1197}} anecdote He was short until 15 (about 5'2" from age 10 to 15), was disrespected daily, then grew almost a foot in 2-3 years and was suddenly treated with respect
+2023-03-01 {{Z2JQ5n0dbkY@1323}} anecdote A boy who bullied him in middle school greeted him warmly and wanted to be friends after his growth spurt
+2023-03-01 {{Z2JQ5n0dbkY@2073}} anecdote His wife, asked off-guard, admitted she wouldn't have dated him if he were three inches shorter
+2023-03-01 {{Z2JQ5n0dbkY@3767}} anecdote He was on the verge of becoming bitter toward women and everyone before his growth spurt saved him
+2023-03-06 {{HOgwZO70z_M@689}} anecdote The 'awkward phase' is the transition from lean to big where you look soft and not muscular; his lasted about two years  {"weeks": "~104"}
+2023-03-06 {{HOgwZO70z_M@689}} anecdote His current mass makes him poor at running and jumping; muscle is oxygen-hungry and he gasses out quickly outside lifting
+2023-03-26 {{iPtxiNtBY-M@2574}} anecdote [forearms] After 11-12 years of grippers (up to Captain of Crush 2.5) his forearms grew from reverse curls, wrist curls and arm wrestling pull-ups, not grippers
+2023-03-30 {{XQEmQq-Ga2g@1711}} anecdote His wife pursued him while he was seeing several women, and with patience made him fall in love and commit to her
+2023-03-30 {{XQEmQq-Ga2g@1899}} anecdote He spends thousands of hours on the channel even though it brings little money, because it is what he loves
+2023-03-30 {{XQEmQq-Ga2g@2024}} anecdote He dislikes socialising but will be sociable for an afternoon because it makes his wife happy; both partners should put in similar effort
+2023-03-30 {{XQEmQq-Ga2g@2278}} anecdote After rejection through his teens he used women when he became popular; it hurt others, hurt him and made no one happier
+2023-04-01 {{kQMrIszr_Bw@946}} anecdote [forearms] He has small wrists relative to his forearms, yet the forearms grew by training them with arm wrestlers' methods
+2023-04-03 {{aJ1e41y8Na4@1636}} anecdote He trains six days a week but does only 3-4 sets per exercise and very low rep ranges, far less volume than GVS  {"frequency": "6 days/wk", "sets": "3-4"}
+2023-04-10 {{-sf34ScWLK8@252}} data NH's waist is 36 inches and his neck about 17.5 inches
+2023-04-13 {{rFfLUloDHeg@0}} anecdote As a kid he saw a small wrestler slam a 6 ft plus 14-year-old onto concrete in an instant
+2023-04-26 {{Ux-tXsicqIk@0}} anecdote He is bringing philosophy back to the channel in two series: pure philosophy ('educated barbarian') and philosophy explained through fiction, mostly manga and anime
+2023-05-03 {{d1eLAd5WvIA@0}} anecdote Alan Thrall, 15+ years of strength sports, in his 30s, natural, business owner and new dad, will do a full year of hypertrophy training under his program  {"weeks": 52}
+2023-05-09 {{7KDB5wzgY4c@1074}} anecdote [abs] He stays at step 3 himself: 9-15 sets a week of sit-ups and leg raises, no more than 12 sets  {"sets": "9-15/wk"}
+2023-05-28 {{8C3R94M4yNM@313}} anecdote He has eaten raw garlic non-stop for years and had zero stomach issues or parasites
+2023-05-28 {{8C3R94M4yNM@686}} anecdote He personally eats a whole bulb over four days, half every two days, because he digests it easily and loves the taste  {"frequency": "1 bulb/4 days"}
+2023-05-28 {{8C3R94M4yNM@1001}} anecdote He started eating ginger a year and a half ago to complement garlic
+2023-06-08 {{MlpPv7PE7q8@0}} anecdote His family now relies on him as sole breadwinner, so he cannot keep putting unpaid time into YouTube
+2023-06-08 {{MlpPv7PE7q8@191}} anecdote His videos take at least five hours to make, and a tier list about 15 hours  {"hours": "5-15"}
+2023-06-08 {{MlpPv7PE7q8@1074}} anecdote He spends 20-25 unpaid hours a week on YouTube on top of a 40-hour job; Plan B is a 70-hour work contract  {"hours": "20-25/wk"}
+2023-06-08 {{MlpPv7PE7q8@1575}} anecdote If the goal fails the channel won't be deleted; he would just upload less often
+2023-06-12 {{Z-hGdKz28RY@0}} anecdote Ko-fi memberships reached the goal within 10 hours, so YouTube becomes his paid second job with no ads or sponsors
+2023-06-15 {{gpFdh0eBMGc@62}} anecdote His original novice program is three years old and he no longer likes much of it; his philosophy has changed
+2023-06-15 {{gpFdh0eBMGc@2064}} anecdote He trains six days a week with 7-8 exercises per session, like the advanced program  {"frequency": "6x/wk", "exercises": "7-8"}
+2023-06-21 {{P7ADeDVghxg@868}} anecdote Each wild-man session took 25 minutes max of pure giant sets  {"duration": "25 min"}
+2023-06-21 {{P7ADeDVghxg@1120}} anecdote [biceps] He has 18-inch natural arms despite poor arm genetics, from serious arm isolation  {"arm": "18 in"}
+2023-06-25 {{wE3vuAA7K1Y@1005}} anecdote Anecdote: growing up in Paris's Chinese district he saw meek Asian friends let others take their money and food to seem nice
+2023-06-28 {{sgQD0WIfuvc@4243}} opinion He loves natural bodybuilding because the community shares mistakes and knowledge to make the next generation's lives easier
+2023-07-08 {{awwJ5sbyz6A@1139}} anecdote [forearms] His forearms improved a lot in six months purely from isolation  {"weeks": 26}
+2023-07-12 {{Z8Kwk55DxlU@1388}} anecdote He likes and trusts Nippard, who helped him save his channel when it was deleted
+2023-07-26 {{0X2PxuT3tuE@255}} anecdote His scoliosis makes his arms drift to one side on extensions, but it has caused no problems
+2023-08-01 {{aOk65xuzIPE@1328}} anecdote Everyone is fascinated by PEDs because we are all in it for muscle; he was obsessed with PED content himself around 2016
+2023-08-23 {{B5eAFxfON3A@1}} anecdote He went quiet for a while because of a trip to Europe, a move across the country with his whole gym and a new job; the channel passed 100K subscribers
+2023-08-31 {{zuvTDBbAWN8@252}} anecdote After 15 years of training he still finds weaknesses to improve  {"years": 15}
+2023-08-31 {{zuvTDBbAWN8@315}} anecdote Before bodybuilding he trained for football then basketball and ran in the mountains for hours each morning
+2023-08-31 {{zuvTDBbAWN8@505}} anecdote He is fickle and drops what stops stimulating him, but is certain he will bodybuild for life
+2023-08-31 {{zuvTDBbAWN8@755}} anecdote He was small, unattractive and resentful as a kid; at 15 he started with 10 push-ups one day and curls the next, for two years
+2023-08-31 {{zuvTDBbAWN8@882}} anecdote At 17 he got his first weight set and trained daily all summer with no rest days or deloads, plus morning runs
+2023-08-31 {{zuvTDBbAWN8@1385}} anecdote After rejection by top universities he quit classes, played League of Legends 10 hours a day and stopped training for a year
+2023-08-31 {{zuvTDBbAWN8@1449}} anecdote Returning to the mountains and the smokehouse brought him back to training and out of depression
+2023-09-21 {{IFniodTLscY@1646}} anecdote His YouTube termination came from an anti-pornography video pointing out sexual content reachable by minors; the community and Noble Natties helped get the channel back
+2023-09-21 {{IFniodTLscY@2560}} data He gains roughly 3-5k subscribers a month and expects to pass his rival's subscriber count  {"subs_per_month": "3-5k"}
+2023-09-21 {{IFniodTLscY@4098}} anecdote [neck] Scars on his neck come from the bar during front squats
+2023-09-26 {{XK9KjVP-5Wo@63}} anecdote For his first 5 years he simply ate what his parents served and followed his appetite, going from 110 to about 160-170 lb without ever cutting  {"years": 5}
+2023-09-26 {{XK9KjVP-5Wo@502}} anecdote He hid his fat gain from himself with baggy clothes and by dropping calisthenics he was getting bad at
+2023-09-26 {{XK9KjVP-5Wo@1130}} anecdote At 240 lb, aged 23-24, he could barely walk 10 minutes on a Chicago trip without rib pain and swollen ankles, which made him start his only cut  {"bodyweight": "240 lb"}
+2023-10-08 {{16fjHEtZTCA@763}} data His gains: 15-20 years old, 110 to 170 lb (+60 in 5 years); 20-25, 170 to 200 (+30); 25-28, 200 to 215 (+15 in 3 years); the rate halved roughly every five years  {"lb": "+60/+30/+15"}
+2023-10-21 {{UgkxS0kX6jQRzB00xeLTdaX5PV5XZWha_tQj@0}} anecdote He trained through a COVID infection and mentioned it at the start of his hybrid calisthenics program video
+2023-10-21 {{UgkxdGzjBBCxAXoEd3lbTz_GsNXryHmfJxox@0}} anecdote He spent 10 days offline in his ancestral mountains, scheduling a V-taper program, Hypertrophy Log #4 on upper back growth, and a swimmer physique video  {"days": 10}
+2023-10-21 {{Ugkxg1eW6hui9-M4yi84syo-o3tkqihDSK8f@0}} anecdote Making videos took him 20-25 hours a week, which he could not justify once he became his family's sole breadwinner  {"hours_per_week": "20-25"}
+2023-10-21 {{Ugkxg1eW6hui9-M4yi84syo-o3tkqihDSK8f@0}} anecdote He let viewers vote on crowdfunding: majority NO meant working more hours and uploading a few times a month; YES meant making content his second job
+2023-10-21 {{Ugkxx7EkT93mbx2b_RlUl3cZNDuzW_ONvFJL@0}} anecdote Podcast topics: reasons for starting YouTube, a changed stance on parasocial relationships, his lifting mistakes, ab training, bro splits and calisthenics for bodybuilding
+2023-10-27 {{SS5uAU1rcEo@1437}} anecdote He has used trauma as fuel himself in the past and found that the more you use it, the more of it you produce
+2023-10-27 {{SS5uAU1rcEo@3452}} opinion He wants to be a big brother to young men and show them how to walk the path of masculinity
+2023-11-09 {{vTZx0__I6DA@1464}} anecdote As a 5-6 year old, his grandmother let him choose between keeping her leftover shopping money or giving it to homeless people; mostly he gave, and it shaped his adult charity
+2023-11-13 {{SZEjCsuclx8@2850}} anecdote Many creators (Alex, BoM, Basement Bodybuilding, himself) moved from strength-centric or powerbuilding training to bodybuilding after getting poor results
+2023-11-17 {{6YC_gmRNhPo@187}} anecdote [chest] It took him a long time of mobility work to reach 15-20 bodyweight dips; he now does weighted dips with 90 lb for sets of 5  {"load": "90 lb", "reps": 5}
+2023-11-17 {{6YC_gmRNhPo@1199}} anecdote He hasn't deadlifted in 6-7 months and has quit benching, replacing it with dips and push-ups
+2023-12-10 {{l2tFBCf8cdg@774}} anecdote As a nerdy kid NH latched onto being 'smart' and looked down on athletic kids out of envy; people double down on flaws by calling them strengths
+2023-12-10 {{l2tFBCf8cdg@2348}} anecdote You can't understand lifting until you do it; NH mocked lifters before he lifted
+2023-12-10 {{l2tFBCf8cdg@4152}} opinion NH would give up all his muscle to keep the spiritual gains from lifting
+2024-01-02 {{uOAia_t5c_I@1193}} anecdote His own recurring sin: stacking too much weight and shortening range of motion until he resets with less load and proper reps
+2024-01-09 {{lGbT0aT2hOk@270}} anecdote He started lifting at 15 to get bigger and more confident, replacing video games; it protected him from bad crowds, drugs and alcohol (he never smoked)  {"age": 15}
+2024-01-09 {{lGbT0aT2hOk@762}} anecdote He had a good body but was socially awkward; shorter, unfit friends dated the girls who liked his looks because they could hold a conversation
+2024-01-09 {{lGbT0aT2hOk@943}} anecdote As a gymcel he looked down on 'normies' and told himself happiness was for people without purpose, a cope
+2024-01-09 {{lGbT0aT2hOk@1413}} anecdote He turned down a girl's drink invitation in college saying 'it's pasta time'
+2024-01-09 {{lGbT0aT2hOk@1538}} anecdote When his mom locked his home gym for one day as punishment in Spain, he broke down crying
+2024-01-09 {{lGbT0aT2hOk@1586}} anecdote On a weekend trip to Chicago with his then-girlfriend (now wife) he spent both days at a local gym rather than miss training
+2024-01-09 {{lGbT0aT2hOk@1629}} anecdote He was a gymcel from about 18 to 22-23, training even with broken ribs until he dreaded the gym and watched the clock  {"age": "18-23"}
+2024-01-09 {{lGbT0aT2hOk@2011}} anecdote Now balanced and social, he is happiest, made his best gains in about 7 years, and can take a week off or move sessions for family  {"years": 7}
+2024-01-09 {{lGbT0aT2hOk@2074}} anecdote His wife patiently coaxed him out of the compulsive mindset, and he credits her with the channel existing
+2024-01-14 {{jDk3LytTEjA@2268}} anecdote He has subpar genetics and reaching 220 lb required paying close attention, not bro splits or doing whatever  {"bodyweight": "220 lb"}
+2024-01-14 {{jDk3LytTEjA@3091}} anecdote He grows his hair because he likes it long, not to copy Sam Sulek, and mocks fans who clone influencers
+2024-01-26 {{vVQmYGw7Kj8@1891}} anecdote He is purely experience-based, never modified his training based on studies, and it never stopped him growing
+2024-02-02 {{GyK1Y6WTR-g@2213}} anecdote Joel achieved in 3 years what NH achieved in 15  {"years": 15}
+2024-02-02 {{GyK1Y6WTR-g@3164}} anecdote He treats the channel as a secondary job funded by Ko-fi pledges
+2024-02-11 {{ryWJV6yN3ZE@1011}} anecdote After 4 years of giant sets and no dedicated cardio he found his cardiovascular endurance well preserved, helped by an athletics background  {"years": 4}
+2024-02-16 {{wr4N8rQWR4s@2024}} anecdote NH is married, trusts his wife more than himself and gives her the keys to everything he owns
+2024-02-16 {{wr4N8rQWR4s@3414}} anecdote Only his wife can really hurt him with words because she knows all his weaknesses
+2024-02-16 {{wr4N8rQWR4s@4303}} anecdote The channel is his second job, funded by Ko-fi pledges ($3/month helps)
+2024-02-20 {{Dciz-VeNHVI@570}} anecdote Forums like 4chan are designed to make you angry and are not a source of information; he spent his teenage years there and never benefited
+2024-02-20 {{Dciz-VeNHVI@2015}} anecdote Effort must serve fulfillment and not become your whole identity; he fell into living to train rather than training to live (his gymcel phase)
+2024-02-20 {{Dciz-VeNHVI@2204}} anecdote His mother taught him gratitude by making him list his limbs, blanket, roof, breakfast and warm school each morning, contrasting with his grandfather who worked in the mines at nine
+2024-02-20 {{Dciz-VeNHVI@2646}} anecdote As a control freak he used to spiral for 48 hours or two weeks over small setbacks and fixed it by treating his reaction as a habit to work on
+2024-02-20 {{Dciz-VeNHVI@3154}} anecdote Spending 20 years in Paris left him chronically depressed; moving somewhere green made his mental health skyrocket
+2024-02-20 {{Dciz-VeNHVI@3408}} anecdote Training is his rock: if he stops for three or four days the dark thoughts return, because the habit was what kept them at bay  {"days": "3-4"}
+2024-02-28 {{ZRNSc-xBVnc@1067}} anecdote He is straight edge: no drugs and no alcohol
+2024-03-17 {{fycepPpxN_k@3083}} anecdote [neck] He has trained neck for years and is at about 18 inches  {"neck": "18 in"}
+2024-03-22 {{v1URYz8VF5E@626}} anecdote As an adult he has had zero fist fights but hundreds of verbal micro-confrontations, which have become more common in modern passive-aggressive society
+2024-03-22 {{v1URYz8VF5E@815}} anecdote In grad school he took over a shared office and kitchen, leaving dirty dishes and filling the fridge, because nobody checked him
+2024-03-22 {{v1URYz8VF5E@941}} anecdote A secretary named Jenny dumped his dirty dishes on his desk; without a word he stopped immediately: pushers only understand defended boundaries
+2024-03-22 {{v1URYz8VF5E@1631}} anecdote He discarded his own kindness long ago but now thinks that was a mistake; you can keep kindness while defending yourself
+2024-03-22 {{v1URYz8VF5E@2198}} anecdote If verbal checks fail, violence makes you look like the problem; he once punched a persistently tormenting classmate and looked like a psychopath
+2024-03-31 {{-PDjwKZQVLw@190}} anecdote He split the analysis into two parts because a single video would have run about 7 hours; part one covers Machiavellianism, politics, Marxism, postmodernism and religion  {"hours": 7}
+2024-03-31 {{-PDjwKZQVLw@9716}} anecdote He admits he was exhausted and losing his voice by the religion section and drank water with honey to push through
+2024-03-31 {{-PDjwKZQVLw@12145}} anecdote Part two (ecology, Nietzsche, existentialism, transhumanism, feminism) depends on reception and support
+2024-04-11 {{loDNjTHZjG4@1513}} anecdote Every week he gets messages from young men who were on or about to start juice and stopped after his videos
+2024-04-11 {{loDNjTHZjG4@3342}} anecdote Strength copers are intermediates who want aesthetics but believe get strong to get big; he was one, obsessed with maxing out the big three, and it led him nowhere  {"years_ago": 5}
+2024-04-17 {{Q5ECkNZYZ58@100}} anecdote He moved from France to the US in 2015; before that all his training was at home in his bedroom with dumbbells and bodyweight
+2024-04-17 {{Q5ECkNZYZ58@280}} anecdote His old program was so bad it left him stuck as a lifetime intermediate and injured over and over
+2024-04-17 {{Q5ECkNZYZ58@610}} anecdote In 2016-17, six years in, he was about 180 lb lean and 230-240 lb when fat, with good arms but no back, no lats, no width and many neglected weak points  {"bodyweight": "180 lb lean / 230-240 lb fat", "years": 6}
+2024-04-21 {{Ft039H8jzXU@126}} anecdote He wrote BBBS in 2017 at the peak of his powerbuilding phase, after 7 years of training of which only 2 were in a gym, and was convinced he was a programming genius  {"years": 7}
+2024-04-21 {{Ft039H8jzXU@251}} anecdote BBBS gave him the biggest plateau of his life from 2017 to 2019 with barely any muscle or strength gained, constant injuries and damaged mental health; recovery took until 2020
+2024-04-21 {{Ft039H8jzXU@941}} anecdote His giant sets started on the BBBS arm days
+2024-04-21 {{Ft039H8jzXU@2322}} anecdote The BBBS physique had good biceps, chest and quads, but a poorly defined back with no lat flare, nonexistent shoulders and very poor triceps
+2024-04-21 {{Ft039H8jzXU@2512}} anecdote He is glad he waited to start the channel, since in 2016 he would have spread misinformation for years
+2024-05-12 {{qYaWxvA4fKg@2896}} anecdote Shame pushed him to build his body, but not all shame is equal: parents who constantly shame their kids are usually projecting their own mediocrity
+2024-05-28 {{l6L6HlGM4F0@690}} anecdote [shoulders] His shoulders and traps improved strictly through isolation and taking presses more seriously
+2024-05-28 {{l6L6HlGM4F0@814}} opinion He believes the next five years will be his most productive for gains
+2024-06-10 {{AZSZmhOJZJI@126}} anecdote As a kid he was told his genetics meant there was no point trying to build muscle; he believed it, and without an outside spark he would still be a 130 lb adult with spaghetti arms  {"bodyweight": "130 lb"}
+2024-06-10 {{AZSZmhOJZJI@316}} anecdote [full_body] At 14 he was 5'5 and 110 lb, lost arm wrestling to small girls, could not do a single push-up or hold a leg raise  {"age": 14, "height": "5'5", "bodyweight": "110 lb"}
+2024-06-10 {{AZSZmhOJZJI@698}} anecdote He was mostly raised by conflict-avoiding women who kept him in a protective cocoon; protection from adversity prevented him from growing
+2024-06-10 {{AZSZmhOJZJI@953}} anecdote His turning point: one summer on a bike he kept failing a climb, realized that if he got off that day he would get off every day, refused to stop and finished it
+2024-06-10 {{AZSZmhOJZJI@3041}} anecdote Growing up weak he became a fox rather than a lion, winning through rules and strategy instead of direct confrontation, and still prefers that path
+2024-06-10 {{AZSZmhOJZJI@3104}} anecdote He refuses to coach because too many clients gave up after two months of his help  {"duration": "2 months"}
+2024-06-10 {{AZSZmhOJZJI@3805}} anecdote He was the best swimmer at national level from 8 to 12, stopped training for 3 years thinking he was gifted, and at 15 came last behind the kids he used to lap  {"years": 3}
+2024-06-10 {{AZSZmhOJZJI@4622}} anecdote He was pushed to be a bookworm because people decided he was cerebral, and realized almost too late that he wanted to be physical
+2024-06-19 {{xqjfYhZ-CvQ@192}} anecdote Every hour he spends making videos is an hour not working for his employer, so the channel depends on Ko-fi pledges
+2024-06-19 {{xqjfYhZ-CvQ@1460}} opinion His own approach is experience-based rather than science-based, which puts him closer to the bros, but it is spelled out in arguments people can examine
+2024-08-08 {{sZntx8mqaH8@885}} anecdote He lost his job three months earlier and fought a litigious termination until getting it back
+2024-08-08 {{sZntx8mqaH8@1011}} anecdote His BMI of 30 labelled him clinically obese, surprising the doctor who saw him  {"bmi": 30}
+2024-08-08 {{sZntx8mqaH8@1323}} anecdote He plans weekly three-hour Saturday streams from September, free for everyone
+2024-09-07 {{bRKQIOYo2u4@10500}} anecdote He trains every day from 6 pm until 8-9 pm  {"frequency": "daily"}
+2024-09-07 {{bRKQIOYo2u4@2979}} anecdote He learned English by watching shows daily before bed, first with then without subtitles
+2024-09-07 {{bRKQIOYo2u4@10500}} anecdote He started the channel after someone close died, realizing waiting until he looked better or knew more was pointless
+2024-09-14 {{okm6bZHKHI4@10541}} anecdote His strongest muscles visually are the biceps and abs, his weakest the triceps and shoulders
+2024-09-21 {{lyj1BFZ85Dg@589}} anecdote He still has imposter syndrome on YouTube and reminds himself not to over-justify everything he says
+2024-09-21 {{lyj1BFZ85Dg@1531}} anecdote Since age three he has been happy alone for hours; he sits at the extreme low end of social need
+2024-09-21 {{lyj1BFZ85Dg@3157}} anecdote In France being muscular attracts constant negative remarks; in high school he refused classmates' drinking invitations to go train instead
+2024-09-21 {{lyj1BFZ85Dg@3283}} anecdote He hated himself as a small, weak young man; it took about five years of training to wake up in a body he loved  {"years": 5}
+2024-09-21 {{lyj1BFZ85Dg@3855}} anecdote At 16 he wrote a 15-page essay on Rousseau including a psychoanalysis of him and got 5/20 from a teacher who loved Rousseau
+2024-09-21 {{lyj1BFZ85Dg@5429}} anecdote As a teen he obsessively feared smelling and kept reapplying deodorant, which isolated him; he then went deliberately hypersocial
+2024-09-21 {{lyj1BFZ85Dg@7705}} anecdote His Dune video took about 20 hours of writing, 7-8 hours of recording and 12 hours of editing
+2024-09-21 {{lyj1BFZ85Dg@7893}} anecdote He knew he was an adult when he bused 45 minutes to buy groceries with his own money and cooked chicken himself
+2024-09-21 {{lyj1BFZ85Dg@8081}} anecdote He has lost a parent; you can't prepare for it, so call your parents and tell them you love them
+2024-09-21 {{lyj1BFZ85Dg@8384}} anecdote He hasn't been back to France in about seven years  {"years": 7}
+2024-09-21 {{lyj1BFZ85Dg@8761}} anecdote He quit video games about 11 years ago because of his addictive personality and has not played since  {"years": 11}
+2024-09-21 {{lyj1BFZ85Dg@9554}} anecdote At a very progressive university he was ostracized for speaking his mind and is glad he did
+2024-09-21 {{lyj1BFZ85Dg@10000}} anecdote His wife made him less rigid; he used to panic when his schedule broke; discipline can become a straitjacket
+2024-09-21 {{lyj1BFZ85Dg@10251}} anecdote He has a strongly avoidant attachment style and improved it by telling loved ones what bothered him instead of withdrawing
+2024-09-28 {{jmOPC_ozpwc@964}} anecdote He does not believe in love at first sight, but he knew his wife was special the first time he saw her, in a group of 30 people
+2024-09-28 {{jmOPC_ozpwc@1093}} anecdote He regrets his womanizer phase because he hurt women; it made him a better seducer, not a better partner or person, and nobody needs to go through it
+2024-09-28 {{jmOPC_ozpwc@3030}} anecdote He never had a heartbreak because he was always the one breaking up; he did not date in middle or high school and had his first real girlfriend at 22
+2024-09-28 {{jmOPC_ozpwc@4175}} anecdote His old direct approach of telling a woman he liked her and asking her out never worked
+2024-09-28 {{jmOPC_ozpwc@4869}} anecdote He felt nothing for the women he dated before his wife; he committed because they clicked, and her patience won him over
+2024-09-28 {{jmOPC_ozpwc@6153}} anecdote His flaws are impulsivity, rigidity, pouting, impossible standards for others and near-paranoid distrust; his wife pushed him to work on them
+2024-09-28 {{jmOPC_ozpwc@7364}} anecdote He prefers groups where he is not the leader because power goes to his head and he is good at manipulating people
+2024-09-28 {{jmOPC_ozpwc@9088}} opinion He wants an independent partner with her own life; if he died tomorrow he would want his wife to thrive
+2024-09-28 {{jmOPC_ozpwc@10931}} anecdote He streams every Saturday 2-5 pm EST, rotating philosophy, fitness, self-improvement and dating, while handling job and legal problems
+2024-10-12 {{D5AUHq98RdY@132}} anecdote He announced he had just been laid off from his tech job in the US wave of layoffs; as sole income earner of his family he must find work and plans to sue his employer
+2024-10-12 {{D5AUHq98RdY@256}} anecdote He refuses to put ads on his videos and looks for other ways to fund the channel
+2024-10-12 {{D5AUHq98RdY@445}} anecdote He moved philosophy content to live streams because if he waited to plan and edit perfect videos he would release only about three philosophy videos a year
+2024-10-12 {{D5AUHq98RdY@574}} anecdote He has practiced judo, taekwondo, some Muay Thai and boxing
+2024-10-12 {{D5AUHq98RdY@2344}} anecdote His recurring dream of being back in college and acing classes reflects unforgiven regret over flunking his first bachelor year out of boredom
+2024-10-12 {{D5AUHq98RdY@4119}} anecdote He estimates he has read books in the thousands
+2024-10-12 {{D5AUHq98RdY@7194}} anecdote He studied German for eight years and still speaks it poorly; he visited the Black Forest and found it the coldest place he had been
+2024-10-12 {{D5AUHq98RdY@9809}} anecdote He will likely do philosophy (The Educated Barbarian) mostly as live streams since he does not monetize views and philosophy fans don't need editing
+2024-10-19 {{c7hl9u3h_s0@1839}} anecdote [biceps] His arms went from 18 to about 18.4 in over ~2 years; 19 in might take 2-3 more years
+2024-10-19 {{c7hl9u3h_s0@1906}} anecdote His sessions last 2-2.5 hours door to door, warm-ups included
+2024-10-19 {{c7hl9u3h_s0@2597}} opinion His first-year YouTube programs were too high in volume and frequency
+2024-10-19 {{c7hl9u3h_s0@10430}} anecdote He went from 7 to 6 to 5 training days a week and still progresses  {"frequency": "5x/wk"}
+2024-10-19 {{c7hl9u3h_s0@10617}} anecdote He will someday cut to 180-190 lb to compete
+2024-10-19 {{c7hl9u3h_s0@10744}} anecdote Over 3-4 years his programming moved to less volume, less frequency, more intensity
+2024-10-20 {{Ugkx3fZWhTm6TEcno2w00oyL-1tyJ1QmcijH@0}} anecdote He started weekly Saturday Q&A streams (2-5PM EST) because live Q&A allows follow-up questions and interaction, a format that had disappeared from the channel
+2024-10-20 {{UgkxsO_zo0DYcovbD9kBO7pERz_ylwnhicgu@0}} anecdote Streams rotate weekly themes: philosophy, hypertrophy with live program reviews, self-improvement, dating/relationships, 2-5PM EST
+2024-10-20 {{UgkxsO_zo0DYcovbD9kBO7pERz_ylwnhicgu@0}} anecdote Streams are re-uploaded free and as audio on YouTube Music for those who consume them as podcasts
+2024-10-26 {{wBct3Pl8OY4@512}} anecdote In his first year of college the courses were so easy he lost all drive, fell into League of Legends (reached Diamond 1), and escaped by doubling down on walking, training and reading
+2024-10-26 {{wBct3Pl8OY4@1017}} anecdote He does not drink alcohol; in public people stare, ignore him or compliment him, and nobody has ever tried to fight him
+2024-10-26 {{wBct3Pl8OY4@1524}} anecdote As a kid he took piano lessons for three years by memorizing pieces by ear without knowing how to read music, then quit when found out
+2024-10-26 {{wBct3Pl8OY4@2104}} anecdote He is very likely autistic but was never diagnosed because of France's attitude to autism; struggling socially forced him to learn skills that now let him integrate
+2024-10-26 {{wBct3Pl8OY4@2543}} anecdote He still feels like the small effeminate kid around his family despite his size
+2024-10-26 {{wBct3Pl8OY4@3045}} anecdote He started bodybuilding partly to be left alone after bullies kept slapping books out of his hands in middle school
+2024-10-26 {{wBct3Pl8OY4@8306}} anecdote Introverts need less social contact; after a stream he rests about an hour before he can work out
+2024-10-29 {{cjviSWDFw0c@64}} anecdote His channel runs on memberships and donations ($3-5/month) rather than monetization  {"price": "$3-5/month"}
+2024-10-29 {{cjviSWDFw0c@1008}} anecdote He streams every Saturday from 2 to 5 pm
+2024-11-03 {{o40xCjIzl14@722}} anecdote His schedule before the layoff: work 8:00-18:00, gym 18:00-20:00, then family time, weekends for family, plus a daily walk with his wife  {"gym": "2 h/day"}
+2024-11-03 {{o40xCjIzl14@1282}} anecdote He considered chasing other women in his early 20s but chose to invest in his future wife; about seven years later he is glad he did  {"years": 7}
+2024-11-03 {{o40xCjIzl14@1408}} anecdote He regrets his playboy phase; it made it harder to attach to his wife
+2024-11-03 {{o40xCjIzl14@5105}} anecdote He has always given partners an ultimatum to quit smoking
+2024-11-03 {{o40xCjIzl14@5740}} anecdote He values intelligence, kindness and looks in a partner; he was first drawn to his wife's height and glutes
+2024-11-03 {{o40xCjIzl14@6192}} anecdote He refused to monetise the channel for years fearing greed; staying unmonetised to sponsors shows small allowances do not corrupt you, so do not hide your qualities
+2024-11-03 {{o40xCjIzl14@7083}} anecdote He has an avoidant attachment style and his wife a codependent one; it works because both set boundaries and compromise
+2024-11-03 {{o40xCjIzl14@7145}} anecdote Anecdote: before a first intimate date he masturbated four times and ate a whole rotisserie chicken, fumbled, and that failure led to studying in America, meeting his wife and starting the channel
+2024-11-03 {{o40xCjIzl14@8887}} anecdote After one painful rejection in college he deliberately 'speedran' rejections until they stopped hurting
+2024-11-03 {{o40xCjIzl14@9271}} anecdote When he started getting serious with his wife he was obese, around 240 lb with a double chin; being out of shape is no excuse to stop dating  {"bodyweight": "240 lb"}
+2024-11-05 {{b6HRJHLJq90@126}} anecdote As a cute, intelligent child he was adored and forgiven for anything; puberty brought acne, greasy skin, no height and lost status
+2024-11-05 {{b6HRJHLJq90@190}} anecdote At 11 he got Bell's palsy and was put on corticosteroids that made him gain weight fast, starting middle school short, fat and acned  {"age": 11}
+2024-11-05 {{b6HRJHLJq90@253}} anecdote He was bullied daily for about two years; adults stopped caring once he was unattractive and some joined in  {"weeks": "~2 years"}
+2024-11-05 {{b6HRJHLJq90@316}} anecdote A school director told him he was beaten up because of how he behaved, dressed and spoke, implying he deserved it
+2024-11-05 {{b6HRJHLJq90@821}} anecdote Self-image formed in childhood and adolescence persists; becoming attractive at 16 didn't give him confidence to act  {"age": 16}
+2024-11-05 {{b6HRJHLJq90@2014}} anecdote In college he was rejected 30+ times because he acted desperate and overly aggressive, unconsciously sabotaging so rejection was about his actions, not his self  {"count": "30+ rejections"}
+2024-11-05 {{b6HRJHLJq90@2079}} anecdote Recovery began once he saw he had let his past extend into adulthood and made it a personality; the lack of online incel forums then saved him
+2024-11-09 {{yZC3Nsmmzb8@132}} anecdote With average genetics it took him about 6 years from starting at 15 to look like he lifted, and more than 10 years to look actually jacked  {"years": "6 / 10+"}
+2024-11-09 {{yZC3Nsmmzb8@11980}} anecdote Scott, 55, trained from 14 to 27, took 21 years off and restarted at about 50; he looks great for his age, proof that lifting preserves your looks  {"age": 55}
+2024-11-16 {{fPU3nRIH8sM@4294}} anecdote He reread Modern Man in Search of a Soul six or seven times over three years before lecturing on it  {"times": "6-7", "years": 3}
+2024-11-16 {{fPU3nRIH8sM@8008}} anecdote In grad school he lived on about $700 a month but always had a room, bed and food  {"usd_month": 700}
+2024-11-16 {{fPU3nRIH8sM@8070}} anecdote He is making Ko-fi his main income, offering program and physique reviews to donors
+2024-11-16 {{fPU3nRIH8sM@8324}} anecdote When he got buff at 16-17 and girls noticed his arms, most of his male friends resented him  {"age": "16-17"}
+2024-11-16 {{fPU3nRIH8sM@9094}} anecdote His marriage is more important to him than bodybuilding
+2024-11-16 {{fPU3nRIH8sM@9094}} opinion Losing all his gains would be hard, but he knows he could build them back
+2024-11-16 {{fPU3nRIH8sM@9542}} anecdote He never believed in God; at catechism he treated the Bible as teachings about himself rather than faith
+2024-11-16 {{fPU3nRIH8sM@10372}} anecdote His 10-year goals: homeschool his kids, buy a house, not depend on a corporation, and get bigger  {"years": 10}
+2024-11-16 {{fPU3nRIH8sM@10561}} anecdote He refuses to monetize the channel so view counts never push him away from philosophy content
+2024-11-16 {{fPU3nRIH8sM@10757}} anecdote He keeps his services cheap for accessibility: physique review $10, French lessons $35 an hour  {"physique_review": "$10", "lesson": "$35/h"}
+2024-11-23 {{6p2x4kDDjzs@254}} anecdote [lats] He trained a strongman friend who went to failure even on a warm-up set; on his first try at dumbbell pullovers he went 40, 55, 65 and ended doing 70 lb for sets of 10 while NH used 100 lb  {"load": "70 lb vs 100 lb", "reps": 10}
+2024-11-23 {{6p2x4kDDjzs@360}} opinion He still agrees with 99% of his hypertrophy series; it is the basis of his bodybuilding methodology
+2024-11-23 {{6p2x4kDDjzs@860}} anecdote He was stuck about two years in intermediate hell during his powerbuilding phase; novices can do anything, but intermediates must program precisely  {"weeks": "~2 years"}
+2024-11-30 {{z9MttM0Bq-I@634}} anecdote His own transformation was a two-month self-motivated summer arc that changed him body and soul  {"weeks": 8}
+2024-12-01 {{TvKzeUKgZcY@2907}} anecdote As a broke student making $700 a month he hid eggs and food in a mini fridge in his room because housemates stole them; he was bulked and quite fat at the time  {"income": "$700/month"}
+2024-12-01 {{TvKzeUKgZcY@8500}} anecdote At 10, cortisone treatment for facial paralysis made him gain 25 lb in one month, turning him from an athletic kid into a fat, depressed one  {"weight": "+25 lb", "weeks": 4}
+2024-12-01 {{TvKzeUKgZcY@3979}} anecdote He was recently let go from a machine learning/AI job and thinks the AI bubble will pop soon
+2024-12-07 {{pt4mbNb7NJ0@2598}} anecdote Many lifters, including himself, started bodybuilding to impress a girl they never got, then fell in love with training
+2024-12-11 {{-OjJEzZTXtQ@0}} anecdote [quads] He reached his goal of 28-inch legs after five years  {"thigh": "28 in"}
+2024-12-11 {{-OjJEzZTXtQ@0}} anecdote [hamstrings] From 2020-2023 he grew his legs 1 inch while recomping, by finally training his neglected hamstrings with RDLs and hyperextensions  {"thigh": "+1 in"}
+2024-12-11 {{-OjJEzZTXtQ@0}} anecdote [hamstrings] For his first five years he mostly only squatted and never isolated hamstrings, creating a big imbalance  {"years": 5}
+2024-12-11 {{-OjJEzZTXtQ@1512}} anecdote [quads] For a future contest cut and his 30-inch goal he plans to use isolation like leg extensions; his adductors could be bigger  {"thigh": "30 in"}
+2024-12-11 {{Plr3f3LXO_o@135}} anecdote He has read Beyond Good and Evil more than 10 times and still rediscovers themes when discussing it with a philosophy client  {"times_read": "10+"}
+2024-12-11 {{Plr3f3LXO_o@2676}} opinion He is likely on the autism spectrum (undiagnosed) and is glad he was never treated as special; autistic people should be gradually exposed and taught coping skills, and everyone masks
+2024-12-11 {{Plr3f3LXO_o@2802}} anecdote As a child he walked on tiptoes, imagined Pokemon jumping across buildings, memorized animal names from documentaries and quizzed adults, once getting grounded for correcting an adult who called sharks mammals
+2024-12-11 {{Plr3f3LXO_o@3617}} anecdote He keeps dreaming of playing football, which he quit as a teen out of boredom; he reads it as a reminder to regain his ability to stick with commitments
+2024-12-11 {{Plr3f3LXO_o@8372}} anecdote His recurring dream of failing school exams comes from his first year of college in France when he skipped class out of boredom and barely passed despite being capable of topping the class
+2024-12-14 {{hXx-KDH2p28@69}} anecdote He left his employer and now makes his own schedule; he is busier than ever but likes the change
+2024-12-14 {{hXx-KDH2p28@830}} anecdote He socializes outside his marriage only once every four or five months and is fine with it, though he knows many people need more
+2024-12-14 {{hXx-KDH2p28@3913}} anecdote He avoids video games because his addictive personality makes him obsessed
+2024-12-14 {{hXx-KDH2p28@5626}} anecdote His wife is his main motivation; without her he would live as a bum in a cabin, and before her he owned a mattress on stacks of books and one chair
+2024-12-14 {{hXx-KDH2p28@10105}} anecdote He has never been drunk; five or six shots in Paris did not make him tipsy
+2024-12-14 {{hXx-KDH2p28@10167}} anecdote He has never trained on weed and does not like it
+2024-12-14 {{hXx-KDH2p28@10230}} anecdote [quads] His wife cares about fitness only through him; a 450 lb squat PR for 3 means nothing to her  {"load": "450 lb", "reps": 3}
+2024-12-16 {{qvWxIzhT1QU@317}} anecdote He is at 220 lb and maintaining, no longer gaining weight  {"bodyweight": "220 lb"}
+2024-12-18 {{1bCQ2ezQfAA@3172}} anecdote His own shadow was mostly lust; as a young man it steered his life until he faced it, understood its motives and now consciously resists it
+2024-12-18 {{1bCQ2ezQfAA@3172}} anecdote Without his shadow work he would be a single man in his 30s with senseless relationships, unhappy
+2024-12-18 {{1bCQ2ezQfAA@4316}} anecdote He built a strong individuality early after seeing friend groups where everyone copied everyone; it makes social life harder but strangers often quiz his wife about him afterwards
+2024-12-18 {{1bCQ2ezQfAA@510}} anecdote Stoicism appeals mostly to people who are not naturally stoic; he is stoic by default so he studies Nietzsche and Jung for emotion
+2024-12-18 {{1bCQ2ezQfAA@10041}} anecdote He also has cheating dreams; they ruin his day with shame, and feeling bad rather than good on waking is the healthy sign
+2024-12-18 {{1bCQ2ezQfAA@8785}} opinion As a child of divorce he holds that two separated parents beat two who fight constantly, though best is choosing a partner well
+2024-12-18 {{1bCQ2ezQfAA@9540}} anecdote He lost friends in the Bataclan terrorist attack in Paris
+2024-12-18 {{1bCQ2ezQfAA@10481}} anecdote He avoids One Piece videos for fear of copyright strikes, after a lawsuit with the Japanese company that owned Baki took two years to settle  {"years": 2}
+2024-12-22 {{ZLheQPgEfoA@628}} anecdote Since age 14 he has never gone more than a week without training; he must be physically active every day for his mental health, so rest days become weighted-carry days
+2024-12-22 {{ZLheQPgEfoA@2410}} anecdote [triceps] He wishes someone had told him one year in that his biceps were far ahead of his triceps; now he plays catch-up
+2024-12-22 {{ZLheQPgEfoA@3926}} anecdote In an old photo he weighed 10 lb less than now yet looked much fatter, which shows how much body composition matters  {"load": "10 lb lighter"}
+2024-12-22 {{ZLheQPgEfoA@5073}} anecdote He does not compete because he will not lose weight; like Rich Piana he wants to be too big for doors, looks worse shredded, and lacks the motivation; good tested natural federations do exist now
+2024-12-25 {{uKOuj3Mzc9c@1070}} anecdote Starting out he would have laughed at the idea of reaching 220 lb with 18-inch arms and 28-inch legs; he just kept training to see where he would go  {"bodyweight": "220 lb", "arms": "18 in", "legs": "28 in"}
+2024-12-30 {{RPc1lnNNXNg@1202}} anecdote His own focus on optimizing for hypertrophy comes from years of strength training that he was told would bring size and brought only injuries and fat
+2025-01-01 {{J9_udWdk6ZM@40}} anecdote He started the channel after his wife told him that if he didn't start today he never would
+2025-01-01 {{J9_udWdk6ZM@64}} anecdote He ran the channel unmonetised as a hobby for about five years, then used Ko-fi pledges to offset overtime when he became his family's sole provider  {"years": 5}
+2025-01-01 {{J9_udWdk6ZM@140}} anecdote Working 50-60 hour weeks left him unable to make videos, causing a three-month gap last spring  {"hours": "50-60/wk"}
+2025-01-01 {{J9_udWdk6ZM@200}} anecdote His employer let him go without reason, leaving him with time but only about a quarter of his former income
+2025-01-01 {{J9_udWdk6ZM@1509}} opinion Without ads or sponsors he can make whatever content he wants, from four-hour philosophy videos to long storytime streams
+2025-01-04 {{0O0nG2jLadU@947}} anecdote He no longer cares about views and would restart from 100 subscribers if the channel were taken down
+2025-01-04 {{0O0nG2jLadU@1072}} anecdote He was laid off after six years at a large company despite two bachelor's degrees and a master's, which pushed him to work for himself
+2025-01-04 {{0O0nG2jLadU@1652}} anecdote His one heavy weed experience (a thumb-thick pure joint) wiped his short-term memory for hours and he wandered Paris all night; he never smoked heavily again for fear of permanent brain damage
+2025-01-04 {{0O0nG2jLadU@1902}} anecdote High on weed he believed he could pump his biceps and quads just by thinking about them while walking
+2025-01-04 {{0O0nG2jLadU@10586}} anecdote He is cutting stream frequency in early 2025 to prioritize videos while working 60-80 hour weeks
+2025-01-04 {{0O0nG2jLadU@10523}} opinion He left French education for America because an American degree is more valuable
+2025-01-04 {{0O0nG2jLadU@10712}} anecdote Upcoming content: a hypertrophy log, a long insult video and free programs
+2025-01-04 {{0O0nG2jLadU@10712}} anecdote [quads] Today's session: squats and reverse lunges
+2025-01-14 {{thqDZPgE2kY@2256}} anecdote When he was overweight he got ankle pain from walks and that was enough for him to lose weight
+2025-02-08 {{-7bzbmL-x3Q@2312}} anecdote During the Paris strike trip he weighed 110 kg and was so heavy that pedaling a kid's bike up any slight incline wrecked him  {"bodyweight": "110 kg"}
+2025-02-08 {{-7bzbmL-x3Q@3258}} anecdote The Paris trip to see a dying relative made him realize life had no inherent meaning and he had to make his own, which led him to start the YouTube channel
+2025-02-08 {{-7bzbmL-x3Q@6971}} anecdote In grad school he taught 1-9 pm, trained in the gym from 9 to 11 pm, then worked on his master's in the office until 3-4 am
+2025-02-08 {{-7bzbmL-x3Q@65}} anecdote He now coaches about 30 people in his School of Strategy plus 15 in philosophy and literature, working from about 9 am to 1 am, and calls it the best choice of his life  {"people": "30 + 15"}
+2025-03-15 {{ACFKXT44BzM@1884}} anecdote He was away for a long time because of coaching work (Score of Strategy) and now returns to regular uploads and streams
+2025-04-28 {{kptuCb6_2Cc@46}} anecdote The script for this video took about 5 months and 25 pages to write before he cut it down  {"months": 5, "pages": 25}
+2025-04-28 {{kptuCb6_2Cc@107}} anecdote NH says he used to be an incel and speaks from that personal perspective
+2025-04-28 {{kptuCb6_2Cc@432}} anecdote His glow-up (growth spurt to 6 feet, better looks) did not improve his dating life and actually forced him to admit his character was the problem  {"height": "6 ft"}
+2025-04-28 {{kptuCb6_2Cc@432}} anecdote Socialization and interpersonal skills were the number one factor that got him out of inceldom, not becoming more attractive
+2025-04-28 {{kptuCb6_2Cc@494}} anecdote Across his life, whether fat or lean, his attractiveness never correlated with success with women; mental health and interpersonal skills always did
+2025-04-28 {{kptuCb6_2Cc@2585}} anecdote NH was raised by women, felt maladapted and lost in the masculine world as a boy, and became an incel
+2025-04-28 {{kptuCb6_2Cc@4169}} anecdote He has been inconsistent with uploads partly because he is very busy with his strategy work
+2025-10-20 {{Ugkx3KoBMHIB2Z4Si08-JkuTd8dW_CHW89nD@0}} anecdote He credits Ko-fi donations and pledges for making the weekly Saturday streams possible and renewing his motivation
+2025-10-20 {{UgkxGKioSkxIp0R9-q6m2ZcQHqRo96YZVyiW@0}} anecdote He teased a December 25th announcement marking a new chapter for the channel and his professional life
+2025-10-20 {{UgkxRHcDXg4TVfQz8rIQJYNRhSf_nPhJEGNj@0}} anecdote The School of Strategy (his paid coaching programme) attracted more than twice the number of members he expected, pushing back his return to regular YouTube content
+2025-10-20 {{UgkxRHcDXg4TVfQz8rIQJYNRhSf_nPhJEGNj@0}} anecdote As an immigrant he was dealing with bureaucracy issues that further slowed content production
+2025-10-20 {{UgkxTV9pdvdhWzD3dtePUJKjjbaA9qtuM3xd@0}} anecdote Story Time Stream #3 covered his first day in America, his time working for the French government, his hatred of haircuts, a ghost sighting and getting banned from a sushi restaurant
+2025-10-20 {{UgkxhKDzsUD8qLOrs15LqmIBBmj_e_SKzwNE@0}} anecdote Physique critique streams were initially planned monthly, capped at 20 people  {"entries": 20}
+2025-10-20 {{UgkxjZSvYVkAAG75u69j4AWubRYH1GFJyFr5@0}} anecdote Physique review streams were capped at 20 entries at $10 each  {"entries": 20, "price": "$10"}
+2025-10-20 {{Ugkxn0YHyZLc9USUjmqcjFXA-dyafYALjX3c@0}} anecdote Over 40 people joined the School of Strategy shortly after its announcement  {"members": "40+"}
+2025-10-20 {{Ugkxn0YHyZLc9USUjmqcjFXA-dyafYALjX3c@0}} anecdote Stories teased: why he left France, a childhood in a 'prison school', being kicked out of a gym by over-zealous staff, and eating so much he got banned from an all-you-can-eat sushi
+2025-10-20 {{UgkxnirCf1sozFsBb9bzn8VWSjMqurNfRXxH@0}} anecdote Physique and program reviews can be requested at any time through Ko-fi; on-stream reviews require waiting for the announcement post
+2025-10-20 {{Ugkxo6eFaYCzmfoFqYDqKywaKXiYHkA1NINF@0}} anecdote Program review streams take 15-20 programs first-come-first-served for a $5 donation or Ko-fi membership  {"programs": "15-20", "price": "$5"}
+2025-10-20 {{UgkxrQogvLF_k3MHa-nHT7ghR5vE9qiGCuzq@0}} anecdote He postponed a stream to finish a project revealed on January 1st (the School of Strategy) (low-confidence)
+2026-10-20 {{kofi@0}} principle He describes his goal as guiding a new generation of lifters 'on the path'
+2026-10-20 {{kofi@0}} anecdote The Ko-fi page exists so he can keep devoting time and energy to the channel
+2026-10-20 {{kofi@0}} data As of October 2026 the page showed 1,403 supporters and 7 membership tiers starting at $3, $5 and $10 per month; the $5 tier references Musashi's Book of Five Rings  {"supporters": 1403}

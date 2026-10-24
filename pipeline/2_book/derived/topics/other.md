@@ -1,0 +1,244 @@
+# other
+_228 claims from 112 videos, 2020-01-08 → 2025-01-04; merged into 225 distinct claims. Script output (reduce.py), not edited by hand._
+
+Line format: `- [Nv Y1-Y2 types] claim {numbers by month} cites` — Nv = distinct videos that said it; types P principle, R prescription, O opinion, A anecdote, D data; `?` = low-confidence caption; `also:` = differently-worded variants merged into it.
+
+## video / work / gym / cold (182)
+- [2v 2020-2021 P] Language learning: watch a show with native subtitles, then target-language subtitles, then none; read a known book in the language; speak; then immerse also: 2020-11: To learn a language: watch shows nightly with subtitles then without, practise speaking, immerse yourself, and read books while noting vocabulary {{m1fD0HP6sIg@1951}} {{kkbfHkyQ_q0@2583}}
+- [2v 2021-2024 OP] Mewing is just normal tongue posture; his coaches and parents always told him to breathe through his nose {{4sXkXeKAxIM@1024}} {{jmOPC_ozpwc@4364}}
+- [2v 2020 P] Measure the thigh at its thickest part with the tape tight all around. also: 2020-01: Measure arms flexed with the tape pulled as tight as possible. {{m6zOEA6DjCg@132}} {{IZXtM80btS4@131}}
+- [1v 2020 P] A measurement only counts with the tape tight and no slack; a loose tape is cheating, even if flexing harder gives a bigger reading. {{CVY-PytvEjw@126}}
+- [1v 2020 O] Refusing to share is understandable on barbell lifts where the other person would change your squat/bench height or strip heavy deadlift plates, but on machines and stations changing the weight costs nothing, so let people in. {{mSJ8i4TGD3E@79}}
+- [1v 2020 A] Being refused a work-in leaves you standing around waiting, and some people even assume you are trying to intimidate them into giving up the equipment. {{mSJ8i4TGD3E@116}}
+- [1v 2020 A] NH finds stepping over barbells common in his current gyms and suspects it is a piece of older lifting culture that has been lost. {{mSJ8i4TGD3E@22}}
+- [1v 2020 A] People have stepped into NH's field of vision to talk to him mid-set during squats and overhead press, which he finds absurd. {{mSJ8i4TGD3E@175}}
+- [1v 2020 O] If someone has headphones in, don't keep talking to them; a wave or handshake is fine. This applies outside the gym too. {{mSJ8i4TGD3E@148}}
+- [1v 2020 O] A gym is a community, not your personal property: if someone asks to work in with you, be reasonable and let them. {{mSJ8i4TGD3E@59}}
+- [1v 2020 P] If you agree to spot, be patient and let the lifter finish; don't grab the bar early because you're in a hurry. You're free to say no. {{P4wlPBkgzWo@252}}
+- [1v 2020 A] When a client says a certain template 'would be best', it is usually a covert request, so he follows their preferred structure. {{b4rMVrWFVEg@63}}
+- [1v 2020 O] Programming videos longer than about 20 minutes are hard to follow, so he splits reviews into parts. {{Tw8qA93Gf58@63}}
+- [1v 2020 O] Write sets and reps consistently in a program; inconsistent notation confuses readers. {{Tw8qA93Gf58@629}}
+- [1v 2020 A] He now expects the hypertrophy series to run about 20 parts rather than 10. {{tZ9CSu2DMIE@0}}
+- [1v 2020 P] A program review is easier when the lifter states clear goals, such as not wanting to grow the legs. {{eFhwWirR70o@253}}
+- [1v 2020 P] Before reviewing a program, read the lifter's goals and limitations. {{CFlRdyLiWOo@0}}
+- [1v 2020 A] The literature review series moves to a weekly Tuesday slot so he can reach the Hagakure, stoicism and Nietzsche sooner {2020-06 {"frequency": "weekly"}} {{swSh89g9Gts@0}}
+- [1v 2020 O] A kick works like a whip driven by hip rotation, so being able to box squat 500 lb has very little to do with kicking power; front kicks are rarely used because they are easy to dodge. {2020-06 {"load": "500 lb box squat"}} {{g4mX62QGzTo@756}}
+- [1v 2020 O] Seeing naturally (wide awareness without staring) matters little in lifting but helps in sports, martial arts and situational awareness {{8ur4A9N_h1c@1145}}
+- [1v 2020 P] When submitting a program, mention outside sports; otherwise he assumes lifting is all you do and judges tonnage and recovery accordingly {{u10c43TRDb0@0}}
+- [1v 2020 A] He only shares methods he has personally used and seen work {{uND20Zam2jI@64}}
+- [1v 2020 P] Always inhale through your nose and exhale through the nose or mouth, in daily life and in training {{cRLiTTlzXxk@0}}
+- [1v 2020 P] Nose hair and mucus filter out viruses and germs, lowering your chance of getting sick {{cRLiTTlzXxk@0}}
+- [1v 2020 P] In cold climates nose breathing retains moisture and body heat and warms incoming air {{cRLiTTlzXxk@315}}
+- [1v 2020 O] A proper punch transfers force from the ground; leaving the ground wastes energy and leaves you unable to move {{Vvr512xTfRE@2153}}
+- [1v 2020 O] He bans anyone who links Nether Beast's new channel because he does not condone doxxing; the man has a family {{Vvr512xTfRE@71}}
+- [1v 2020 O] The famous sitting-kills study did not control for activity; someone who sits six hours but trains two is healthier than a standing-desk user who never moves {2020-08 {"hours": 6}} {{3dLu3VQinL8@382}}
+- [1v 2020 P] Standing for long periods with locked knees cuts circulation and can make you faint {{6a-qQTsmsi0@191}}
+- [1v 2020 D] Women dominate ultra-long-distance swimming thanks to oxygen distribution and buoyancy {{Grakquhsb30@560}}
+- [1v 2020 P] Off-season athletes should focus on hypertrophy but keep testing athletic performance; in season they should still keep 2-3 hours a week of gym work rather than going all-or-nothing {2020-09 {"frequency": "2-3 h/wk"}} {{9M7QVlvFdQY@813}}
+- [1v 2020 P] Athletes doing strength training should test sprint speed and agility drills regularly to detect regressions and weigh them against strength gains {{9M7QVlvFdQY@689}}
+- [1v 2020 O] Hypertrophy Q&As will be posted monthly; questions must go under the matching Q&A video or they get lost {{9M7QVlvFdQY@0}}
+- [1v 2020 O] Calling people low IQ is a weak argument; IQ tests vary by culture and miss other forms of intelligence {{-GYV9s5Ad8s@1068}}
+- [1v 2020 O] Q&A frequency: hypertrophy Q&A becomes monthly, injury Q&A maybe every two months, nutrition every three {{Zg0oUngwPK4@0}}
+- [1v 2020 A] I like boxing, MMA and above all grappling: sumo, judo, jiu-jitsu; I practiced judo {{Zg0oUngwPK4@1507}}
+- [1v 2020 O] AI cannot predict beyond what it already knows; learn to program and diet yourself {{Zg0oUngwPK4@1220}}
+- [1v 2020 A] Anecdote: cows in his family's mountains keep big horns because wolves remain, yet never attack walkers; likewise a wasp has no reason to sting you {{RLwjGoejUXk@1391}}
+- [1v 2020 O] Doctors rarely push prevention partly because many do not practice it themselves and every profession tends to perpetuate its own need {{RLwjGoejUXk@1263}}
+- [1v 2020 O] Real fighters throw punches by rotating the hips, not from the elbow, and kick with one leg planted; flying kicks are almost never seen in the UFC {{ZTdIkUSgBEs@1005}}
+- [1v 2020 O] You can't be maximally big and maximally athletic; at some point you must choose {{6sFaB3rAY1A@1506}}
+- [1v 2020 O] The claim that homophobes are secretly gay makes no sense, like saying arachnophobes secretly desire spiders {{OtoSjIZudIA@950}}
+- [1v 2020 A] Two months speaking English in America taught him more than two years of practising alone at home {2020-11 {"weeks": 8}} {{m1fD0HP6sIg@2014}}
+- [1v 2020 O] Joking 'easy' answer to plateaus: stop working in the service industry, a bilingual pun on plateau as a serving tray {{NY4zULe5Gco@0}}
+- [1v 2020 O] People at 350 lb aren't healthy even at 6% body fat; health and longevity are everything {2020-12 {"bodyweight": "350 lb"}} {{so6MbvvtM1w@1045}}
+- [1v 2020 P] Bodybuilding is form over function and powerlifting function over form, but both grow the same tissue {{so6MbvvtM1w@1219}}
+- [1v 2020 O] NoFap and semen retention started as 4chan jokes that some took seriously {{so6MbvvtM1w@1381}}
+- [1v 2020 A] All of his channel's content is public domain: he files no copyright strikes and anyone may re-upload his videos with or without credit {{4VmvuoOBlOQ@126}}
+- [1v 2020 A] He plans to continue the series monthly, and more often if harassed with sock accounts {2020-12 {"frequency": "monthly"}} {{4VmvuoOBlOQ@188}}
+- [1v 2020 O?] Most Cold War budgets went to demoralization and propaganda rather than spying or attacks {{4xgx3q5a1DQ@200}}
+- [1v 2020 O] Gloved boxing raises long-term concussion risk, but bare-knuckle fighting was abandoned for good reasons like eye loss and facial nerve damage {{sFn68CtUaXI@1809}}
+- [1v 2020 O] A homemade punching tower placed away from the feet prevents hip rotation into punches, so it has no carryover to fighting {{sFn68CtUaXI@1241}}
+- [1v 2020 O] Fight records matter; a fighter with more losses than wins is a bad fighter, and dismissing records is a coping mechanism {{sFn68CtUaXI@1493}}
+- [1v 2021 O] He will review paywalled programs from their exercise selection and philosophy alone {{cNUwR9TmVRs@752}}
+- [1v 2021 A] The series is around 60 episodes in; later episodes will be more niche and advanced {2021-01 {"episodes": 60}} {{V4aBuYpdY34@504}}
+- [1v 2021 A] NH avoids medication like painkillers for headaches or cough remedies, letting his body handle it {{kkbfHkyQ_q0@1845}}
+- [1v 2021 O] NH argues looks matter a lot for attractiveness, with personality helping on top {{-c9oXlYva3k@189}}
+- [1v 2021 O] Mukbang videos fill the void of the social meal in a lonely society {{j1bS37-7AHA@5084}}
+- [1v 2021 A] Next in the series: Epictetus' Enchiridion, then the Discourses, Seneca's On the Happy Life, then Nietzsche {{5zbxowglBPM@1382}}
+- [1v 2021 A] The whole channel is public domain; anyone may download, re-upload or repurpose his videos, and he would likely not come back if the channel were deleted {{QTHtVBP_36g@0}}
+- [1v 2021 O] He gave his personal views against taking the COVID vaccine; this is non-fitness opinion {{QTHtVBP_36g@3770}}
+- [1v 2021 P] He reviews programs cold without watching the video because most people run programs that way; a good program must stand on its own {{Mq2TaHm_ySI@62}}
+- [1v 2021 P] Big legs make shopping for jeans hard; buy stretchy elastic jeans {{ANvvVrMqF7Y@1189}}
+- [1v 2021 O] Cry bullies attack others online but recoil when met with the same energy {{Y7aV51eId6g@1817}}
+- [1v 2021 O] Blood flow restriction is pointless and potentially dangerous for novices {{8ELQ2XZgpls@3895}}
+- [1v 2021 A] NH's 92-year-old grandfather, a construction worker since 14 and a field worker since 9, still walks his fields for 3 hours from 5 a.m. and carried a felled tree at 90 {2021-07 {"age": "92"}} {{yr4zj-WbG4I@2849}}
+- [1v 2021 A] NH has heard of a man in a T-bone crash whose neck muscles absorbed the shock, leaving him with a strained neck instead of a broken one {{yr4zj-WbG4I@1952}}
+- [1v 2021 O] Lifting lowers blood pressure and the risk of cancer, diabetes and heart attacks, and makes you more resilient to accidents {{yr4zj-WbG4I@1914}}
+- [1v 2021 P] Wash your hair only 2-3 times a week, use a natural shampoo for one wash in three, and rinse with cold water; frequent washing makes hair greasier {2021-07 {"frequency": "2-3x/wk"}} {{4sXkXeKAxIM@1087}}
+- [1v 2021 O] Hair gel, coloring and harsh products tire and kill hair; scalp health drives hair loss {{4sXkXeKAxIM@1171}}
+- [1v 2021 O] Mewing is just the tongue's natural resting position against the palate, so do it, though NH has no data on whether it changes adult faces {{4sXkXeKAxIM@2845}}
+- [1v 2021 P] A natural tan is attractive; build sun tolerance progressively, e.g. 20 then 25, 30, 35 minutes, like progressive overload {2021-07 {"minutes": "20-35"}} {{4sXkXeKAxIM@2397}}
+- [1v 2021 O] Many sunscreens disrupt hormones; limit your sun exposure instead of spending hours in the sun under sunscreen {{4sXkXeKAxIM@2335}}
+- [1v 2021 O] Jelqing is pointless and risky, because the penis isn't a muscle; size is mostly a male obsession {{4sXkXeKAxIM@2906}}
+- [1v 2021 P] Shave your armpits and go easy on deodorant; use a natural deodorant or a mint and lemon mix {{4sXkXeKAxIM@1273}}
+- [1v 2021 P] If people can smell your perfume when you enter a room, you are wearing too much {{4sXkXeKAxIM@1220}}
+- [1v 2021 P] Prefer cold showers, which tighten the skin {{4sXkXeKAxIM@1570}}
+- [1v 2021 P] In the heat, gulp water between sets, blast a fan in your face, acclimatise by skipping AC and sleeping warm after a cold shower, and eat salt for electrolytes {{P89o8FBSWDI@1746}}
+- [1v 2021 A] He trains comfortably at 100 F with high humidity as long as he drinks water between sets {2021-09 {"temp": "100 F"}} {{P89o8FBSWDI@1684}}
+- [1v 2021 P] An athlete is someone who puts function before form; anyone else is a hobbyist {{cNGPCn9Uupc@313}}
+- [1v 2021 P] The order of priority is playing the sport, then sport-specific drills that copy its movements, then hypertrophy training {{cNGPCn9Uupc@691}}
+- [1v 2021 O] Michael Jordan was around 6'6", average for today's NBA where the mean is about 6'8", and he dominated through hard work {{74XVh8ghvs4@879}}
+- [1v 2021 O] Bouncers usually need to be physically imposing or highly skilled in martial arts {{eaypnfdz3J0@2074}}
+- [1v 2021 O] Islam could become France's biggest religion in about 20 years because Muslims are proud, know their texts and raise their children in the faith, while Christians stopped passing it on and hide their crosses {2021-10 {"years": 20}} {{ilGY8qFjuxI@2787}}
+- [1v 2021 O] Islam is not killing Christianity in France; Christianity weakened itself after the 1905 church-state separation, atheism left a vacuum, and a strong, proud religion like Islam fills it {2021-10 {"year": 1905}} {{ilGY8qFjuxI@2546}}
+- [1v 2021 A] France gets visibly worse every time he returns; while biking two hours a day across Paris he nearly got into knife fights and was hit by two cars that did not stop {2021-10 {"hours_per_day": 2}} {{ilGY8qFjuxI@3753}}
+- [1v 2021 O] He would quit or be fired rather than accept a vaccine mandate; tying work or travel to medical compliance is authoritarianism {{ilGY8qFjuxI@2270}}
+- [1v 2021 P] The best way to help the channel is to download and archive the videos, because YouTube could delete it at any time {{ilGY8qFjuxI@943}}
+- [1v 2021 O] Don't interrupt a woman mid-set with unsolicited advice or watch her through the mirrors; earphones mean she doesn't want to chat {{Ugyk44OD68Y5XTU0NFh4AaABCQ@0}}
+- [1v 2021 A] In the dorm's North Tower basement laundromat, washing machines slammed shut, locked and ran by themselves; he later learned the tower was built on a former hospital ward where the dying were kept and was known to be haunted {{-FCb3nTgaJg@660}}
+- [1v 2021 A] As a child he and his cousin crossed a forbidden tree-trunk wall in the forest, saw unexplained moving trees, a strange water bug and a large black creature, and fled; it gave him recurring nightmares {{-FCb3nTgaJg@2573}}
+- [1v 2021 A] A friend who teaches math to 7-8 year olds finds heavily screen-exposed kids struggle with calculation and abstraction {{9U-lpqDAlMY@1376}}
+- [1v 2021 D?] Early tooth decay is linked to later heart problems {{aFENxCkDXQM@4140}}
+- [1v 2021 A] Reeves died at 74 from a blood clot after surgery, not from disease {2021-12 {"age": 74}} {{qcRCMVABEQM@1565}}
+- [1v 2022 P] He recommends Edmond Desbonnet's book on old strongmen (Les Rois de la Force), which shows natural strength and physique excellence already existed back then {{5VcEDIHK5Y8@773}}
+- [1v 2022 P] Boxing/savate purist template: Day A dips or weighted push-ups 3x6-8 + calf raises; seal or incline DB rows 4x8-12 + landmine twists; leg press or hack squats 4x10-15 + hang clean pulls. Day B hang power cleans 4x4-8 + neck work; good mornings or deficit deadlifts 3x6-10 + weighted chins 3x5; OHP 4x6-12 + split-stance landmine RDL + grippers. Day C 3-5x3 min dashes plus bodyweight work {2022-01 {"frequency": "2 lifting days + 1 conditioning day/wk"}} {{v-F3QHSM2hg@0}}
+- [1v 2022 P] Lifting alone does not make you a better fighter: ten years in the gym loses to two years of boxing or BJJ, and a BJJ blue belt would beat him even if he outweighed him by 50 lb {2022-01 {"bodyweight": "+50 lb"}} {{v-F3QHSM2hg@189}}
+- [1v 2022 O] The idea that weights make fighters too bulky or slow is a myth that still holds back many coaches and senseis, especially in traditional arts like karate and judo {{v-F3QHSM2hg@499}}
+- [1v 2022 P] The more skilled the opponent, the less brute force matters; to get better at fighting you must train fighting, and lifting is only a complement {{v-F3QHSM2hg@251}}
+- [1v 2022 O] You must choose between being really jacked and being a good fighter; you cannot maximise both {{v-F3QHSM2hg@1190}}
+- [1v 2022 O] A child is better off with two parents, even same-sex ones, than one; he still thinks heterosexual couples should get adoption priority {{eC9Srr3ZygE@2896}}
+- [1v 2022 O] Stockpiling non-perishable food is not selfish; he believes the toilet-paper shortage was manufactured and stocks up himself {{eC9Srr3ZygE@2623}}
+- [1v 2022 O] HEMA looks fun, but some practitioners would be better off lifting weights {{eC9Srr3ZygE@4020}}
+- [1v 2022 A] The Educated Barbarian moves from line-by-line readings to denser chapter summaries; Beyond Good and Evil gets nine episodes released every two weeks on Tuesdays, followed by Jung {2022-02 {"episodes": 9}} {{dq4IklCeSEw@61}}
+- [1v 2022 A] Most of the episode is a deliberately insulting, speculative case that Blaha is closeted, built on old forum posts and photos; NH concedes it is only a theory {{VhD3iVVCHa0@3688}}
+- [1v 2022 A] The MISC forum once coordinated archiving and exposing Blaha, but split over a member's in-person harassment campaign and collapsed into infighting {{VhD3iVVCHa0@2635}}
+- [1v 2022 O] Bodybuilding won't make you a fighter; if you want combat ability, do MMA or boxing {{5ANLeP4QvX8@3464}}
+- [1v 2022 A] Medieval aristocrats trained through water sports and weapons practice {{3W-yE2pgTec@632}}
+- [1v 2022 D] Becoming a knight meant years as page and squire, knighthood at 21 with at least 10 years of hard labour behind you; it conferred nobility and was originally a meritocracy that even accepted Saracens {2022-04 {"age": 21, "years": "10+"}} {{3W-yE2pgTec@1828}}
+- [1v 2022 D] The low medieval median age of death is dragged down by infant and youth mortality; many adults lived into their 60s, 70s and 80s in good health {{3W-yE2pgTec@1010}}
+- [1v 2022 D] Medieval life was defined by discomfort and danger: about 35% of people died before age 20, and famine, cold and predators killed the weak {2022-04 {"died_before_20": "35%"}} {{3W-yE2pgTec@320}}
+- [1v 2022 A] Medieval exercise was social (dances, organised wrestling) and strengthened community cohesion and the group's ability to defend itself {{3W-yE2pgTec@1260}}
+- [1v 2022 A] Medieval exercise mostly happened outdoors, in the sun and among trees, because people felt part of nature {{3W-yE2pgTec@1072}}
+- [1v 2022 A] Kings wrestled: François I reportedly tossed Henry VIII around; very few modern politicians are athletic {{3W-yE2pgTec@1576}}
+- [1v 2022 O] The average medieval man had the physical development of a dedicated modern gym rat {{3W-yE2pgTec@946}}
+- [1v 2022 A] Women trained too, and children started physical development from about age 10 {2022-04 {"age": 10}} {{3W-yE2pgTec@1323}}
+- [1v 2022 D] In 1369 a French king banned dice games in favour of physical activity {2022-04 {"year": 1369}} {{3W-yE2pgTec@1641}}
+- [1v 2022 A] War shut down his German-made products (including a grip dumbbell) and nearly bankrupted him; his family buried him in an unmarked grave and his name was later restored by a great-grandson {{KtoAImbVZF4@2282}}
+- [1v 2022 A] Sandow opened the Institute of Physical Culture in 1897 and ran judged shows with around 30 competitors; Arthur Conan Doyle judged and credited his neck training for surviving a crash {2022-04 {"year": 1897}} {{KtoAImbVZF4@1859}}
+- [1v 2022 D] In 1911 Sandow became professor of physical culture to King George V; earlier he sold personal training plans by mail for $10, making him the first personal trainer {2022-04 {"price": "$10", "year": 1911}} {{KtoAImbVZF4@2072}}
+- [1v 2022 A] His 'lion tamer' act flopped when the old lion Commodore refused to fight, but stepping into a ring with a lion is still impressive {{KtoAImbVZF4@1200}}
+- [1v 2022 A] Sandow was taken on by Professor Attila (Louis Durlacher) and took his stage name from his mother's maiden name {{KtoAImbVZF4@324}}
+- [1v 2022 A] Thomas Edison filmed Sandow flexing in one of the first motion pictures, as the ideal human specimen {{KtoAImbVZF4@1263}}
+- [1v 2022 A] Sandow died at 58 of an aneurysm days after reportedly lifting his own car out of a ditch {2022-04 {"age": 58}} {{KtoAImbVZF4@2340}}
+- [1v 2022 A] Dudley Sargent of Harvard called Sandow the finest specimen of manhood he had ever seen {{KtoAImbVZF4@1558}}
+- [1v 2022 A] Sandow wrote 'Life is Movement' to prepare people for war and trained British soldiers {{KtoAImbVZF4@2177}}
+- [1v 2022 A] Sandow is credited with turning yoga into a more exercise-based practice {{KtoAImbVZF4@2282}}
+- [1v 2022 A] NH plans 10 grading episodes in total, released monthly {2022-04 {"episodes": 10}} {{GowuEmDClqY@4718}}
+- [1v 2022 O] He has no interest in learning Japanese or living in Japan; he would rather learn Spanish and Portuguese and improve his English {{rVy03_C5jEU@3640}}
+- [1v 2022 A] He is a cat person: a cat lived 21 years, his current cat is 19, and Siamese is his favorite breed {{QfHfxLYRu88@3832}}
+- [1v 2022 A] The calisthenics skill he'd most like to learn is the iron cross {{QfHfxLYRu88@3769}}
+- [1v 2022 P] Build the schedule around lifting: if the gym energizes you, train in the morning; if it drains you and your job is cerebral, train at the end of the day {{u8IRHcUWfPs@1006}}
+- [1v 2022 A] His Devon Larratt tribute video, which is all him talking, was struck over a drawn thumbnail that resembled a photographer's photo; the photographer demanded 50 dollars {{xCT5sUxg8k0@64}}
+- [1v 2022 A] YouTube rejected his lawyer-drafted counter-claim and now auto-rejects all his counter-claims, leaving the channel exposed to deletion {{xCT5sUxg8k0@439}}
+- [1v 2022 A] A Japanese company had been sending copyright strikes against his anime videos for two months, and a second company then joined {{xCT5sUxg8k0@0}}
+- [1v 2022 O] The case means any creator can be struck by false manual claims that YouTube does not verify {{xCT5sUxg8k0@564}}
+- [1v 2022 O] Aliens are logically possible, but humans depict them in their own image; he'll believe when one beats his deadlift PR {{q1XhaAN9M5k@2317}}
+- [1v 2022 A] He explored an abandoned kids' camp with 13 hoops each 13 feet tall in a pentacle-like pattern, fled a masked man in white, and on a night return found a severed horned animal head in the pool; the camp had closed after abuse reports and a child's death {{kpgHWNfclVo@1681}}
+- [1v 2022 A] He describes a blonde older girl he spent the holiday with whom his mother says never existed and who is absent from all trip photos {{kpgHWNfclVo@1492}}
+- [1v 2022 A?] Tate says that at age 5-6 a chess opponent's crying made him happier than winning, which suggests sadism or a lack of empathy {{ImJqBwLqHcw@3084}}
+- [1v 2022 A] The name comes from Dan Go's 85% rule for general athletics; NH applies the same mindset to hypertrophy {{z2uzpl_smSg@254}}
+- [1v 2023 D] Wrestling practices are among the most strenuous in sport for both cardio and nervous-system stress, and many start at age four or five {{rFfLUloDHeg@224}}
+- [1v 2023 D] Wrestlers combine drilling with fast-paced, functional lifting sessions aimed at strength and explosiveness, not bodybuilding {{rFfLUloDHeg@298}}
+- [1v 2023 P] Wrestling itself is resistance training: every route to victory requires physically overpowering an opponent {{rFfLUloDHeg@70}}
+- [1v 2023 A] The Educated Barbarian philosophy series returns as rarer, much longer videos so the channel stays mostly bodybuilding; frequent philosophy uploads hurt channel growth {{D2YiI4ebIuE@0}}
+- [1v 2023 P] People living paycheck to paycheck should not donate; small monthly pledges are better than one large gift {{MlpPv7PE7q8@1448}}
+- [1v 2023 D] Bald Omni-Man used to be obese {{Z-hGdKz28RY@1634}}
+- [1v 2023 A] Women in a male-dominated gym are often defensive because they are uncomfortable; a woman who refused to let him work in likely did not know what 'working in' meant {{APzQFpqmR10@1642}}
+- [1v 2023 D] In 2020 one in three young men reported no sexual activity for the year; sexual inactivity rose from 18% to 31% between 2002 and 2018 {{APzQFpqmR10@439}}
+- [1v 2023 A] He describes reporting a man who tried to sell him fake gems with absurd claims (descendant of Da Vinci, Marine sniper, owner of the Indian railways); the man was arrested {{IFniodTLscY@3843}}
+- [1v 2023 D] Competitive swimmers usually start at 6-8 years old; the sport filters out the undisciplined and many medalists burn out and quit the water entirely {2023-10 {"age": "6-8"}} {{oytzIPcqih4@508}}
+- [1v 2023 O] Stretching is D tier because resistance training already stretches muscles under load; don't stretch cold before lifting {{SxqjF2oPasg@3337}}
+- [1v 2024 D] Medieval knights did resistance training: squires from age 10 carried armor, they threw stones, ran in armor, did weighted pull-ups on ladders, overhead presses and push-ups {{29XrRmOrCMs@1192}}
+- [1v 2024 P] He recommends women read The Gift of Fear {{v1URYz8VF5E@1946}}
+- [1v 2024 O] A fit-based dictatorship that sends fat people to camps is dangerous because power always shifts {{qYaWxvA4fKg@3086}}
+- [1v 2024 O] Ex-fat people are often the most aggressively fatphobic because they know how much it sucks {{qYaWxvA4fKg@377}}
+- [1v 2024 P] When starting kickboxing, combine it with lifting, go easy at first, then gradually shift time and energy toward it {{bRKQIOYo2u4@4963}}
+- [1v 2024 P?] When combining kickboxing twice a week with lifting, lift the day after kickboxing {2024-09 {"frequency": "2x/wk"}} {{okm6bZHKHI4@8387}}
+- [1v 2024 P] Skip fake tans; get about 20 minutes of sun a day in moderation for skin tone and health, carefully if you burn easily {2024-09 {"minutes": 20}} {{okm6bZHKHI4@9230}}
+- [1v 2024 O] He has never tried breathing squats for ribcage expansion, but Steve Reeves credited them, so they are worth testing {{okm6bZHKHI4@1598}}
+- [1v 2024 A] The biggest regulars at a gym are the most supportive; novices should not be afraid of them {{okm6bZHKHI4@4694}}
+- [1v 2024 P] To learn French: grind the grammar first, then children's cartoons, then Le Petit Prince, plus daily Duolingo for at least an hour; you have to love it because it's hardly worth it {2024-09 {"duration": "1 h/day"}} {{lyj1BFZ85Dg@1406}}
+- [1v 2024 P] Lifting won't win a fight; men should get baseline striking and some wrestling (boxing, savate, muay thai, wrestling) and avoid ground arts like BJJ or judo for the street {{lyj1BFZ85Dg@4618}}
+- [1v 2024 A] Job hunting: in 2018 he sent 100 applications for about 8 callbacks and 1 job; apply everywhere and ignore listed requirements {2024-09 {"applications": 100}} {{lyj1BFZ85Dg@7141}}
+- [1v 2024 A] Feeling a cold coming, he ate raw garlic and trained, and felt better the next day {{lyj1BFZ85Dg@5243}}
+- [1v 2024 A] Mocking or funny-insulting the streamer is allowed, especially jokes about French people; politics is banned {{Ugkx3fZWhTm6TEcno2w00oyL-1tyJ1QmcijH@0}}
+- [1v 2024 O] If you take up BJJ you cannot keep growing muscle unless you are a novice; BJJ is extremely time-consuming and you will have to choose {{wBct3Pl8OY4@1272}}
+- [1v 2024 O] He will never get LASIK: he likes glasses and thinks the risks are understated and side effects permanent {{wBct3Pl8OY4@4067}}
+- [1v 2024 P] For gloomy weather get a sun lamp and go bask in the sun whenever it shows, whatever the temperature {{wBct3Pl8OY4@10305}}
+- [1v 2024 P] To test a business partner, give them a small amount of access or money and see how they handle it {{wBct3Pl8OY4@5691}}
+- [1v 2024 O] Study for something you are passionate about, since you will compete against people who are {{wBct3Pl8OY4@4991}}
+- [1v 2024 D?] He claims about 10% of French people do not know their real father and unauthorised paternity tests in France risk up to a year in prison {2024-11 {"percent": "10%"}} {{o40xCjIzl14@4783}}
+- [1v 2024 D] He cites only 18 people charged with incel-motivated crimes in the US since 2014, mostly for online threats, versus about 1,200 women killed by partners in 2020 {{b6HRJHLJq90@1009}}
+- [1v 2024 P] People paying for a review should send many photos and videos from several angles; one picture gives him nothing to work with {{yZC3Nsmmzb8@890}}
+- [1v 2024 O] Psychedelics can serve ritual or therapeutic purposes (depression, PTSD) but most use them to escape reality {{fPU3nRIH8sM@9478}}
+- [1v 2024 O] AI will not replace doctors because people seek human reassurance, not just a diagnosis {{fPU3nRIH8sM@8390}}
+- [1v 2024 A] He lifts and does everything with glasses on {{TvKzeUKgZcY@12510}}
+- [1v 2024 O] Semen retention is a meme and potentially dangerous; it only helps as a way of stopping a porn or masturbation addiction {{hXx-KDH2p28@643}}
+- [1v 2024 P] Muggers follow you until you reach dark, empty places; if followed, stay where there is light and people and they usually give up {{1bCQ2ezQfAA@8471}}
+- [1v 2025 A] University gym staff vacuumed between his legs while he squatted about 300 lb and mopped with bleach while people trained {2025-01 {"load": "300 lb"}} {{0O0nG2jLadU@6226}}
+- [1v 2025 O] French gym-goers are ruder than Americans, reserving machines; the idea that Americans are aggressive is European cope {{0O0nG2jLadU@699}}
+- [1v 2025 O] Storytelling is less about the stories themselves than how you tell them {{0O0nG2jLadU@10460}}
+
+## viewer / men / women / create (18)
+- [1v 2020 A] 99% of his viewers are men {{Grakquhsb30@0}}
+- [1v 2020 A] If his channel is deleted he will not create a new one {{4VmvuoOBlOQ@160}}
+- [1v 2021 O] He asks viewers to stop trying to identify and scare off his sources, which has already cost him contacts {{Mxi0gc3iK2o@569}}
+- [1v 2022 O] Fighting is mostly skill: unassuming people can beat 99% of the population, while big enhanced bodybuilders are slow, immobile and gas out {2022-01 {"percent": "99%"}} {{v-F3QHSM2hg@1500}}
+- [1v 2022 O] He showed the images so viewers would feel their pull and to expose YouTube's hypocrisy in hosting and even selling the same show {{NV6tkzYeKgE@880}}
+- [1v 2022 A] Viewers voted to drop background music, so his philosophy videos no longer have it {{DbyjAnMGGAA@0}}
+- [1v 2022 A] He plans to create training programs for female viewers {{D2ERyDt4Pqo@1159}}
+- [1v 2022 D] About 2% of his viewers are women {2022-03 {"share": "2%"}} {{D2ERyDt4Pqo@19}}
+- [1v 2022 O] A real women's program is coming, not a men's program painted pink {{QfHfxLYRu88@3706}}
+- [1v 2022 A] He asked viewers to tweet at YouTube hourly with #ProtectYourCreators until he regains the ability to contest strikes {{xCT5sUxg8k0@749}}
+- [1v 2023 D] He cites a campus experiment where most men overstated their height when measured; only men about 5'11" and taller didn't lie {{Z2JQ5n0dbkY@821}}
+- [1v 2023 D?] He cites short men as about twice as likely to take their own lives as taller men and eight times as likely as women {{Z2JQ5n0dbkY@3075}}
+- [1v 2023 P] Women should watch it as motivation to start training, aiming to be their best rather than to outperform men {{-TgjzFfuUjQ@1031}}
+- [1v 2023 D] Female-only gyms rarely work because men pay most memberships, just as men make up 63-74% of women's soccer viewers {{APzQFpqmR10@1960}}
+- [1v 2023 A] In years of training in gyms he has never had a problem with a woman; the offenders are almost always men, and women are often hit on repeatedly {{APzQFpqmR10@1390}}
+- [1v 2024 O] Women value many traits (humor, charisma, kindness, status); men mostly value physique, so manosphere gurus project {{qYaWxvA4fKg@3658}}
+- [1v 2024 P] Women should train more lower body than men because they have more capacity there; bench press is not necessary for them and flyes can do the job {{okm6bZHKHI4@1788}}
+- [1v 2024 O] He has never used dating apps; they favour women and reward only the most attractive men {{lyj1BFZ85Dg@7518}}
+
+## active / muscle / sport / carry (8)
+- [1v 2020 P] Weight training is never as specific as sport practice, but it builds injury resilience, athleticism and strength that you then use in the sport {{PFQ30yaL1t0@61}}
+- [1v 2020 P] The body prefers fat over muscle because fat stores more energy for famine, but that's no excuse to stay on the couch {{EEYNbbM3Syg@561}}
+- [1v 2021 P] Lifting builds the muscle mass you carry into old age so you stay active {{yr4zj-WbG4I@2893}}
+- [1v 2022 O] Gaming is catabolic: hours of sitting still shrink muscle, and he expects heavy gamers would show lower muscle mass if studied {{bM23N1IPrDk@2839}}
+- [1v 2022 P] Correcting posture requires strengthening the musculature and practising active standing; there is no quick fix {{B17sX2hT-5w@1760}}
+- [1v 2023 P] Mobility is S tier for staying active as you age; training many movement patterns through full ranges covers it {{SxqjF2oPasg@3401}}
+- [1v 2024 P] When submitting a program for review, mention your other sports; martial artists need less lifting volume, and trap bar deadlifts suit them because they keep the torso upright {{okm6bZHKHI4@6903}}
+- [1v 2024 P] Athletes need minimalist programs that carry over to their sport {{c7hl9u3h_s0@9794}}
+
+## instead / walk / desk / bad (7)
+- [1v 2020 O] Never step over someone else's barbell; walk around it. Where NH comes from this is seen as an insult or aggression and people will confront you over it. {{mSJ8i4TGD3E@15}}
+- [1v 2020 P] Instead of a standing desk, use a good chair with a lumbar pillow to keep the spine's natural curve, and every 35-45 minutes walk around for 3-4 minutes {2020-08 {"rest": "walk 3-4 min every 35-45 min"}} {{3dLu3VQinL8@444}}
+- [1v 2020 P] If you can, read while walking in a park instead of studying at a desk {{3dLu3VQinL8@444}}
+- [1v 2021 P] Use a natural bar soap and let your own scent be your signature instead of a common chemical perfume {{4sXkXeKAxIM@1508}}
+- [1v 2024 P] Bad posture is real; it looks bad and is linked to back pain. Train traps (face pulls), abs and lower back, use a lumbar pillow and a straight-backed chair, and hold posture deliberately {{okm6bZHKHI4@3432}}
+- [1v 2024 O] Working a trade for 20 years then starting university at 40 is a bad plan; take night classes while working instead {{wBct3Pl8OY4@3493}}
+- [1v 2024 P] Good posture starts as an intention: shoulders back, chin tucked, eyes forward, screens at eye level, imagine a string pulling the head up; training the traps also helps pull the shoulders back {{pt4mbNb7NJ0@6152}}
+
+## insect / farm / feed / kg (7)
+- [1v 2022 D] It takes about 2 kg of feed to make 1 kg of insects versus 8 kg for 1 kg of beef, and about 80% of a farmed insect is eaten versus 40-60% of poultry or cattle: a real advantage for insects {2022-09 {"edible": "80% vs 40-60%", "feed_ratio": "2:1 insects vs 8:1 beef"}} {{EH4tG1AXblQ@1400}}
+- [1v 2022 D] Around one trillion insects are already farmed and killed per year, mostly to feed chickens, so insect farming currently supplies industrial livestock rather than replacing it {2022-09 {"insects_per_year": "1 trillion"}} {{EH4tG1AXblQ@2321}}
+- [1v 2022 D] The UN says insects need six times less feed than cattle, but about 86% of cattle feed is agricultural by-products inedible to humans, so the comparison is disingenuous {2022-09 {"cattle_feed_byproducts": "86%", "feed": "6x less"}} {{EH4tG1AXblQ@940}}
+- [1v 2022 D] Livestock's roughly 40% share of greenhouse gases includes transport; cattle belching itself is about 3% of yearly US emissions, and insects also have to be transported and cooked {{EH4tG1AXblQ@1128}}
+- [1v 2022 D] Transport accounts for about 27% of global emissions and the Netherlands imports around 70% of its insects, so insects are not emission-free in practice {2022-09 {"dutch_imports": "70%", "transport_share": "27%"}} {{EH4tG1AXblQ@1253}}
+- [1v 2022 D] Farmed insects live in conditions worse than any other farmed animal: packed boxes, water only from evaporation, cannibalism and uncleaned corpses {{EH4tG1AXblQ@1814}}
+- [1v 2024 O] He respects strength athletes; elite Olympic lifters may train a full year to add 2 kg to their snatch {2024-09 {"load": "2 kg"}} {{okm6bZHKHI4@3058}}
+
+## vulnerable / narcissist / feel / prioritize (3)
+- [1v 2020 O] He characterises the subject as a vulnerable narcissist who associates himself with high-status people to feel important {{RYkGN4SOkX0@1824}}
+- [1v 2021 O] Vulnerable narcissists with no personality copy others, e.g. eating like famous strongmen to feel connected to them {{Y7aV51eId6g@478}}
+- [1v 2021 O] The only way out for a vulnerable narcissist is to prioritize the vulnerability and let go of the narcissism {{Y7aV51eId6g@1292}}
+
+## Possible contradictions / changes over time (1 flagged by script; verify)
+- (stance flips) 2020-12: All of his channel's content is public domain: he files no copyright strikes and anyone may re-upload his videos with or without credit {{4VmvuoOBlOQ@126}} ⟷ 2021-05: The whole channel is public domain; anyone may download, re-upload or repurpose his videos, and he would likely not come back if the channel were deleted {{QTHtVBP_36g@0}}

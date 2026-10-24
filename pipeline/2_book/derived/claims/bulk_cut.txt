@@ -1,0 +1,598 @@
+2020-01-14 {{BOIlIlb7o5M@1}} anecdote [abs] He has no six-pack: only a small, barely visible four-pack and poorly defined obliques, and needs to lose fat.
+2020-01-14 {{BOIlIlb7o5M@66}} principle [biceps] Being in a calorie deficit would make it impossible to grow his arms to 19 inches.  {"arm_goal": "19 in"}
+2020-01-14 {{BOIlIlb7o5M@66}} prescription His plan is to stay at the same calories and get stronger, dropping fat while gaining muscle, accepting it will be slow.  {"kcal": "maintenance"}
+2020-02-06 {{4IhOKe7lo_s@189}} opinion For his frame, getting very lean would look odd since his waist won't trim to match his hips, so he will always stay at a higher bodyfat.
+2020-02-12 {{VAblRcVMjqw@0}} principle A bulk is a caloric surplus to gain mass; for naturals past puberty that mass is muscle, fat and water, with negligible bone or connective-tissue gain.
+2020-02-12 {{VAblRcVMjqw@0}} principle You will gain fat on a bulk; the goal is to minimise fat and maximise muscle. Anyone claiming 20 lbs of muscle with no fat is lying.  {"weight": "20 lbs"}
+2020-02-12 {{VAblRcVMjqw@63}} principle Excess bulking fat deposits around organs (unhealthy) and the waist (looks bad).
+2020-02-12 {{VAblRcVMjqw@124}} anecdote His bulk from 120 to about 190 lbs was nearly textbook: just enough surplus that he looked bigger, never fatter.  {"weight": "120 -> 190 lbs"}
+2020-02-12 {{VAblRcVMjqw@124}} anecdote Around 190 lbs he got into weightlifting, ate a ton, strength rose fast, and he gained fat in his lower back and love handles up to 240 lbs.  {"weight": "190 -> 240 lbs"}
+2020-02-12 {{VAblRcVMjqw@248}} prescription There's no muscle-gain benefit to a surplus above 10-15%; beyond that it's fat.  {"percent": "10-15"}
+2020-02-12 {{VAblRcVMjqw@248}} principle Staying slightly above maintenance throughout your lifting career keeps adding muscle.
+2020-02-12 {{VAblRcVMjqw@248}} opinion A larger surplus improves recovery and heavier bodyweight helps move more weight ('mass moves mass'), but that doesn't matter if you care about aesthetics.
+2020-02-12 {{VAblRcVMjqw@310}} anecdote [abs] 'I can still see my abs' is a trap: he could, through a thick layer of fat.
+2020-02-12 {{VAblRcVMjqw@310}} opinion He believes he would have gained as much muscle and strength with a much smaller surplus.
+2020-02-12 {{VAblRcVMjqw@374}} anecdote Fat gained in that period is stubborn and taking forever to lose despite visible veins, a six-pack and cuts elsewhere.
+2020-02-12 {{VAblRcVMjqw@437}} opinion Gallon-of-milk dirty bulking is advice only for very skinny people, and even they should mind their health.
+2020-02-12 {{VAblRcVMjqw@437}} prescription Normal people should stay at maintenance or a tiny surplus and gain strength; slower progress gives lean mass.
+2020-02-16 {{VpPf9o5923k@63}} principle A natural who gains a lot of weight fast will lose much of the muscle gained when cutting, and didn't gain much muscle in the first place.
+2020-02-16 {{VpPf9o5923k@63}} opinion Unpopular opinion: natural lifters generally shouldn't bulk or cut; only extremes should: very skinny people should bulk and very fat people should cut.
+2020-02-16 {{VpPf9o5923k@127}} principle Skinny lifters can gain muscle without a big weight gain and heavier lifters can gain muscle while slowly losing weight, but in practice focusing purely on reaching the weight goal fast is more realistic.
+2020-02-16 {{VpPf9o5923k@127}} principle Trying to chase strength goals during weight loss can sabotage a diet: people losing weight feel weak, lifts drop and they get discouraged, while the diet should be the priority.
+2020-02-16 {{VpPf9o5923k@191}} opinion For non-extreme naturals, bulk/cut becomes yo-yo dieting: gaining the same 20 lbs every bulk and cutting the same 15 every cut, with no progress, stressing metabolism and over-focusing on diet.  {"load": "+20 lbs / -15 lbs"}
+2020-02-16 {{VpPf9o5923k@253}} principle Cutting as a natural makes you feel awful and low-energy, so you don't put in the training work you should.
+2020-02-16 {{VpPf9o5923k@316}} prescription Use very small deficits or surpluses depending on goals, staying around maintenance most of the time.
+2020-02-16 {{VpPf9o5923k@316}} principle Maintaining bodyweight doesn't mean maintaining muscle: bedridden at 190 lbs you could stay 190 but lose muscle; conversely you can stay at 200 lbs for three years while dropping fat and gaining muscle.  {"load": "190/200 lbs", "weeks": "~156 (3 years)"}
+2020-02-16 {{VpPf9o5923k@379}} principle A calorie deficit makes building new muscle almost impossible, but a small surplus or maintenance works perfectly fine.
+2020-02-16 {{VpPf9o5923k@379}} prescription Men starting out who are not very over- or underweight should 'perma-bulk': stay in a small surplus continuously and keep grinding.
+2020-02-23 {{JWwA9H6xUC0@0}} principle A cut is reducing calories to lose body mass; for a natural that mass is fat, water and muscle, and the goal is to lose as much fat and as little muscle as possible.
+2020-02-23 {{JWwA9H6xUC0@0}} principle You don't deliberately cut water unless prepping for a show, but since fat holds water you will lose some water as you lose fat.
+2020-02-23 {{JWwA9H6xUC0@64}} principle A proper cut makes you more defined and dry; pumped and shirtless you won't look smaller even after losing 10-20 lbs, because fat hid muscle definition.  {"load": "10-20 lbs lost"}
+2020-02-23 {{JWwA9H6xUC0@64}} principle The thing to avoid in a cut is the body cannibalising muscle; for naturals that's not hard to avoid as long as they are patient.
+2020-02-23 {{JWwA9H6xUC0@129}} opinion Two- or three-month cuts are too fast in his opinion, unless it's a mini-cut or you are only losing a few pounds.  {"weeks": "8-12"}
+2020-02-23 {{JWwA9H6xUC0@129}} opinion Trying to lose a pound a week is too fast, just like trying to gain a pound a week is too fast; both ignore what the body can realistically do in a short time.  {"load": "1 lb/week"}
+2020-02-23 {{JWwA9H6xUC0@192}} anecdote The fast cut was mentally awful because he lost a lot of strength; strength loss isn't proof of muscle loss, but serious lifters find the two hard to separate in their minds.
+2020-02-23 {{JWwA9H6xUC0@192}} opinion Bulking to 240 lbs was a mistake in the first place.  {"load": "240 lbs"}
+2020-02-23 {{JWwA9H6xUC0@192}} prescription If you messed up and got fat, accept the punishment: you will be fat for a long time because you should cut down very slowly.
+2020-02-23 {{JWwA9H6xUC0@256}} opinion If your body image is hurting your mental health you can do a 'suicide cut', but know it is not optimal and is dangerous for your health.
+2020-02-23 {{JWwA9H6xUC0@256}} prescription Don't rush your weight loss, just as you shouldn't rush weight gain; even show-preppers should have planned better rather than rushing.
+2020-02-23 {{JWwA9H6xUC0@318}} principle Beware 'lean goggles' on a cut, the mirror image of size goggles on a bulk: you see abs and lost love handles but not the size you're losing everywhere else.
+2020-02-23 {{JWwA9H6xUC0@318}} principle A smart cut should not leave you looking shrunken, depleted and flat.
+2020-02-23 {{JWwA9H6xUC0@380}} principle Without discipline you get stuck in an endless cycle of bulking too high and cutting too low, never enjoying your body.
+2020-02-23 {{JWwA9H6xUC0@380}} opinion For him being a natural bodybuilder means enjoying his body all year: not hiding fat in winter nor feeling small in clothes in summer; staying lean while slowly losing fat and adding muscle is the best natural approach.
+2020-02-26 {{KlSyeS0R9FE@61}} anecdote He stays at the same bodyweight and body fat so his measurement gains reflect muscle; adding fat to boost measurements is pointless.
+2020-03-01 {{ZSML-yWspyY@64}} opinion [neck] Many people who document neck training do it while bulking, and the neck readily gathers fat, making it look thicker quickly.
+2020-03-01 {{ZSML-yWspyY@127}} anecdote He is recomping at maintenance or a slight surplus, aiming to lose fat and gain muscle at constant bodyweight.  {"kcal": "maintenance to slight surplus"}
+2020-03-03 {{a02c10s3Pjk@0}} principle A bulk done properly, with foods that agree with you, adequate macros and micronutrients, can still be relatively healthy even though you gain fat and may stress your metabolism.
+2020-03-03 {{a02c10s3Pjk@65}} opinion Dirty bulking is the worst of both worlds: you are in a surplus, but the mass comes from foods very high in fat, carbs and sodium and very low in micronutrients.
+2020-03-03 {{a02c10s3Pjk@193}} principle On a dirty bulk you gain lots of fat while lacking micronutrients and fiber, so organs struggle and you feel sluggish and bloated; from a physique perspective there is no point.
+2020-03-03 {{a02c10s3Pjk@256}} opinion He rejects the idea that dirty bulking builds as much muscle as clean bulking; junk food is high in carbs and fat but low in protein, so he thinks you build less muscle.
+2020-03-03 {{a02c10s3Pjk@318}} anecdote People he knew dirty bulked, gained around 40 lbs and got stronger, then could not cut because they were physically addicted to fast food; most ended up quitting lifting fatter and unhealthier.  {"load": "40 lbs gained"}
+2020-03-03 {{a02c10s3Pjk@443}} prescription Instead of gaining all your mass in 8-10 months, gain it over 5 years; you will mostly put on muscle that way.  {"weeks": "5 years vs 8-10 months"}
+2020-03-03 {{a02c10s3Pjk@568}} principle Higher body fat is linked to lower testosterone, which reduces muscle building, so excessive fat gain sabotages the goal of bodybuilding.
+2020-03-03 {{a02c10s3Pjk@568}} opinion Leaning out afterwards does not fully reverse the damage of carrying excess weight on tendons, heart, liver and kidneys.
+2020-03-04 {{E783zHvVUdk@0}} opinion GOMAD (a gallon of whole milk a day) is promoted to gain weight, size and strength; he thinks it is stupid.
+2020-03-04 {{E783zHvVUdk@380}} principle A full gallon of milk on top of meals overshoots calories into a large surplus, causing mostly fat gain; GOMAD gives no wiggle room to manage calories.
+2020-03-04 {{E783zHvVUdk@380}} opinion Most lifters care about physique, not competing at superheavyweight, so there is no reason to gain mass that quickly.
+2020-03-04 {{E783zHvVUdk@570}} opinion He rejects the hardgainer mentality that you will lose weight unless you constantly drink milk; you can get the same nutrients in healthier forms.
+2020-03-11 {{x5_bNfh9sN8@124}} principle On days your body needs more you'll stay hungry and finish; on low-appetite days you eat less, so intake self-balances across days at maintenance or slight surplus.
+2020-03-11 {{x5_bNfh9sN8@124}} principle This approach is terrible for cutting because your body constantly asks for calories in a deficit.
+2020-03-12 {{egBEW3Iaiak@63}} principle [abs] Upper abs show first because men store more fat around the waist while the area near the ribs stores little fat.
+2020-03-12 {{egBEW3Iaiak@63}} principle [abs] The first way to reveal lower abs is diet: less fat on the lower abs makes them visible.
+2020-03-13 {{VVckf4vyYPE@383}} principle Excess bulk can change form so much on lifts like the deadlift that very big guys with large guts can barely get into position.
+2020-03-20 {{j2DCJGxIE-s@313}} anecdote [abs] At 240 lbs and 6 ft he was fat with huge love handles; after a crash cut to 205 lbs he had a six-pack but the love handles remained.  {"weight": "240 lbs to 205 lbs", "height": "6 ft"}
+2020-03-22 {{NTMGQPjpP00@190}} prescription Ideal Berserker bodyfat is not shredded but lean enough for vascularity, especially veins popping in upper arms and forearms: roughly 14-18%.  {"bodyfat": "14-18%"}
+2020-04-01 {{Xx7A1dAAPDo@693}} anecdote He is currently recomping at stable bodyweight simply by following his hunger.
+2020-04-01 {{Xx7A1dAAPDo@693}} anecdote He doesn't weigh himself; he judges progress by strength and the mirror.
+2020-04-01 {{Xx7A1dAAPDo@693}} anecdote When he is in a caloric deficit and losing weight his strength drops immediately with no warning, so getting stronger tells him he isn't losing weight.
+2020-04-03 {{T_DyRlu3Y7I@190}} principle Novices can recomp easily; unless very fat or very skinny they shouldn't worry much about bulking vs cutting, but should learn basic dieting.
+2020-04-03 {{T_DyRlu3Y7I@190}} anecdote He has no experience cutting, so won't comment on cutting volume.
+2020-04-18 {{yenqGI_FVQ4@577}} anecdote At 21 he was around 185-190 lb and decided to bulk.  {"bodyweight": "185-190 lb"}
+2020-04-18 {{yenqGI_FVQ4@642}} principle At 22 during a hard bulk he was 200-205 lb; gaining some fat is fine and expected when bulking, and it helps you look bigger, but you don't need to get super fat.  {"bodyweight": "200-205 lb"}
+2020-04-18 {{yenqGI_FVQ4@769}} anecdote He then bulked aggressively to 225, 230 and finally 235 lb at 6 ft, too obsessed with size, eating too much and not training smart, so his physique got sloppy.  {"bodyweight": "235 lb"}
+2020-04-18 {{yenqGI_FVQ4@832}} principle Skinny guys are likely to fall into the trap of trying to get too big too fast; muscle builds slowly while fat builds fast, so be patient.
+2020-04-18 {{yenqGI_FVQ4@895}} opinion At his heaviest he estimates he was about 21-22% bodyfat, which is way too high and unnecessary for natural bodybuilding.  {"bodyfat": "21-22%"}
+2020-04-18 {{yenqGI_FVQ4@895}} opinion When his health started to suffer he did a crash cut; he advises against crash cuts because they are dangerous for health, cost strength, feel bad mentally and can lose muscle.
+2020-04-18 {{yenqGI_FVQ4@895}} prescription If you gained too much too fast, the fix is patience, not a crash cut; over time you can build a lean, massive physique naturally.
+2020-05-03 {{qmpvEERwXVI@0}} principle A recomp means staying at the same bodyweight while gaining strength, losing fat and gaining muscle.
+2020-05-03 {{qmpvEERwXVI@0}} principle The best time to start a recomp is when you're fluffier, usually after a bulk, not after a big cut.
+2020-05-03 {{qmpvEERwXVI@64}} anecdote After that he quit bulk/cut cycles because they were getting him nowhere, and started recomping at 210 lbs without any research.
+2020-05-03 {{qmpvEERwXVI@125}} opinion Natural bodybuilding is a game of patience; recomps are rarely discussed because they're slow, unsexy and hard to sell.
+2020-05-03 {{qmpvEERwXVI@187}} anecdote He has held the same bodyweight for 7 months, weighing himself only every month or two without obsessing.  {"weeks": 30}
+2020-05-03 {{qmpvEERwXVI@187}} anecdote During his recomp his squat, deadlift, lower-body lifts and curls went up, while bench and overhead press stagnated or regressed; fat cushioning helps presses more than other lifts.
+2020-05-03 {{qmpvEERwXVI@249}} prescription Don't test bodyfat every two weeks. Monitor a recomp by weight every few months, strength or tonnage trending up, and how your body looks.
+2020-05-03 {{qmpvEERwXVI@312}} principle His reasoning: a body under heavy training volume at maintenance wants to make the work easier, so it trades fat for muscle.
+2020-05-03 {{qmpvEERwXVI@312}} principle Eating at maintenance while sedentary gives a reverse recomp: you lose muscle and gain fat because the body doesn't need the muscle.
+2020-05-03 {{qmpvEERwXVI@374}} principle Gaining weight is a slow bulk and losing weight is a slow cut; a recomp means staying at the same weight.
+2020-05-03 {{qmpvEERwXVI@374}} principle You can't recomp fast; the body takes time to learn to prioritize muscle and stop storing fat, just as you're weak at the start of a cut and don't gain bench instantly on a bulk.
+2020-05-03 {{qmpvEERwXVI@437}} prescription A recomp should last at least a year; if you overbulked to 18-19% bodyfat, stay on it until around 12-13%.  {"weeks": 52, "bodyfat": "18-19% to 12-13%"}
+2020-05-03 {{qmpvEERwXVI@500}} anecdote His measurements are either rising or holding with none dropping, so he believes he is trading fat for muscle.
+2020-05-03 {{qmpvEERwXVI@500}} opinion He thinks recomping is usually more beneficial than bulking and cutting, especially past a certain level.
+2020-05-08 {{CFlRdyLiWOo@0}} opinion Leanness depends on both cardio and calories, and you can lose fat without being in a deficit.
+2020-05-11 {{Cn38kgCdOhw@251}} principle Estimating bodyfat as '12-15%' is far too wide a range: losing 3% bodyfat while keeping muscle can take a natural years.  {"bodyfat": "3% can take years"}
+2020-05-11 {{Cn38kgCdOhw@251}} opinion Bugenhagen (about 6'1-6'2, 235-240 lbs) is likely 15%+ bodyfat, a healthy level at which naturals look soft without a pump and like marble with one.  {"bodyfat": "15%+"}
+2020-05-11 {{Cn38kgCdOhw@380}} principle You can't predict someone's shredded weight by subtracting fat: a cut can strip muscle and fat distribution changes.
+2020-05-11 {{Cn38kgCdOhw@443}} principle 10% bodyfat is reachable for a natural while staying fairly big if done slowly; cutting fast would make him melt away.  {"bodyfat": 10}
+2020-05-11 {{Cn38kgCdOhw@636}} principle Naturals should follow their own rules and carry more bodyfat: it doesn't look bad, keeps them healthy and keeps them big. Getting contest-ripped means sacrificing a lot of mass.
+2020-05-11 {{Cn38kgCdOhw@636}} anecdote [abs] He has a six-pack at 16-17% bodyfat; well-muscled naturals distort how bodyfat looks because muscle bulges through fat.  {"bodyfat": "16-17"}
+2020-05-11 {{Cn38kgCdOhw@1014}} opinion [abs] You can have abs at 20% bodyfat and fairly defined abs at 15%.  {"bodyfat": "15-20"}
+2020-05-11 {{Cn38kgCdOhw@1452}} principle Subcutaneous fat and water around the muscle make it look bigger, which is good for naturals.
+2020-05-11 {{Cn38kgCdOhw@1514}} principle As bodyfat crashes, natural testosterone production crashes and muscle can't be kept, so naturals must be patient and stay in a healthy range.
+2020-05-14 {{mViZdjZIv6s@0}} opinion For an overweight lifter, waiting to hit a strength goal (e.g. a 3-plate bench) before losing weight is a poor priority: you'll lose the lift as you cut, which hurts psychologically. Better to lose fat while gaining strength and hit the number at a lower bodyweight.  {"load": "3-plate bench (315 lbs)"}
+2020-05-15 {{IeYLu4_hkZY@0}} principle Anyone can recomp, but starting body composition decides whether you should attempt it.
+2020-05-15 {{IeYLu4_hkZY@0}} principle A recomp trades fat for muscle, so it's very hard for skinny people with little muscle or fat; there's nothing to trade.
+2020-05-15 {{IeYLu4_hkZY@64}} prescription For skinny men like he used to be, he prefers a slow bulk on clean whole foods; dirty bulks only for the truly desperate, and he doesn't advise them.
+2020-05-15 {{IeYLu4_hkZY@126}} principle Very overweight people can recomp easily but it's slow; a cut gets as good muscle gains with far more fat loss, because with that much fat the body won't starve the muscles.
+2020-05-15 {{IeYLu4_hkZY@179}} principle The ideal recomp candidate is a natural lifter who has done many bulk/cut cycles, is happy with their overall size, and wants to redistribute mass; they have fat to trade, a strength base, and know how their strength fluctuates.
+2020-05-15 {{IeYLu4_hkZY@190}} opinion Apart from a small cut to prep for something like an online bodybuilding contest, he doesn't see himself doing bulk and cut cycles again; he believes recomping is the future.
+2020-05-15 {{IeYLu4_hkZY@254}} principle In a recomp diet and training are equally important: training gauges whether it's working, diet drives the results faster, and appetite acts as a gauge too.
+2020-05-15 {{IeYLu4_hkZY@380}} anecdote His repeated up-and-down bulks and cuts harmed his body: his fat distribution went haywire and he got fat deposits in places he never had them.
+2020-05-15 {{IeYLu4_hkZY@502}} prescription Recomp at a stable bodyweight, and don't make big diet changes just before or early in the recomp; your body takes time to catch up and a big change confounds the results.
+2020-05-15 {{IeYLu4_hkZY@502}} prescription Don't change your training mid-recomp either; changing variables makes it impossible to attribute results.
+2020-05-15 {{IeYLu4_hkZY@628}} principle As a recomp succeeds, calories must rise: muscle is more metabolically costly than fat, so if you don't match the small metabolic increase you'll slide into a slow cut.
+2020-05-15 {{IeYLu4_hkZY@692}} principle Avoid zigzagging micro-bulks and micro-cuts around the target weight; the point is to show the body it can stay the same weight, gain strength and improve muscularly.
+2020-05-15 {{IeYLu4_hkZY@878}} anecdote He reports great recomp results: his physique is getting cleaner and leaner, with some measurements going up and some stagnating.
+2020-05-15 {{IeYLu4_hkZY@940}} prescription During a recomp the only diet change should be a gradual calorie increase as muscle is gained, and the only training change a small tonnage increase; you recomp through both diet and training equally.
+2020-05-25 {{f0vdsC2yyhY@122}} opinion Electronic body fat scales are not accurate at all; they tell him 12-14% every time.  {"bodyfat": "12-14%"}
+2020-05-25 {{f0vdsC2yyhY@948}} opinion Classic bodybuilders like Serge Nubret, Schwarzenegger and Franco Columbu were never near 5% body fat; people vastly underestimate the fat a muscular male carries.  {"bodyfat": "5%"}
+2020-05-25 {{f0vdsC2yyhY@1012}} opinion Accurately understanding body fat percentage is the most pivotal theme for natural bodybuilding and natty debates.
+2020-05-27 {{JYl3S7yuN6M@544}} prescription Natural lifters should stay between about 12% and 18% body fat, some 10-12% or 18-20%; build muscle in that range rather than starving yourself  {"bodyfat": "12-18%"}
+2020-05-28 {{_2yfdqBUoPQ@318}} principle Fasting is not the only way to access fat stores; a recomp mobilises fat through training without a deficit
+2020-05-28 {{_2yfdqBUoPQ@445}} principle Crash diets fail at maintenance because they never teach calorie control, whole foods, or stopping when no longer hungry
+2020-05-28 {{_2yfdqBUoPQ@1329}} opinion Losing a lot of weight fast and then regaining it is worse for metabolism and organs than staying fat; he opposes crash bulks and cuts but accepts slow cuts, slow bulks and recomps
+2020-06-01 {{mfweKhLM5L0@503}} principle Living in a cold environment burns more calories and influences how the body stores fat.
+2020-06-01 {{mfweKhLM5L0@503}} data Reportedly (no science cited) cold exposure promotes brown fat, stored on the male chest and upper back, possibly reducing waist fat storage.
+2020-06-01 {{mfweKhLM5L0@565}} anecdote He naturally stores lots of fat on his chest and upper back, possibly linked to starting cold showers at 20, but can't confirm a difference.
+2020-06-01 {{mfweKhLM5L0@565}} opinion You can't spot-reduce fat, but cold showers might nudge fat distribution toward muscles rather than organs or waist; worth trying for stubborn fat.
+2020-06-02 {{6nKKGsCCqxo@65}} principle No young male is incapable of gaining weight; if you ate enough to exceed TDEE you would gain. The issue is a high metabolism or appetite mismatch.
+2020-06-02 {{6nKKGsCCqxo@126}} principle Easy gainers aren't simply advantaged: they need fewer calories and often have bigger appetites, so getting shredded is harder for them.
+2020-06-02 {{6nKKGsCCqxo@314}} principle Whole foods fill you up fast, making a pure clean bulk hard for hardgainers; don't do a pure dirty bulk either.
+2020-06-02 {{6nKKGsCCqxo@314}} prescription Base the bulk mostly on whole foods, then top up with palatable calorie-dense foods you enjoy once macros and micros are met.
+2020-06-02 {{6nKKGsCCqxo@571}} opinion He is not a fan of GOMAD: the weight gain and potential health consequences aren't worth it, with too much milk fat and more protein than the body can use.
+2020-06-02 {{6nKKGsCCqxo@571}} principle Take your time: novice programs expect fast strength gains, but skinny young males take years to reach those numbers; don't rush.
+2020-06-02 {{6nKKGsCCqxo@695}} principle Force-feeding leads to nausea and failure; small daily surpluses beat occasional 3,000 kcal surplus days, just as a 2,000 kcal cheat meal wrecks a 200 kcal daily deficit.  {"kcal": "3000 surplus vs small daily"}
+2020-06-02 {{6nKKGsCCqxo@759}} principle Gaining slowly teaches the body to turn food into muscle; flooding it with surplus just stores fat and may worsen fat distribution.
+2020-06-02 {{6nKKGsCCqxo@823}} principle If you stay skinny, you aren't eating enough.
+2020-06-03 {{UieXEWMNnfI@62}} principle Gym performance is a measure of a recomp: at the same bodyweight, trading fat for muscle should make you stronger
+2020-06-03 {{UieXEWMNnfI@126}} principle Getting weaker on a recomp means you are either losing weight because you did not track, or losing muscle because of hormones, unsuitable diet or training
+2020-06-03 {{UieXEWMNnfI@190}} principle On a working recomp tonnage rises; feeling depleted or quitting partway through workouts means it is failing and you must reassess
+2020-06-03 {{UieXEWMNnfI@253}} principle Unlike a cut, a recomp should not hurt training; if you are losing strength you are no longer recomping
+2020-06-03 {{UieXEWMNnfI@316}} prescription Do not change your training when you start a recomp; keep programming for progression, accept slower gains than on a bulk and occasionally retaking a day
+2020-06-03 {{UieXEWMNnfI@443}} opinion Do not fall for the high-volume fallacy of cuts: lowering intensity and adding volume just means low-intensity work, since volume and intensity exist together
+2020-06-03 {{UieXEWMNnfI@505}} opinion Spot reduction exists in that fat comes off some areas first, but you cannot control it; fat-loss creams and pills are marketing
+2020-06-03 {{UieXEWMNnfI@631}} anecdote Fat loss is uneven and seems to follow an order; his face leaned out quickly and then stalled
+2020-06-03 {{UieXEWMNnfI@631}} opinion A proper recomp makes the body shed visceral fat while keeping subcutaneous and intramuscular fat it needs for performance under heavy training
+2020-06-03 {{UieXEWMNnfI@753}} opinion A recomp lets you get both size and shreds; the catch is that it is very slow and requires commitment
+2020-06-03 {{UieXEWMNnfI@814}} principle [forearms] Already-lean areas like forearms and feet do not lose fat; the body prioritises fattier spots
+2020-06-03 {{UieXEWMNnfI@939}} opinion [biceps] Muscle built on the biceps can be fuelled by fat taken from elsewhere, like the love handles, so a growing body part need not shrink
+2020-06-03 {{UieXEWMNnfI@1002}} opinion [abs] Training abs with nucleus overload does not spot-reduce them; the body may even send more fat around a trained muscle, but it looks leaner because the muscle grows
+2020-06-08 {{MCUpClPnPkQ@813}} anecdote He does not have much experience lifting on a cut so avoids giving advice on it
+2020-06-10 {{FWxW69B5_XM@316}} principle Childhood status shapes eating: former fat kids may cling to comfort food or starve themselves; former skinny kids may overeat to compensate or stay stuck wanting to be skinny.
+2020-06-10 {{FWxW69B5_XM@381}} anecdote As a former skinny kid he became mass-obsessed, reaching 240 lbs; ankle pain, knee pain and broken ribs that wouldn't heal under the weight made him accept losing weight.  {"bodyweight": "240 lbs"}
+2020-06-10 {{FWxW69B5_XM@445}} opinion Many very underweight or overweight people are listening to their mind, not their body; the body signals hunger appropriately to maintain its mass, though appetite hormones make it more complex.
+2020-06-12 {{ML5AQa9THHI@125}} principle Bodyweight and its fluctuations directly affect your ability to gain size (see his recomp guide).
+2020-06-17 {{g4mX62QGzTo@1187}} opinion Blaha used a claimed 5% bodyfat as an argument for diet credibility, but photos show him never leaner than roughly NH's own level; NH estimates around 18% at his leanest.  {"bodyfat": "5% claimed vs ~18% estimated"}
+2020-06-17 {{g4mX62QGzTo@1627}} data NH states his own bodyfat at the time as about 17% and estimates Blaha at a non-negotiable minimum of 25%.  {"bodyfat": "17% (NH), 25%+ (Blaha)"}
+2020-06-17 {{g4mX62QGzTo@2004}} principle Appetite is not an excuse for being fat: it is only a signal from your body and you can disobey it.
+2020-06-17 {{g4mX62QGzTo@2257}} principle Loose skin is empty skin; if there is still fat in it, it is fat, not loose skin.
+2020-06-22 {{YVxYG7FhlVE@1007}} principle You cannot recomp without training; on a weight-gain diet without training you may lose muscle and gain fat
+2020-07-01 {{2sIS1fZYqrc@128}} principle The body can't use a huge one-day surplus to build muscle; what it can't use for muscle is stored as fat, and a previously depleted body may waste even more of it.
+2020-07-11 {{_28uxew-emM@500}} anecdote During his bulk days he weighed 240 lb and was fat, then lost the weight.  {"load": "240 lb bodyweight"}
+2020-07-22 {{pr6glFcyye0@0}} opinion Teens and skinny guys inspired by aesthetic influencers such as David Laid, Zyzz and Gymshark athletes copy their maintenance or cutting diets and almost never get results
+2020-07-22 {{pr6glFcyye0@64}} prescription Do not restrict calories when trying to build muscle as a beginner, but do not chase very high body fat either
+2020-07-22 {{pr6glFcyye0@127}} prescription Skinny-fat lifters can stay at maintenance because their body has reserves to build muscle, but it is a slow process
+2020-07-22 {{pr6glFcyye0@191}} prescription Overweight teens can cut first
+2020-08-12 {{mUAHGlseeyk@0}} opinion Recomps confuse bulk/cut lifters, and many people who stagnate wrongly call it a recomp
+2020-08-12 {{mUAHGlseeyk@62}} anecdote Recomping at maintenance removes supposed limitations quickly; he was surprised by how his body fat distribution changed
+2020-08-12 {{mUAHGlseeyk@127}} principle The set point idea holds that each person has a body fat range where they are most anabolic, keep lean mass and gain the least fat  {"bodyfat": "14-18%"}
+2020-08-12 {{mUAHGlseeyk@127}} principle That range is not fixed; it shifts with age, accumulated training and hormonal changes
+2020-08-12 {{mUAHGlseeyk@189}} opinion 14-18% body fat is a realistic, good range for naturals to aim for; he is in it, on the higher side  {"bodyfat": "14-18%"}
+2020-08-12 {{mUAHGlseeyk@377}} principle You can push the range and still stay anabolic, but the body adapts slowly, like natural selection; it is the principle of specificity applied to Darwinism
+2020-08-12 {{mUAHGlseeyk@502}} opinion People feel stuck in a body fat window because their bulk/cut cycles are too short; even a six-month bulk is short  {"months": 6}
+2020-08-12 {{mUAHGlseeyk@566}} prescription Bulk slowly; gaining four pounds a month adds too much fat  {"rate": "under 4 lb/month"}
+2020-08-12 {{mUAHGlseeyk@566}} opinion A permabulk from day one for 15 years is good advice, but overshooting your body fat once ruins it  {"years": 15}
+2020-08-12 {{mUAHGlseeyk@693}} principle The window may shrink as you move it, until you reach a true set point
+2020-08-12 {{mUAHGlseeyk@758}} prescription When that happens, widen it again: slow bulk to gain mass and fat, then recomp again, even if the cycle takes five years  {"years": 5}
+2020-08-12 {{mUAHGlseeyk@822}} principle A permabulk keeps you anabolic with spare energy for building, unlike a recomp at maintenance, but some added calories inevitably become fat
+2020-08-22 {{2ag0uM9zhs4@88}} principle Fat-loss and bulk cycles should be as long as possible with as small a caloric difference as possible, or you get stuck yo-yoing and waste muscle or gain too much fat
+2020-08-25 {{N8Dp4inzHog@441}} principle Many people start these programs as novices or on big bulks, so their gains reflect noob gains and food rather than the program
+2020-08-25 {{N8Dp4inzHog@506}} principle Running Smolov at maintenance versus eating everything is night and day for leverage and recovery
+2020-09-01 {{TgPYObguEM0@0}} principle Teens shouldn't cut, but dirty bulking is the opposite extreme and fails the goal of looking better
+2020-09-01 {{TgPYObguEM0@63}} principle Bulking adds mass that moves weight, so you get stronger even without muscle, and what muscle you gain hides under fat
+2020-09-01 {{TgPYObguEM0@63}} principle Extreme overfeeding can trigger eating disorders just as crash diets can trigger anorexia
+2020-09-01 {{TgPYObguEM0@187}} prescription Teens have all the time in the world; they can slow bulk for potentially 10 years with no setbacks  {"years": 10}
+2020-09-01 {{TgPYObguEM0@250}} anecdote [abs] After his dirty bulk some fat stayed stubborn, especially in his love handles
+2020-09-01 {{TgPYObguEM0@250}} opinion Big naturals having done a big bulk only shows they were impatient, not that the bulk built the gains
+2020-09-01 {{TgPYObguEM0@312}} opinion A disciplined slow bulk with strict training would beat dirty bulking
+2020-09-01 {{TgPYObguEM0@373}} principle Lifters with body image issues can tolerate a bit more fat, but no-limit bulking just turns into a different self-hatred
+2020-09-07 {{9M7QVlvFdQY@628}} opinion Gaining 25 lb by next season at 18 years old will not be muscle; forcing a goal weight for a sport usually backfires  {"weight": "25 lb"}
+2020-09-10 {{hjb70fJ0MGk@0}} anecdote [abs] When I lose fat it comes off my core first; my legs stay fatty longer
+2020-09-10 {{hjb70fJ0MGk@150}} prescription Recomp method: keep bodyweight stable, get stronger and let muscle consume the calories while fat goes away
+2020-09-14 {{Zg0oUngwPK4@812}} anecdote Still 210 lb; the recomp lost fat (core first) without weight loss, and back and legs will take longer  {"weight": "210 lb"}
+2020-09-14 {{Zg0oUngwPK4@850}} opinion Recomp beats bulking for me
+2020-09-20 {{e3KPnpnfbxc@0}} principle The obvious cause of strength loss on a cut is a too-steep deficit that primes the body to shed muscle
+2020-09-20 {{e3KPnpnfbxc@40}} principle In a deficit the body prioritizes brain, heart and organs over staying anabolic, so some muscle loss may be unavoidable
+2020-09-20 {{e3KPnpnfbxc@64}} principle Minimizing muscle loss and maximizing fat loss on a cut or recomp depends on how well you program training
+2020-09-20 {{e3KPnpnfbxc@127}} principle Early in a cut glycogen is not yet depleted, so big strength drops are not explained by the diet
+2020-09-20 {{e3KPnpnfbxc@150}} principle People lose strength on cuts mainly by pre-emptively reducing volume, reps, sets and strength work: a self-fulfilling prophecy
+2020-09-20 {{e3KPnpnfbxc@254}} opinion Cutting tonnage by 30% when starting a cut programs in strength loss and destroyed work capacity  {"tonnage": "-30%"}
+2020-09-20 {{e3KPnpnfbxc@270}} prescription Fix: start the cut on the same program you ran at maintenance or surplus and let failure show you where to adjust
+2020-09-20 {{e3KPnpnfbxc@360}} opinion People who trust the diet more than training end up small and weak after a cut
+2020-09-21 {{ZdcKQXMmmPY@438}} principle You cannot build muscle out of thin air; a skinny person who wants to gain needs a lot of calories, especially if young and very active
+2020-09-21 {{ZdcKQXMmmPY@438}} principle If you eat more than your caloric needs require you simply end up fat; intake must match expenditure
+2020-10-01 {{NpIo8tFRESg@188}} opinion NH believes he gained the most lean mass during the slow years of eating slightly above maintenance
+2020-10-01 {{NpIo8tFRESg@376}} opinion Novices on strength programs while bulking get infatuated with bench gains but put on less muscle than they think
+2020-10-01 {{NpIo8tFRESg@630}} principle Force-feeding makes huge intake the new normal, which is not good for the body
+2020-10-01 {{NpIo8tFRESg@688}} anecdote Chasing strength to get bigger, he went from 210 to 240 lb at 22-23, mostly fat, and was injury prone; his ribs wouldn't heal  {"load": "210->240 lb"}
+2020-10-01 {{NpIo8tFRESg@700}} principle Eating far above what the body needs for muscle just produces fat
+2020-10-01 {{NpIo8tFRESg@750}} anecdote From 23 to 25 he crashed to 210, rebounded to 225, then slowly dropped to 210 with large body composition improvements
+2020-10-22 {{YXAguRizeqQ@0}} principle Being skinny fat is not a body type but a sign of metabolic distress and a poor lean mass to adipose tissue ratio
+2020-10-22 {{YXAguRizeqQ@0}} principle Unlike people who are simply fat or skinny, who should mostly focus on diet, skinny-fat individuals should put the bulk of their effort into diligent training
+2020-11-08 {{C5qCJGlk2fc@0}} opinion When aiming for Bear Mode, there are specific considerations to avoid ending up simply fat ('Walrus Mode') instead (low-confidence)
+2020-11-17 {{vC9cKh9tFxs@350}} prescription For gaining mass total calories matter more than macros; eat carbs even if protein drops, because they are easy to eat and not filling
+2020-11-17 {{vC9cKh9tFxs@564}} prescription Skinny-fat people should stay at maintenance or a very slight surplus or deficit and train for a long time; heavy cuts or bulks teach the body to store fat
+2020-11-17 {{vC9cKh9tFxs@670}} principle You can build muscle in a deficit, but slower than at maintenance, which is itself slower than in a surplus
+2020-11-17 {{vC9cKh9tFxs@700}} opinion The body prioritises keeping organs alive; in deficit it may shed muscle because muscle burns calories while giving little energy back
+2020-11-17 {{vC9cKh9tFxs@755}} principle Fat is easy for the body to store and costs no energy to maintain, unlike muscle
+2020-11-17 {{vC9cKh9tFxs@818}} principle Any surplus energy the body can't turn into muscle is stored as fat; a perfect lean-gain balance is theoretically possible but can't realistically be tracked
+2020-11-17 {{vC9cKh9tFxs@880}} principle Advanced lifters stop growing or lose muscle in a deficit mainly because they get weaker and can no longer produce the stimulus they're used to
+2020-11-17 {{vC9cKh9tFxs@990}} opinion Natural competitors must get to about 10% body fat; below about 8% you start sacrificing so much mass you may not look like you lift  {"bodyfat": "8-10%"}
+2020-11-17 {{vC9cKh9tFxs@1005}} prescription If you don't compete, avoid extreme beach cuts and dysmorphia-driven winter bulks; train smart near maintenance and judge by the mirror, not the scale
+2020-11-17 {{vC9cKh9tFxs@1110}} principle Your optimal weight is the one that lets you progress in strength and tonnage right now
+2020-11-17 {{vC9cKh9tFxs@1253}} prescription Raise calories in small steps; adding 300-400 kcal is already a bulk, and a 200 kcal snack on a 2000 kcal diet is a 10% increase  {"kcal": "200-400"}
+2020-12-02 {{sDSQpzFJ3iE@441}} anecdote He has helped people lose 20 lb with these simple hacks  {"weight": "20 lb"}
+2020-12-02 {{sDSQpzFJ3iE@441}} principle Weight loss is a game of not doing things, while weight gain requires action
+2020-12-16 {{so6MbvvtM1w@0}} principle Bloatmaxxing started as a 4chan meme but reflects an age-old practice of packing on mass, mostly fat and water
+2020-12-16 {{so6MbvvtM1w@352}} principle Bloat has a limit: taller, bigger-framed people can carry more, but eventually extra mass prevents lifting
+2020-12-16 {{so6MbvvtM1w@466}} data Even sumo wrestlers must watch weight, or they become slow and unstable
+2020-12-16 {{so6MbvvtM1w@532}} anecdote Bloatmaxxing is the logical extreme of bear mode; he fell into it and came back down after realizing his mistake
+2020-12-16 {{so6MbvvtM1w@598}} principle No one bulks 100 lb and gets 90% muscle; getting fat is easy, getting muscular takes effort  {"weight": "100 lb"}
+2020-12-16 {{so6MbvvtM1w@714}} anecdote After big natural bulks you think you have 20 lb of fat to lose but it's really 40  {"weight": "20 vs 40 lb"}
+2020-12-16 {{so6MbvvtM1w@731}} opinion The theory that all big naturals got very fat is wrong; they slow-bulked for years and the fat phase came at the end when things went wrong
+2020-12-16 {{so6MbvvtM1w@768}} principle Slow bulking is the best way for naturals to get big
+2020-12-16 {{so6MbvvtM1w@865}} prescription Bulk and cut slowly, about 1-2 lb a month; recomping may be the answer for many  {"rate": "1-2 lb/month"}
+2020-12-16 {{so6MbvvtM1w@1266}} opinion Getting obese as a natural lowers testosterone production; you might even lose muscle on an extreme bulk
+2020-12-16 {{so6MbvvtM1w@1345}} principle Endless bulk/cut cycling isn't the way to get big; extremes are bad in any direction
+2020-12-16 {{so6MbvvtM1w@1445}} principle Naturals naturally gain some intramuscular fat as they build muscle; no need to focus on getting fat
+2020-12-31 {{2dgtL3DKo3k@188}} prescription Avoid aggressive cuts just to see veins; they sacrifice muscle and therefore long-term vascularity
+2020-12-31 {{2dgtL3DKo3k@377}} prescription Fat needs little blood flow and covers veins, so balance size gains with leanness and avoid both dirty bulking and extreme dieting
+2021-01-03 {{CTMwuqNsY9Q@561}} opinion 'Strength equals size' is used to justify bulking to very high body fat, which misses the point of bodybuilding
+2021-01-13 {{U2WB_cYv2po@0}} opinion Maingaining is just lean bulking rebranded, made popular by Doucette's reach
+2021-01-13 {{U2WB_cYv2po@124}} prescription He recommends naturals either maintain or run very slow, small cuts and bulks rather than massive cycles
+2021-01-13 {{U2WB_cYv2po@186}} principle A bigger surplus does not build more muscle for a natural, only more fat; a big deficit burns muscle as well as fat
+2021-01-13 {{U2WB_cYv2po@251}} prescription A small surplus can help psychologically because the scale moves; those unhappy with their body fat can simply maintain and recomp, though progress is slower
+2021-01-13 {{U2WB_cYv2po@287}} opinion Cycling long bulks and cuts keeps teaching the body contradictory lessons and reflects impatience for immediate visible change
+2021-01-13 {{U2WB_cYv2po@377}} principle Maingaining frees you from diet preoccupation so changes come from slow lean mass and performance gains
+2021-01-13 {{U2WB_cYv2po@504}} opinion Skinny people still gain weight on a slow bulk; extremist heavy-bulk advocates promote body dysmorphia
+2021-01-13 {{U2WB_cYv2po@567}} principle Constantly swinging calorie intake disrupts training and causes plateaus; stable intake lets you focus on training
+2021-02-03 {{YHm-qSHgGSk@1073}} opinion [quads] After stopping training, fat often goes to the legs, which can hide muscle loss in leg measurements
+2021-03-01 {{kkbfHkyQ_q0@2831}} principle For someone NH's size, recomping 2% body fat is about 4-5 lb of fat into muscle and takes years (3-7)  {"bodyfat": "2%", "years": "3-7", "load": "4-5 lb"}
+2021-03-01 {{kkbfHkyQ_q0@2850}} principle Losing a few percent body fat is faster with a cut or aggressive deficit (which he doesn't recommend), and easier for lighter people
+2021-03-08 {{pvpf7Yuayco@1080}} principle [abs] Bulking can widen the waist via visceral fat
+2021-03-11 {{S0qBQppUtTQ@1170}} opinion GOMAD is a garbage way to get macros even for very skinny guys and promotes unaesthetic, fat weight gain that can cause body dysmorphia
+2021-03-11 {{S0qBQppUtTQ@1650}} opinion Gaining 200 lb on your squat while also gaining a lot of bodyweight is worthless
+2021-03-11 {{S0qBQppUtTQ@1670}} prescription Novices benefit most from maintenance calories, slowly increasing as appetite grows; a 500+ kcal surplus is a waste  {"kcal": "+500"}
+2021-03-17 {{WmH326eoF04@1603}} opinion Lifters stuck between cutting for looks and bulking to keep strength lose and gain the same 10 lb forever without progress  {"bodyweight": "10 lb"}
+2021-03-28 {{Ug_FoOIpwxY@505}} prescription Some extra body fat can help a narrow frame look full, but every inch on the waist looks terrible, so bulk slowly
+2021-04-05 {{XASWAdsSu0M@824}} principle With a weekly fast plus surplus days, what matters is whether the weekly total is a deficit or a surplus
+2021-04-05 {{XASWAdsSu0M@953}} opinion A weekly 24h fast on top of a surplus is not an 'ultimate recomp strategy'; he'd be miserable and prefers eating at maintenance all week
+2021-04-05 {{XASWAdsSu0M@1082}} prescription For someone stalled on a cut who can't go below 1900 kcal without misery, switch to a recomp at maintenance now instead of cutting harder  {"kcal": 1900}
+2021-04-05 {{XASWAdsSu0M@1144}} principle Patience is the number one prerequisite for a successful recomp
+2021-04-05 {{XASWAdsSu0M@2151}} principle You can't recomp forever: below roughly 8-9% body fat, hormones tank and muscle starts to be lost  {"bodyfat": "8-9%"}
+2021-04-05 {{XASWAdsSu0M@2274}} prescription When a recomp stalls, don't cut deeper; run a very slow bulk, then recomp again
+2021-04-05 {{XASWAdsSu0M@2338}} principle Most people carry more fat than they think and quit recomps from impatience; fat doesn't turn into muscle, one is slowly traded for the other
+2021-04-05 {{XASWAdsSu0M@2401}} principle Any surplus adds fat and water; dirty bulks mostly add fat and better leverage, not muscle
+2021-04-05 {{XASWAdsSu0M@2467}} prescription Bulk surpluses can be well under 10%; slow increases give better long-term progress  {"surplus": "<10%"}
+2021-04-12 {{YKCNJS5KNvw@251}} principle Fasting causes fat loss only because skipped meals add up to a deficit; a normal calorie deficit does the same
+2021-04-12 {{YKCNJS5KNvw@251}} principle A calorie deficit is a 'volume fast' and fasting is a 'frequency fast'; both are just deficits
+2021-04-12 {{YKCNJS5KNvw@1756}} prescription Ideally you end a fasting month at the same weight or lighter
+2021-05-02 {{vVlpg3202Uw@210}} opinion He previously agreed with Greg that maingaining works and that novices do not need absurd bulks to gain muscle
+2021-05-10 {{D1_tXh-Kp9Y@508}} opinion Skinny guys who can't gain weight have only themselves to blame; there is always a cheap, easy way to eat more
+2021-05-30 {{QTHtVBP_36g@2870}} principle [chest] True gyno (a swollen gland) needs surgery; fat chest just needs chest training and fat loss
+2021-05-30 {{QTHtVBP_36g@2934}} anecdote He will keep recomping until he stops progressing, which could take 4-5 years, because he still has fat to fuel muscle gain  {"years": "4-5"}
+2021-06-02 {{HrUPp573ki0@1684}} principle Keep calisthenics in your program as a check: if your bench rises but push-ups regress, or your row rises but pull-ups drop, you are gaining fat, not muscle
+2021-06-02 {{HrUPp573ki0@1585}} anecdote Buying into the bulking meme and bulking far too high for his frame left him fat, immobile and waddling
+2021-06-09 {{b1o8K8EjpS0@2466}} opinion If it jiggles when you shake it, it's fat, not muscle
+2021-06-16 {{g0HCTuGYy0o@259}} principle Body fat skews the equation: the more muscle a natural builds, the more fat he can carry while still looking good, so he can get bigger overall
+2021-06-16 {{g0HCTuGYy0o@319}} principle A 65 kg skinny guy aiming for 90 kg does not need 25 kg of dry muscle; a large share will be fat and water on top of muscle, and he will look bigger and better, not fatter  {"bodyweight": "65 -> 90 kg"}
+2021-06-16 {{g0HCTuGYy0o@357}} principle No natural can reach 5% body fat without looking like a skeleton; chasing pro bodybuilder leanness is an illusion for naturals  {"bodyfat": "5%"}
+2021-07-14 {{8ELQ2XZgpls@1147}} opinion Stuffing your face to get stronger builds leverage via fat mass, not muscle; you will regret it
+2021-07-14 {{8ELQ2XZgpls@2086}} principle Constant cutting for summer is yo-yo dieting that limits progression; cut sparingly
+2021-07-14 {{8ELQ2XZgpls@2702}} principle Body fat percentage becomes relevant when you start shaping aesthetics; choose leaner or fluffier by preference
+2021-07-14 {{8ELQ2XZgpls@3002}} opinion Dirty bulking in the depths just makes you fat and harms your health
+2021-07-14 {{8ELQ2XZgpls@3487}} opinion Recomposition is the most advanced and most suitable diet for patient long-term lifters unless you have an extreme body type
+2021-08-07 {{aIjUTEtXOcM@1565}} anecdote From 21 to 23 he went from 170 to 240 lb; he was already fat by 210-220 but body dysmorphia hid it  {"bodyweight": "170->240 lb"}
+2021-08-07 {{aIjUTEtXOcM@1628}} anecdote Gaining weight fast makes you stronger but it is fat; he regrets those years the most
+2021-08-07 {{aIjUTEtXOcM@1691}} opinion He wishes he had gained only 15-20 lb from 20 to 23 to sit at a solid 190  {"weight": "190 lb"}
+2021-08-07 {{aIjUTEtXOcM@1756}} anecdote After a bad experience with a suicide cut, he cut slowly from about 235 to 210 over two years before starting the channel  {"bodyweight": "235->210 lb", "years": 2}
+2021-08-10 {{GsRa8YsVo00@126}} prescription Gaining 20 lb without adding body fat is unrealistic; never gain that much weight that fast even if skinny  {"weight": "20 lb"}
+2021-08-12 {{9mnLRQsrs9k@2684}} opinion Bulking 15 lb a month or eating bland celebrity diets is unsustainable  {"weight": "15 lb/month"}
+2021-08-12 {{9mnLRQsrs9k@2836}} principle Eating much more without the training following just makes you fat
+2021-08-27 {{Q5y4wM8zcWY@1260}} opinion Many novices get stronger on rows simply because they are bulking and getting fatter
+2021-09-12 {{cNGPCn9Uupc@1446}} prescription Diet must also serve the sport: athletes should not bulk for a bigger bench or cut for a six-pack
+2021-09-25 {{74XVh8ghvs4@2008}} opinion Anyone can lose weight; being fat is your own responsibility
+2021-09-25 {{74XVh8ghvs4@2198}} prescription Skinny guys shouldn't dirty bulk or bulk aggressively; they just get skinny-fat. Use a small surplus, lift hard and be patient  {"kcal": "small surplus"}
+2021-09-25 {{74XVh8ghvs4@2261}} opinion In a small surplus, skinny people put the extra fat partly into subcutaneous and intramuscular fat, which helps them look fuller
+2021-10-20 {{f-XiVNy25tw@819}} principle [abs] Track lean gains by your waist: if bodyweight and lifts rise but your waist grows, you are mostly getting fatter, a trap for bodybuilders following powerlifting principles
+2021-10-20 {{f-XiVNy25tw@1666}} principle [abs] Abs are built in the gym and revealed in the kitchen; dieting only reveals what you developed
+2021-10-20 {{f-XiVNy25tw@1666}} anecdote [abs] Using the six-pack as a cutting gauge ignores individual fat distribution; he has abs year-round but stores fat on glutes and legs
+2021-10-20 {{f-XiVNy25tw@2166}} opinion [abs] Perma-cutting produced a generation of 165 lb 'aesthetic bros' with no muscle; it levels up eating disorders, not abs  {"bodyweight": "165 lb"}
+2021-10-20 {{f-XiVNy25tw@2166}} principle [abs] If you build ab muscle, a natural six-pack is easy to keep year-round without starving; he has his in winter and summer
+2021-10-20 {{f-XiVNy25tw@2292}} opinion [abs] Muscle with some fat on top looks bigger; naturals can have abs and some fat and eat what they want
+2021-10-22 {{FxqDfwz_A-g@123}} anecdote Excess body fat is a direct sign of having overeaten at some point; when he was bulking he ate far too much, wasting food and worsening his health
+2021-11-24 {{aFENxCkDXQM@2800}} principle Bumping a teen's calories from 3,500 to 4,300 (+22%) to gain 1 kg a month is miscalculated and will produce far more than 1 kg, mostly fat; 800 kcal is an extra meal  {"kcal": "3500->4300", "rate": "1 kg/month"}
+2021-11-24 {{aFENxCkDXQM@2870}} principle Gaining weight is not the same as gaining muscle; getting heavier and moving more weight is not true strength gain
+2021-11-24 {{aFENxCkDXQM@3135}} opinion Telling a client who is getting fat to keep eating to 'build a base', and raising calories 60% to force 3 kg a month, fosters eating disorders and obesity in kids  {"kcal": "+60%", "rate": "3 kg/month"}
+2021-11-24 {{aFENxCkDXQM@3200}} opinion Undereating is not killing your gains; force-feeding teenagers facilitates eating disorders
+2021-11-24 {{aFENxCkDXQM@4059}} opinion Gaining 10 lb in a week without noticing is implausible on a clean diet; it implies eating a lot of junk on top  {"weight": "10 lb/week"}
+2021-11-24 {{aFENxCkDXQM@4295}} opinion GOMAD-style force-feeding may suit very athletic people burning thousands of calories, not sedentary lifters
+2021-11-27 {{-T8qWCI4_No@63}} principle Eating more does make you gain more; a surplus guarantees muscle building while maintenance or deficit makes it uncertain
+2021-11-27 {{-T8qWCI4_No@125}} principle Anabolic only means the body has resources to build; in a surplus it builds both muscle and fat, not only muscle
+2021-11-27 {{-T8qWCI4_No@250}} principle Muscle building is low on the body's priority list behind keeping organs running, so only a fraction of extra calories goes to muscle
+2021-11-27 {{-T8qWCI4_No@322}} principle Calories the body doesn't use for muscle are stored as fat; it cannot simply discard them
+2021-11-27 {{-T8qWCI4_No@322}} principle Muscle does not turn into fat when you stop training; muscle atrophies while people keep eating the same and get fat
+2021-11-27 {{-T8qWCI4_No@475}} anecdote Omar Isuf and Alpha Destiny are examples of YouTubers who dirty bulked and came out big after cutting
+2021-11-27 {{-T8qWCI4_No@524}} opinion The muscle gain difference between a slow bulk and a dirty bulk is negligibly small, if it exists at all
+2021-11-27 {{-T8qWCI4_No@584}} opinion People keep dirty bulking because they get bigger, but the size is fat; body dysmorphia makes them count it as progress
+2021-11-27 {{-T8qWCI4_No@730}} principle The size and strength gained from dirty bulking are illusions; whatever is kept would have come from any surplus
+2021-11-27 {{-T8qWCI4_No@818}} prescription A 4% calorie increase over time always beats a 40% increase because the body can only use so much  {"kcal_increase": "4% vs 40%"}
+2021-11-27 {{-T8qWCI4_No@853}} principle The goal is to have as much of the surplus as possible go to muscle; gaining more fat than muscle on a bulk is a problem
+2021-11-27 {{-T8qWCI4_No@901}} principle After a dirty bulk you must cut in a deficit and lose the strength and size you thought you'd gained
+2021-11-27 {{-T8qWCI4_No@901}} opinion Everyone who cuts finds they carry much more fat than they thought and must go far lower in weight to get lean
+2021-11-27 {{-T8qWCI4_No@950}} prescription A reasonable body fat range for naturals is about 12-16%, maybe up to 18%; dirty bulkers go into the 20s  {"bodyfat": "12-18%"}
+2021-11-27 {{-T8qWCI4_No@950}} principle The fatter you get, the less anabolic you become because testosterone drops
+2021-11-27 {{-T8qWCI4_No@950}} opinion Dirty bulkers are impatient, so they suicide cut and lose muscle, entering a yo-yo 'diet purgatory' and staying the same for 10 years  {"years": 10}
+2021-11-27 {{-T8qWCI4_No@1012}} opinion Extra bodyweight from dirty bulking puts more load on the tendons and hurts mental health
+2021-11-27 {{-T8qWCI4_No@1012}} opinion An inch gained on the arms in three months is fat, not muscle  {"weeks": 12}
+2021-11-27 {{-T8qWCI4_No@1109}} anecdote People who got big off dirty bulks got big in spite of them; NH's best gains came on a very slow bulk
+2021-11-27 {{-T8qWCI4_No@1209}} principle Muscle gain is slow and fat gain is fast, so don't trade one for the other
+2021-11-27 {{-T8qWCI4_No@1209}} opinion Losing dirty-bulk fat through a recomp is about 15 times slower than a slow bulk; NH is going through one now
+2021-11-27 {{-T8qWCI4_No@1265}} principle Some fat gain is inevitable when bulking; aim to minimize fat and maximize muscle
+2021-12-05 {{oAXzDQIwvLg@891}} opinion People shocked at how much they must lose to see abs usually did aggressive bulks that added unnecessary fat
+2021-12-05 {{oAXzDQIwvLg@954}} opinion Bulking and cutting cycles were invented by pro bodybuilding; naturals of the 1920s-40s held roughly steady weight while gaining strength and muscle
+2021-12-05 {{oAXzDQIwvLg@989}} prescription Naturals should gain weight slowly and not fear some fat as long as muscle is being built
+2021-12-05 {{oAXzDQIwvLg@1819}} principle Telling people they must be very light and lean becomes a self-fulfilling prophecy: they starve, build nothing, and blame genetics
+2022-01-07 {{RryibwmuOWE@200}} opinion When NH says maingaining he means a lean bulk; calling a recomp 'gaining' makes no sense because bodyweight stays the same
+2022-01-07 {{RryibwmuOWE@751}} opinion Beginners told to 'maingain' end up doing different things (recomp, lean bulk, deficit), like a program with an exercise that could mean anything; the term should be dropped and replaced with 'lean bulk' or 'recomp'
+2022-01-07 {{RryibwmuOWE@840}} opinion Greg's anti-fat messaging pushes his subscribers to interpret maingaining as maintenance, so skinny beginners recomp and never grow
+2022-01-07 {{RryibwmuOWE@1037}} prescription For skinny naturals the way forward is a lean bulk
+2022-01-07 {{RryibwmuOWE@1093}} principle [abs] 'Ab anxiety': people cling to a six-pack and never raise bodyweight; adding weight raises total fat but not necessarily bodyfat percentage if muscle is gained at the same time
+2022-01-07 {{RryibwmuOWE@1197}} opinion Nobody can eyeball bodyfat percentage accurately and knowing it is almost useless; how you look and feel is what matters
+2022-01-07 {{RryibwmuOWE@1356}} principle A recomp is valid if you already have muscle and enough bodyfat; if you are skinny you have nothing to recomp and shouldn't do it
+2022-01-07 {{RryibwmuOWE@1484}} opinion Being fat is terrible for health and you should get to a lower bodyfat as soon as possible, without a suicide cut
+2022-01-07 {{RryibwmuOWE@1484}} opinion Pudgy beginners are the ones who could have benefited from recomping, but maingaining marketing targets skinny novices
+2022-01-07 {{RryibwmuOWE@1596}} opinion Gaining muscle on maintenance or a deficit when you weigh 130 lb is a meme you should have seen through  {"bodyweight": "130 lb"}
+2022-01-07 {{RryibwmuOWE@1709}} principle Revival's audience risks falling for a second meme, blind bulking; only do something if you understand it and it fits your goals
+2022-01-07 {{RryibwmuOWE@1875}} opinion Some people can gain muscle at 12-13% bodyfat; Revival's preferred range is skewed too high, and the right level depends on your preferences  {"bodyfat": "12-13%"}
+2022-01-07 {{RryibwmuOWE@1907}} principle Choose how lean or bulky to be according to your own goals, not your favorite YouTuber's
+2022-01-07 {{RryibwmuOWE@2006}} principle Performance and muscle gain are not one-to-one: scale weight and weight on the bar going up does not mean muscle is being built
+2022-01-07 {{RryibwmuOWE@2164}} prescription You don't need to eat big to get big; do a slow lean bulk and control fat gain
+2022-01-07 {{RryibwmuOWE@2164}} opinion Alpha Destiny and Bugenhagen gain mass to chase PRs; performance requires mass, not necessarily muscle, so their examples do not prove that you must dirty bulk to be lean and muscular
+2022-01-07 {{RryibwmuOWE@3091}} prescription The only way out of maingaining is to enter a surplus, gain mass and see for yourself; always try things, even against your favorite YouTuber
+2022-01-26 {{he2KJeMcoAI@946}} principle Spot reduction is a myth: fat comes off all over through a calorie deficit or a recomposition
+2022-01-26 {{he2KJeMcoAI@946}} principle Recomposition beats pure fat loss: it helps prevent stretch marks and loose skin, and more muscle raises the calories you can eat at maintenance
+2022-01-26 {{he2KJeMcoAI@1072}} principle You can make a fatty area look better by training it: bigger muscle spreads the fat over a larger area and vascularity makes it look leaner
+2022-01-26 {{he2KJeMcoAI@1072}} data [abs] There is some evidence that long, high-rep sets cause slightly more local fat loss, but the effect is tiny (about 1 versus 100 for diet), so a million crunches won't fix a fat belly
+2022-02-02 {{VhD3iVVCHa0@1104}} opinion Blaha's endless cuts show he cares about aesthetics despite mocking bodybuilding; cut he looks emaciated, bulked he looks obese
+2022-02-10 {{GNJkAcgUJ_0@2065}} opinion Fitness trends are cyclical: the 2022 push to bulk rather than maingain repeats 2012
+2022-02-10 {{GNJkAcgUJ_0@4140}} opinion Power copers often pile on fat to get strong and then mock others for being weaker
+2022-02-10 {{GNJkAcgUJ_0@6213}} anecdote Bulking to chase PRs mostly adds fat and better leverages, not quality muscle; he did it, then had to cut back down
+2022-03-14 {{D2ERyDt4Pqo@630}} prescription Fitness culture demonizes fat; women who want to shape their bodies should aim to add muscle and some fat through intelligent bulks
+2022-03-14 {{D2ERyDt4Pqo@693}} principle Even naturally skinny women need to gain weight to reach a respectable physique
+2022-03-29 {{7Sp526pPxEU@503}} prescription If a bulk only produces bloat with no visible muscle gain, your body has tapped out; switch to maintenance or a small deficit
+2022-03-29 {{7Sp526pPxEU@503}} opinion Overly enthusiastic bulks cause yo-yo bulk-and-cut cycles that lead nowhere; every bulk is just the first half of a cut
+2022-03-29 {{7Sp526pPxEU@1570}} anecdote To find your lowest healthy body fat, reach a size you like and then recomp slowly until fat loss stalls; he is still recomping at 210 lb and might bulk again in 4-5 years  {"bodyweight": "210 lb", "years": "4-5"}
+2022-04-14 {{LxGdGChvk2c@2633}} opinion [chest] People bulk to raise their bench because more mass helps pressing, abandoning their original goal of a bigger chest
+2022-05-16 {{wNunDhhIvRE@1253}} principle Kinobody's obsession with staying shredded creates small lifters and body dysmorphia; any big, strong natural must carry some fat at some point
+2022-06-12 {{uYRIWAKlA0c@127}} anecdote As a novice he gained weight just by adding an extra bowl of rice a day
+2022-07-18 {{P0SI2703w-I@759}} opinion [abs] Prefer six-pack 'long cuts' over dieting shortcuts; naturally built ab muscle is kept for good
+2022-07-18 {{P0SI2703w-I@821}} opinion [abs] The belief that only low body fat produces abs is false and leaves you with a pack you must flex to see
+2022-07-24 {{Sp_95PdknW4@2011}} opinion Not all bulks are equal; a clean bulk differs from just eating everything, and calling it all the same lacks nuance
+2022-07-28 {{gSFUgZ42R1A@650}} opinion Milk is a great bulker but for some ancestries the mass added is mostly bad weight
+2022-07-28 {{gSFUgZ42R1A@1555}} principle Most people eat too much; a surplus does not automatically turn into muscle, and excess becomes fat
+2022-07-28 {{gSFUgZ42R1A@1574}} principle Bulks are weapons to be used with care
+2022-08-03 {{yUecX6qONXg@189}} principle Slow bulks and cuts are a conservative default to protect impatient lifters, not the only option
+2022-08-03 {{yUecX6qONXg@252}} principle Training, not the diet itself, decides whether a bulk or cut works; you gain muscle from what you do in the gym with the calories, and lose it on a cut because of what you stop doing in the gym
+2022-08-03 {{yUecX6qONXg@315}} prescription Some people need faster bulks or cuts; if slow cycles stop working, become a bit more aggressive
+2022-08-27 {{9WA6eQODjHQ@0}} anecdote He just ended a three-year maintenance phase at 210 lb without losing or gaining a single pound  {"weeks": 156, "bodyweight": "210 lb"}
+2022-08-27 {{9WA6eQODjHQ@124}} principle Recomps are exceptionally slow: what a week of bulking or cutting gives may take a month or two on a recomp, which is why they are unpopular
+2022-08-27 {{9WA6eQODjHQ@188}} principle Bulking maximizes muscle gain at the cost of definition, cutting maximizes fat loss, and a recomp gives only a small amount of both
+2022-08-27 {{9WA6eQODjHQ@250}} prescription If you recomp, commit at least a year; doing two months and then jumping to a bulk or cut wastes your time  {"weeks": "52+"}
+2022-08-27 {{9WA6eQODjHQ@315}} opinion Over the long run a recomp gives results similar to, maybe slightly less than, a bulk followed by a cut
+2022-08-27 {{9WA6eQODjHQ@315}} opinion You do not need a caloric surplus to gain muscle; he gained muscle while always eating around maintenance
+2022-08-27 {{9WA6eQODjHQ@377}} principle The main advantage of a surplus is faster visible gains, which makes the plan easier to stick to
+2022-08-27 {{9WA6eQODjHQ@441}} prescription If your goal is simply to get bigger overall, bulk; recomps are for lifters with a clear dream physique and specific body parts to work on
+2022-08-27 {{9WA6eQODjHQ@502}} opinion Many lifters spend years cutting and bulking the same 10-15 lb without real gains; a recomp breaks the cycle and lets you re-center  {"load": "10-15 lb"}
+2022-08-27 {{9WA6eQODjHQ@565}} principle A recomp is not a bulk/cut hybrid but its own thing: you trade fat for muscle at a fixed bodyweight, like sculpting a statue without adding or removing material
+2022-08-27 {{9WA6eQODjHQ@690}} prescription Do not recomp below about 14-15% body fat; the body is very reluctant to give up its remaining fat and you will accomplish little  {"bodyfat": "<14-15%"}
+2022-08-27 {{9WA6eQODjHQ@814}} principle The higher your body fat, the easier the fat-for-muscle trade, as if in a surplus; the closer you get to a lean level, the harder it becomes
+2022-08-27 {{9WA6eQODjHQ@814}} principle Plateaus are a normal part of a recomp; at maintenance you cannot bully the body into using its fat, you just keep pushing
+2022-08-27 {{9WA6eQODjHQ@940}} principle In phases where you lose fat faster than you gain muscle, strength can drop from lost leverage, and many recompers are unknowingly losing weight, so watch the balance
+2022-08-27 {{9WA6eQODjHQ@1003}} prescription Track recomp progress in the mirror (cuts, vascularity, muscles popping) rather than the scale or tape; measurements alone would have made him quit
+2022-08-27 {{9WA6eQODjHQ@1003}} anecdote His muscles did grow on the recomp, but minimally compared with what a bulk would have given
+2022-08-27 {{9WA6eQODjHQ@1193}} prescription When strength and training progress stall for a long time, the recomp is over; move to a slow bulk
+2022-08-27 {{9WA6eQODjHQ@1319}} principle You maintain to recomp, you don't recomp to maintain: eating at maintenance is a tool, and a recomp that only maintains your mass was wasted time
+2022-08-29 {{O9txIDHBBIk@121}} anecdote He recomped for three years without losing a pound and looks bigger and leaner  {"weeks": "3 years"}
+2022-08-29 {{O9txIDHBBIk@183}} principle A recomp works because lifting forces adaptation, and without surplus fuel the body draws on fat reserves; it is slow but real
+2022-08-29 {{O9txIDHBBIk@246}} anecdote His earlier bulk to 240 lb was a disaster, and a suicide cut afterwards cost muscle while his love handles stayed  {"load": "240 lb"}
+2022-08-29 {{O9txIDHBBIk@290}} opinion [abs] Slowly forcing the body to consume its fat stores is the only real fix for love handles; shortcuts are scams
+2022-08-29 {{O9txIDHBBIk@470}} principle Recomping is extremely slow when advanced; it suits sculpting, not people chasing size
+2022-08-29 {{O9txIDHBBIk@1040}} principle On a recomp, long-neglected muscles grow even without a surplus
+2022-08-29 {{O9txIDHBBIk@1377}} principle Measurements may drop in the first recomp year because fat loss outpaces muscle gain; judge by performance and the mirror
+2022-08-29 {{O9txIDHBBIk@1490}} anecdote He is done with recomps and cuts; he plans to stay between about 15% and 18% bodyfat because he prefers mass to being shredded  {"bodyfat": "15-18%"}
+2022-08-29 {{O9txIDHBBIk@1565}} anecdote Next phase: a slow lean bulk lasting 2-3 years toward 215-220 lb while keeping vascularity and definition  {"load": "215-220 lb"}
+2022-09-28 {{6HGBdDOAReA@949}} opinion Young men who over-diet toward anorexia to get shredded act from impatience, not love for the body
+2022-10-11 {{BhOuuyriBDw@253}} prescription Do not dirty bulk for the challenge; recomp or gain weight slowly
+2022-10-18 {{0xZ2Yl1PUmc@441}} opinion Bodybuilding contest prep is horrible for health, even natural: getting extremely lean, dehydrating and depleting nutrients wrecks your hormonal profile
+2022-10-18 {{0xZ2Yl1PUmc@505}} opinion Naturals should turn their backs on stage-lean competition standards because they are what produces low testosterone
+2022-10-18 {{0xZ2Yl1PUmc@569}} opinion Staying at a healthy body fat would likely have avoided the low-T problem after prep
+2022-10-18 {{0xZ2Yl1PUmc@569}} opinion Young men chasing year-round shredded leanness sabotage both their progress and their health
+2022-10-25 {{E1er3oQ3IeM@2329}} anecdote (Guest Tom Lazorik) Diets must be sustainable; he lost over 100 lb but never learned maintenance
+2022-10-25 {{E1er3oQ3IeM@3024}} opinion (Guest Bald Omni Man) Gigabulking on 5000 kcal of junk makes you feel sluggish and is unnecessary  {"kcal": 5000}
+2022-11-08 {{h7D6CB4p1oU@126}} principle Calories cannot turn into muscle; training creates the growth and the surplus only fuels recovery, while surplus calories beyond that become fat
+2022-11-08 {{h7D6CB4p1oU@191}} principle Every successful bulk starts and ends in the gym; the kitchen is the easy part
+2022-11-08 {{h7D6CB4p1oU@318}} principle A sizable but moderate surplus gets you about 95-98% of possible gains; doubling the surplus (e.g. 1000 instead of 500 kcal) does not double muscle gain, it just adds fat  {"kcal": "500 vs 1000-2000 surplus"}
+2022-11-08 {{h7D6CB4p1oU@445}} principle Force-feeding an extra 1000 kcal a day tires you physically and mentally and can make you lethargic and fixated on diet instead of training  {"kcal": 1000}
+2022-11-08 {{h7D6CB4p1oU@569}} prescription Increased calories during a bulk must coincide with increased training volume, workload and intensity, or the extra calories are simply stored as fat
+2022-11-08 {{h7D6CB4p1oU@694}} prescription Increase calories slowly and keep them stable until your bulking intake becomes your new maintenance (TDEE), which shows you gained muscle; only then raise calories again
+2022-11-08 {{h7D6CB4p1oU@953}} principle Gaining 10 lb in two months versus five-six months may give the same bench increase, but the slower gain is much more likely to be muscle  {"weight_gain": "10 lb"}
+2022-11-08 {{h7D6CB4p1oU@1015}} prescription Check the mirror as often as the scale when bulking; the scale number hypnotizes you into forgetting you wanted to look better
+2022-11-08 {{h7D6CB4p1oU@1708}} prescription Sign #4: picking a target bodyweight before the bulk (he wanted 225 from 180 to reach 100 kg) forces overeating; set a time frame instead of a number
+2022-11-08 {{h7D6CB4p1oU@1770}} opinion Sign #5: you no longer like your body; a bulk should not make you hate what you see in the mirror
+2022-11-08 {{h7D6CB4p1oU@1897}} opinion A slow or lean bulk is usually quality; a dirty or fast bulk usually gains mostly fat
+2022-11-08 {{h7D6CB4p1oU@1897}} opinion Exception 1: performance-oriented lifters (e.g. Alpha Destiny) can bulk fast for strength if they track their old numbers at the same bodyweight
+2022-11-08 {{h7D6CB4p1oU@2022}} opinion Exception 2: aesthetic lifters like Geoffrey Verity Schofield can bulk hard and cut if they track measurements before and after, but most people don't track data so it fails for them
+2022-11-08 {{h7D6CB4p1oU@2212}} prescription Exception 3: very skinny lifters with fast metabolisms who stall on small surpluses should eat more aggressively, perhaps double; he only needs about +300 kcal  {"kcal": "+300 for him"}
+2022-11-08 {{h7D6CB4p1oU@2401}} opinion Endless 20 lb winter bulks and summer cuts with the same training create bulk-cut purgatory, stagnant strength and physique, and bad habits  {"weight_gain": "20 lb"}
+2022-11-11 {{wB-ydKSfQ5k@2083}} prescription A skinny novice must gain weight slowly, eating slightly more to gain a little each week, transforming within 2-3 years; if fat, eat at maintenance or cut very slowly  {"weeks": "2-3 years"}
+2022-11-17 {{FC8x-cwd4DQ@842}} principle Leanness is the second key: lifters above the 89 kg class look fluffy, which is why many natural bodybuilders trade size for definition  {"bodyweight": "89 kg class"}
+2022-11-22 {{1U5cgUdos88@64}} principle [neck] The neck grows more easily during a bulk, and a muscular neck spreads fat so the face looks less like a moon face, but don't use it as an excuse to get fat
+2022-12-10 {{di9Qwrzs2Gg@761}} principle They look jacked partly because they are lean year-round, with no access to a caloric surplus and a mostly low-calorie whole-food diet; an aesthetic physique is first of all a lean one
+2022-12-29 {{6YWa3qOu6BY@506}} principle Calisthenics athletes stay lean because relative strength requires a high lean-mass-to-fat ratio, not because the method burns fat
+2023-01-12 {{h3U30oRVrMU@63}} principle Agrees: skinny guys afraid of gaining weight waste years; you must gain weight to gain muscle
+2023-01-12 {{h3U30oRVrMU@126}} opinion Maingaining is promoted because 'gain muscle and lose fat at once' is attractive, often by enhanced people, and it left many young men with no results
+2023-01-12 {{h3U30oRVrMU@189}} principle [abs] Even for a six-pack you must build the abdominal muscles first, then get lean
+2023-01-12 {{h3U30oRVrMU@316}} anecdote Choose the eating mode that suits your situation; NH has recomped for three years and it worked because he had enough fat  {"years": 3}
+2023-01-12 {{h3U30oRVrMU@379}} anecdote Setting a target body weight (Hamza: 180 lb) and gaining toward it without stuffing your face is good nuanced advice; NH dirty-bulked and just got fat  {"bodyweight": "180 lb"}
+2023-01-31 {{elk4uYvjXos@1256}} principle Pure strength pursuit conflicts with aesthetics; aggressive bulking is great for strength but can destroy your physique
+2023-02-09 {{upmJaBt1WHk@190}} opinion Cavill looks massive because he is bear mode at relatively high body fat, not shredded; he himself is 15%+ body fat with abs and veins thanks to muscle mass  {"bodyfat": "15%+"}
+2023-02-09 {{upmJaBt1WHk@255}} prescription To be that big you must slow bulk and accept slightly higher body fat; it is more sustainable and lets you put energy into the gym
+2023-03-06 {{HOgwZO70z_M@315}} prescription Keep body fat around 10-12%; getting to 6% with striated abs takes you out of otter mode  {"bodyfat": "10-12%"}
+2023-03-06 {{HOgwZO70z_M@315}} prescription Keep bodyweight low for a tight waist and slim limbs; at 6 ft he would need to be 160-170 lb, about 40 lb lighter than now  {"bodyweight": "160-170 lb at 6 ft"}
+2023-03-06 {{HOgwZO70z_M@1134}} anecdote He looks and performs best around 15-16% body fat; someone miserable at 10% shouldn't force it to copy someone else  {"bodyfat": "15-16%"}
+2023-03-20 {{-izcpmcGs-c@128}} prescription [abs] Train abs while bulking even if you can't see them, so they show sooner when you cut
+2023-04-13 {{rFfLUloDHeg@496}} principle Weight cutting and starving limit anabolism, so wrestlers' physiques are impressive despite not training for hypertrophy
+2023-05-03 {{d1eLAd5WvIA@815}} principle Upper-body muscles never trained directly are effectively at a novice stage, so he could grow even at maintenance; a surplus will help
+2023-05-21 {{mMA3KF3qmlQ@1945}} principle Bulks and cuts make sense when tied to a performance goal (a lift, a show, one-arm pull-ups)
+2023-05-28 {{8C3R94M4yNM@1191}} prescription Eating a few pieces of raw ginger before bed makes low-appetite people wake up hungry, helpful when bulking
+2023-06-12 {{Z-hGdKz28RY@1507}} principle Eat to fuel progression in the gym, not to gain weight; a surplus only builds muscle if your lifts and volume go up
+2023-06-12 {{Z-hGdKz28RY@1569}} principle Gaining 20 lb over three years beats 20 lb in one year: it's mostly muscle and avoids yo-yo dieting  {"weight": "20 lb"}
+2023-06-12 {{Z-hGdKz28RY@1634}} principle Bulks only succeed if they are slow; that is the key to breaking the natural limit
+2023-06-21 {{P7ADeDVghxg@1348}} anecdote After six months of bulking he is 215 lb at six feet; arms and upper back grew while the waist barely increased and abs stay visible  {"bodyweight": "215 lb", "months": 6}
+2023-06-21 {{P7ADeDVghxg@1411}} anecdote He doesn't care about cutting and may stay on a small-surplus, performance-focused bulk for two to three more years  {"years": "2-3"}
+2023-07-15 {{6KA80BQ9W3k@1193}} principle The more advanced you are, the slower the bulk should be; gaining 10 lb of lean mass in 2-3 months at 200 lb is physiologically impossible  {"weeks": "8-12"}
+2023-07-15 {{6KA80BQ9W3k@1193}} principle The goal of a bulk is a surplus that drives gym performance and progression, not scale weight
+2023-07-15 {{6KA80BQ9W3k@1255}} anecdote He gained 5 lb since November with little fat, still visible abs and veins; he dislikes the fluffy state
+2023-07-15 {{6KA80BQ9W3k@1317}} prescription Plan: keep bulking for maybe three years at 0.5-1 lb per month, about 10 lb per year, with no target weight  {"rate": "0.5-1 lb/month"}
+2023-07-15 {{6KA80BQ9W3k@1380}} anecdote In the past, chasing 225-230 lb just made him fat because he focused on the scale over performance
+2023-07-23 {{Mn34v5Y1d-0@2765}} opinion Joel stays around 12-13% body fat and never does long cuts; spending half of every year dieting wastes years of potential progress  {"bodyfat": "12-13%"}
+2023-09-26 {{XK9KjVP-5Wo@111}} prescription Unless you are fat or obese, don't cut during your first ~5 years of training; you haven't built anything to reveal yet  {"years": 5}
+2023-09-26 {{XK9KjVP-5Wo@186}} anecdote He sped up his bulk without any reason: he was still progressing and not plateaued, so raising the surplus was his first mistake
+2023-09-26 {{XK9KjVP-5Wo@248}} principle Judge a monthly weight gain as a percentage of bodyweight; at 180 lb, several pounds a month is far too much to be muscle for an intermediate or advanced lifter
+2023-09-26 {{XK9KjVP-5Wo@248}} principle Fast weight gain can be justified only for true beginners filling out their frame, not for intermediates
+2023-09-26 {{XK9KjVP-5Wo@312}} principle If strength rises only in proportion to weight gained (e.g. +20 lb bench for +10 lb bodyweight), it's a bad trade and mostly not muscle  {"load": "+20 lb bench", "bodyweight": "+10 lb"}
+2023-09-26 {{XK9KjVP-5Wo@376}} principle Building fat is easy because the body wants reserves; muscle is hard-won tissue. Fat is lazy tissue, muscle is struggle tissue
+2023-09-26 {{XK9KjVP-5Wo@376}} principle 'Bulking hypnosis': the instant gratification of a bulk blinds you to how fat you are getting
+2023-09-26 {{XK9KjVP-5Wo@439}} opinion People overestimate their leanness; they plan a 20 lb cut and discover they need to lose 40-60 lb  {"lb": "20 vs 40-60"}
+2023-09-26 {{XK9KjVP-5Wo@565}} principle Never abandon calisthenics on a bulk: being able to move your body with ease reveals the truth about what you are gaining
+2023-09-26 {{XK9KjVP-5Wo@565}} prescription Bulk test: compare push-up and pull-up numbers with bench numbers; if bench rises while push-ups/pull-ups drop a lot, slow down or stop the bulk
+2023-09-26 {{XK9KjVP-5Wo@628}} principle A bulk should increase work capacity and volume; if volume regresses on a bulk, why bulk at all? The extra calories should serve your training
+2023-09-26 {{XK9KjVP-5Wo@691}} anecdote He gained 20-30 lb in about one year, reaching 200 lb, which was far too much  {"lb": "20-30", "weeks": 52}
+2023-09-26 {{XK9KjVP-5Wo@691}} prescription Never set a goal bodyweight on a bulk; it becomes an obsession and you bulk just to hit the number
+2023-09-26 {{XK9KjVP-5Wo@941}} principle You can't turn unlimited calories into muscle; your protein synthesis is limited, but your capacity to get fat is not
+2023-09-26 {{XK9KjVP-5Wo@1003}} principle If you have to force-feed and hate your food, the bulk will fail; misery is not being hardcore
+2023-09-26 {{XK9KjVP-5Wo@1317}} principle A properly planned bulk boosts performance, allows more volume and blows up your physique
+2023-09-30 {{43F9unmSc_I@2136}} prescription He has bulked for a year and gained 5 lb (from 210), under 0.5 lb a month; advanced lifters gaining 2 lb a month are just gaining fat  {"lb_per_month": "<0.5"}
+2023-09-30 {{43F9unmSc_I@2200}} opinion He'd rather gain 5 lb a year for five years and let the body set his limit; slight surplus, never hungry, hitting PRs
+2023-10-19 {{TxDUQPe3B0E@0}} principle You don't have to eat 15 times a day or eat foods you dislike to bulk; diet is easy if you don't overcomplicate it
+2023-10-19 {{TxDUQPe3B0E@380}} prescription When bulking, keep portions small and split food across the day; huge meals kill appetite and many hardgainers make this mistake
+2023-10-19 {{TxDUQPe3B0E@818}} opinion He doesn't track calories on a bulk because tracking feeds his obsessive tendencies; tracking is still the easiest way to know if you're gaining
+2023-10-19 {{TxDUQPe3B0E@880}} prescription He weighs himself only every 2-4 weeks instead of daily for his mental health, and also judges fullness and appearance  {"weeks": "2-4"}
+2023-10-19 {{TxDUQPe3B0E@880}} principle Training progression is the number one check: bulk to perform and add volume; if training doesn't improve as calories rise, you won't grow. Training dictates diet
+2023-10-19 {{TxDUQPe3B0E@943}} opinion His instinctive approach may only work because he has a slow metabolism, so a small increase creates a surplus; hardgainers may need otherwise
+2023-10-19 {{TxDUQPe3B0E@1195}} principle [abs] On a bulk your abs can blur, but watch your waist; a rapidly growing waist means visceral fat and a bulk going wrong
+2023-10-19 {{TxDUQPe3B0E@1387}} principle Consistency of the surplus is key, and eating food you love is how you stay consistent, especially with a slow instinctive bulk of about a pound a month  {"rate": "~1 lb/month"}
+2023-10-21 {{Ugkx4ttFiWpLB2uPPc50BrVMBJUa1SmZjSmr@0}} anecdote He took part in a roundtable on weight gain meant to cover everything needed to run a successful winter bulk
+2023-11-20 {{DA7QvIAyptw@629}} prescription Run this program on a bulk because it is extremely energy-demanding; the Doom Slayer physique is a higher-bodyfat look
+2023-12-25 {{hEuy__sCbZA@1264}} data Typical lifter on a bulk eats around 3000 kcal  {"kcal": 3000}
+2023-12-25 {{hEuy__sCbZA@1264}} anecdote He gains weight easily from just an extra bowl of rice due to a slow metabolism
+2023-12-25 {{hEuy__sCbZA@1326}} principle Tall lifters need much more mass to look impressive and their legs look thin even with good numbers; they tend to dirty bulk, but mostly gain fat. Slow, patient bulking works for them
+2024-01-06 {{yX1br2PHa0w@957}} anecdote His own spiral was bulking: as a small kid obsessed with size he kept going up in weight and the dysmorphia worsened the bigger he got
+2024-03-03 {{SV5rA-iMHRE@187}} prescription Sandwiches are underrated for bulking: cheap, quick and easy to load with calories via butter, peanut butter, honey or mayo
+2024-03-03 {{SV5rA-iMHRE@379}} prescription On his weekly rest day he eats low or no carbs and fewer calories, so it is the only day not in a surplus  {"frequency": "1 day/wk"}
+2024-03-03 {{SV5rA-iMHRE@631}} prescription Eat more vegetables on a bulk than on a cut; bulking is not an excuse to skip them
+2024-03-03 {{SV5rA-iMHRE@1076}} prescription Have a go-to high-calorie meal you can produce at any moment; most people fail bulks because life gets in the way without one
+2024-03-03 {{SV5rA-iMHRE@1199}} prescription Make your bulk a series of enjoyable rituals, like cooking while listening to podcasts, so you stick to it
+2024-03-03 {{SV5rA-iMHRE@2152}} principle The point of a bulk is to train hard and consistently; if the diet is painful you will not stick to it
+2024-03-17 {{fycepPpxN_k@2392}} opinion [abs] A skinny six-pack without mass impresses no one; young men clinging to abs and refusing to bulk is small guy syndrome
+2024-04-11 {{loDNjTHZjG4@2084}} principle Gaining while cutting is usually an illusion from pump, tan and posing; on the scale those people are losing
+2024-04-17 {{Q5ECkNZYZ58@160}} anecdote Living at home and eating whatever his mother cooked, he gained a lot of lean mass; once he chose his own food he ate Subway several times a day and entered a big surplus
+2024-04-17 {{Q5ECkNZYZ58@254}} anecdote Believing that getting stronger regardless of everything else would make him bigger, he combined powerlifting with a bulk and mostly got fat, gaining 70 lb quickly, mostly fat  {"bodyweight_gain": "70 lb"}
+2024-04-17 {{Q5ECkNZYZ58@317}} opinion Once you hit the point where extra calories no longer improve gym performance, a dirty bulk has stopped doing anything for you
+2024-04-21 {{Ft039H8jzXU@502}} principle If your bench goes up while push-ups and pull-ups go down, your bulk is adding fat rather than muscle
+2024-05-05 {{K--tJia2Wnc@757}} data A study suggests bee pollen shifts weight gain toward more muscle and less fat (he uses illustrative 60/40 numbers) (low-confidence)
+2024-05-05 {{K--tJia2Wnc@1321}} anecdote A spoonful of bee pollen kills mild hunger, useful when cutting
+2024-05-12 {{qYaWxvA4fKg@693}} anecdote He bulked to 240 lb and cut back to 190 lb easily because the gain was deliberate, not an ingrained habit; habitual obesity is much harder to reverse  {"bodyweight": "240 to 190 lb"}
+2024-05-12 {{qYaWxvA4fKg@693}} opinion For most bodybuilders gaining weight is the hard part; losing it just means stop overeating and do more cardio
+2024-05-24 {{Eta-sxecx9E@1215}} principle Staying shredded year-round keeps you in a catabolic state and stops growth; that is why some influencers look the same for five years
+2024-05-24 {{Eta-sxecx9E@1261}} opinion Very lean physiques mostly look good in photos; in real life these people look thin, and in the gym they are not impressive
+2024-05-28 {{l6L6HlGM4F0@690}} anecdote He gained 10 lb in two years while keeping a visible six-pack  {"bodyweight": "+10 lb", "weeks": 104}
+2024-05-28 {{l6L6HlGM4F0@752}} prescription Plan: only cut if he competes; otherwise maintain in summer and slow bulk in winter
+2024-09-07 {{bRKQIOYo2u4@3167}} opinion He is permanently bulking and has never tracked calories yet bulked successfully; tracking helps people who need regimentation and may be needed to get shredded
+2024-09-07 {{bRKQIOYo2u4@4515}} prescription To eat more, eat smaller and more frequent meals; one huge meal kills appetite for hours
+2024-09-07 {{bRKQIOYo2u4@7914}} anecdote He bulks through winter and spring and maintains in summer when appetite is naturally lower
+2024-09-07 {{bRKQIOYo2u4@9080}} principle If training performance drops while dieting, your deficit is too large; losing strength from weight loss is normal, from the deficit itself it is not
+2024-09-07 {{bRKQIOYo2u4@10372}} principle Bulking is like growing hair out: the puffy in-between phase looks bad and many panic back into a lean physique, missing the good-looking end result
+2024-09-07 {{bRKQIOYo2u4@11023}} prescription To keep muscle on holiday, forget the diet, eat plenty and train whenever you can
+2024-09-14 {{okm6bZHKHI4@2036}} opinion Nucleus overload works whether you are bulking or cutting
+2024-09-14 {{okm6bZHKHI4@4317}} prescription To manage hunger on a cut, eat low-calorie filling foods, eat protein, and save calories for the evening so you do not go to bed hungry. He has only ever done one unhealthy crash cut
+2024-09-14 {{okm6bZHKHI4@4379}} anecdote He now recomps in summer, when it is too hot to eat much, and bulks very slowly in winter
+2024-09-14 {{okm6bZHKHI4@4888}} opinion Bulking up to around 20% body fat is a bad idea for most people; you just get fat  {"bodyfat": "20%"}
+2024-09-14 {{okm6bZHKHI4@5545}} opinion If he cut he would count calories, because eating by appetite fails
+2024-09-14 {{okm6bZHKHI4@6639}} prescription A 190 cm, 81 kg lifter at about 15% body fat should slow bulk rather than cut  {"bodyfat": "15%"}
+2024-09-14 {{okm6bZHKHI4@8189}} prescription If you are injured for weeks during a bulk, stop bulking and do a mini cut, since you cannot train
+2024-09-14 {{okm6bZHKHI4@8257}} principle If you are progressing without a surplus, there is no point adding calories
+2024-09-14 {{okm6bZHKHI4@8320}} prescription A 200 kcal surplus is enough for a bulk  {"kcal": 200}
+2024-09-14 {{okm6bZHKHI4@9103}} prescription Gaining 10 lb a year is too much for an advanced 200 lb lifter; 5 lb a year is enough on a bulk  {"load": "5 lb/yr"}
+2024-09-14 {{okm6bZHKHI4@9103}} principle Natural bodybuilders should stay presentable year-round at 12-15% body fat as silver-era bodybuilders did; extreme leanness is for social media  {"bodyfat": "12-15%"}
+2024-09-14 {{okm6bZHKHI4@12773}} opinion Gaining 14 kg in 4 years is good; do not compare your rate with others or you risk overbulking  {"load": "14 kg/4 yr"}
+2024-10-19 {{c7hl9u3h_s0@1332}} prescription On a bulk eat foods you enjoy that fit your macros, and avoid foods that bloat you
+2024-10-19 {{c7hl9u3h_s0@5036}} opinion Maingaining at 11-12% body fat is perfectly doable  {"bodyfat": "11-12%"}
+2024-10-19 {{c7hl9u3h_s0@9859}} prescription Adding junk food to a bulk is okay if you're very skinny
+2024-10-21 {{iKSAOABWj-c@160}} principle Staying lean year-round for social media creates your own 'natural limit'; your physique stops changing because you don't give it what it needs
+2024-10-21 {{iKSAOABWj-c@191}} opinion Chasing 'aesthetics' often means staying around 160 lb for years and wondering why you aren't progressing  {"bodyweight": "160 lb"}
+2024-10-21 {{iKSAOABWj-c@253}} principle Every natural bodybuilder who reaches 180-200+ lb spent years in a sizable surplus, not necessarily a dirty bulk  {"bodyweight": "180-200+ lb"}
+2024-10-21 {{iKSAOABWj-c@290}} principle A physique is like a statue: if you only remove clay and never add any, you end up with a pebble
+2024-10-21 {{iKSAOABWj-c@691}} principle Feeling bad when shredded is normal; naturals should be lean only for a few weeks before a show and otherwise at maintenance or bulking
+2024-10-26 {{wBct3Pl8OY4@3367}} prescription If your face gets chubby on a bulk you are bulking too hard; cut inflammatory and water-retaining foods, or hide it with a beard
+2024-10-26 {{wBct3Pl8OY4@9406}} opinion He would only cut or compete during a period when he had little time for the gym
+2024-11-03 {{o40xCjIzl14@6381}} prescription For a formerly fat partner afraid of the scale, run a very slow bulk of about 1 lb per month so he gets used to the scale rising without gaining much fat  {"gain": "1 lb/month", "yearly": "10 lb"}
+2024-11-09 {{yZC3Nsmmzb8@1795}} anecdote A bulk taken too far just makes you look like a fat guy with no definition; Agri (22, 5'10) lost only about 10 kg on a cut and suddenly showed back separation, arm definition and abs  {"bodyweight": "~70 kg", "fat_lost": "~10 kg"}
+2024-11-09 {{yZC3Nsmmzb8@2308}} principle [abs] Big love handles are not a death sentence: the waist is where the body stores fat and that fat does come off when you cut
+2024-11-09 {{yZC3Nsmmzb8@2370}} prescription Someone who has escaped skinny-fat and is lean but small should do a lean, non-aggressive bulk
+2024-11-09 {{yZC3Nsmmzb8@3331}} opinion [abs] Some people store fat mostly in the front of the abdomen and will need direct ab training plus a cut to see a six-pack; he stores his in the back instead
+2024-11-09 {{yZC3Nsmmzb8@5049}} anecdote Fat Jack looked like there was no hope, but after cutting 20-30 lb he revealed a great structure for bodybuilding: just lose the fat  {"fat_lost": "20-30 lb"}
+2024-11-09 {{yZC3Nsmmzb8@6575}} opinion Staying a perma-bulker is the way to go unless you start out fat
+2024-11-09 {{yZC3Nsmmzb8@7595}} principle A caloric surplus is your best weapon for progress in the gym, but a surplus is not the same as getting fat
+2024-11-09 {{yZC3Nsmmzb8@7921}} prescription A small, long-limbed former fat lifter should do a very slow, conservative bulk for the next five years, counting calories, and drop the overcomplicated program  {"years": 5}
+2024-11-09 {{yZC3Nsmmzb8@8627}} principle Gaining 50 lb in 3 years is too fast unless you were dangerously skinny; at least ~20 lb of it was avoidable fat, now forcing a slow recomp or a performance-sapping cut  {"weight_gain": "50 lb / 3 yrs"}
+2024-11-09 {{yZC3Nsmmzb8@8689}} principle You don't need to gain tremendous amounts of fat to progress in hypertrophy
+2024-11-09 {{yZC3Nsmmzb8@9129}} prescription A tall, lean, thin lifter tired from night shifts should bulk: the extra calories give energy, and he can train less often but more intensely
+2024-11-09 {{yZC3Nsmmzb8@9897}} prescription After a productive bulk that left lots of waist fat, either cut then bulk again, or recomp if happy; for aggressive cuts he points to GVS and Alex Leonidas
+2024-11-09 {{yZC3Nsmmzb8@10424}} principle At the same body fat, more lean mass makes you look leaner; the point of bulking is to gain the muscle that makes the fat look better
+2024-11-09 {{yZC3Nsmmzb8@10487}} prescription A high-fat, low-muscle novice should cut (e.g. to 80 kg) and can still build muscle on the cut  {"target": "80 kg"}
+2024-11-09 {{yZC3Nsmmzb8@10874}} anecdote [quads] A lifter who went from 130 kg to 64 kg with almost no loose skin then bulked to 77 kg; big calves are a leftover from being fat, and his quads now overpower his upper body, so ease off squats  {"bodyweight": "130->64->77->70 kg"}
+2024-11-09 {{yZC3Nsmmzb8@11321}} principle Losing a lot of weight without lifting leaves you skinny-fat; lifting while in the deficit keeps muscle underneath
+2024-11-16 {{fPU3nRIH8sM@9349}} prescription Gaining 1.5 lb a month on a lean bulk is good: very slow, but progress can still be tracked  {"rate": "1.5 lb/month"}
+2024-11-16 {{fPU3nRIH8sM@9478}} opinion He never wants to get shredded: outside of photos you are hungry, unfocused, weaker and smaller
+2024-11-23 {{6p2x4kDDjzs@790}} anecdote He currently maintains, eating mostly carbs, and plans to start bulking again soon
+2024-11-23 {{6p2x4kDDjzs@815}} opinion He has no interest in an extreme cut; he carries a lot of fat and will cut in a year or two, but cutting mostly matters for competitors or photos  {"weeks": "1-2 years away"}
+2024-11-23 {{6p2x4kDDjzs@920}} opinion Many fitness YouTubers, Jeff Nippard included, bulk too aggressively and carry lots of fat; he sees no point and it hurts his mental health
+2024-11-23 {{6p2x4kDDjzs@3330}} principle Bulking is not required for novices or intermediates to gain; it only makes progression easier
+2024-11-23 {{6p2x4kDDjzs@3680}} principle At 22% body fat you cannot judge weak points: neck and forearms look big because they store fat, and upper chest may not really be weak  {"bodyfat": "22%"}
+2024-12-01 {{TvKzeUKgZcY@258}} anecdote He has bulked 14 of his 15 years of lifting and done only one cut, which went badly, so he defers cutting advice to people who actually cut  {"years": 15}
+2024-12-01 {{TvKzeUKgZcY@836}} prescription If appetite limits your bulk, drink your calories: a heavy morning shake with ice cream, milk and almond or peanut butter, then find what else you can stomach
+2024-12-01 {{TvKzeUKgZcY@3917}} prescription For someone 12 kg overweight who stress-eats, fix the emotional overeating first, take a slow approach, and first master holding maintenance before cutting; yo-yoing 10 kg damages mental health  {"weight": "12 kg"}
+2024-12-07 {{pt4mbNb7NJ0@633}} opinion If he ever cuts, it would be to see his body without the fluff, not to look good on social media
+2024-12-07 {{pt4mbNb7NJ0@1581}} prescription A physique with no major fat to lose needs neither a cut nor a hard bulk: recomp or slow bulk and target the lagging muscles
+2024-12-07 {{pt4mbNb7NJ0@3375}} prescription Going from 144 to 187 lb in a few months means you got fat; cut
+2024-12-07 {{pt4mbNb7NJ0@3438}} principle A recomp is a test of patience because progress is judged on gym performance
+2024-12-07 {{pt4mbNb7NJ0@3438}} prescription If you start fat, cut until you are skinny-fat or skinny and then build; if you are already skinny-fat, cutting is a mistake
+2024-12-07 {{pt4mbNb7NJ0@4453}} prescription A naturally tiny waist is an asset to preserve: no dirty bulks, only lean bulking
+2024-12-07 {{pt4mbNb7NJ0@5321}} opinion There is no upside to sitting around 22% body fat unless you are a strongman chasing every pound; if you already carry the weight, bulking is redundant  {"bodyfat": "22%"}
+2024-12-07 {{pt4mbNb7NJ0@6853}} principle The lean athletic physique is easy to settle for, but reaching a bodybuilder physique means going through an awkward bulking phase where you look worse
+2024-12-07 {{pt4mbNb7NJ0@7106}} principle Aggressive dirty bulking adds unneeded fat and can hurt skin quality; you then have more to cut, and some people never lose the love handles
+2024-12-07 {{pt4mbNb7NJ0@7806}} principle Very fat people often keep cutting past the point of need; once fat is under control, start a lean bulk
+2024-12-07 {{pt4mbNb7NJ0@7806}} anecdote Alternating bulking and maintenance phases is smart, and it's what he is doing now
+2024-12-07 {{pt4mbNb7NJ0@7870}} prescription At a heavy bodyweight where more gaining just adds fat, a long recomp of one to two years is the right move  {"weeks": "1-2 yrs"}
+2024-12-07 {{pt4mbNb7NJ0@8189}} principle Skinny-fat lifters usually become normal or skinny through a recomp rather than a cut
+2024-12-07 {{pt4mbNb7NJ0@8764}} opinion Tall lifters can justify more aggressive bulking, e.g. 75 to 95 kg in three years
+2024-12-07 {{pt4mbNb7NJ0@9455}} principle Lifting while losing fat keeps the skin firmer and reduces stretch marks; fat loss is only half the fight and muscle building is the rest
+2024-12-07 {{pt4mbNb7NJ0@10484}} principle To get past the lean 'auto mode' physique, most people must go through a bulk; you can't magically go straight to jacked without steroids
+2024-12-07 {{pt4mbNb7NJ0@11577}} prescription If you want to cut because of body dysmorphia, cut once and then focus on lean bulking, because what you need is mass
+2024-12-07 {{pt4mbNb7NJ0@11975}} prescription He recommends a 6 ft, 220 lb high-fat lifter cut 15-20 lb while improving pull-ups and arm isolation; to be lean himself, NH would need to lose at least 15 lb  {"bodyweight loss": "15-20 lb"}
+2024-12-11 {{-OjJEzZTXtQ@63}} anecdote [quads] His legs grow quickly as soon as he gains weight; the next inch came while gaining 10 lb  {"bodyweight": "+10 lb"}
+2024-12-22 {{ZLheQPgEfoA@3039}} prescription Lean young lifters who started out chubby must not fear bulking; maintaining would be a mistake when they need a surplus to keep growing
+2024-12-22 {{ZLheQPgEfoA@2100}} prescription If you are overweight, lift while you cut; it makes the cut easier and you look better at the end
+2024-12-22 {{ZLheQPgEfoA@2224}} prescription Someone who lost a lot of weight but is still soft should recomp at maintenance for about a year and a half before adding a surplus, because waist fat comes back first  {"weeks": "~18 months maintenance"}
+2024-12-22 {{ZLheQPgEfoA@2977}} opinion You can bulk indefinitely only if you do it properly; otherwise you cycle getting fat and cutting like a hamster on a wheel
+2024-12-22 {{ZLheQPgEfoA@3039}} prescription He bulks on the bare minimum surplus that still makes him gain weight
+2024-12-22 {{ZLheQPgEfoA@5891}} principle Lifting during a deficit preserves more muscle than dieting without training
+2024-12-22 {{ZLheQPgEfoA@8434}} principle A bulk that gains 40 lb is too much; the surplus only needs to support building muscle, so halve it, gain half the fat and stay reasonably lean  {"load": "40 lb"}
+2024-12-22 {{ZLheQPgEfoA@8562}} principle Your first bulk is like a first love that cannot be repeated; each later bulk should be more conservative, while lifters do the opposite and only force fat
+2024-12-22 {{ZLheQPgEfoA@8625}} prescription A 300 kcal surplus is plenty; going up to 500 is pointless  {"kcal": "300 surplus"}
+2024-12-22 {{ZLheQPgEfoA@11208}} principle [abs] Abs can be trained and improve during a cut; weak areas can come up without a big surplus
+2025-01-09 {{waeSP7DBmig@200}} anecdote At 220 lb and high body fat he is recomping while he still progresses, and will resume the bulk afterwards  {"bodyweight": "220 lb"}
+2025-01-14 {{thqDZPgE2kY@1448}} principle Natural competitive bodybuilding is unhealthy because naturals are forced into enhanced standards of extreme leanness; if naturals competed at 13-14% bodyfat and women with curves, they'd look bigger and keep healthy hormones  {"bodyfat": "13-14%"}
+2025-01-14 {{thqDZPgE2kY@1448}} data Female natural competitors often have trouble getting pregnant later because extreme dieting tanks their hormones (low-confidence)
+2025-02-08 {{-7bzbmL-x3Q@440}} opinion Mini cuts can never really hurt, but a young lifter should not do too many of them

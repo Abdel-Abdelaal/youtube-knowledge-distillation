@@ -1,0 +1,586 @@
+2020-01-09 {{IZXtM80btS4@196}} opinion [biceps] He picked 19 inches because 20 inches is the mythical arm number.  {"goal": "19 in"}
+2020-01-10 {{OgnADmMnIsk@64}} principle [back] His main hypertrophy priority is the contour of the physique, the muscles around the outline of the back.
+2020-01-10 {{OgnADmMnIsk@64}} principle [shoulders] Rear delts matter for the back double biceps: they should pop alongside the arm; if they lag, the biceps peak sticks out far beyond them.
+2020-01-11 {{D3EIDEZqCwU@0}} opinion [chest] He likes a look where the chest is slightly smaller than the limbs, with arms and shoulders overpowering it.
+2020-01-11 {{D3EIDEZqCwU@0}} principle [chest] As the arms grow the chest has to grow with them, otherwise you end up with a flat chest.
+2020-01-12 {{PfqgZ3_2EcM@128}} opinion [neck] For a neck to look good from the front, it should be wider than the jaw; with his big head and wide jaw, his neck looks too narrow.
+2020-01-12 {{PfqgZ3_2EcM@0}} opinion [neck] A big neck improves a physique tremendously.
+2020-01-12 {{TN76DttpTKI@0}} opinion [calves] With 26-inch thighs, his lower legs need to catch up after being neglected too long.  {"thigh": "26 in"}
+2020-01-13 {{TJmOP7UCoQw@0}} opinion [shoulders] He wants his shoulders slightly bigger than his chest.
+2020-01-14 {{BOIlIlb7o5M@0}} opinion There is no point being big with too high a bodyfat.
+2020-01-18 {{S1h9qEhIo-I@311}} anecdote Unhappy with his look and injured, he stopped caring about numbers and moved to bodybuilding, realising he wanted to be big rather than lift a certain weight; he has done only bodybuilding for about 2.5-3 years.  {"years": "2.5-3"}
+2020-01-20 {{4Js7OkiuuKU@0}} opinion NH's ideal physique prioritises big limbs: calves, thighs, hamstrings, and especially biceps, triceps and forearms.
+2020-01-20 {{4Js7OkiuuKU@0}} opinion [shoulders] He likes the look of arms bigger than the shoulders and dislikes big round shoulders paired with smaller limbs.
+2020-01-20 {{4Js7OkiuuKU@63}} opinion He wants a big back and chest but doesn't mind them being overpowered by his limbs.
+2020-01-20 {{4Js7OkiuuKU@63}} principle [traps] Because his frame is narrow with no naturally wide shoulders, he needs a developed neck and traps so he doesn't look skinny up top next to massive arms and legs.
+2020-01-20 {{4Js7OkiuuKU@63}} opinion He already has very big arms relative to his torso and doesn't consider it an imbalance to correct; he just wants everything to keep growing together.
+2020-01-20 {{4Js7OkiuuKU@126}} opinion [abs] He has a naturally wide waist that will never go away, so he keeps it as tight as possible: big legs and arms are pointless with a gut.
+2020-01-20 {{4Js7OkiuuKU@126}} opinion [abs] He doesn't need a ripped six-pack, only some core definition so the focus stays on the limbs.
+2020-01-26 {{zdq5KJij2E4@0}} data [biceps] NH's arms measure about 18 inches with a pump, and his next goal is 19-inch arms.  {"size": "18 in, goal 19 in"}
+2020-02-02 {{RaGX9rPQr4k@1041}} opinion Because the method is PR-driven, lifters gravitate to lower body lifts where PRs come easiest, skewing hypertrophy toward the legs; he says JJ Andersen's mostly lower body cycles left his lower body stronger and bigger.
+2020-02-02 {{RaGX9rPQr4k@1104}} opinion A beginner following a PR-driven, lower body-heavy approach risks a 'frog physique': massive legs with nothing up top.
+2020-02-02 {{XXLuK_9Ilf4@127}} anecdote [biceps] His biceps grew much bigger than the rest of his arm and still are, even though he is trying to bring up his triceps.
+2020-02-05 {{GyI1_wJJcKE@0}} anecdote [calves] He liked that small calves made his thighs look bigger by contrast.
+2020-02-05 {{GyI1_wJJcKE@315}} data [calves] His upper leg measures 26 inches and his lower leg 16 inches; the discrepancy had become too large to look good.  {"thigh": "26 in", "calf": "16 in"}
+2020-02-06 {{4IhOKe7lo_s@0}} principle In bodybuilding, 'aesthetics' refers to the Apollonian physique: narrow hips, wide shoulders, a strong V-taper, low bodyfat and smaller legs.
+2020-02-06 {{4IhOKe7lo_s@65}} opinion Size has been taking over bodybuilding, even in categories meant to be aesthetic, which now reward massive legs and arms.
+2020-02-06 {{4IhOKe7lo_s@189}} opinion The Herculean physique is the alternative: stockier, thicker waist, bigger abs and especially bigger limbs; NH aspires to it as cooler and suited to his frame.
+2020-02-06 {{4IhOKe7lo_s@251}} prescription Assess yourself objectively to judge whether you can pull off the Apollonian look before pursuing it.
+2020-02-06 {{4IhOKe7lo_s@316}} opinion Any aesthetic is valid; don't be ashamed to pursue a different look or to accept that some looks are out of reach and focus on what makes you look better.
+2020-02-10 {{lq_qgThCqHY@438}} anecdote [forearms] NH says his outer forearms are nothing special but his inner forearms are pretty big.
+2020-02-12 {{VAblRcVMjqw@374}} anecdote His naturally wide waist makes the leftover fat look less out of place.
+2020-02-19 {{Ox6TQAC9cW0@62}} principle A short frame has an advantage: muscles stacked on a smaller area pop more, look more 3D and bulkier, but lack width.
+2020-02-19 {{Ox6TQAC9cW0@125}} principle Frame also includes waist size, hip width, and the size of wrists, elbows, knees and ankles.
+2020-02-19 {{Ox6TQAC9cW0@125}} principle Smaller joints make the surrounding muscle bellies look bigger: a 15-inch forearm looks smaller on a thick wrist; a thick elbow blunts a biceps peak; big knees stop quads from sweeping; thick ankles make calves look worse.  {"inches": 15}
+2020-02-19 {{Ox6TQAC9cW0@189}} principle What matters in bodybuilding is the sweep and curvature of the muscle belly relative to the joint.
+2020-02-19 {{Ox6TQAC9cW0@285}} principle Flow is how the whole frame looks; it is subjective with no objective definition, but aesthetic physiques with a trim waist, wide shoulders and a good V-taper are widely accepted as having flow.
+2020-02-19 {{Ox6TQAC9cW0@316}} opinion [abs] The core (abs, obliques, how the trunk connects to the legs) is what makes or breaks flow, which is why bubble guts and bloated modern bodybuilders drew criticism and the trend is changing.
+2020-02-19 {{Ox6TQAC9cW0@378}} opinion [abs] No one cares if you have massive arms and a gut; a tight core must tie the physique together.
+2020-02-19 {{Ox6TQAC9cW0@378}} principle Flow also applies to limbs: massive quads with small calves or big biceps with small forearms kill the flow, so flow partly means balance.
+2020-02-19 {{Ox6TQAC9cW0@378}} principle Peripheral areas like neck or calves can lag without hurting flow much, because they don't connect parts of the physique together.
+2020-02-19 {{Ox6TQAC9cW0@440}} prescription Strive for the best flow possible by objectively assessing your frame and building measurements that make it look as big and great as possible.
+2020-02-19 {{Ox6TQAC9cW0@0}} opinion Your overall flow matters more than the size of your muscles.
+2020-02-20 {{mN3cPYMdoio@124}} principle A small frame can be advantageous because muscle on a small attachment area looks thicker as it grows.
+2020-02-20 {{mN3cPYMdoio@124}} prescription [shoulders] Small-framed lifters shouldn't chase the look of wide-shouldered guys; they should grow the muscles around the outline: triceps long head, the three delt heads (especially medial and rear), and the traps.
+2020-02-20 {{mN3cPYMdoio@190}} prescription [biceps] Small-framed people should focus on limb development: big arms extending to the side mask a lack of natural width.
+2020-02-20 {{mN3cPYMdoio@253}} principle Wide-framed lifters may lack thickness and look thin from the side, a separate problem he plans to address.
+2020-02-20 {{mN3cPYMdoio@253}} opinion No matter what frame you are gifted with, you can look big.
+2020-02-21 {{3oZD6Hk525A@372}} anecdote [back] He wants a big, thick upper back because he has a wide waist; a beefy back draws the eye away from the waist when he turns around.
+2020-02-23 {{JWwA9H6xUC0@64}} principle [biceps] Fatty big arms that are cut down are objectively smaller on the tape measure but won't look smaller to the untrained eye.
+2020-02-24 {{OATtf3kPtdI@938}} opinion Without upper-body isolation novices end up with a massive torso, spaghetti arms and an incomplete back and shoulders.
+2020-02-26 {{KlSyeS0R9FE@0}} principle Measuring your muscles gives an objective criterion of progress and helps document what works and what doesn't in your training.
+2020-02-26 {{KlSyeS0R9FE@0}} principle Muscle measurements are influenced by pump and body fat, not just hypertrophy; gaining 10% body fat raises all measurements without necessarily adding muscle.  {"bodyfat": "10%"}
+2020-02-26 {{KlSyeS0R9FE@61}} prescription Use a self-tightening/locking body tape rather than a plain wrap-around tape, which can loosen and give ambiguous readings.
+2020-02-26 {{KlSyeS0R9FE@126}} anecdote He only measures one body part every two to three months to check for progress or regression.  {"frequency": "every 2-3 months"}
+2020-02-26 {{KlSyeS0R9FE@126}} prescription If you measure, set fixed dates in advance (e.g. in six months) so you can't cheat, and document it.  {"weeks": "~26"}
+2020-02-26 {{KlSyeS0R9FE@126}} principle [biceps] Bodybuilding isn't about measurements: a guy with 22-inch arms can look worse than one with smaller arms because of insertions, arm length and posing.
+2020-02-26 {{KlSyeS0R9FE@126}} opinion A nice physique without posing skill is wasted talent.
+2020-02-26 {{KlSyeS0R9FE@252}} anecdote He rates his biceps 9/10, mid traps 8/10, quads 8/10 as his best body parts.
+2020-02-26 {{KlSyeS0R9FE@252}} principle Past a certain point, objectively assess your body to know where you can 'slack off' so you can put more volume and effort into other body parts.
+2020-02-26 {{KlSyeS0R9FE@433}} anecdote Inner forearms, hamstrings, teres major/minor and abs are mid-tier for him.
+2020-02-26 {{KlSyeS0R9FE@623}} opinion [neck] His neck looks fine relaxed but too skinny in a double biceps pose; he believes the neck should be about as big as the arms, so with 19-inch arms he wants at least an 18-inch neck.  {"load": "19 in arms / 18 in neck"}
+2020-02-27 {{1P-3YblXBRI@186}} principle [shoulders] Front delt isolation isn't required, but for maximal delt development as a bodybuilder the front delt matters more than people think.
+2020-02-27 {{1P-3YblXBRI@250}} principle [shoulders] Whenever the arm is raised in posing transitions the front delt pops out; in a back double biceps it is what sticks out linking biceps peak, traps and head, so its size changes the pose.
+2020-02-27 {{np9LdwTPfNs@190}} prescription [traps] A 'bear mode' goal (big back, traps, yoke, shoulders, chest) requires shrugs and more row variations to build upper back size.
+2020-03-01 {{ZSML-yWspyY@127}} opinion [neck] Many big necks have no definition or separation and look like round tubes, suggesting mostly fat rather than much muscle.
+2020-03-02 {{qdPmmahWTVA@189}} principle Even if the big three fully developed their target muscles, biceps, forearms, rear delts, lats and calves would remain undertrained; deadlifts don't build forearms as much as people think.
+2020-03-02 {{qdPmmahWTVA@315}} anecdote He has never seen anyone get a good physique from only the big three, and his own experiment confirmed it.
+2020-03-03 {{K4UBm1dV6WM@251}} opinion He only cares about hypertrophy, size and looks, not strength.
+2020-03-09 {{KMcJAERb9Dk@1439}} opinion [shoulders] In enhanced pro bodybuilders the medial and rear delts are usually the biggest part of the shoulder, giving the round look; naturals' front delts tend to be in tune with the rest.
+2020-03-11 {{1ZgJ8kMFd9s@783}} principle [biceps] There is no purely aesthetic stimulus, only functional, but a functional stimulus can be oriented toward aesthetics; getting better at curls is getting bigger biceps because a strong muscle is a bigger muscle.
+2020-03-12 {{egBEW3Iaiak@63}} opinion [abs] A developed, peeled core is aesthetic regardless of your goal.
+2020-03-12 {{rGt7TWcWD60@0}} principle [abs] Abs are key in bodybuilding; the core brings the physique together, enhancing the look if strong and making everything look worse if weak.
+2020-03-12 {{rGt7TWcWD60@250}} principle [abs] With a small waist you can get away with less ab size and definition, but with a thick waist like his you need big abs so eyes read 'strong waist' instead of 'wide waist', an illusion strategy.
+2020-03-16 {{sQSM1JiaN80@1396}} opinion Even enhanced, Nether's measurements were poor: a great back but ~17-inch arms and ~20-22-inch legs, the epitome of a torso-dominant physique with no limbs.  {"measurement": "17 in arms, 20-22 in legs"}
+2020-03-21 {{J64FRgHeD3w@0}} anecdote He considers his posing skills atrocious and is practising, filming from afar to check angles in the mirror, because he plans to enter YouTube bodybuilding competitions.
+2020-03-22 {{NTMGQPjpP00@0}} data YouTubers name their ideal physiques, e.g. Alpha Destiny's 'bear mode': mass on shoulders, traps and upper back, big forearms and long-head triceps, posterior-chain focus, higher bodyfat.
+2020-03-22 {{NTMGQPjpP00@126}} principle His ideal Berserker physique: massive arms and legs that look out of proportion with a trunk (chest, abs, core) that's not small but comparatively smaller, smaller shoulders, very developed upper back.
+2020-03-22 {{NTMGQPjpP00@190}} principle The Berserker physique is stocky with an X-taper rather than a V-taper, plus big calves, forearms, traps and neck.
+2020-03-22 {{NTMGQPjpP00@319}} opinion He doesn't care about having a tiny waist and can't anyway; his training, methodology and mentality aim at massive arms, massive legs and a strong core.
+2020-03-23 {{g4N7gpzHm5k@378}} principle Neglecting isolation can make you strong, but transitioning to aesthetics later means a discouraging uphill battle to catch up neglected muscles.
+2020-03-28 {{QwoBxHI7NBU@312}} principle Use your genetic gifts to save time: if a muscle grows from compounds alone (his quads from squats), skip extra work for it and invest that time in isolating weak parts.
+2020-04-06 {{TBv73UwG_JM@0}} opinion [biceps] Big arms are essential to the physique he is building and make any physique look much better.
+2020-04-06 {{TBv73UwG_JM@0}} principle Arms and forearms are the body parts always exposed in a t-shirt, unlike pecs or shoulders.
+2020-04-06 {{TBv73UwG_JM@65}} principle A higher body fat percentage, especially fat on the arms, helps arms look impressive when relaxed and unpumped.
+2020-04-06 {{TBv73UwG_JM@65}} principle In the Berserker physique, limbs should be slightly out of proportion to make the trunk look smaller, as part of an illusion strategy.
+2020-04-06 {{TBv73UwG_JM@128}} anecdote His current goal is 19-inch arms to keep everything proportional for his physique.  {"load": "19 in arms"}
+2020-04-09 {{IgxJijW3MSQ@62}} principle With a small frame you should develop peripheral muscles (traps, delts, triceps, forearms) as much as possible to look wider.
+2020-04-11 {{WZH2K6er7cA@0}} principle Being big and muscular doesn't make you a bodybuilder; a bodybuilder physique has a specific look.
+2020-04-11 {{WZH2K6er7cA@61}} principle The limbs make the bodybuilder physique: there is no bodybuilder with small arms, even if some have dominant triceps or lagging forearms.
+2020-04-11 {{WZH2K6er7cA@61}} opinion [quads] Legs mattered less in old-school bodybuilding; there is no such thing as legs too big as long as it's muscle, not fat.
+2020-04-11 {{WZH2K6er7cA@123}} opinion Someone with a big back and chest but no arms looks big but not like a bodybuilder.
+2020-04-11 {{WZH2K6er7cA@186}} prescription [biceps] If you want an aesthetic physique, put more effort and thought into training the arms.
+2020-04-11 {{WZH2K6er7cA@319}} opinion Not training your limbs is a sin: too big a trunk makes limbs look smaller, producing the 'spider body' (massive chest, spaghetti arms).
+2020-04-11 {{WZH2K6er7cA@319}} principle Bodybuilder proportions: big limbs, as small a waist as your structure allows, a defined core, looking out of proportion.
+2020-04-11 {{WZH2K6er7cA@380}} opinion Being a bodybuilder means being abnormal; if it looked like everyone else it would just be normal.
+2020-04-11 {{WZH2K6er7cA@380}} opinion Big arms are what normal people lack: many look big from storing fat in the trunk or legs, but few have arm size, so a natural with big arms is already above the curve.
+2020-04-13 {{jA3PfQmxrYA@640}} anecdote He often catches himself getting excited by strength and realising it isn't helping his hypertrophy, then corrects back to his true path.
+2020-04-16 {{uf3-n8CFeu0@499}} anecdote [abs] He does only basic ab work but wants his lower abs to show; as his bodyfat comes down over a long period these isolation moves support that goal.
+2020-04-29 {{cjHnyJPijWk@0}} principle [forearms] Forearm size is partly illusion: a large wrist competes with the forearm and makes it look blocky, while bodybuilding aesthetics rely on round curvature, like a quad sweep.
+2020-04-29 {{cjHnyJPijWk@125}} data [forearms] His forearms measure 13-13.5 inches and his wrists 6.5 inches, well below the roughly 7.2-inch US average he cites, so his forearms look bigger than they measure; he aims for 15 inches.  {"forearm": "13-13.5 in", "wrist": "6.5 in", "goal": "15 in"}
+2020-04-29 {{cjHnyJPijWk@0}} opinion [forearms] Forearms are the one body part fully visible in jeans and a shirt, so developing them is critical.
+2020-05-04 {{4aThavRpYLw@1446}} prescription Powerlifter-written hypertrophy programs neglect the triceps long head, biceps, forearms, rear delts and traps; add at least one isolation for forearms and traps, and two for biceps and the triceps long head.
+2020-05-04 {{U8Lp_lYlj_M@191}} opinion Building a physique is as much an art as posing or presentation, so physique athletes should be at the forefront of programming.
+2020-05-08 {{U7WtpNeiRjI@63}} opinion Most women don't want massive men; the physique most of them like (Brad Pitt in Fight Club) is easy for most men to reach, and stopping there stalls progression.
+2020-05-08 {{U7WtpNeiRjI@125}} opinion His goal is to get as big as his body naturally allows at the lowest bodyfat possible, which he sees as the pinnacle of masculinity.
+2020-05-11 {{Cn38kgCdOhw@1389}} opinion He respects natural bodybuilders who compete but will never strip down to a 'skinny skeleton' for stage, because it's pointless when 15% looks good.  {"bodyfat": 15}
+2020-05-25 {{f0vdsC2yyhY@1012}} opinion The most muscular bodybuilder doesn't necessarily win: muscle attachments, flow and posing matter more than weight; otherwise Big Ramy would win every year.
+2020-05-25 {{f0vdsC2yyhY@1138}} principle Being short is an advantage in bodybuilding: smaller segments look more 3D and big with less muscle; the same arm size looks huge on a 5'5" man and flat on a 6'5" man.
+2020-05-25 {{f0vdsC2yyhY@1201}} opinion Short competitors get dwarfed next to someone 40 lbs heavier and 6-7 inches taller, but since judging is about aesthetics and flow, giant killers like Lee Priest exist.
+2020-05-25 {{f0vdsC2yyhY@1388}} opinion [shoulders] The '3D Photoshop look' is achievable with good lighting, angles and dropping 4-5% body fat; naturals can have capped delts, just not the bulky popping delts of steroid users.  {"bodyfat": "4-5%"}
+2020-05-27 {{JYl3S7yuN6M@0}} principle At 210 lb he sits around 17-18% body fat; he could be 180 or 225 lb at the same percentage and look like a completely different person while carrying different amounts of fat  {"bodyweight": "180-225 lb", "bodyfat": "17-18%"}
+2020-05-27 {{JYl3S7yuN6M@0}} opinion Knowing your exact body fat percentage is useless; nobody asks for it, what matters is how you look
+2020-05-27 {{JYl3S7yuN6M@63}} principle On a large lean mass, trading 2% body fat for muscle at the same weight makes you look immensely better  {"bodyfat": "2%"}
+2020-05-27 {{JYl3S7yuN6M@190}} principle Two people at 17% body fat look different: the one with more muscle looks leaner because muscle makes fat look more evenly distributed  {"bodyfat": "17%"}
+2020-05-27 {{JYl3S7yuN6M@315}} opinion Body fat norms are built on the wrong people, untrained individuals, and skewed by those who obsess and publicise their numbers
+2020-06-01 {{mfweKhLM5L0@565}} principle The body would prefer fat over the chest and upper back to protect the lungs and heart from cold; for a bodybuilder that beats fat on the waist.
+2020-06-03 {{UieXEWMNnfI@753}} principle Gaining muscle makes an area look leaner, so visual fat-loss judgments on a recomp are tricky
+2020-06-16 {{swSh89g9Gts@1011}} opinion [full_body] Lowering body fat and building dense muscle, plus strong legs and core, make the body harder and more stable, closer to Musashi's 'body of a rock'
+2020-06-17 {{g4mX62QGzTo@1564}} opinion [biceps] A loose tape measuring 17.5 inches around a thin arm is meaningless; a real 17.5-inch arm shows a clear biceps peak and triceps mass. NH estimates Blaha's arms at 14-15 inches despite his 18-inch claim.
+2020-06-17 {{g4mX62QGzTo@1627}} opinion A short man (about 5'7") with a small frame, narrow shoulders and wide hips cannot carry more than about 200 lb and look good.  {"load": "200 lb"}
+2020-07-06 {{DrAKKhJU0fY@455}} opinion [abs] Visible lower abs and serratus depend on muscle size, not just leanness; he shows four serratus and separated obliques at 16-17% body fat  {"bodyfat": "16-17%"}
+2020-07-06 {{DrAKKhJU0fY@1025}} opinion Arnold and Serge Nubret were never at 5% body fat; golden-era physiques carried a layer of subcutaneous fat
+2020-07-06 {{DrAKKhJU0fY@1088}} opinion Frame and height matter on stage: shorter 'giant killers' like Lee Priest never became top dog, and a tall freak with good insertions wins
+2020-07-11 {{_28uxew-emM@127}} anecdote He plans a hierarchy of terms: somatotypes, then limb-dominant vs torso-dominant, then specific achievable body archetypes he named (spider, turtle, bear, etc.).
+2020-07-14 {{Wz3bs32Qo68@1130}} opinion A woman who says up front she dislikes muscular men is projecting an image of being hard to get; muscle is a broadly attractive biological trait
+2020-07-15 {{YcHkXwsIOI8@1220}} anecdote [quads] Running such a program for looks gives massive quads, a decent chest and thick posterior chain but little else; he went through that himself
+2020-07-17 {{Tfa-eM5LUV0@503}} opinion [biceps] Powerlifters gain nothing from being arm dominant, but a bodybuilder with small arms is not really viable
+2020-07-23 {{cRLiTTlzXxk@62}} principle Nose breathing keeps the tongue on the roof of the mouth behind the teeth, which shapes the mouth and jaw as you grow; chronic mouth-breathing kids develop different facial structure
+2020-07-27 {{et6AylDr1uk@315}} opinion [quads] Squat obsession creates naturals with dominant quads and little else, the frog physique, so squat volume can be reduced
+2020-07-29 {{Lmpt_MQHvus@816}} opinion It is hard to love yourself in a body that is not up to par; improving the body can improve mental health tenfold
+2020-07-29 {{Vvr512xTfRE@320}} principle [biceps] Arm size means nothing unless measured; camera angles make arms look bigger
+2020-07-30 {{NJd_zD9OeQ4@380}} anecdote [shoulders] The rear delt is key for 3D shoulders, and this strategy greatly improved the look of his own
+2020-08-19 {{RYkGN4SOkX0@1696}} opinion A 5'7 lifter at 220 lb and 17% body fat would look like a tank; loose skin is an empty sack, so skin full of fat is just fat  {"height": "5ft7", "bodyweight": "220 lb", "bodyfat": "17%"}
+2020-08-26 {{JpQ7Hg6VS-A@250}} opinion Looking powerful is being powerful: once you get big, people stop messing with you because predators seek weak prey
+2020-08-26 {{m-XeEY4xRDU@248}} principle [chest] Visible upper/lower chest separation depends on how much fat you store there
+2020-09-02 {{Grakquhsb30@689}} principle Most women want bigger lower bodies, toned arms and abs, so a pressing-and-curls man's program doesn't fit their goals
+2020-09-10 {{hjb70fJ0MGk@123}} opinion [abs] A good-looking core ties the whole physique together on stage
+2020-09-10 {{qlIicZePKtU@300}} opinion [biceps] A long-armed lifter may need to add two inches to an arm to get the visual effect a short-armed lifter gets from one
+2020-09-10 {{qlIicZePKtU@868}} prescription [full_body] Unlike stocky short lifters who must avoid a fridge look, tall lifters need everything big; wide clavicles give a V-taper but thickness is the issue, solved by squats and deadlifts
+2020-09-14 {{Zg0oUngwPK4@540}} opinion Getting muscular makes you more attractive physically and signals health, competence, work ethic and high testosterone
+2020-09-14 {{Zg0oUngwPK4@1001}} opinion Natural bodybuilding standards demanding about 8% body fat make men look like skeletons, not a powerful masculine physique  {"bodyfat": "8%"}
+2020-09-16 {{EnmFDF2DxAo@0}} principle [neck] A big neck is the number one thing to build for facial aesthetics; aim for the neck line to be parallel to the jaw line
+2020-09-16 {{EnmFDF2DxAo@45}} opinion [neck] Photoshopping a thick neck into a pencil neck immediately makes a face look worse with no other change; even non-lifters should train it
+2020-09-16 {{EnmFDF2DxAo@90}} opinion [neck] Long necks look dorky; thickening the neck makes it appear shorter, so long-necked men must train it
+2020-09-21 {{ZdcKQXMmmPY@540}} opinion Lots of muscle distorts the perception of body fat on a frame; visible arm and leg separation suggests around 10-12% body fat  {"bodyfat": "10-12%"}
+2020-10-05 {{yo59lp4drEM@220}} opinion [abs] Core rigidity and leg power show up visually in a well-developed six-pack and obliques
+2020-10-14 {{EElvKR4K_HE@523}} opinion Over-focusing on squats and deadlifts while neglecting upper body work worsens a wide-waisted, narrow frame
+2020-10-20 {{uL-pwl2nfa0@383}} opinion Appearance reflects who you are because you choose to train, to be overweight or not, to be clean; you cannot complain about being judged on those choices
+2020-11-08 {{C5qCJGlk2fc@0}} opinion Bear Mode is a comfier physique carried at a slightly higher body fat, a goal some lifters adopt in winter
+2020-11-11 {{OtoSjIZudIA@1150}} opinion Many gay men follow bodybuilding because it celebrates the male body, but most bodybuilders are straight men pursuing a male power fantasy, like admiring a statue
+2020-11-11 {{OtoSjIZudIA@1270}} opinion Natural bodybuilding is the opposite of a toxic death cult: it is life, youth and health
+2020-11-16 {{u6l_OPSr1do@297}} opinion [full_body] Doppo's physique is thick and functional rather than aesthetic: thick waist, well-developed abs, powerful limbs and a huge back, at 178 cm and 110 kg  {"load": "110 kg bodyweight, 178 cm"}
+2020-11-16 {{u6l_OPSr1do@347}} opinion Oyama showed a great physique while focusing more on performance in martial arts
+2020-11-17 {{vC9cKh9tFxs@1067}} principle There's no formula for optimal weight by height; at higher bodyweight a 2% body fat change is far more fat and looks dramatically different  {"bodyfat": "2%"}
+2020-11-21 {{D3mJh0ZA5nc@150}} opinion Classic physiques like Lee Labrada or Frank Zane had medium legs, not tree trunks, so upper body focus can remain
+2020-11-23 {{m1fD0HP6sIg@2458}} opinion Tattoos are bad for bodybuilding: they hurt muscle definition and hide vascularity
+2020-11-23 {{m1fD0HP6sIg@2712}} opinion Natural shows should use the aesthetic poses of the 1950s-60s rather than mass poses naturals can't fill
+2020-11-25 {{gxo4R0lHJIk@62}} opinion [lats] Lats improve a physique regardless of your proportions
+2020-11-25 {{gxo4R0lHJIk@188}} opinion [triceps] Developed lats also let you push out the long head of the triceps in poses
+2020-11-25 {{gxo4R0lHJIk@251}} opinion [back] You can never have too much upper back
+2020-11-27 {{9jAjNyxeiXc@938}} opinion [back] Calisthenics athletes look like calisthenics athletes, not bodybuilders; you need upper-back thickness from heavy pulls, shrugs and rows, plus legs, calves and arms
+2020-11-27 {{Qebb7l9ns4Q@0}} principle Short and narrow-framed lifters can still build a big-looking physique with the right strategy
+2020-12-07 {{ZScs2L9rero@876}} principle [abs] A waist indent above the hips can be reduced by losing fat and building obliques and the sides of the abs, which creates continuity and a V-taper
+2020-12-07 {{ZScs2L9rero@920}} prescription [lats] To fix an hourglass look, work rib cage expansion with lots of pullovers to build the lats, and train the core to sculpt it rather than fearing it will look worse
+2020-12-07 {{ZScs2L9rero@2570}} opinion Symmetry is a personal choice; he wants shoulders smaller than arms, pecs not overpowering and legs bigger than the rest
+2020-12-07 {{ZScs2L9rero@2600}} opinion Humans are biologically drawn to symmetry, and a balanced body also prevents injury
+2020-12-07 {{ZScs2L9rero@2690}} opinion [abs] A big stomach at low body fat is usually bloating: poorly digested foods, water retention, two huge meals stretching the stomach, or poor breathing; building the core makes it look smaller
+2020-12-09 {{0AaQZ0A3CUA@249}} opinion [abs] He alleges Blaha wears a lifting belt on every exercise while shirtless to compress his waist and fake a better V-taper, a trick he says many bodybuilders use
+2020-12-09 {{0AaQZ0A3CUA@566}} principle [triceps] Pressing the arms against a desk while tensing makes the triceps, biceps and forearms look bigger and leaner, like pressing the lat against the triceps in a pose
+2020-12-09 {{0AaQZ0A3CUA@755}} opinion [biceps] He claims women prefer big arms over big legs almost every time, and that men who claim otherwise are reinventing attractiveness to fit their own bodies
+2020-12-16 {{so6MbvvtM1w@654}} principle Excessive fat becomes visceral (waist, lower back, love handles), which isn't aesthetic
+2020-12-30 {{3IMgRqcRN4Y@436}} principle [back] Width comes from muscles like the outer lats and medial delts; thickness from muscles surrounded by other muscle like lower back, mid and lower traps
+2020-12-31 {{2dgtL3DKo3k@62}} principle You need to be fairly lean to be veiny, but not below 10% body fat; veins can show through some fat  {"bodyfat": "not necessarily <10%"}
+2020-12-31 {{2dgtL3DKo3k@124}} principle Muscles are vascularised because they demand lots of oxygen and nutrients; veins that pop already existed and simply grew bigger
+2020-12-31 {{2dgtL3DKo3k@188}} principle The real solution is getting bigger: as a muscle grows, the body enlarges the veins around it
+2020-12-31 {{2dgtL3DKo3k@250}} anecdote [biceps] His biggest and most trained muscles have the most veins; he got biceps veins just by training biceps hard
+2020-12-31 {{2dgtL3DKo3k@250}} anecdote [lats] After he started training lats intensely they grew and veins appeared around them; same with shoulders
+2021-01-18 {{o-5426qMXac@250}} opinion [shoulders] Realistic male shoulders fit about three head widths and the heroic canon four; Retsu's fit five, giving an uncanny look
+2021-01-18 {{o-5426qMXac@313}} opinion [back] Much of Retsu's buff look comes from huge ribcage expansion that makes the torso look like a cobra's hood
+2021-01-19 {{-anA4CV2SVU@1952}} opinion [neck] Jaw muscles can grow but jawline is largely genetic; jaw training stresses the teeth and risks painful tension, not worth it
+2021-02-03 {{YHm-qSHgGSk@846}} principle Toning is not a thing: a muscle grows or it does not; looking toned means more muscle and less fat
+2021-02-10 {{3nyuEtmqL-I@1012}} opinion [biceps] Long arms take a long time to look impressive, but once they do they look very impressive
+2021-02-15 {{TPPCu5zBPLk@377}} opinion A built body proves you are actively involved in how you present yourself and that you are willing to work hard
+2021-02-21 {{K1GVimJowoM@650}} opinion [biceps] Arm development matters greatly for aesthetics because the limbs extend across the physique, as do the legs
+2021-03-08 {{1MOLCv6ojgw@125}} principle [back] A lower-back 'smile' would require staying very lean, which makes building upper-back thickness harder, so ignore the lumbar aesthetics
+2021-03-08 {{pvpf7Yuayco@1050}} principle [abs] The waist is mostly bone structure; training the core only thickens the abdominal wall and obliques somewhat
+2021-03-08 {{pvpf7Yuayco@1113}} opinion [abs] People with naturally wide waists, like NH, might as well sculpt their core
+2021-03-08 {{pvpf7Yuayco@1150}} anecdote [abs] Resting obliques can look like love handles from some angles, but flexed they taper the waist
+2021-03-08 {{pvpf7Yuayco@1486}} prescription [shoulders] V-taper is shoulder-to-waist ratio illusion: pullovers for ribcage expansion, pull-ups for outer lats, lateral raises and face pulls for side and rear delts
+2021-03-08 {{pvpf7Yuayco@1530}} principle [shoulders] Front delts add thickness but not width, so they don't help the V-taper
+2021-03-08 {{pvpf7Yuayco@1570}} opinion [triceps] Triceps long head adds width and back-pose thickness, helping the V-taper
+2021-03-17 {{WmH326eoF04@562}} opinion Claiming an FFMI of 28 (above Arnold and Serge Nubret) while visibly fat shows how badly people underestimate their body fat  {"ffmi": 28}
+2021-03-17 {{WmH326eoF04@601}} opinion [quads] Fat on the thighs isn't muscle; claiming 30-inch thighs from fat is like claiming the best six-pack because of a big gut
+2021-03-28 {{Ug_FoOIpwxY@66}} principle There's no secret: to look big you must actually get big, slowly bulking up
+2021-03-28 {{Ug_FoOIpwxY@192}} anecdote [abs] Without his abs his physique would look terrible; they draw attention to the look of the waist rather than its size
+2021-03-28 {{Ug_FoOIpwxY@255}} principle [quads] The bigger your legs, the smaller your waist looks; legs are crucial for narrow frames
+2021-03-28 {{Ug_FoOIpwxY@316}} opinion Big legs don't make a developed upper body look smaller much because it is further away
+2021-03-28 {{Ug_FoOIpwxY@440}} prescription Narrow-framed lifters should avoid closed poses with arms near the trunk, which expose narrow shoulders; use open, expanded poses
+2021-03-28 {{Ug_FoOIpwxY@440}} principle Embrace the X-taper with massive limbs, which pull attention away from the torso, instead of betting everything on the shoulders
+2021-03-31 {{eKBDacpRYSU@692}} opinion Women are attracted to muscle in general, not necessarily shredded or steroid physiques
+2021-04-04 {{sUXpYzqofDQ@0}} opinion [full_body] Avoid 'spider mode' (a skinny, poorly developed physique) at all costs; aim for his 'bear mode' approach instead (low-confidence)
+2021-04-23 {{VdBmYdUYCKM@694}} anecdote [quads] Chub rub comes from fat, not muscle: with 26-27 in thighs he has none, but he had it at 240 lb  {"thigh": "26-27 in"}
+2021-05-01 {{MkhKlZeBpg4@0}} opinion [shoulders] For his goal physique he keeps his delts relatively small on purpose; biceps and triceps must always look bigger than the delts
+2021-05-01 {{MkhKlZeBpg4@97}} principle [shoulders] Well-developed lats let you push the delts outward when flexing, creating an illusion of roundness that disappears when relaxed
+2021-06-02 {{HrUPp573ki0@881}} principle Making calisthenics your pursuit means chasing performance, which may limit you if your goal is looks
+2021-06-02 {{HrUPp573ki0@1003}} opinion People who do calisthenics only for looks should admit it; they are bodybuilders, not calisthenics athletes, and pretending causes cognitive dissonance
+2021-06-02 {{HrUPp573ki0@1166}} opinion Calisthenics athletes stay very lean and light (often 160-170 lb) because performance is pound for pound, so beside bodybuilders they look small  {"bodyweight": "160-170 lb"}
+2021-06-09 {{b1o8K8EjpS0@1862}} opinion Size comparisons mean nothing at high body fat; claims of being bigger than pros like Serge Nubret, Rich Piana or the Hodgetwins ignore height, leanness and the obvious
+2021-06-16 {{g0HCTuGYy0o@357}} opinion People on the internet underestimate body fat by about 5%; Omar sits around 15-16% outside aggressive cuts, not 10-12%  {"bodyfat": "15-16%"}
+2021-06-30 {{ANvvVrMqF7Y@0}} opinion Wanting small legs is a valid aesthetic choice; you get to build the body you prefer
+2021-06-30 {{ANvvVrMqF7Y@248}} opinion [glutes] Big glutes cannot hurt a male physique: they are not visible from the front and are separated from the upper back by a slimmer lower back, and roundness is prized in bodybuilding
+2021-06-30 {{ANvvVrMqF7Y@376}} principle [glutes] Male glutes are square and store little fat, so growing them will not look feminine; only guys who do nothing but squats end up disproportionate
+2021-06-30 {{ANvvVrMqF7Y@565}} opinion [quads] Big male legs are not feminine: they are square, leaner and hairy, nothing like a female leg
+2021-06-30 {{ANvvVrMqF7Y@626}} opinion The frog physique, a big lower body with little else, is common in powerlifters and strength trainees
+2021-06-30 {{ANvvVrMqF7Y@750}} opinion He prefers big legs and an X taper over the slimmer legs of the 70s and 80s
+2021-06-30 {{ANvvVrMqF7Y@812}} opinion [quads] His standards: 20-22 inch thighs are small, 26-27 inches big, 29-30 inches very big  {"thigh": "26-30 in"}
+2021-06-30 {{ANvvVrMqF7Y@1251}} opinion Big legs get noticed and complimented more than the upper body because few people, even gym bros, develop them
+2021-06-30 {{ANvvVrMqF7Y@1628}} principle Size and function do not correlate unless function dictates size, as in powerlifting; maximizing size sacrifices some function
+2021-06-30 {{ANvvVrMqF7Y@2630}} principle Athleticism means function in a sport, not lean separated looks; a sumo wrestler's legs are athletic too
+2021-07-12 {{44efemI7srk@189}} opinion [lats] Lu Bu's V-taper comes from a very developed chest and serratus with deep lat insertions
+2021-07-12 {{44efemI7srk@690}} opinion [full_body] Lu Bu shows the muscular density only a lifetime of physical exertion can pack on: thick upper back, huge delts, vascular arms
+2021-07-20 {{-U6X37OXuLA@1}} opinion Not everyone wants a freak physique; he respects people aiming for a slimmer beach physique
+2021-07-20 {{-U6X37OXuLA@62}} opinion Adam has an aesthetic 'swimmer's physique': fairly low body fat, good definition, no bulk, unimpressive in a shirt but very appealing by normie standards
+2021-07-20 {{-U6X37OXuLA@316}} principle [lats] A strong V-taper needs lats and shoulders
+2021-07-28 {{yr4zj-WbG4I@779}} anecdote Women have told NH his physique was too much, and he doesn't care because it is his vision
+2021-07-30 {{4sXkXeKAxIM@0}} opinion The idea that looks don't matter was invented by unattractive people as a cope; anyone can improve how they look
+2021-07-30 {{4sXkXeKAxIM@63}} principle Nothing in real looksmaxxing requires paying anyone; it takes effort and strategy
+2021-07-30 {{4sXkXeKAxIM@188}} principle [full_body] Lifting is about 80% of looksmaxxing; hair and skin routines are pointless if you don't lift  {"share": "80%"}
+2021-07-30 {{4sXkXeKAxIM@188}} opinion No natural lifter would look better with less muscle
+2021-07-30 {{4sXkXeKAxIM@344}} opinion Grooming and clothes are buffs on your base stats; your body is the base stat
+2021-07-30 {{4sXkXeKAxIM@1360}} opinion A little natural male musk (pheromones) is attractive; you don't need to smell like a flower
+2021-07-30 {{4sXkXeKAxIM@1402}} anecdote NH keeps all body hair except his back; if you shave, use an electric razor
+2021-07-30 {{4sXkXeKAxIM@1839}} prescription Hairstyle is about 40% of looksmaxxing; experiment and learn to cut your own hair  {"share": "40%"}
+2021-07-30 {{4sXkXeKAxIM@1876}} anecdote NH shaves the sides and back and pushes the longer top to the side, which lengthens and slims the face
+2021-07-30 {{4sXkXeKAxIM@1953}} anecdote NH's face looked much worse when he started the channel because of water retention and fat, not bone structure
+2021-07-30 {{4sXkXeKAxIM@2497}} opinion [biceps] Wear comfortable clothes; a too-tight shirt on a small guy looks constricted, because muscle should be what makes the sleeve tight
+2021-07-30 {{4sXkXeKAxIM@2497}} prescription Tailored clothes, especially jeans, are worth it for a muscular body
+2021-07-30 {{4sXkXeKAxIM@3033}} opinion Male aging is anabolic if you keep lifting; most men hit their physical prime around 40-45  {"age": "40-45"}
+2021-08-18 {{Zt6bvNqnJmA@62}} principle Greek ideal proportions were mathematical and scaled to the individual's frame, such as wrist size predicting upper-arm size
+2021-08-18 {{Zt6bvNqnJmA@173}} opinion He believes Greek statues were modelled on real men and that ancient men were far more muscular than today's average
+2021-08-18 {{Zt6bvNqnJmA@331}} opinion The Greek physique is a biological standard: men read it as masculinity and women as good genes
+2021-08-18 {{Zt6bvNqnJmA@516}} opinion Two branches of Greek physique: Apollonian (perfect proportion, smaller) and Herculean (thicker waist and limbs, more muscle); he prefers Herculean
+2021-08-18 {{Zt6bvNqnJmA@453}} anecdote The Farnese Hercules, with huge thighs, thick waist and big back, is closer to his ideal than the V-taper statues
+2021-08-18 {{Zt6bvNqnJmA@617}} opinion Ideals exist to be broken; your subjective physique goal is valid even if it departs from Greek proportions
+2021-08-18 {{Zt6bvNqnJmA@1850}} opinion Glorifying the fat body replaces standards of beauty and should be fought
+2021-09-01 {{kaDn6qVfy28@937}} opinion Against the claim that women don't care about physique, NH says women are highly receptive to looks, roughly as much as men
+2021-09-05 {{P89o8FBSWDI@2037}} opinion [shoulders] He avoids big shoulders so they do not overpower the arms, is now cutting shoulder tonnage because they are getting too big, does not care about upper chest, and goes overboard on legs
+2021-09-05 {{P89o8FBSWDI@2037}} principle Novices can grow everything, but advanced lifters must make aesthetic sacrifices in some areas to reach their goal physique
+2021-09-05 {{P89o8FBSWDI@2078}} principle Train for the physique you want even if it does not match the mainstream
+2021-09-05 {{P89o8FBSWDI@2475}} principle The fridge physique comes from building the torso at the expense of arms and legs; avoid only doing the big three plus chin-ups, isolate the arms and do not overbulk
+2021-09-08 {{mW8_jnUR8gg@2142}} anecdote At a party of 15 men in their early 30s, only two were in shape: him and an army guy
+2021-09-08 {{mW8_jnUR8gg@2195}} opinion The 'dad bod' is a harmful excuse; fathers should be at their strongest to set an example for their children
+2021-09-14 {{rJ2aPIQx-Eg@317}} opinion [back] A mix of high body fat and lean mass on a giant creates visible ridges on the back and limbs; NH calls it 'whale mode', beyond bear mode
+2021-09-15 {{PYICG0hBlVo@382}} prescription Pick fictional bodies for your goal physique (statues, paintings, manga or comic characters), not real people
+2021-09-15 {{PYICG0hBlVo@446}} anecdote [full_body] His own goal body is the 'Buddha physique': big limbs, small shoulders, small chest and a very developed core
+2021-09-15 {{PYICG0hBlVo@573}} principle Physique preferences are subjective and not up for debate; you don't need anyone's permission to chase what you like
+2021-09-15 {{PYICG0hBlVo@636}} opinion [shoulders] He dislikes big shoulders and would be upset if he were given huge 3D delts, because it would ruin his vision
+2021-09-15 {{PYICG0hBlVo@699}} anecdote [biceps] Question why you want certain features; he wants big arms because he always had small arms and big legs because they look cool
+2021-09-15 {{PYICG0hBlVo@822}} anecdote [abs] His love of six-packs and core development came from anime and manga, but he made it his own
+2021-10-02 {{ilGY8qFjuxI@2016}} opinion He judges people by their physique: being fat signals laziness, poor impulse control and food addiction to him, but he never judges traits people cannot control like race or height, and he is happy to be proven wrong
+2021-10-14 {{_Ak93cVwd1c@150}} opinion [full_body] The Olympic weightlifter physiques people covet are mostly in the 160-190 lb classes; super heavyweights tend to be fatter and less aesthetic  {"bodyweight": "160-190 lb"}
+2021-10-14 {{_Ak93cVwd1c@200}} opinion [full_body] Oly lifters look aesthetic because specific areas are very developed: core/six-pack, shoulders, upper back
+2021-10-14 {{_Ak93cVwd1c@240}} principle [full_body] Elite Oly lifters never trained for looks; their physique is a byproduct of training for performance from a young age
+2021-10-14 {{_Ak93cVwd1c@480}} opinion [shoulders] Oly lifters typically have relatively weak chests and strong shoulders because they do a lot of vertical pressing and almost no horizontal pressing
+2021-10-14 {{_Ak93cVwd1c@505}} opinion [back] Oly lifters have very developed upper and lower backs from heavy pulls and thoracic extension demands, big quads, developed glutes and big necks
+2021-10-20 {{f-XiVNy25tw@51}} opinion [abs] The six-pack obsession has two symptoms: skinny guys who over-diet to see abs and guys who reject abs as vain to justify a year-round gut
+2021-10-20 {{f-XiVNy25tw@100}} opinion [abs] Ask 100 young men which muscle they want and about 90% will say abs  {"percent": 90}
+2021-10-20 {{f-XiVNy25tw@445}} opinion [abs] A six-pack is a marker of sexual value; women tend to prefer it, like a thick neck over a pencil neck
+2021-10-20 {{f-XiVNy25tw@595}} principle [abs] A well-developed core is the most important thing for aesthetics because it bridges the upper and lower body and is where the eye goes first
+2021-10-20 {{f-XiVNy25tw@654}} opinion [abs] A poor midsection ruins an otherwise great physique, unlike peripheral muscles such as the long head of the triceps; enhanced pros' GH/insulin guts are the extreme case
+2021-10-20 {{f-XiVNy25tw@718}} principle [abs] Waist size is a health indicator: excess waist fat is a burden on longevity, which is why doctors check waistline
+2021-10-20 {{f-XiVNy25tw@881}} principle [abs] A six-pack is a visual attribute, not an indicator of athleticism; strongmen and fat athletes still have strong abs under the fat
+2021-10-20 {{f-XiVNy25tw@2327}} opinion [abs] Abs on a skinny guy don't count; a six-pack only looks good surrounded by muscle, since what people want is muscularity
+2021-11-07 {{45S8RV2nyKE@1928}} opinion [full_body] LaLanne's natural physique, with a deep six-pack, strong chest, lats and detailed arms, is attainable by anyone natural; smaller legs suit shorter men
+2021-12-02 {{k80R-bpvcRk@2866}} opinion [abs] The aesthetic movement Zyzz started created a generation of skinny lifters obsessed with abs, some developing eating disorders and body dysmorphia
+2021-12-05 {{oAXzDQIwvLg@828}} opinion People underestimate their body fat: subtract about 5 points from anyone's claimed body fat percentage  {"bodyfat": "+5%"}
+2021-12-05 {{oAXzDQIwvLg@1275}} opinion Fat around and within the muscles makes naturals look bigger; losing 20 lb of it would just make NH look small  {"bodyweight": "20 lb"}
+2021-12-05 {{oAXzDQIwvLg@1331}} anecdote NH is about 16-17% body fat but most people would guess 12% because of his muscle-to-fat ratio  {"bodyfat": "16-17%"}
+2021-12-05 {{oAXzDQIwvLg@1562}} prescription 6-8% body fat is achievable for naturals but not reasonable; old-school naturals were around 12-18% and looked massive  {"bodyfat": "12-18%"}
+2021-12-05 {{oAXzDQIwvLg@1621}} opinion [abs] Abs can look good at 10%, 15% or 17% body fat; too lean becomes detrimental for naturals  {"bodyfat": "10-17%"}
+2021-12-05 {{oAXzDQIwvLg@1879}} opinion Trying to be 5% body fat as a natural is masochism and won't produce good aesthetics  {"bodyfat": "5%"}
+2021-12-10 {{qcRCMVABEQM@506}} data Reeves' stats: 6'1", 210-225 lb, 18.5-19 in arms, 52 in chest, 29 in waist, 26 in thighs, 18.5 in calves  {"height": "6'1\"", "bodyweight": "210-225 lb", "arms": "18.5-19 in", "chest": "52 in", "waist": "29 in"}
+2021-12-10 {{qcRCMVABEQM@506}} opinion Reeves was around 10% body fat, not shredded, just carrying a lot of lean muscle  {"bodyfat": "~10%"}
+2021-12-10 {{qcRCMVABEQM@568}} anecdote [calves] Reeves followed Greek proportions (arms equal to neck and calves, arms not bigger than the head) and stopped training calves until his arms caught up
+2021-12-10 {{qcRCMVABEQM@623}} opinion NH disagrees with strict Greek proportions as a personal aesthetic but grants they're objectively defensible
+2021-12-10 {{qcRCMVABEQM@1268}} anecdote Directors asked Reeves to lose up to 20 lb of muscle to look average; he refused, seeking a balanced physique and life  {"bodyweight": "20 lb"}
+2021-12-10 {{qcRCMVABEQM@1438}} opinion Ancient warriors looked athletic like Reeves, not like pro bodybuilders; even NH is a bit too bulky for that role
+2021-12-27 {{0ZZwr3REW5c@2580}} opinion Looksmaxxing has limits, but it matters mostly because it changes how you feel about yourself and how others treat you
+2021-12-27 {{0ZZwr3REW5c@5592}} prescription To be attractive: looksmax, train, get a good job, build wealth for a family, and develop personality and humour
+2021-12-27 {{0ZZwr3REW5c@9820}} principle Keep your physique, strength and identity as a sign of respect for your partner, because her kindness lets you decline
+2022-01-03 {{rYxVtz6bqGg@503}} opinion A natural with 5-10 years of training looks far better than everyone else on a beach; eye-catching results don't require drugs  {"years": "5-10"}
+2022-01-07 {{RryibwmuOWE@1197}} opinion For a skinny man, muscle combined with some fat is what transforms the look; most admired naturals carry a fair amount of fat
+2022-01-07 {{RryibwmuOWE@1197}} anecdote NH estimates himself at 16-17% bodyfat and says it makes him look good  {"bodyfat": "16-17%"}
+2022-01-15 {{vyKzL85QwY4@826}} principle [chest] If your bench goes up while your push-ups go down, you may be gaining strength from added fat; keep push-ups in your training to stay balanced
+2022-01-17 {{9y2s6kyFkPc@1627}} opinion [quads] Don't obsess over measurement standards; leg size depends on leg length, so just train and let them grow
+2022-01-17 {{9y2s6kyFkPc@2821}} opinion To look big without flexing, build muscle and carry some fat so you look full at rest
+2022-01-19 {{5VcEDIHK5Y8@823}} anecdote [back] Despite carrying a lot of fat he had a lower-back six-pack showing through, a massive upper back and huge biceps
+2022-01-19 {{5VcEDIHK5Y8@912}} anecdote [calves] Unlike torso-dominant modern strongmen, Apollon was limb dominant with calves over 20 inches and 18-inch forearms  {"calves": "20+ in", "forearms": "18 in"}
+2022-01-26 {{he2KJeMcoAI@254}} principle [glutes] Lifting cannot make women bulky like men because they lack the characteristics to blow up; it rounds the glutes, shapes the quads and arms and makes women look more feminine
+2022-02-04 {{0UJ1W5yogoQ@1262}} opinion Bodybuilding aims at beauty, a perfection never reached; true beauty comes from discipline, pain and sacrifice, never from indulgence
+2022-02-10 {{GNJkAcgUJ_0@4955}} principle Powerlifting is a sport judged on objective criteria; bodybuilding is an art judged subjectively, so the same tools must be used differently
+2022-02-10 {{GNJkAcgUJ_0@5396}} opinion Natural powerlifters and natural bodybuilders look alike only because natural bodybuilders train like powerlifters
+2022-02-24 {{dVssxcEh1UQ@2809}} opinion [back] A thick upper back should be the mark of a seasoned lifter, like forearms and legs that fill out with age
+2022-03-09 {{GeMs1MAEK60@64}} opinion Calling lifting for looks feminine is always meant to shame and really means vain or gay; it says more about the speaker than the target
+2022-03-09 {{GeMs1MAEK60@190}} opinion By that logic anyone who showers or dresses well is feminine
+2022-03-09 {{GeMs1MAEK60@438}} principle Building muscle is the best way for a man to look better, beyond clothes and grooming
+2022-03-09 {{GeMs1MAEK60@501}} principle Makeup is feminine because it mimics female fertility markers; muscle likewise signals male fitness and good genes to women, so it is masculine
+2022-03-09 {{GeMs1MAEK60@626}} opinion [quads] Big quads were once called feminine, but male quads look nothing like female quads and masculine archetypes always had big legs
+2022-03-09 {{GeMs1MAEK60@876}} principle Greek statues, gods and heroes were muscular without performing any function; muscle itself expresses masculinity
+2022-03-09 {{GeMs1MAEK60@1500}} opinion The 'thick' dad-bod look is reframed as aesthetic by those who did not lift for looks; Greek statues had no gut for a reason
+2022-03-09 {{GeMs1MAEK60@2128}} principle Training purely for strength produces an accidental physique: big trunk and quads, small arms, which most find unappealing
+2022-03-09 {{GeMs1MAEK60@2192}} prescription Training with aesthetic intent is essential to avoid an accidental physique
+2022-03-20 {{ZPBwBrOktgA@1580}} opinion Training half-heartedly to avoid getting too bulky gives no results at all, not even toned
+2022-03-29 {{7Sp526pPxEU@1445}} opinion Measuring body fat is useless and there is no best method; just focus on looking good and feeling good
+2022-03-30 {{IYobXlRVLd0@61}} principle [full_body] The statue's strong points are well-developed obliques, massive but not lean legs, a thick posterior chain and glutes, a thick upper back without a wide lat flare, and big forearms and biceps; shoulders and triceps are less developed
+2022-03-30 {{IYobXlRVLd0@309}} principle The goal is a Herculean X-taper with thickness, an ancient bear mode, rather than a V-taper
+2022-03-30 {{IYobXlRVLd0@558}} opinion [quads] The statue's legs are big but not striated, because it shows a natural man carrying body fat in his legs
+2022-03-30 {{IYobXlRVLd0@871}} opinion The idea that heavy deadlifts, good mornings, squats or rows thicken the waist is mostly nonsense, and the Farnese Hercules has a big waist anyway
+2022-04-06 {{3W-yE2pgTec@884}} opinion Scholars back then worried about young men's vanity about their bodies (aesthetic bros existed in the 1500s); today the problem is reversed and most people cannot stand looking at their bodies
+2022-04-06 {{3W-yE2pgTec@2390}} data Descriptions of knights mention broad shoulders, big arms and legs, a thin waist, a developed chest and core, and a wide, thick back
+2022-04-06 {{3W-yE2pgTec@2514}} anecdote Knights went shirtless in the cold to show off their physiques; men's urge to display strength has never changed
+2022-04-08 {{KtoAImbVZF4@37}} anecdote Sandow (born Friedrich Müller, 1867) was a very active child, and seeing Greek and Roman statues in Rome made him decide to look exactly like them; that is still a valid motivation today  {"year": 1867}
+2022-04-08 {{KtoAImbVZF4@165}} anecdote At 18 Sandow left Prussia to avoid conscription and worked as an artist's model; his body was used to recreate Greek proportions, e.g. a Lambeaux sculpture in a Belgian fine arts museum  {"age": 18}
+2022-04-08 {{KtoAImbVZF4@984}} data Sandow coined the term bodybuilding and staged the first posing shows: standing on a box under a light, with powder or bronzing to look like a statue
+2022-04-08 {{KtoAImbVZF4@1049}} opinion At 5'8 and 185 lb, Sandow's balanced physique would still be a very good natural physique today; his chest and legs lagged  {"height": "5'8", "bodyweight": "185 lb"}
+2022-04-08 {{KtoAImbVZF4@1098}} opinion [abs] Sandow was the first to show a crisp, defined six-pack; everyone has one lying dormant
+2022-04-08 {{KtoAImbVZF4@1770}} principle Sandow encouraged women to lift weights; lifting makes women more feminine and men more masculine, and only exogenous male hormones make women look masculine
+2022-04-14 {{LxGdGChvk2c@1450}} opinion Most people actually use strength standards as size standards ('lift X and your legs will look like Y'), which is a childish argument
+2022-04-30 {{traEzBUl8aU@943}} principle [biceps] A developed triceps long head props up the biceps and makes it, including its side peak, look bigger
+2022-05-09 {{rVy03_C5jEU@3579}} opinion Art, like a physique, should be beautiful; accepting ugliness in art leads to accepting it in bodies, as in the fat acceptance movement
+2022-05-14 {{JNBgBfmTqx8@1072}} opinion Muscle brings a halo effect: people treat you with more respect, attraction and admiration
+2022-05-19 {{SPicD3F686s@0}} principle The Apollonian program is a counterpart to the Farnese Hercules program, for lifters wanting a slimmer, conventionally aesthetic physique
+2022-05-19 {{SPicD3F686s@63}} opinion Aesthetic physiques approximate the golden ratio; many people think modern bodybuilders look bad because proportions abandoned it
+2022-05-19 {{SPicD3F686s@127}} prescription Aim for something slightly bigger than the statue of David, which lacks muscularity
+2022-05-19 {{SPicD3F686s@190}} principle Apollonian means a V-taper (wide shoulders and lats, small waist, tight core); Farnese Hercules is an X-taper with big legs, core and arms
+2022-05-19 {{SPicD3F686s@316}} principle [abs] Heavy knee flexion and hip hinge work develops the waist, so don't overdo it if you want a tight waist, but a few sets of squats won't bloat you; pro bodybuilders' bellies come from drugs
+2022-05-19 {{SPicD3F686s@815}} principle Use upper/lower and arm/upper hybrids rather than two lower days because classical statues have smaller legs and arms
+2022-05-19 {{SPicD3F686s@1186}} opinion Some waist thickening is fine if lats and shoulders grow with it: be a capital V, not a lowercase v
+2022-05-24 {{hcNbKWSjcMs@2577}} opinion Modern culture casts suspicion on beauty, so working on your body is seen as vain
+2022-05-26 {{rGMi5_hLRH8@1085}} opinion Hypermasculine caricatures like GigaChad are produced by men devoid of masculinity; Greek statues showed natural physiques as the pinnacle instead
+2022-06-05 {{QfHfxLYRu88@3455}} prescription [neck] Small head and big back: grow your hair out and train neck and traps
+2022-06-09 {{kAVZsNLPNQ4@1318}} principle [abs] Athleticism is not a look: a six-pack has nothing to do with being athletic, and most real athletes carry body fat
+2022-06-09 {{kAVZsNLPNQ4@1382}} anecdote Andy Ruiz, the 'fat' boxer, beat the bodybuilder-looking Anthony Joshua in their first fight, showing function isn't tied to looks
+2022-06-09 {{kAVZsNLPNQ4@1508}} principle The 'sumo test': if someone says a sumo wrestler isn't athletic, they judge athleticism only by appearance
+2022-06-09 {{kAVZsNLPNQ4@1571}} opinion Many functional and calisthenics trainees are closet bodybuilders who train for looks but hide it because training for looks is stigmatised as vain or feminine
+2022-06-09 {{kAVZsNLPNQ4@1762}} opinion Twist on Ronnie Coleman: everyone wants to look like a bodybuilder but not everyone wants to admit being one
+2022-06-09 {{kAVZsNLPNQ4@2136}} opinion Most people lift primarily for aesthetics, and that is perfectly fine; you don't need to justify it with mobility or old-age excuses
+2022-06-16 {{7YrNMtR3a2M@260}} opinion Modern culture reduces fitness and self-improvement to materialistic means without deeper spirituality
+2022-06-23 {{itnjfi6RYtY@63}} opinion The berserker physique emphasizes limbs and core and de-emphasizes shoulders and chest; his shoulders are smaller than a year ago on purpose
+2022-06-23 {{itnjfi6RYtY@1190}} anecdote [biceps] His triceps long head has caught up with his biceps, so he is now recreating the imbalance by focusing on biceps
+2022-06-23 {{itnjfi6RYtY@1695}} principle The best program is one you made yourself, aligned with a goal physique, often drawn from fictional characters
+2022-07-18 {{P0SI2703w-I@0}} anecdote [abs] NH keeps a fully visible six-pack year-round at 16-17% body fat because he trains abs directly  {"bodyfat": "16-17%"}
+2022-07-18 {{P0SI2703w-I@884}} anecdote [abs] At 210 lb and 6 ft he has a year-round six-pack, which he credits to hard work, not genetics  {"bodyweight": "210 lb", "height": "6 ft"}
+2022-07-20 {{ZzcNdESueDs@1756}} opinion Fit, good-looking men can simply talk to women without elaborate lies
+2022-08-18 {{o_x3Ij2GBXM@930}} opinion Aesthetic programs must isolate and give more volume to presses; squatting as much as pressing yields a big lower body and lacking upper body
+2022-08-29 {{O9txIDHBBIk@372}} anecdote Recomp priorities were rear delts, lats, calves and hamstrings, then the triceps long head; he deliberately ignored the rest of the shoulders
+2022-09-19 {{QNxCVZro9jc@0}} opinion A big torso with skinny arms gives a 'spider physique'; you must isolate the arms
+2022-09-25 {{q1XhaAN9M5k@1877}} opinion Stage conditioning is pointless; the ideal is the 12-16% body fat look of early 20th-century bodybuilders, and he'd be judged too fat at 14%  {"bodyfat": "12-16%"}
+2022-09-25 {{q1XhaAN9M5k@1939}} opinion Natural bodybuilding should be a one-man show posed in nature, not under stage lights with fake tan
+2022-10-02 {{CSwbuwl33eA@128}} principle Bodybuilding is a game of illusion: you can approximate an anime physique like Zodd's by matching its muscular distribution, minus the inhuman proportions
+2022-10-02 {{CSwbuwl33eA@1064}} principle Do not ignore weaker areas like chest, glutes and hamstrings or the physique will look weird
+2022-10-16 {{crP2w97XXfs@252}} data [abs] Ab implants are slid over the rectus through a side incision, often with fat removed between the bellies, so they bulge unnaturally far from the skin
+2022-10-16 {{crP2w97XXfs@315}} principle [abs] Signs of ab implants: abs on a protruding gut, abs that look identical year after year and do not stretch or move with the body, and a bolted-on look
+2022-10-16 {{crP2w97XXfs@439}} principle [abs] Real abs come with lower body fat and a stronger core; implants give neither
+2022-10-16 {{crP2w97XXfs@1008}} data One cosmetic surgery tends to lead to more; implants also need replacing roughly every 10 years and age badly  {"years": 10}
+2022-10-16 {{crP2w97XXfs@1321}} principle [glutes] Signs of butt implants: glute size that contradicts squat strength (a big natural butt can usually squat two plates) and big glutes on tiny legs  {"load": "2 plates"}
+2022-10-18 {{0xZ2Yl1PUmc@441}} data Physique competitors a hundred years ago were 10-16%, sometimes 18% body fat, untanned and unpumped, and still looked tremendous  {"bodyfat": "10-18%"}
+2022-10-21 {{UgkxY-CfmmJWqV5W2povaoSH5OYlQ8jPvNkU@0}} opinion Training purely for aesthetics doesn't make you an athlete
+2022-10-23 {{g-pqgciOSgE@0}} opinion Steve Reeves is the most aesthetic natural bodybuilder in history; he started training at 13 and built his physique over years
+2022-10-23 {{g-pqgciOSgE@127}} principle [full_body] The Silver Era physique is built on the V-taper: focus on shoulders and lats, plus a well-developed core and arms
+2022-10-23 {{g-pqgciOSgE@127}} data Reeves' proportion rules: upper arms should match calves, and arms bigger than the neck mean something is wrong; NH follows these loosely
+2022-10-23 {{g-pqgciOSgE@695}} data [glutes] The Silver Era did not want to load the hips much or chase big glutes; hamstrings were not a priority, so posterior chain work is optional
+2022-11-01 {{JgAoGDmM4n4@813}} principle [full_body] The spider physique (big torso, small limbs) is caused by compound-only training that treats isolation as an afterthought
+2022-11-01 {{JgAoGDmM4n4@1253}} data [lats] Power lifters have big chests, trunks, legs and back thickness but little width because they only train their sport's prime movers
+2022-11-01 {{JgAoGDmM4n4@1690}} opinion He offered to transform Omar's physique within a year: bigger arms, biceps peaks, triceps sweep, forearms and calves
+2022-11-08 {{h7D6CB4p1oU@1454}} opinion Sign of a failed bulk #1: the goal is to look big in clothes; natural lifters only fill out XL shirts by getting uncomfortably fat
+2022-11-08 {{h7D6CB4p1oU@1645}} opinion Sign #3: coping with a poor physique by saying you are bigger than other guys; bodybuilding is building a statue, not piling up mass
+2022-11-11 {{wB-ydKSfQ5k@65}} opinion [traps] Kratos's look is replicable in a smaller version because it is upper body and especially upper back dominant; expect 10-15 years  {"years": "10-15"}
+2022-11-11 {{wB-ydKSfQ5k@1018}} opinion Muscle priorities for Kratos: traps, shoulders, upper back, long head of triceps, lats, biceps, abs, forearms; chest modest; legs minimal
+2022-11-13 {{ImJqBwLqHcw@107}} principle Pro bodybuilding on stage is under 0.1% of bodybuilding; anyone who trains for looks is a bodybuilder without ever competing
+2022-11-13 {{ImJqBwLqHcw@183}} opinion Bodybuilding is not a beauty pageant: pageants judge faces, while ugly men like Ronnie Coleman win on their body
+2022-11-13 {{ImJqBwLqHcw@391}} opinion Calling looks-focused training feminine pushes men to be slobs, makes them less attractive and breeds resentment
+2022-11-13 {{ImJqBwLqHcw@435}} opinion Men who do calisthenics or martial arts and post shirtless photos also train for looks; getting aesthetics as a byproduct is no different
+2022-11-13 {{ImJqBwLqHcw@802}} opinion The virtuous way for a man to become more beautiful is strengthening and building muscle, not surgery or consumerist routines; bodybuilding develops body and mind
+2022-11-13 {{ImJqBwLqHcw@1184}} opinion Bodybuilding is not a sport because it is judged on aesthetics, not performance, so comparing it to martial arts makes no sense
+2022-11-17 {{FC8x-cwd4DQ@325}} opinion Aesthetic physiques center on the upper body: shoulders, chest, abs, arms; Greek statues weren't admired for their calves
+2022-11-22 {{1U5cgUdos88@64}} principle [neck] A thicker neck improves facial aesthetics: the jaw looks squarer and the face less fat and more masculine
+2022-11-22 {{1U5cgUdos88@315}} opinion [neck] Three stages: pencil neck, intermediate (aesthetic), monster; intermediate is enough, reached when the jaw lines up straight with the neck when relaxed
+2022-12-18 {{eCR3dcmCPV8@999}} principle A minimalist strength routine will not build an aesthetic physique; people who train for aesthetics get more aesthetic bodies
+2022-12-18 {{eCR3dcmCPV8@1188}} opinion NH believes he could drastically improve the YouTuber's physique in one year with an aesthetic-based routine  {"years": 1}
+2022-12-21 {{0pKnDucWcDc@753}} opinion [shoulders] Aesthetic lifters hammer shoulders too much, a habit taken from enhanced bodybuilders
+2022-12-29 {{6YWa3qOu6BY@0}} opinion Athletes in most sports never aim for hypertrophy; muscle is a byproduct of function, yet calisthenics produces the most statuesque bodies outside bodybuilding
+2022-12-29 {{6YWa3qOu6BY@378}} principle Because the body itself trains the body and many movements are needed to perform, calisthenics develops the physique harmoniously, close to Greek statues
+2022-12-29 {{6YWa3qOu6BY@574}} opinion Upper-body focus with lats and shoulders plus low body fat makes bodyweight influencers look 20-30 lb heavier in pictures than they are  {"bodyweight": "+20-30 lb illusion"}
+2023-01-11 {{_P0-kYyVMn4@1073}} principle [biceps] Use isolation to fix arms lagging behind push-up-built chest and delts, but do not swing to massive arms on a small torso
+2023-01-21 {{TPcnP8Tvj5E@307}} opinion [full_body] The Spartan physique (slim but powerful, visible abs, sculpted arms and chest, yoked upper back) shames the potato-shaped frame of the average modern human, a sign of what humanity lost by surrendering to comfort
+2023-01-27 {{pBszDfFvoVI@2393}} opinion Appearance largely reflects the mind because it results from life choices; through history muscles were associated with leadership and virtue
+2023-01-27 {{pBszDfFvoVI@2584}} opinion Women like muscles because they signal hard work, resilience, consistency and the ability to protect
+2023-01-31 {{elk4uYvjXos@378}} principle Bodybuilding is not about piling up mass but about who looks best; getting big without aesthetics misses the point
+2023-02-05 {{k3yRgcmiCls@1634}} principle [shoulders] A weak rear delt makes the shoulder look worse because it gives the shoulder its pop
+2023-02-09 {{upmJaBt1WHk@63}} principle [shoulders] Plan your training around your dream body: Cavill's look is a massive shoulder girdle where delts, chest and traps connect, so those are the main focus
+2023-02-09 {{upmJaBt1WHk@127}} opinion [biceps] Superman needs big biceps; triceps matter less because the look is defined from the front
+2023-02-09 {{upmJaBt1WHk@190}} prescription [full_body] Priorities: high focus chest, shoulders, traps, biceps, abs; medium focus lats, upper back, neck (at least connecting to the jawline), forearms, quads; low focus triceps, glutes, hamstrings, calves, rear delts
+2023-02-25 {{K2h1QhDo4qU@189}} opinion Ribcage expansion won't give you a barrel chest; it shapes the area along the ribs into a better V-taper
+2023-03-06 {{HOgwZO70z_M@0}} principle [full_body] Otter mode is a slim, lean, well-defined physique with balanced muscle, not too bulky and not ultra-shredded; Fight Club Brad Pitt is the reference
+2023-03-06 {{HOgwZO70z_M@188}} opinion It is named after the otter because swimmers tend to have this physique by default
+2023-03-06 {{HOgwZO70z_M@188}} opinion You can lift your way out of otter mode by getting too big; he himself is too bulky for it but could revert by losing weight and stopping heavy lifting
+2023-03-06 {{HOgwZO70z_M@251}} principle You don't blow up overnight; you will see it coming if you get too big and can stop or reverse it
+2023-03-06 {{HOgwZO70z_M@499}} opinion Otter mode is the physique most women pick in street polls
+2023-03-06 {{HOgwZO70z_M@563}} opinion Most people who aren't severely skinny or obese can reach otter mode in 1-2 years  {"weeks": "52-104"}
+2023-03-09 {{-TgjzFfuUjQ@969}} opinion The winner wasn't the biggest but the most functional; training for looks was always a trade-off against performance, and he is fine with that
+2023-03-20 {{-izcpmcGs-c@632}} principle [abs] Waist width is mostly genetic and set by bone structure; direct ab and oblique training will not ruin a V-taper
+2023-03-20 {{-izcpmcGs-c@632}} opinion [abs] Bodybuilders with thick obliques usually already had big obliques that were fat before turning to muscle; if they thicken, stopping those movements reverses it
+2023-04-03 {{aJ1e41y8Na4@2202}} principle If your front is better than your back, it's usually because you trained the front more
+2023-04-03 {{aJ1e41y8Na4@2139}} principle [neck] A neck should line up with the jawline; big traps and a pencil neck look wrong
+2023-04-10 {{-sf34ScWLK8@1265}} opinion [quads] Not everyone wants huge legs; it is fine to train legs minimally, once a week, if your goal is a big upper body
+2023-04-10 {{-sf34ScWLK8@2466}} opinion [chest] Many prefer a flatter chest with dominant shoulders; as shoulders grow they steal more work from the chest on horizontal presses
+2023-04-30 {{9L90ktKGPLw@2138}} opinion [glutes] Butt implants are polio tier; resistance training is the healthy way to a big butt, especially for women prone to weak bones
+2023-05-09 {{7KDB5wzgY4c@0}} opinion [abs] Abs sit in the middle of everything, so weak abs make the whole physique look worse and a good core makes everything look better
+2023-06-04 {{JSOvpTDcSvA@252}} opinion [abs] Being skinny with a six-pack doesn't count; you want a developed core on a big body
+2023-06-21 {{P7ADeDVghxg@804}} anecdote [shoulders] Shoulders are his weak point; with a huge upper back and traps, small delts look ridiculous, so they must catch up
+2023-07-23 {{Mn34v5Y1d-0@505}} principle Cheerleader effect: one outstanding muscle draws the eye and makes the weaker muscles around it look better; bodybuilding is a game of illusion
+2023-07-23 {{Mn34v5Y1d-0@1320}} principle Pump, lighting and angle make people look enhanced; the same person looks ordinary standing in a shirt
+2023-07-23 {{Mn34v5Y1d-0@3018}} data [full_body] Physique grades: chest S, biceps S, triceps long head S, shoulders A, quads A, neck A, teres A, lats B, lower and mid traps B, forearms B, abs C (a two-pack that he hides with vacuums), erectors, glutes and hamstrings C, calves poor
+2023-07-23 {{Mn34v5Y1d-0@3143}} opinion Golden Era aesthetics prioritised looking monstrous from the front, with chest and arms
+2023-07-23 {{Mn34v5Y1d-0@3455}} prescription You don't need to develop every muscle: push the muscles that serve your aesthetic goal very far, keep the rest maintained, and ignore people who shame you about skinny legs
+2023-08-06 {{ZDWFfYLYVNs@289}} data [full_body] Toji is an upper-body guy: dominant shoulders, lats and traps (the V-taper), standout abs, a thick neck, solid arms and chest, lagging forearms and smaller legs
+2023-08-06 {{ZDWFfYLYVNs@396}} prescription [abs] Toji is about 6'2 (190 cm), probably over 200 lb, at 12-14% body fat; to get his abs you have to grow them rather than just get shredded, and staying moderately lean keeps the yoke and shoulders full  {"bodyfat": "12-14%"}
+2023-08-26 {{fC9Z2s8d1fA@2595}} principle Humans are primarily visual: people judge others first by looks, so a big person is assumed strong regardless of actual lifts
+2023-08-26 {{fC9Z2s8d1fA@2721}} opinion In real life looking strong is effectively being strong, since nobody can see how much you bench; aesthetics are what matter socially
+2023-08-26 {{fC9Z2s8d1fA@2784}} opinion Bodybuilders brag about being weak to mock people who think lifting more plates earns respect in daily life
+2023-08-26 {{fC9Z2s8d1fA@2845}} opinion People who claim to train only for function usually want abs and shoulders deep down; chasing aesthetics as a byproduct of a sport you do not love leads to disappointment
+2023-08-26 {{fC9Z2s8d1fA@2970}} principle There is no such thing as a non-functional muscle; a developed muscle functions
+2023-08-26 {{fC9Z2s8d1fA@3096}} principle You cannot reach aesthetics without developing function; bodybuilders simply evaluate function by what it does for the look
+2023-08-26 {{fC9Z2s8d1fA@3409}} principle [full_body] Maxing out function hurts form and vice versa: you cannot be both an elite sprinter and an elite bodybuilder; most should prioritize one and get some of the other
+2023-08-26 {{fC9Z2s8d1fA@3346}} anecdote Being heavy and muscular makes him slower and less athletic; basketball players should not take his advice, but he can still walk and hike for hours
+2023-09-09 {{ZN5ohmPPfjM@567}} principle [biceps] Bodybuilding trains muscles directly through their function (a curl trains elbow flexion and supination), with aesthetics as a secondary outcome
+2023-09-17 {{APzQFpqmR10@1010}} opinion Men need 'struggle tissue' (muscle earned through years of training and diet) to look good, while women's attractiveness depends mostly on bone structure and fat distribution
+2023-09-30 {{43F9unmSc_I@0}} opinion [full_body] His ideal is the 'Berserker' physique: big arms, forearms and chest, a strong core and tree-trunk legs; shoulders can be smaller as long as the biceps aren't overpowered
+2023-09-30 {{43F9unmSc_I@62}} opinion [shoulders] Going into 2024 his priorities are rounder shoulders (via vertical presses and isolation), gnarlier forearms, and the core (obliques and serratus)
+2023-10-12 {{oytzIPcqih4@0}} opinion [lats] The V-taper (wide shoulders, flared lats) has been the masculine aesthetic ideal from the ancient Greeks to today
+2023-10-12 {{oytzIPcqih4@633}} principle Distance swimmers are lankier while sprinters are built like tanks, because extra mass helps speed but hurts endurance
+2023-10-12 {{oytzIPcqih4@696}} principle Divers show 'otter mode': little chest and arm mass, a well-developed core and strong legs for jumping and spinning
+2023-10-19 {{TxDUQPe3B0E@1259}} anecdote [biceps] His biceps dominate his arms while triceps and shoulders lag, and he accepts that may never change
+2023-10-21 {{Ugkx9sXG3OlYqnlV8puqWZrZvy9cefSnk95F@0}} anecdote His athlete-physique series covered weightlifters, laborers, calisthenics athletes and wrestlers before polling arm-wrestlers, convicts and swimmers
+2023-10-21 {{UgkxR9FC6MTFXlYoHAS_nwejunvWa9c7Y83m@0}} anecdote He made a video on the physiques of African laborers as part of the athlete-physique series
+2023-10-21 {{UgkxiJgx7COXjZCm0Jmz-rMqgvgf3PHTIH-P@0}} opinion Chinese weightlifters build aesthetic physiques despite not training for hypertrophy
+2023-10-21 {{UgkxwPvVhMoQ7cXzSPZENIhSX4pxuu8POqFb@0}} anecdote His athlete-physique series covered swimmers, with rugby players, Olympic gymnasts and rock climbers polled next (8K votes)
+2023-11-20 {{DA7QvIAyptw@566}} prescription [full_body] Doom Slayer priorities: 1) shoulders, chest, back; 2) biceps, triceps, forearms; 3) posterior chain, abs, neck; 4) quads, lats, calves de-prioritised
+2023-12-04 {{M2yqxp4IHXg@190}} opinion Calisthenics athletes get the most aesthetic physiques of any non-bodybuilding athletes, despite not training for hypertrophy
+2023-12-10 {{l2tFBCf8cdg@1926}} opinion Bodybuilding is the pursuit and protection of beauty, a transcendent value that cannot be described in words but is recognised on sight
+2023-12-25 {{hEuy__sCbZA@631}} principle If your bodyweight strength suffers it is usually because body composition is suffering (too much fat); Haviland can do weighted chins and dips at 400 lb because his mass is lean
+2023-12-25 {{hEuy__sCbZA@1830}} principle [full_body] Treating every muscle group seriously produces a balanced physique
+2023-12-25 {{hEuy__sCbZA@2081}} opinion Online standards are distorted: a natural at 220 lb lean is big in real life; average gym-goer is 170-180 lb and most 200+ lb guys are fat or very tall  {"bodyweight_lb": "170-180 average"}
+2023-12-25 {{hEuy__sCbZA@2144}} opinion Reaching ~200 lb relatively lean as a natural means you look like you lift; this perspective helps fight body dysmorphia  {"bodyweight_lb": 200}
+2023-12-25 {{hEuy__sCbZA@2208}} opinion Physique grades for Haviland: S biceps, shoulders, traps, neck, lower back, core, calves; A triceps, forearms, upper back/lats; B quads and hamstrings (curse of long legs)
+2024-03-08 {{RPW-PxhYqrA@440}} opinion [biceps] Big pecs with spaghetti arms is not a good look
+2024-03-08 {{RPW-PxhYqrA@1070}} principle Going from skinny to jacked in weeks is unrealistic; results take months to show and years before people notice you lift
+2024-03-17 {{fycepPpxN_k@193}} principle Muscles should be judged for aesthetics by how they look relaxed in everyday clothes, not by stage bodybuilding flexing criteria
+2024-03-17 {{fycepPpxN_k@128}} anecdote The top tier is named 'Are You Using This' because once you are huge, gym-goers ask permission to use equipment you are clearly not using
+2024-03-17 {{fycepPpxN_k@256}} opinion [chest] Chest is Jacked God tier: it fills the shirt and creates thickness from the front and the side
+2024-03-17 {{fycepPpxN_k@318}} opinion [chest] If your stomach protrudes further than your chest, you are not in shape
+2024-03-17 {{fycepPpxN_k@381}} opinion [chest] Upper chest only rates Buff Alright: it is mostly hidden by the shirt because the lower chest protrudes and leaves slack above
+2024-03-17 {{fycepPpxN_k@508}} principle [chest] A visible 'upper chest' is mostly leanness: the upper/lower pec separation only shows below about 10-11% body fat and when flexed  {"bodyfat": "10-11%"}
+2024-03-17 {{fycepPpxN_k@571}} opinion [biceps] Biceps are Jacked God, not top tier: everyone trains them, sleeves hide them, they are flex-dependent and contribute less arm thickness than the triceps
+2024-03-17 {{fycepPpxN_k@696}} opinion [biceps] The brachialis is the real MVP of arm thickness and pushes the biceps peak up, but it is hidden underneath so it only rates Buff Alright
+2024-03-17 {{fycepPpxN_k@821}} principle [forearms] Forearms are top tier: they are always exposed, not flex-dependent, carry little fat and get vascular even when you are fluffy
+2024-03-17 {{fycepPpxN_k@949}} opinion [forearms] The pronator is Do You Even Lift tier: small, needs a flex and specific angle to show, and is dwarfed by the biceps
+2024-03-17 {{fycepPpxN_k@1012}} opinion [triceps] The triceps lateral head rates only Buff Alright: it is small and overshadowed by the long head
+2024-03-17 {{fycepPpxN_k@1073}} principle [triceps] The triceps long head is top tier: biggest part of the arm, visible from every angle even relaxed, and connects with lats and rear delts for the 'pitbull' look
+2024-03-17 {{fycepPpxN_k@1200}} opinion [quads] Quads are Jacked God: big quads show through pants and skinny legs make you look weak
+2024-03-17 {{fycepPpxN_k@1328}} opinion [quads] Legs should match the upper body; if they dwarf it you get a 'frog physique'
+2024-03-17 {{fycepPpxN_k@1328}} prescription [quads] Lifters with big legs should buy athletic, elastic-fit jeans
+2024-03-17 {{fycepPpxN_k@1454}} opinion [quads] VMO obsession is 'small guy syndrome': skinny guys sacrifice overall mass to keep one muscle striated
+2024-03-17 {{fycepPpxN_k@1579}} principle [glutes] Glutes are top tier: the most 3D muscle of the body, visible through any pants, not lean-dependent, and never take away from the physique of a natural bodybuilder
+2024-03-17 {{fycepPpxN_k@1705}} opinion [glutes] Women pay a lot of attention to a man's glutes, arguably more than chest or arms
+2024-03-17 {{fycepPpxN_k@1705}} opinion [glutes] The psoas/hip flexors are invisible so they rate Do You Even Lift, though important for performance and health; hinges, squats and leg work cover them
+2024-03-17 {{fycepPpxN_k@1768}} principle [back] Erectors are Jacked God: developed erectors protrude around the spine and add thickness even in clothes; you can tell who does hip hinges
+2024-03-17 {{fycepPpxN_k@1892}} opinion [hamstrings] Hamstrings rate Buff Alright: they show you lift heavy hinges but are overshadowed by the glutes and only visible from the back
+2024-03-17 {{fycepPpxN_k@1954}} principle [traps] Traps (upper, middle and lower) are top tier: the most 3D part of the upper back, visible through shirts, and associated with steroid use
+2024-03-17 {{fycepPpxN_k@2016}} opinion [traps] He disagrees with Vince Gironda: growing traps does not make you look narrower or shorter, it only adds upper back thickness
+2024-03-17 {{fycepPpxN_k@2140}} opinion [lats] Lats are Jacked God, not top tier: erectors look better from the back and traps give more thickness, but without lats you get a T-taper instead of a V-taper
+2024-03-17 {{fycepPpxN_k@2203}} principle [lats] Big lats press the triceps long head outward, accentuating arm sweep
+2024-03-17 {{fycepPpxN_k@2328}} opinion [abs] Abs are Do You Even Lift tier for daily aesthetics: invisible in clothes, very lean-dependent, a 'beach muscle'
+2024-03-17 {{fycepPpxN_k@2706}} principle [shoulders] Shoulders (all three heads) are top tier: they add the most width, signal properly programmed natural training, and look good at any body fat
+2024-03-17 {{fycepPpxN_k@2770}} principle [shoulders] 'Shelf muscles' (shoulders, front delts, traps, upper chest) are what give the bodybuilder look
+2024-03-17 {{fycepPpxN_k@2832}} opinion [forearms] Hand muscles are Do You Even Lift tier; pumping up hands is a gimmick that lasts about 15 minutes
+2024-03-17 {{fycepPpxN_k@2958}} opinion [neck] Jaw musculature is Jacked God: always visible and masculine, but highly genetic and lean-dependent; take looksmaxing advice with a grain of salt
+2024-03-17 {{fycepPpxN_k@3020}} principle [neck] Neck is top tier: a thick neck makes the face look more masculine and less fat, and nobody has a big neck with an otherwise untrained body
+2024-03-17 {{fycepPpxN_k@3083}} prescription [neck] His neck standard: the neck should be in line with the jaw
+2024-03-17 {{fycepPpxN_k@3275}} principle [calves] Calves are Jacked God: the most 3D muscle of the leg, visible in shorts and jeans, and big calves are the ultimate status symbol because almost nobody trains them
+2024-04-11 {{loDNjTHZjG4@2084}} anecdote He weighs 220 lb but does not look it sitting without a pump; if he lost 20-30 lb and posed pumped, people would say he got bigger  {"bodyweight": "220 lb", "loss": "20-30 lb"}
+2024-04-11 {{loDNjTHZjG4@2146}} principle Pump, lighting, angle, height and bodyfat hugely change how a physique looks in photos
+2024-04-11 {{loDNjTHZjG4@2146}} anecdote A natty friend at his gym will compete at 145 lb, looks like a Greek god on stage by being shredded, and should win his class  {"bodyweight": "145 lb"}
+2024-04-11 {{loDNjTHZjG4@2146}} anecdote By bodybuilding stage standards he is fat
+2024-04-25 {{APmM-moU9z8@0}} principle [full_body] The perfect physique in a performance sense is the body that dominates in every situation, not the best six-pack or biggest biceps
+2024-04-25 {{APmM-moU9z8@889}} data [full_body] The final four all shared a similar lean build with balanced strength, speed, agility, intelligence and endurance
+2024-05-05 {{K--tJia2Wnc@1134}} anecdote Every spring when he starts bee pollen he looks fuller and more vascular, especially shoulders and upper arms, and it fades when he stops
+2024-05-12 {{qYaWxvA4fKg@314}} opinion Being fat lowers your value on the dating market but not your worth as a human being
+2024-05-12 {{qYaWxvA4fKg@3594}} opinion By bodybuilding standards he is fat when flat, but normal people would see a six-pack; bodybuilding and real-world standards differ
+2024-06-04 {{2LoP6-KdEx4@2269}} data [full_body] Baki is about 100 kg at maybe 12% body fat versus NH's 100 kg at 17-18%, a massive lean mass difference  {"bodyweight": "100 kg", "bodyfat": "12% vs 17-18%"}
+2024-06-04 {{2LoP6-KdEx4@2523}} principle [neck] Neck should be in line with the jaw as an aesthetic guideline
+2024-06-04 {{2LoP6-KdEx4@2397}} opinion [full_body] Grades: biceps S, triceps A (lacks long head), forearms B, shoulders S, chest S/A, upper back S, quads S, hamstrings A, glutes A, neck A, abs S: the best physique he has graded
+2024-09-07 {{bRKQIOYo2u4@1343}} principle [full_body] A great frame wants as little excess mass as possible, but a poor frame (narrow shoulders, wide hips) needs the extra size even at the cost of some fat to look big
+2024-09-07 {{bRKQIOYo2u4@1343}} prescription [full_body] With a wide waist: train delts for width, never skip core because people look there anyway, and build arms and legs so everything around the core looks bigger
+2024-09-07 {{bRKQIOYo2u4@1407}} opinion [biceps] Only someone with a huge V-taper can get away with small arms; without it you need massive arms
+2024-09-07 {{bRKQIOYo2u4@2179}} principle [neck] Male aesthetic baseline: from the front the neck should be in line with the jaw; more than that looks intimidating, and longer necks need more work
+2024-09-07 {{bRKQIOYo2u4@2242}} prescription [full_body] A short, stocky lifter should not prioritise shoulders and mass for mass's sake, which makes him look stockier; focus on limbs and core development
+2024-09-14 {{okm6bZHKHI4@1851}} opinion Women do like muscle, but chest, shoulders, arms, abs and glutes, not the mass-monster look
+2024-09-14 {{okm6bZHKHI4@5151}} opinion Physique archetypes he names: spider mode, otter mode, barbarian mode, hippo mode, frog mode (big legs, tiny upper body) and lobster mode (huge limbs, no torso)
+2024-09-21 {{lyj1BFZ85Dg@6262}} opinion There is no point where effort yields nothing, so cosmetic surgery is a cop-out; he learned to love his big nose. Exceptions are loose skin and gynecomastia
+2024-09-21 {{lyj1BFZ85Dg@6262}} data Many people who get one cosmetic surgery go on to get more (he cites roughly 75% getting a second) (low-confidence)  {"percent": "75%"}
+2024-09-28 {{jmOPC_ozpwc@964}} opinion Muscles speak for themselves; bragging about them puts women off
+2024-09-28 {{jmOPC_ozpwc@1859}} opinion Women judge strength from muscle size because they do not know lifting numbers; benching three plates while getting fat will not impress them
+2024-09-28 {{jmOPC_ozpwc@3218}} prescription If you hate your appearance, spend a few years improving what hard work can change before considering surgery
+2024-09-28 {{jmOPC_ozpwc@6413}} opinion His own dealbreakers are short, blonde, or no glutes; men list mostly physical traits in partners
+2024-09-28 {{jmOPC_ozpwc@6725}} opinion Young men becoming pretty boys is peacocking for women, not a sign of being gay; he opposes makeup
+2024-09-28 {{jmOPC_ozpwc@6918}} opinion Traits that attract women: size from muscle and height, protection, resources, and facial features
+2024-09-28 {{jmOPC_ozpwc@7814}} prescription [neck] For a baby face: lift, train your neck and grow a beard; looking young pays off by 35
+2024-09-28 {{jmOPC_ozpwc@8005}} opinion When women say they dislike big muscles they mean enhanced physiques or are posturing; to them pecs, a six-pack and some biceps is already big, and none ever told him he was too big  {"bodyweight": "Brad Pitt in Fight Club ~155 lb"}
+2024-10-19 {{c7hl9u3h_s0@2722}} opinion Most women look better heavier with more muscle; media made them obsess over the scale
+2024-10-26 {{wBct3Pl8OY4@387}} opinion 2024 is the best time in history to be jacked because almost nobody is
+2024-10-26 {{wBct3Pl8OY4@1143}} anecdote At about 19 and 170-180 lb, at a party every arriving man greeted him and ignored the beautiful woman he was talking to, assuming she was his: size changes how men treat you  {"bodyweight": "170-180 lb"}
+2024-10-26 {{wBct3Pl8OY4@9793}} opinion Most men look their worst in their 20s and 30s physical prime because they let themselves go
+2024-11-03 {{o40xCjIzl14@1721}} opinion Getting jacked so you never need to talk to women does not work; a good-looking statue gets opportunities, not results, and gym-maxxing alone stunts you socially
+2024-11-03 {{o40xCjIzl14@2358}} opinion If most women ignore you, the problem is looks or, more likely, personality, not your clothing style
+2024-11-03 {{o40xCjIzl14@8242}} opinion To date a woman much more jacked than you, get more jacked than her first
+2024-11-05 {{b6HRJHLJq90@568}} anecdote Around 15 he grew fast, gained muscle and lost the acne; girls who had mocked him flirted with him, proving to him that treatment is about appearance  {"age": 15}
+2024-11-05 {{b6HRJHLJq90@694}} opinion Saying incels are rejected only for personality is a lie; years of bullying make a sunny disposition hard, and appearance changes treatment
+2024-11-09 {{yZC3Nsmmzb8@702}} opinion Most submitted physiques came from novices, so the stream shows what an average physique really looks like; his own standards are skewed high
+2024-11-09 {{yZC3Nsmmzb8@890}} principle His review method: identify strong and weak points, estimate body fat to decide cut, recomp or bulk, spot undeveloped parts with great potential, then fix the program toward the stated goal
+2024-11-09 {{yZC3Nsmmzb8@2308}} principle [quads] For aesthetics you want a waistline close to your leg size; small legs with a small waist still keep the illusion
+2024-11-09 {{yZC3Nsmmzb8@2632}} anecdote Austin, a former 7-year distance runner, reached a 465 lb squat, 315 bench and 505 deadlift powerlifting, but looked worse at 210 lb; recomping down to 175 lb at 5'9 gave a good, clean natural physique at about 10-12% body fat  {"bodyweight": "155->210->175 lb", "bodyfat": "10-12%"}
+2024-11-09 {{yZC3Nsmmzb8@4548}} opinion Mirror shots in window light flatter the physique; under neutral lighting the real body fat and lagging delts show
+2024-11-09 {{yZC3Nsmmzb8@5300}} opinion He rates his own physique 6.5/10, Alex and GVS around 7-7.5, Bomman 6.5, Elak 8.5, and says he has never met a 10
+2024-11-09 {{yZC3Nsmmzb8@5553}} opinion [quads] Not wanting overpowering legs is fine, but legs so small they detract from the physique have no merit; long legs are not an excuse
+2024-11-09 {{yZC3Nsmmzb8@7921}} principle Relaxed poses are important in reviews because you cannot hide weaknesses in them
+2024-11-09 {{yZC3Nsmmzb8@7983}} opinion [abs] A stomach vacuum only helps when there is enough mass on top; on a small frame it just looks starved
+2024-11-09 {{yZC3Nsmmzb8@8173}} principle [abs] Waist size is structural; fat on it goes when you cut
+2024-11-09 {{yZC3Nsmmzb8@11450}} opinion Sammy's physique (fat to skinny-fat to jacked, 3 serious years) would be top 10 percent in most commercial gyms
+2024-11-09 {{yZC3Nsmmzb8@12306}} opinion Someone who has lifted 10 years for aesthetics shouldn't look like an early intermediate at best; BJJ and calisthenics training is not the same as training for aesthetics  {"years": 10}
+2024-11-09 {{yZC3Nsmmzb8@10612}} opinion His ranking of the reviewed lifters ran from novice (most) through intermediate to advanced (Joey, Lenus); his favourite physique was Lenus for the mix of mass and leanness
+2024-11-16 {{fPU3nRIH8sM@9411}} opinion His bodybuilding goals have not changed with age; he never cared about being lean and still does not
+2024-11-23 {{6p2x4kDDjzs@6123}} prescription [lats] For a V-taper add upright rows and weighted pull-ups
+2024-12-01 {{TvKzeUKgZcY@381}} opinion [full_body] Height doesn't matter in bodybuilding; 200 lb at 6'4 still looks wiry while 200 lb at 5'4 looks like a tank  {"load": "200 lb"}
+2024-12-07 {{pt4mbNb7NJ0@1899}} principle The waist dictates upper-body proportions: on a slim waist, every bit of size added to the shoulders looks doubled
+2024-12-07 {{pt4mbNb7NJ0@2347}} principle A wide waist can work if the upper body is thick enough that nobody looks at the waist
+2024-12-07 {{pt4mbNb7NJ0@2668}} principle [triceps] Arm measurements mislead: short arms with a long triceps sweep make a 17 in arm look like 19 in
+2024-12-07 {{pt4mbNb7NJ0@3438}} prescription [abs] With very wide hip bones, build the obliques, lats, core, chest and shoulders so people don't look at the hips
+2024-12-07 {{pt4mbNb7NJ0@3694}} principle [neck] The neck standard is in line with the jaw; much more than that makes you look like a ball
+2024-12-07 {{pt4mbNb7NJ0@4966}} principle Bodybuilding is about illusions: a lean 5'8 lifter at 165 lb can look huge  {"bodyweight": "165 lb"}
+2024-12-07 {{pt4mbNb7NJ0@6472}} principle A torso-dominant physique left alone becomes a spider physique; add arm isolation now and hit the legs hard
+2024-12-07 {{pt4mbNb7NJ0@7106}} principle Lighting, pump, posing and camera make a huge difference: the same lifter can look like a gremlin or a bodybuilder
+2024-12-07 {{pt4mbNb7NJ0@7426}} opinion If your structure is poor for bodybuilding (wide waist), don't chase the shredded look; pack on as much mass as possible and hide the structure
+2024-12-07 {{pt4mbNb7NJ0@7426}} principle [traps] The yoke (traps and neck) is what makes a bulky physique look powerful instead of fat
+2024-12-07 {{pt4mbNb7NJ0@7618}} opinion Most women he knows prefer a bulkier physique to a shredded one; it's also easier to maintain and looks better in clothes
+2024-12-14 {{hXx-KDH2p28@1082}} opinion An average-looking man can land a pretty woman if he is funny, charismatic, confident and treats women well; you do not need to be a Chad
+2024-12-14 {{hXx-KDH2p28@1525}} prescription Look your best as a man in your 30s and 40s; at 22 you are at the very start, so improve your appearance as much as possible
+2024-12-14 {{hXx-KDH2p28@2529}} opinion Leagues are real; couples of similar attractiveness are more stable, while a big gap creates insecurity unless career, charisma or money offset it, and those can disappear
+2024-12-14 {{hXx-KDH2p28@3975}} opinion He would rather be short and jacked than tall and skinny
+2024-12-14 {{hXx-KDH2p28@3664}} opinion Facial beauty matters more than physique because you cannot grow facial beauty but you can grow your physique
+2024-12-14 {{hXx-KDH2p28@3342}} anecdote Bodybuilding correlates with getting girls; as his physique improved, women started approaching him, even at the beach with his wife
+2024-12-14 {{hXx-KDH2p28@5565}} opinion He prefers soft, not shredded, women and has no interest in muscular fitness physiques; most women are naturally beautiful without the gym while men must train
+2024-12-14 {{hXx-KDH2p28@5941}} opinion Most women look better slightly heavier
+2024-12-14 {{hXx-KDH2p28@6007}} opinion [quads] Small legs and a small butt are the least attractive traits; the thigh-gap era looked like underfeeding
+2024-12-16 {{qvWxIzhT1QU@635}} opinion [abs] At 17-18% body fat his obliques still show separation; if you are leaner and your core doesn't look like that, isolate and train it seriously  {"bodyfat": "17-18%"}
+2024-12-16 {{qvWxIzhT1QU@635}} opinion [abs] Oblique training will not thicken your waist; it makes the physique look more aesthetic
+2024-12-16 {{qvWxIzhT1QU@759}} opinion [shoulders] He achieved a good waist-to-shoulder ratio despite a big waist, so anyone can
+2024-12-18 {{1bCQ2ezQfAA@4504}} opinion [full_body] Always have a dream physique: of 10 men who fantasize about one and 10 who do not, the dreamers will get better results and their physique will skew toward what they dream of
+2024-12-22 {{ZLheQPgEfoA@877}} opinion [shoulders] He likes shoulders that look small next to the upper arm, but shoulders still have to grow as the arm grows
+2024-12-22 {{ZLheQPgEfoA@1084}} opinion People who send physiques often misjudge their own strong and weak points
+2024-12-22 {{ZLheQPgEfoA@1398}} opinion [abs] The most muscular pose frames the abs with the arms, so without a six-pack there is nothing in the middle to show
+2024-12-22 {{ZLheQPgEfoA@4495}} opinion A small posterior chain with a tight waist is the classic silver-era look; Steve Reeves' ideal was neck, arms and calves the same size
+2024-12-22 {{ZLheQPgEfoA@5011}} opinion Even stage-ready physiques always have at least two areas to improve
+2024-12-22 {{ZLheQPgEfoA@5073}} prescription [shoulders] With narrow clavicles, prioritise arms and get as much shoulder size as possible to create the illusion of size
+2024-12-22 {{ZLheQPgEfoA@6350}} opinion An imbalance is fine if it is on purpose, like his arms over shoulders; most are accidents, and bodybuilding should not have accidents
+2024-12-25 {{uKOuj3Mzc9c@62}} anecdote He graded a top French natural bodybuilder (Ovak, per captions) 6/10 on a community post and was accused of unrealistic standards and blackpilling  {"grade": "6/10"}
+2025-01-09 {{waeSP7DBmig@270}} opinion [traps] With a narrow build he leans into his strong points; a V-taper is hard for him, so he chases a Bizu-style physique with huge traps
+2025-02-08 {{-7bzbmL-x3Q@687}} prescription [full_body] To fix a flat-looking physique, build the thickness muscles: chest, arms and traps
+2025-02-08 {{-7bzbmL-x3Q@1629}} anecdote As an overweight young man he cut his own hair short on the sides and longer on top, trying to create a visual illusion to look less fat
+2025-10-20 {{UgkxT4Jzsu262X8heALDcEZgmYqPzNiuyzVk@0}} principle A physique review tells you which areas to focus on, which body parts are genetic gifts, and whether to cut or bulk
+2025-10-20 {{UgkxT4Jzsu262X8heALDcEZgmYqPzNiuyzVk@0}} prescription Send training history, program, physique goals and lift numbers with photos: the more info, the more complete the review
+2025-10-20 {{UgkxT4Jzsu262X8heALDcEZgmYqPzNiuyzVk@0}} opinion His written physique reviews tend to be more complete than the ones he gives live on stream
+2025-10-20 {{UgkxhKDzsUD8qLOrs15LqmIBBmj_e_SKzwNE@0}} principle His physique critiques include rough body-fat estimates, whether to bulk, cut or recomp, which body parts to focus on, and your genetic gifts for bodybuilding
+2025-10-20 {{UgkxhKDzsUD8qLOrs15LqmIBBmj_e_SKzwNE@0}} prescription Applicants should send photos/videos plus lifting program, training history and physique goals
+2025-10-20 {{UgkxjZSvYVkAAG75u69j4AWubRYH1GFJyFr5@0}} prescription For a physique review, send as many angles and poses as possible so strong and weak points can be judged and a priority list built

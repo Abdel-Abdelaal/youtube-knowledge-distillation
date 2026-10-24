@@ -1,0 +1,423 @@
+2020-01-06 {{zXjb2_iz7DM@127}} anecdote Anime is a source of motivation for his training, so the channel will include some anime talk.
+2020-01-20 {{4Js7OkiuuKU@0}} anecdote His goal physique is essentially adult Gon from Hunter x Hunter; he has a drawing of it to reveal later.
+2020-03-08 {{8o4hRkd4B2A@62}} data Devon Larratt (whose talk NH plays) says he never defines a 'pure' way to win; he does his best within the rules, whether hook, press, strap or King's Move.
+2020-03-08 {{8o4hRkd4B2A@376}} data Per Devon Larratt, the King's Move signals willingness to risk breaking your arm, which a mature professional athlete has the right to choose; frame and skeletal strength are a huge part of arm wrestling.
+2020-03-08 {{8o4hRkd4B2A@503}} data Per Devon Larratt, the King's Move is not an ace but more like a jack (a queen in a strap match), with flaws such as no climbing and lack of shoulder commitment.
+2020-03-22 {{NTMGQPjpP00@63}} opinion Berserkers in Norse myth entered a fighting trance with immense strength and then crashed into depression, a price paid like Guts with the Berserker Armor; he likes the mythical figure, not the strength aspect.
+2020-03-22 {{NTMGQPjpP00@255}} opinion Characters with the Berserker physique: Gon (transformed) and Biscuit from Hunter x Hunter and Zodd from Berserk; Guts himself has more of a V-taper.
+2020-03-22 {{NTMGQPjpP00@255}} anecdote The channel will also cover fictional fitness, including videos on characters like Guts.
+2020-03-24 {{UXzapA1Q6Mk@127}} anecdote In his MMO phase he played from 8 am to midnight every holiday day for weeks, sometimes forgetting to eat or sleep until he fainted.  {"hours": "8am-midnight"}
+2020-04-03 {{v4_N0931QwM@0}} anecdote [shoulders] He tried decline push-ups for the first time because he saw Ippo (Hajime no Ippo) bulk up his shoulders with them.
+2020-04-06 {{TBv73UwG_JM@128}} anecdote [biceps] His obsession with big biceps comes from the coolest anime and manga characters always having big arms.
+2020-05-12 {{j2u5TzD5fGg@125}} opinion The Book of Five Rings will feel empty on the first few reads because its knowledge must be read between the lines intuitively; you find in it the wisdom you look for.
+2020-07-07 {{1CZQe76Ty4k@694}} data Itadakimasu is not 'bon appetit' but closer to saying grace: thanking the food, often a once-living being, for giving its life so yours continues.
+2020-07-14 {{Wz3bs32Qo68@1257}} opinion Samurai were community members serving a lord, not Westernised lone wolves; taking advice shows you are rooted like a big tree
+2020-07-21 {{RPUhg61IV-g@378}} opinion He does not subscribe to the bushido custom of taking blame to protect a superior's face
+2020-08-09 {{3dLu3VQinL8@506}} anecdote He has read thousands of manga since age 10 and prefers reading to anime; he usually only watches anime he has already read
+2020-09-14 {{Zg0oUngwPK4@480}} anecdote For a spark I use music, plus anime and manga, which got me into lifting through muscular characters
+2020-09-14 {{Zg0oUngwPK4@750}} opinion I prefer to train alone; Guts, Zoro and Shin train alone too; Yamato from Eyeshield 21 would be fun because he would try to kill you in the gym
+2020-09-14 {{Zg0oUngwPK4@790}} opinion Eyeshield 21 is a top-three sports manga; read it, the anime is awful
+2020-09-14 {{Zg0oUngwPK4@1030}} opinion One Piece is the best anime/manga of all time; Hunter x Hunter could have rivaled it if longer
+2020-09-14 {{Zg0oUngwPK4@1065}} anecdote Shin from Eyeshield 21 is my favorite character because we look alike and share a personality
+2020-09-21 {{ZdcKQXMmmPY@900}} opinion Jumping off a cliff to boost reaction time is fiction; don't try it
+2020-09-28 {{4An70JgJrVw@125}} data Kureha is depicted at 6 ft and 290 lb with body fat well under 20%  {"bodyfat": "<20%"}
+2020-09-28 {{4An70JgJrVw@170}} data [quads] Kureha performs full-ROM hack squats with 500 kg (1,102 lb) for easy reps  {"load": "500 kg"}
+2020-09-28 {{4An70JgJrVw@377}} principle Being big and muscular doesn't guarantee winning a fight; Kureha throws arm punches and can't transfer bodyweight into blows
+2020-09-28 {{4An70JgJrVw@280}} opinion At some point size and power become weapons that remove the need for technique against average fighters
+2020-10-05 {{yo59lp4drEM@125}} opinion Baki's young physique shows developed legs, smaller arms and upper body, capped shoulders and a V-taper
+2020-10-13 {{mO3cqgBEqdc@127}} opinion Great art and literature tell a story and inspire; modern art relies on shock and color and leaves him feeling nothing
+2020-10-13 {{mO3cqgBEqdc@127}} opinion A good book is like a friend that stays with you for life, and you should feel a bit sad closing it
+2020-10-19 {{qOQLKal7waY@0}} opinion Exposition about an unseen antagonist is the best way to hype a manga character; Kaido in One Piece is the best example
+2020-10-19 {{qOQLKal7waY@63}} anecdote Hanayama is introduced as a 15-year-old yakuza boss who beat 50 armed men in under 30 minutes and can tear coins
+2020-10-19 {{qOQLKal7waY@63}} data [forearms] Tearing a coin by hand appears to be impossible in real life, even for men with very strong grip (low-confidence)
+2020-10-19 {{qOQLKal7waY@188}} anecdote [full_body] Hanayama is drawn at 6'3 and 365 lb at 15, without the skinniness usually seen in tall teens  {"height": "6'3", "bodyweight": "365 lb"}
+2020-10-19 {{qOQLKal7waY@564}} data Flipping a ~5000 lb Cadillac would make him almost 5 times stronger than the real tire flip world record of about 1350 lb  {"load": "5000 lb vs 1350 lb"}
+2020-10-19 {{qOQLKal7waY@690}} opinion [full_body] His physique: neck and traps three times the size of his head, tree-trunk legs, massive core and chest, ripped rather than fat; not even 50 years of training would give that body
+2020-10-19 {{qOQLKal7waY@627}} opinion Hanayama has the anabolic jawline, a trademark of the most badass Baki characters like Yujiro and Jack
+2020-10-19 {{qOQLKal7waY@940}} opinion In a martial arts story size is not everything; much of Baki is about beating larger, more muscular opponents
+2020-10-26 {{dfnn-YdXerg@0}} opinion Lifting motivation comes from realism (real legends, athletes) or fiction (manga, mythology); he draws mainly from fiction
+2020-10-26 {{dfnn-YdXerg@175}} opinion [full_body] Baki's strong points: quads, abs, upper back (mid and lower traps) and shoulders; weak points relative to his frame: triceps, biceps, lats, calves
+2020-11-02 {{YcmCfbC00og@0}} opinion Officially every Grappler Baki character is natural, despite absurd physiques like a 365 lb teenager at 10% body fat, except Jack Hanma
+2020-11-02 {{YcmCfbC00og@126}} anecdote Jack Hanma is the only Baki character shown using steroids: testosterone, Deca, Anavar and Tren before fights
+2020-11-02 {{YcmCfbC00og@300}} anecdote At 6'3 and 255 lb, Jack has the best mix of muscle mass, leanness and frame in the tournament  {"height": "6'3", "bodyweight": "255 lb"}
+2020-11-02 {{YcmCfbC00og@315}} anecdote [neck] Jack's jaw and neck strength let him bite through coconuts, carry opponents in his mouth and resist a rear-naked choke
+2020-11-02 {{YcmCfbC00og@505}} anecdote Jack's response to drugs is beyond any real steroid user: world records in sprinting, powerlifting and weightlifting within weeks
+2020-11-02 {{YcmCfbC00og@756}} anecdote [traps] Jack's most developed muscles are the arms, legs and neck, with traps and upper back that swell during combat
+2020-11-02 {{YcmCfbC00og@693}} opinion Jack's progression came from drugs plus an indomitable spirit that refuses rest and has no care for tomorrow, which also destroys him
+2020-11-02 {{YcmCfbC00og@1005}} anecdote Jack's obsession with defeating Yujiro comes from being his son, born of his mother's rape and raised in poverty
+2020-11-09 {{MuQvx5dNpno@393}} opinion Jack Hanma personifies advanced bigorexia: he takes steroids for the biggest body possible even at the cost of his life
+2020-11-10 {{xoxYiiTPdIs@1000}} anecdote NH ranks the Hagakure books: book two is his favourite, book one second, book three least; Stoicism (Meditations first) starts in three weeks
+2020-11-16 {{u6l_OPSr1do@0}} opinion Karate has a poor reputation in the West due to McDojos, but in Japan it remains respected and deadly; Kyokushin is full-contact
+2020-11-16 {{u6l_OPSr1do@64}} data Mas Oyama sent three black belts to fight Muay Thai fighters in Thailand in 1964 and two of them won
+2020-11-16 {{u6l_OPSr1do@90}} anecdote Orochi Doppo, NH's favourite Grappler Baki character, is based on Mas Oyama
+2020-11-16 {{u6l_OPSr1do@736}} opinion Doppo is inspiring because he is fallible and emotional, not an enlightened-warrior cliché, so his mastery seems within reach
+2020-11-16 {{u6l_OPSr1do@752}} anecdote Doppo stepped down as Shinsekai president because the leadership role interfered with his true pursuit of perfecting karate
+2020-11-17 {{bJMBY6pZTL8@0}} opinion Book three is NH's least favourite of the Hagakure: long anecdotes leave him less room to extrapolate than short maxims like those in The Book of Five Rings
+2020-11-17 {{bJMBY6pZTL8@1204}} opinion The Hagakure's anecdotes add nuance by showing how to apply its rules in real situations
+2020-11-23 {{gCYXqFzqkVc@17}} opinion [forearms] Grip strength is the expression of strength that draws him most; it is widely depicted in fighting manga as power fantasy
+2020-11-23 {{gCYXqFzqkVc@120}} opinion [forearms] Hanayama and Reito were born with their strength, but because those are exaggerated human traits they can be developed
+2020-11-30 {{39mSVxrifu8@251}} opinion The Baki characters inspire because they train regardless of a bad day, a beating, weather, TV or friends
+2020-11-30 {{gfFkFmtuqAc@62}} opinion Martial arts manga ask whether a human can become a weapon rather than merely beat armed opponents
+2020-11-30 {{gfFkFmtuqAc@189}} anecdote [forearms] Rihito was born with superhuman pinch grip and put zero effort into his flesh-shaving technique, while Kosho trained painfully for years to turn his fingers into blades
+2020-11-30 {{gfFkFmtuqAc@189}} data Rihito is listed at 6'2 and 225 lb, while the technical Kosho is 5'8 and 180 lb with a more refined physique  {"height": "6'2 vs 5'8", "weight": "225 lb vs 180 lb"}
+2020-11-30 {{gfFkFmtuqAc@314}} opinion Wide slashing swings are like haymakers: devastating when they land but telegraphed and easy to predict
+2020-11-30 {{gfFkFmtuqAc@314}} opinion Rihito never developed beyond his natural talent because it was enough against ordinary fighters, until a genius like Ohma exposed him
+2020-12-02 {{xCzoFKSPkIc@877}} anecdote He never looked up to any physique; anime and manga inspired him and he was his own standard, with no limit
+2020-12-07 {{ZScs2L9rero@2710}} opinion He admires pro bodybuilding as the pinnacle of the sport but would not want those bodies; his favorite real physiques are Serge Nubret and Sergio Oliva's arms, plus Guts and Zodd from Berserk
+2020-12-07 {{stWgle5S3tU@162}} opinion [neck] At 16 Yujiro already carries more muscle than any 30-year-old could dream of, with a neck thick enough to shame dedicated yoke trainers
+2020-12-07 {{stWgle5S3tU@491}} opinion [full_body] Yujiro's frame is so wide relative to his narrow waist that he looks almost alien; these are 'Yujiro proportions' beyond GI Joe proportions
+2020-12-07 {{stWgle5S3tU@701}} opinion [shoulders] At a height of at least 6'2" (up to 6'5"), Yujiro packs an insane amount of mass on a large frame, unlike the short Baki; shoulders and yoke look ridiculous
+2020-12-07 {{stWgle5S3tU@688}} opinion Despite its reputation for brainless violence, Grappler Baki is stuffed with political messages, such as a single guerrilla fighter making the US army retreat in Vietnam
+2020-12-07 {{stWgle5S3tU@528}} opinion Yujiro differs from Baki in that his love of combat is sadistic and deviant, while Baki's is pure
+2020-12-07 {{stWgle5S3tU@797}} opinion Yujiro represents masculinity pushed to an inhuman extreme: biggest, most shredded body and androgenic traits, but also a psychopath without empathy, which makes his 'strongest creature' title believable
+2020-12-07 {{stWgle5S3tU@846}} opinion [lats] Big lats are important, but character believability matters more
+2020-12-21 {{V6YDUJZ2E64@0}} opinion The David vs Goliath story symbolises surpassing the physical limits imposed at birth and the undying force of hope
+2020-12-21 {{V6YDUJZ2E64@62}} opinion Shonen needs underdog heroes so characters can start low and rise; Baki is 5'2" and 180 lb against Hanayama at 6'3" and 365 lb  {"height": "5'2\" vs 6'3\"", "bodyweight": "180 vs 365 lb"}
+2020-12-21 {{V6YDUJZ2E64@420}} opinion Fighting someone twice your size up close is a terrible idea, which is why weight classes exist
+2020-12-21 {{V6YDUJZ2E64@439}} opinion Giants are slower to rotate and strike, so speed and technique can beat them, but you need the guts to get within grabbing range
+2020-12-21 {{V6YDUJZ2E64@1046}} opinion In Grappler Baki violent conflict naturally ends in peaceful resolution and fighting is a form of social interaction
+2020-12-28 {{o-9f1OtL_FM@0}} data [full_body] Baki gained about 20 lb, going from an athletic 156 lb to almost 180 lb at about 5'2" while staying fairly lean, on a full-body routine and over 10,000 kcal a day  {"bodyweight": "156 -> ~180 lb", "kcal": "10000+"}
+2020-12-28 {{o-9f1OtL_FM@61}} opinion [back] Most of Baki's new mass is in the upper back and posterior chain, the muscles that matter most for transferring ground force into strikes
+2020-12-28 {{o-9f1OtL_FM@185}} opinion Baki befriending his opponents was radical in 1991, years before Luffy or Naruto
+2020-12-28 {{o-9f1OtL_FM@374}} opinion Reaching that much size at such low body fat would require fully specialising in bodybuilding; being that massive and still nimble and fast is impossible in real life
+2020-12-28 {{o-9f1OtL_FM@499}} data In the manga Baki is estimated at around 80 kg, keeping the mass he built for the Yasha Ape fight  {"bodyweight": "~80 kg"}
+2020-12-28 {{o-9f1OtL_FM@563}} opinion Baki's arc shows a well-developed physique beats weaker opponents and contradicts the idea that grapplers can only get big at the cost of fighting ability
+2020-12-28 {{o-9f1OtL_FM@801}} opinion Training while weighted, like Baki's diving weights and 2 kg shoe soles, is a cool fighting-manga trope but doesn't mean it works in real life  {"load": "50 lb weights, 2 kg per shoe"}
+2021-01-11 {{ivrGNRW0rwE@63}} opinion Athletes' training is sport-specific; pro wrestlers differ because their body is also a cosmetic artifact to entertain, so they are buff
+2021-01-18 {{o-5426qMXac@125}} opinion Retsu at 5 ft 10 and about 235 lb has massive lats and pecs that make him look barrel-chested, huge traps, bodybuilder arms and a six-pack, far beyond Bruce Lee's small aesthetic build  {"height": "5 ft 10", "bodyweight": "235 lb"}
+2021-01-18 {{o-5426qMXac@438}} opinion He cherishes manga flashbacks of brutal training, such as pounding an obsidian rock into a sphere, above everything else
+2021-01-18 {{o-5426qMXac@563}} opinion [neck] A big enough neck lets you run your mouth as much as you want
+2021-01-25 {{Ni4S0LIdgic@0}} opinion Getting anatomy right is essential for a manga artist; without it drawings look uncanny or lifeless, and muscle lengthening and contracting across panels keeps continuity
+2021-01-25 {{Ni4S0LIdgic@100}} opinion Despite its superhuman fighters, Grappler Baki is grounded in realism: set in our world, with human characters bound by the same limits
+2021-01-25 {{Ni4S0LIdgic@126}} opinion Characters share our anatomy but are governed by a different physiology; Itagaki never makes structural mistakes in muscles, bones, organs or blood vessels
+2021-01-25 {{Ni4S0LIdgic@188}} opinion Unlike many shonen with plot armor, Baki characters get injured when they lose, with clear descriptions of the damage and how it will affect them
+2021-01-25 {{Ni4S0LIdgic@230}} opinion Itagaki's anatomical lectures cut off deus ex machina escapes and keep reminding readers that the monsters are humans
+2021-01-25 {{Ni4S0LIdgic@251}} opinion The gore is clinical rather than sanitized; precise injuries feel permanent even though main characters keep recovering
+2021-01-25 {{Ni4S0LIdgic@330}} opinion Fighters in Baki act as if they had PhDs in anatomy, targeting tendons and arteries, e.g. Jack biting specific tendons
+2021-01-25 {{Ni4S0LIdgic@378}} opinion Knowing how to destroy a body also tells you how to protect it, so fights become a contest of anatomical understanding and savage skill
+2021-01-25 {{Ni4S0LIdgic@400}} opinion Accurate anatomy makes the movement believable, which is why the fights look so lively and made the series famous
+2021-01-30 {{RlnOXG0OjPE@400}} anecdote Because his idols were fictional and never aged or sold supplements, he never became an emotionally attached fanboy
+2021-01-30 {{RlnOXG0OjPE@450}} anecdote His channel would not exist without anime and manga
+2021-01-30 {{RlnOXG0OjPE@1750}} opinion Bodybuilding, superhero movies and anime all feed the male power fantasy: projection as an emulation tactic
+2021-02-08 {{Lpnert4YIm4@38}} opinion Manga runs at roughly 4-5 frames per second, yet good artists convey complex human motion; Itagaki has mastered it despite questionable art and narrative tendencies
+2021-02-08 {{Lpnert4YIm4@70}} opinion Movement in Baki is shown in three tiers that tell a visual story without dialogue
+2021-02-08 {{Lpnert4YIm4@166}} opinion Tier one, movement execution, shows a blow just landed or ending, using blur, impact marks, foot position and center of gravity; it often links action scenes and gives the fight room to breathe
+2021-02-08 {{Lpnert4YIm4@312}} opinion Tier two, movement prediction, uses several causally linked panels with the main action in one frame, showing past, present and future of a motion
+2021-02-08 {{Lpnert4YIm4@389}} opinion Overusing blur makes fights hard to follow; drawing the striking body part keeps the action clear
+2021-02-08 {{Lpnert4YIm4@484}} opinion Tier three, movement suspension, is the iconic frozen mid-action frame (Goku's Kamehameha, Luffy's punch, Jack's uppercut); overused or used without lead-up it looks choppy
+2021-02-08 {{Lpnert4YIm4@541}} opinion Mixing suspension with the other two tiers at roughly 60/20/20 produces iconic, memorable fights  {"ratio": "60/20/20"}
+2021-02-08 {{Lpnert4YIm4@648}} opinion Even fight build-ups without punches show motion, as waves of animosity seem to bend space
+2021-02-08 {{Lpnert4YIm4@691}} opinion Anyone can draw stick figures and red ink, but using violence to tell a story through anatomical movement is a craft Itagaki has raised to an art
+2021-02-08 {{eEhfcVidJns@251}} opinion [forearms] Akoya is listed at 191 cm and 114 kg, a muscle mass many tall men would kill for, but what impresses most is how it is distributed: his forearms look nearly as big as his legs  {"height": "191 cm", "bodyweight": "114 kg"}
+2021-02-08 {{eEhfcVidJns@314}} data Akoya's 75 ms reaction time is beyond human; an average adult reacts in about 225 ms, the fastest in the high 100s, and below 100 ms is not considered possible  {"reaction_time": "75 ms vs ~225 ms average"}
+2021-02-08 {{eEhfcVidJns@1040}} opinion Akoya is an example of what a man with immense physical strength can do once his soul is consumed by madness
+2021-02-15 {{40vhVi10XMY@0}} opinion Martial arts series are unfairly seen as brainless; Grappler Baki uses violence to build characters and ideas instead of avoiding writing
+2021-02-15 {{40vhVi10XMY@400}} opinion Baki characters reveal personality through how they react to pain, such as Jack shrugging off an arm broken in seven places, rather than through dialogue
+2021-02-15 {{40vhVi10XMY@376}} opinion Pain in Baki is exaggerated but bounded (losing pints of blood is survivable, decapitation is not), which keeps dramatic tension without cheapening outcomes
+2021-02-15 {{40vhVi10XMY@700}} opinion Baki presents violence as neither good nor evil; it simply exists, and the strong devour the weak
+2021-02-15 {{40vhVi10XMY@530}} opinion Itagaki uses brutality to criticise the watering down of martial arts, which in the series should be survival of the fittest: martial arts is not sport, it is war
+2021-02-15 {{40vhVi10XMY@749}} opinion A one-track mind ignores common sense, which is why the sound objections of the series' female voice of reason are always ignored by the fighters
+2021-02-15 {{TPPCu5zBPLk@190}} opinion Gaia's idea that hard training abuses the body and that bodybuilding is an ego chase is a demoralisation tactic, and demoralisation is the strongest negative force in the world
+2021-02-22 {{1Otmiq5AmN0@62}} opinion The original Grappler Baki (1991) is the best part of the saga; its first 42 volumes contain the plot elements needed to understand the later arcs, which Netflix adapted from 2018  {"volumes": 42}
+2021-02-22 {{1Otmiq5AmN0@124}} opinion Constant exposure to great physiques in Baki reminds you that you can and should strive for a better body
+2021-02-22 {{1Otmiq5AmN0@188}} opinion Baki's characters have very thick upper backs and necks and tree-trunk legs; size rarely equals strength in the power rankings
+2021-02-22 {{1Otmiq5AmN0@340}} opinion Baki shows men in their 50s still jacked, a good message that age is no barrier to building a physique
+2021-02-22 {{1Otmiq5AmN0@693}} opinion Baki covers serious themes like body dysmorphia, depression and the meaning of life that are relevant to a bodybuilding journey
+2021-03-01 {{kkbfHkyQ_q0@2895}} anecdote NH has read manga and watched anime since age 10, back when it made you an outcast  {"age": 10}
+2021-03-01 {{kkbfHkyQ_q0@2990}} opinion Mocking anime fans reflects conformism and lack of empathy; dismissing all anime is like dismissing all cinema
+2021-03-01 {{kkbfHkyQ_q0@3144}} opinion NH loves Attack on Titan, read it since its French release, and thinks its political message is simple yet misunderstood
+2021-03-01 {{m970ukqBIQI@0}} opinion Baki takes place in our real world, shown by its Tokyo setting, real-life cameos, a working justice system and global politics
+2021-03-01 {{m970ukqBIQI@90}} opinion Armies and politicians serve as the yardstick for character strength; Yujiro clashing with whole countries builds toward god status
+2021-03-01 {{m970ukqBIQI@140}} opinion US presidents (Clinton, Bush, Obama, Trump) are repeatedly humiliated by Yujiro and Baki, reading more like revenge fantasy than characterization
+2021-03-01 {{m970ukqBIQI@200}} opinion Because Japanese law applies to the cast, their transgressions feel more impressive than in typical shonen
+2021-03-01 {{m970ukqBIQI@251}} opinion Itagaki uses ethnicity as a simple factor of division instead of a complex political spectrum, without moralizing
+2021-03-01 {{m970ukqBIQI@437}} opinion Establishing that Yujiro can take on an entire army raises the ceiling of the roster's power while keeping it conceivable, easing later power escalation
+2021-03-08 {{1MOLCv6ojgw@0}} opinion Yujiro's physique is unachievable for humans even with drugs, but using a fictional physique as inspiration is fine motivation fuel
+2021-03-08 {{1MOLCv6ojgw@63}} opinion [back] The demon back is not literally possible because the muscles rearrange into a face, with exaggerated size and fiber separation
+2021-03-15 {{389BOWoca-4@144}} data [full_body] Katsumi is depicted at 21 as 6 ft+, 115 kg, at most ~12% body fat, benching 300 kg and running 100 m in 10 seconds  {"bodyweight": "115 kg", "bench": "300 kg", "bodyfat": "<=12%"}
+2021-03-15 {{389BOWoca-4@302}} opinion Baki's author understands that thinking strength and weight advantages don't matter in combat is naive and dangerous; some muscular development is necessary
+2021-03-15 {{389BOWoca-4@584}} opinion [shoulders] A weighted one-arm handstand push-up from a dead bottom at 240 lb+ would be downright impossible for a real calisthenics athlete
+2021-03-22 {{8fHqn9MWmE8@190}} opinion Baki's pursuit of martial arts was impure: it was forced on him and he fought only to win his mother's love
+2021-03-29 {{BvF2Tc-krG4@0}} opinion No martial art has influenced modern fighting more than jiu-jitsu; being well-rounded is now unavoidable in MMA
+2021-03-29 {{BvF2Tc-krG4@63}} opinion Grappler Baki mostly ignores ground grappling and focuses on striking, while Kengan Ashura depicts jiu-jitsu step by step with near realism
+2021-03-29 {{BvF2Tc-krG4@189}} principle Once someone takes your back and sinks a choke it's game over, which is why grappling must be learned
+2021-03-29 {{BvF2Tc-krG4@253}} opinion On your back you can't draw energy from the floor to strike; no martial art defends from the ground better than Brazilian jiu-jitsu
+2021-03-29 {{BvF2Tc-krG4@441}} opinion Grappling and striking are separate endeavours and perfect complements
+2021-03-29 {{BvF2Tc-krG4@504}} data Heel hooks dominate no-gi MMA because they are devastating on opponents who can't defend them
+2021-03-29 {{BvF2Tc-krG4@630}} principle With wrestling, judo and jiu-jitsu there are no lucky shots; mastery takes hundreds of hours of practice
+2021-03-31 {{eKBDacpRYSU@63}} opinion France has a big swole shaming problem; it mostly takes the form of constant micro-aggressions
+2021-03-31 {{eKBDacpRYSU@1446}} opinion Men in Paris lose muscle mass every year; he used to be one of these wimps and grew out of it
+2021-03-31 {{eKBDacpRYSU@1570}} opinion The jock-as-villain trope in Hollywood youth movies from the 80s spread the idea that athletic and big means bad
+2021-04-05 {{ROaw5Rxk16I@123}} data [full_body] Adam Dudley is listed at 107 kg and 192 cm: not an outlier in size, but his anatomy stands out  {"bodyweight": "107 kg", "height": "192 cm"}
+2021-04-05 {{ROaw5Rxk16I@123}} opinion [abs] Dudley's arms and shoulders are topped only by Julius in size and Kuroki in definition; his biggest strength is a huge core with an 8-pack
+2021-04-05 {{ROaw5Rxk16I@187}} principle Brawlers lose most of their striking power on their back because punching power comes mostly from the hips
+2021-04-05 {{ROaw5Rxk16I@374}} opinion [abs] In the manga, Dudley's punching power comes from a trunk, core and lower back several times thicker than a normal man's, which lets him KO people without his lower body
+2021-04-05 {{ROaw5Rxk16I@374}} anecdote [abs] His trunk is so rigid he can do a full-range sit-up with only a slight knee bend
+2021-04-05 {{ROaw5Rxk16I@560}} opinion The fight shows the effectiveness of grappling in MMA: Imai Cosmo wins by submission while Dudley hallucinates from lack of oxygen
+2021-05-07 {{qyIeSz_D9UQ@64}} data [full_body] Ohma Tokita is 6 ft and 185 lb, very lean and jacked especially in the upper body, a classic case of looking small in clothes  {"height": "6 ft", "bodyweight": "185 lb"}
+2021-05-07 {{qyIeSz_D9UQ@64}} opinion [full_body] His physique was built by and for martial arts with minimal body fat, which makes him look small next to other fighters and casts him as an underdog, like 5'6 Baki
+2021-05-07 {{qyIeSz_D9UQ@127}} opinion Ohma relies on technique over brute force, using kinetic vision (seeing the flow of power) to anticipate and redirect opponents, a trait shared with Grappler Baki
+2021-05-07 {{qyIeSz_D9UQ@380}} opinion The Advance borrows vital energy for speed and striking torque but damages his cardiovascular health and puts him in a trance where he takes blows he should dodge
+2021-05-07 {{qyIeSz_D9UQ@629}} opinion Ohma embodies the Ashura of Japanese folklore: warriors who live for battle, with huge egos, jealousy and constant inner conflict
+2021-05-07 {{qyIeSz_D9UQ@696}} opinion [full_body] His muscles double in size within 48 hours before the tournament, a shonen protagonist perk  {"weeks": "48 hours"}
+2021-05-10 {{D1_tXh-Kp9Y@320}} opinion Baki physiques escalate each arc like pro bodybuilding: early Baki looked fairly natty with big legs and core, later came huge calves and leaner builds, and in Son of Ogre everything is huge, losing some charm
+2021-05-10 {{n0MW_NIzy-E@63}} opinion Ogres in folklore are hyper-muscular man-eating humanoids that personified mass violence, war and parents' fear of losing children; the nickname casts Yujiro as that archetype
+2021-05-10 {{n0MW_NIzy-E@189}} opinion Folk ogres are defeated by brains rather than brawn, and Yujiro likewise can only be survived through avoidance or strategy, never direct confrontation
+2021-05-10 {{n0MW_NIzy-E@321}} opinion Jack Hanma is no genuine ogre because he used drugs and surgery to build his body, so he never matched his natural-born father; banking everything on strength alone fails against ogres
+2021-05-10 {{n0MW_NIzy-E@384}} opinion Yujiro mirrors the titan Cronus devouring his sons, and Baki's mother sacrificing herself echoes Rhea hiding Zeus
+2021-05-10 {{n0MW_NIzy-E@822}} opinion Yujiro's feline features, mane of hair, darker skin and appetite for 20 people match classical ogre descriptions
+2021-05-10 {{n0MW_NIzy-E@1068}} opinion Attempts to destroy the ogre only multiply violence, because the ferocity it represents cannot disappear
+2021-05-20 {{8A7hSygtWfM@0}} anecdote He opens with a tribute to Berserk author Kentaro Miura, who just died
+2021-05-30 {{QTHtVBP_36g@3200}} anecdote He owns close to 1,000 physical manga and supports authors only when the series is good
+2021-05-30 {{QTHtVBP_36g@3253}} opinion He dislikes Armin in Attack on Titan for regretting acts he chose; living in line with your values is better
+2021-06-07 {{6K7xyjI5lYE@0}} anecdote Shonen training arcs got him into exercise and are still his favourite part of manga
+2021-06-07 {{6K7xyjI5lYE@63}} principle Copying anime characters' training will not make you jacked because the regimens are deliberately exaggerated
+2021-06-18 {{Rf00mkH4QkQ@127}} opinion Ohma embodies the fighting stoic, a mix of machismo and Stoic principles that represents the virtuous masculinity missing from western media
+2021-06-18 {{Rf00mkH4QkQ@695}} opinion Vengeance is a hedonistic expression of violence; Ohma not avenging his master is applied Stoicism
+2021-06-25 {{ICP_XepCeo0@62}} opinion After Vietnam, Yujiro returned with black slicked hair and a calmer aura; his ogre traits (leathery skin, mass) seem tied to his time on the battlefield
+2021-06-25 {{ICP_XepCeo0@125}} opinion Yujiro and later Baki (180 to 160 lb) both slimmed down, as if extra fluff hurt performance, to rebuild on a more solid base with leaner physiques  {"bodyweight": "180 -> 160 lb"}
+2021-06-25 {{ICP_XepCeo0@190}} opinion In Baki, downsizing brings no loss of strength; the leaner Yujiro is as dangerous as his bulkier teenage self
+2021-06-25 {{ICP_XepCeo0@253}} opinion Burying opponents into the ground expresses dominance on both a symbolic and physical level
+2021-06-25 {{ICP_XepCeo0@381}} opinion [neck] Choking someone by lifting them by the scruff of the neck is the most alpha move possible and needs huge strength
+2021-06-25 {{ICP_XepCeo0@507}} opinion Yujiro chose Emi for her sadism, ideal for bearing warriors, and did not care about her physical genes, trusting Hanma DNA
+2021-06-30 {{p42qv-VEEOk@124}} opinion Berserk illustrates that granting someone immortality is really sacrificing them for your own enjoyment
+2021-07-12 {{44efemI7srk@0}} opinion Record of Ragnarok is an inspiring, anabolic manga that focuses on larger-than-life characters
+2021-07-12 {{44efemI7srk@189}} opinion [lats] Swinging a halberd up and down mimics a lat pulldown, and slicing left and right mimics standing Russian twists that build the core
+2021-07-12 {{44efemI7srk@375}} opinion Having no one left to challenge was agony for Lu Bu; his thirst was for adversity, not victory
+2021-07-12 {{44efemI7srk@944}} opinion A leader with enough charisma and strength earns loyalty even in failure, as Lu Bu's army followed him into death
+2021-07-27 {{pDfGvxia37A@131}} opinion Read the Record of Ragnarok manga rather than watch the Netflix anime, which ranges from mediocre to terrible and skips key moments
+2021-07-27 {{pDfGvxia37A@131}} opinion The anime draws the characters even more muscular, which makes the human fighters' physiques look unattainable
+2021-07-27 {{pDfGvxia37A@321}} opinion Lu Bu kept training brutally even after he was already the strongest man alive, which makes him a training role model
+2021-07-27 {{pDfGvxia37A@384}} opinion The all-out final clash between Thor and Lu Bu captures the intensity of a set of deadlifts taken to failure
+2021-08-07 {{aIjUTEtXOcM@190}} anecdote His first training came from manga: push-ups and sit-ups; at first he couldn't do a single push-up or a leg raise
+2021-08-10 {{GsRa8YsVo00@0}} opinion Using fictional physiques as goals helps set realistic expectations if you sort what is natty-achievable
+2021-08-10 {{GsRa8YsVo00@510}} opinion [traps] Huge traps and tree-trunk legs are rarely seen in real professional fighters
+2021-08-19 {{nsHvjvcCCZY@191}} opinion Baki overtook Hanayama because training made the difference despite Hanayama's gifts
+2021-08-19 {{nsHvjvcCCZY@254}} anecdote Hanayama got bigger in four years without training once, showing near-limitless genetic potential  {"years": 4}
+2021-08-19 {{nsHvjvcCCZY@694}} opinion Hanayama sees training as an admission of weakness; NH can't relate but admires a man willing to die by his principles
+2021-08-19 {{nsHvjvcCCZY@568}} opinion [shoulders] One-arm front-raising a 245 lb man would need absurd arm and shoulder strength  {"load": "245 lb"}
+2021-08-30 {{rjWsjscF_y8@0}} opinion In YuYu Hakusho most of the darkness comes from humans rather than demons, e.g. Tarukane torturing a girl whose tears become jewels
+2021-08-30 {{rjWsjscF_y8@321}} opinion The Dark Tournament is run by a crime syndicate; the human owners profit most while the fighters are expendable
+2021-08-30 {{rjWsjscF_y8@957}} opinion Sakyo, bored of wealth and chasing excitement, wants to open a rift to the demon realm; an elite revolts only when the gains are huge and the drive is strong
+2021-08-30 {{rjWsjscF_y8@1081}} opinion The Dark Tournament was destroyed by the same greed that created it
+2021-09-14 {{rJ2aPIQx-Eg@0}} principle In real life, unlike fighting games, heavyweights often have both durability and power, which is why weight classes exist
+2021-09-14 {{rJ2aPIQx-Eg@63}} data [full_body] Yoshinari stands 6'8" and weighs 360 lb, built from 40 years of fishing rather than dojo training  {"weight": "360 lb", "height": "6'8\""}
+2021-09-14 {{rJ2aPIQx-Eg@380}} opinion A man with something precious to protect, like his family and community, becomes far more dangerous
+2021-09-28 {{0zEVs8KDOPY@649}} opinion The zombie archetype represents humans losing virtue and regressing to pure instinct, and the fear of civilization collapsing from within
+2021-10-02 {{ilGY8qFjuxI@890}} opinion Muscle Manga episodes come out once a week, about 52 a year, and every muscular character will eventually get one  {"per_year": 52}
+2021-10-02 {{ilGY8qFjuxI@1386}} opinion Time travel is often a crutch for bad writers; the future Trunks timeline in Dragon Ball Z does not add up, and new-world arcs are similarly risky: One Piece handled it well, Toriko was killed by it, and he fears for Hunter x Hunter
+2021-10-02 {{ilGY8qFjuxI@2357}} opinion Mecha series like Gundam, Evangelion and Gurren Lagann do not appeal to him, and he has no interest in cars
+2021-10-02 {{ilGY8qFjuxI@2888}} opinion Star Wars Episode III is his favourite film of all time; he likes the prequels and ignores the Disney sequels
+2021-10-02 {{ilGY8qFjuxI@2982}} opinion The Hobbit is his favourite Tolkien book for its looming atmosphere; he loves the Lord of the Rings films but hates the Hobbit films
+2021-10-02 {{ilGY8qFjuxI@3143}} anecdote He read Harry Potter at the same age as the hero, read book three around 40 times, and his mother let him skip school on release days; he suspects Rowling had a ghostwriter because she misreads the conservative-versus-progressive themes of her books  {"rereads": 40}
+2021-10-02 {{ilGY8qFjuxI@3201}} opinion He has no interest in comics or superheroes; manga fills that space for him
+2021-10-20 {{f-XiVNy25tw@155}} opinion [abs] Abs became the cultural marker of a muscular body through movies; in 300 makeup deepened the abs and Brad Pitt in Fight Club was seen as muscular with little mass
+2021-10-26 {{PMp7WiA0zzE@38}} opinion Yusuke's mental strength, the willingness to follow his own path regardless of consequences, distinguishes him more than his physical power
+2021-10-26 {{PMp7WiA0zzE@133}} opinion Yusuke's grey morality, neither good nor evil, makes him relatable because we are all the product of an internal struggle between good and evil
+2021-10-26 {{PMp7WiA0zzE@189}} opinion He is the purest anti-hero: he does things not because he's virtuous but because he wants to
+2021-10-26 {{PMp7WiA0zzE@321}} opinion Yusuke's defining trait is powering up in the face of adversity; he gets stronger the more he is pushed to his limits
+2021-10-26 {{PMp7WiA0zzE@331}} opinion [full_body] At only 14 his body is robust and muscular, making him both tireless and dangerous
+2021-10-26 {{PMp7WiA0zzE@421}} anecdote His training regimen in the manga is one-finger, one-arm handstands for 12 hours on needles, mainly to raise his spirit energy  {"hours": 12}
+2021-10-26 {{PMp7WiA0zzE@492}} opinion Unlike a simple deus ex machina, Yusuke's seemingly inexhaustible energy comes from determination, turning his own life force into power to keep fighting
+2021-11-15 {{3pvH71ie6UQ@64}} data Bosozoku peaked at around 42,000 members in 1982, a tiny fraction of Japan's population, yet massively influenced pop culture
+2021-11-15 {{3pvH71ie6UQ@90}} opinion Bosozoku fascination stems from Japanese people's deep craving for liberty hidden behind the social mask of tatemae
+2021-11-15 {{3pvH71ie6UQ@195}} opinion Grappler Baki is first and foremost about willpower rather than technique or muscles, and Chiharu Shiba exists to remind readers of that
+2021-11-15 {{3pvH71ie6UQ@259}} opinion Shiba's guts-based style offers his body for destruction, contradicting the idea that a fighter should hit without getting hit
+2021-11-22 {{iks-GKGaCkY@192}} opinion Young Guts used sword training and physical exhaustion as an escape from existential pain, sleeping with his sword as a coping mechanism
+2021-11-22 {{iks-GKGaCkY@220}} opinion Guts's drive to earn Gambino's approval, reinforced by rare moments of kindness, was a powerful motivator despite the abuse
+2021-11-22 {{iks-GKGaCkY@444}} opinion Guts built a delusion that Gambino could not have betrayed him because he could not face the truth
+2021-11-22 {{iks-GKGaCkY@930}} opinion Killing an innocent page completes Guts's cycle from molested child to child murderer and gives birth to the 'beast of darkness'
+2021-11-30 {{Yzr-FrMtW9E@125}} principle Male power fantasies show readers not who they are but who they wish to be, and they are the soil in which male identity grows
+2021-11-30 {{Yzr-FrMtW9E@438}} opinion Anime and manga, especially Japanese shonen, are the most effective way to pass masculine values to younger men today
+2021-11-30 {{Yzr-FrMtW9E@500}} principle Values stick when shown through a hero's journey rather than told
+2021-11-30 {{Yzr-FrMtW9E@563}} principle Baki starts young and small at 13 so readers can identify with him and grow alongside him
+2021-11-30 {{Yzr-FrMtW9E@563}} opinion Yujiro Hanma, Baki's father, represents paroxysmal masculinity that can only be measured against, and positive masculinity is born in response to it
+2021-11-30 {{Yzr-FrMtW9E@753}} opinion Baki's fights work like the labors of Hercules, each victory symbolizing a win over the self
+2021-11-30 {{Yzr-FrMtW9E@942}} principle In male power fantasies violence is never normalized; it is used to fight violence or to prepare for its inevitable arrival
+2021-12-18 {{bqcRtC3bbK8@78}} opinion [full_body] Aim for Guts' Golden Age arc physique; other arcs are too unrealistic or imbalanced
+2021-12-18 {{bqcRtC3bbK8@152}} opinion Guts spent about 7 years building his body before the Golden Age arc  {"years": 7}
+2021-12-30 {{w6x6bgwolzE@129}} principle Hero myths, as Campbell describes, both reflect and reinforce masculine identity; male power fantasies keep masculine standards alive across generations
+2021-12-30 {{w6x6bgwolzE@446}} opinion Baki's first arc is a classic monomyth: a boy who must face a god, his father Yujiro, in order to become a man
+2021-12-30 {{w6x6bgwolzE@639}} opinion Yujiro is the shadow of masculinity: no one can beat him because dark masculinity can only be contained for a while, never killed, as in the net-and-tranquilizer scene
+2021-12-30 {{w6x6bgwolzE@889}} principle The hyper-male (villain, chaos, instinct) must be distinguished from the alpha male (hero, order, hierarchy); one is masculinity itself, the other its peak
+2021-12-30 {{w6x6bgwolzE@1138}} opinion Yujiro is a terrible father because his parenting uses only negative reinforcement, yet shielding a child from all negativity is equally harmful; the father brings challenges, the mother comfort
+2021-12-30 {{w6x6bgwolzE@1200}} opinion Yujiro is like a tyrant who must be killed to be replaced, while an alpha is like a democratic leader who steps down
+2021-12-30 {{w6x6bgwolzE@1517}} opinion Yujiro killing Baki's mother symbolises the vulnerable dying when masculinity fails to protect them; modern women who attack masculinity weaken their own protection
+2022-01-14 {{rN2kugqW_D0@66}} anecdote It took NH more than 10 years to collect every volume of Yu Yu Hakusho, and he says the series shaped his physical and spiritual development
+2022-01-14 {{rN2kugqW_D0@129}} anecdote As a scrawny kid NH related more to the small, imperfect Yusuke than to giant heroes like Goku, which also fits lifters at the start of their journey
+2022-01-14 {{rN2kugqW_D0@194}} opinion The show is a muscle fest with mostly bare-knuckle physical fights rather than magic, appealing to fans of physical showdowns
+2022-01-14 {{rN2kugqW_D0@322}} prescription Watch the anime rather than read the manga: Togashi's art is erratic, and the full anime is on YouTube in HD with a decent English dub and an excellent soundtrack
+2022-01-14 {{rN2kugqW_D0@385}} opinion Toguro, whose power is controlling his own flex like a gym rat with on-demand pumps, is one of the best-written villains in shonen
+2022-01-14 {{rN2kugqW_D0@590}} opinion The story's moral ambiguity between humans and demons, with demons offering compelling justifications, makes it more than a good-versus-evil tale
+2022-01-31 {{eC9Srr3ZygE@854}} opinion A favourite manga panel, from Sun-Ken Rock, says the only thing we truly own is our body; sharpen it like a blade and develop the spirit inside it
+2022-01-31 {{eC9Srr3ZygE@854}} anecdote He is a third of the way through reading Berserk for a channel analysis
+2022-03-09 {{GeMs1MAEK60@1126}} anecdote The cartoon superheroes of his childhood were all big and strong, giving his generation male power fantasies
+2022-03-12 {{nZnt4--nIpY@0}} principle Studying a loser like Corkus is more relatable than studying winners and shows which flaws to avoid
+2022-03-12 {{nZnt4--nIpY@321}} anecdote Corkus abandoned his dream after defeat and blamed lack of talent instead of trying again
+2022-03-20 {{ZPBwBrOktgA@59}} opinion Memes that last carry a hidden meaning; Kyriakos Grizzly's catchphrases hide real wisdom behind the screaming
+2022-04-06 {{3W-yE2pgTec@192}} opinion Male power fantasy legends like the chansons de geste (Guillaume) still motivate young men 700-800 years later
+2022-04-23 {{S29qfILwSaY@139}} opinion For Guts the sword is his identity: killing is not only what he does but who he is
+2022-04-23 {{S29qfILwSaY@266}} opinion A lifetime on the front lines thickened his body but could not erase the haunted gaze of someone whose past is his only future
+2022-04-23 {{S29qfILwSaY@454}} opinion Being spared by Griffith is the worst offense for someone prepared to die, and throws Guts into a paradox that redirects his bloodlust toward one man
+2022-04-23 {{S29qfILwSaY@581}} opinion Through the Hawks he learns that a fire's purpose is not only to burn but to comfort; joining a group gives him a name, and an aim gives him a self
+2022-05-04 {{HY6FNrzfXc4@0}} opinion What makes a fighting manga special is how it justifies its fights; beneath the tournament battles, Kengan Ashura is a social critique of capitalism and worker alienation
+2022-05-04 {{HY6FNrzfXc4@885}} opinion In Kengan Ashura the salaryman escapes alienation by refusing to play the game, but NH thinks simply quitting is not realistic for most people
+2022-05-09 {{rVy03_C5jEU@1133}} opinion Erwin Smith is his favourite Attack on Titan character because he is balanced and finally chooses his country over his own selfish quest for the truth
+2022-05-09 {{rVy03_C5jEU@2261}} anecdote Baki copyright holders had struck about 15 of his Baki videos, roughly a dozen strikes, and he can restore only one a month; he avoids Dragon Ball Z for the same reason
+2022-05-09 {{rVy03_C5jEU@2323}} anecdote He had all the source material for at least 40 Berserk videos on the Black Swordsman and Golden Age arcs, planned Hajime no Ippo videos for that summer, and listed more series to cover  {"videos": 40}
+2022-05-18 {{4PpDkkoSwdk@0}} opinion The title frames Toguro's muscle transformation in Yu Yu Hakusho as motivation to pursue gains by any means necessary
+2022-05-18 {{4PpDkkoSwdk@132}} opinion The chosen scenes push the idea that lacking the guts to pay the price is why people don't get what they want, and that strength trumps technique
+2022-05-26 {{rGMi5_hLRH8@166}} opinion The alpha, sigma and Chad archetypes started on 4chan as jokes; the sigma male was invented to mock the alpha meme
+2022-06-07 {{uGUNvG8ul6o@4006}} anecdote This Nietzsche-on-women arc is planned to run six parts, with the follow-up two weeks later
+2022-06-11 {{qHbta9COwYs@0}} opinion Griffith's beauty hides a predator: the grace of a bird of prey with a taste for battle
+2022-06-11 {{qHbta9COwYs@127}} opinion Griffith's 'do as you please' drops the 'as long as you hurt no one' half; for his men it really means 'do as I will', freedom put to the service of his dream
+2022-06-11 {{qHbta9COwYs@267}} opinion His self-belief rests on instinct, not physical power or status; he isn't the strongest or fastest but his sword never misses
+2022-06-11 {{qHbta9COwYs@330}} opinion Fanatical devotion to himself is his greatest strength and also his worst flaw, since no defeat can be allowed to touch his image
+2022-06-11 {{qHbta9COwYs@647}} opinion His dream of a kingdom means he will tolerate no equal and everyone else becomes a means to that end
+2022-06-11 {{qHbta9COwYs@711}} opinion Nothing is more dangerous than a tyrant unaware of where he is leading his followers
+2022-06-14 {{pgwot_D2Bas@0}} opinion He considers his anime videos transformative and protected by fair use
+2022-06-14 {{pgwot_D2Bas@188}} anecdote Anime and manga are the reason he started the channel, as much a passion as lifting and philosophy
+2022-06-16 {{7YrNMtR3a2M@260}} opinion Bateman became an alpha-male meme icon because he embodies what society tells men to be (handsome, muscular, rich), which is entirely surface-level
+2022-06-16 {{7YrNMtR3a2M@324}} opinion Bateman's morning routine is a desperate re-application of a fake identity, not the schedule of a balanced man
+2022-06-16 {{7YrNMtR3a2M@574}} opinion The film satirises marriage reduced to a materialistic system without love, each act motivated by personal gain
+2022-06-16 {{7YrNMtR3a2M@1340}} opinion The business card scene shows modern men judging their worth by possessions; identity has been replaced by things they can buy
+2022-06-16 {{7YrNMtR3a2M@2412}} opinion Bateman's fascination for a generation without male role models comes from him being hypermasculinity driven by instinct without empathy
+2022-06-16 {{7YrNMtR3a2M@2540}} opinion Jean is the only woman who escapes Bateman, because of her modesty, which he reads as symbolic of promiscuity being a trap for modern women
+2022-06-16 {{7YrNMtR3a2M@2799}} opinion Bateman represents the spirit of modernity itself; there is no single psycho, everyone in the film is touched by it
+2022-06-23 {{itnjfi6RYtY@126}} anecdote His goal physique mixes Zodd and Guts from Berserk, Uvogin from Hunter x Hunter and Toguro; Guts has too much shoulder development for his taste
+2022-06-28 {{CVHNXyR5yCY@624}} anecdote He plans a separate Casca-from-Berserk program for women who want to be jacked
+2022-07-01 {{4W_D07eE29I@186}} anecdote [back] In the Vedic age, horse riding and archery were both war preparation and recreation; drawing primitive bows required very strong backs and arms
+2022-07-01 {{4W_D07eE29I@500}} anecdote Epic-age Indian education included javelin, sword fighting, club swinging and wrestling, taught by the same teachers who taught scripture
+2022-07-01 {{4W_D07eE29I@814}} anecdote Legends tell of kings and soldiers doing a thousand gada swings every morning, then bathing in a lake  {"reps": 1000}
+2022-07-01 {{4W_D07eE29I@1128}} anecdote Hanuman, god of wrestling and devotion, was prayed to by wrestlers and gada swingers, like Greeks praying to Hercules
+2022-07-01 {{4W_D07eE29I@1440}} principle Mahabharata heroes earned their divinity through feats; male power fantasies like these are what produce strong men in every civilization
+2022-07-01 {{4W_D07eE29I@1883}} anecdote The tale of Ekalavya cutting off his thumb for Drona teaches devotion, sacrifice and acceptance of fate; the gods were pre-moral, not perfect
+2022-07-01 {{4W_D07eE29I@2072}} anecdote A Krishna statue in Cleveland shows him as very muscular, unlike modern effeminate depictions
+2022-07-01 {{4W_D07eE29I@2323}} opinion When Buddhist influence spread, explosive training declined in favor of pranayama and surya namaskar, mirroring how Christianity softened Europe's knights
+2022-07-01 {{4W_D07eE29I@2510}} anecdote Physical culture revived in the Muslim period, declined under British rule, and was reborn in the 1920s with Indian bodybuilders like Ghosh and Sen Gupta
+2022-07-30 {{_KT_9vmHNzE@1575}} opinion In Berserk, Guts is the active pessimist, Casca the passive pessimist, Griffith the active optimist
+2022-08-07 {{egu7WVtu80I@2952}} anecdote He loves the book The Gift of Fear, which teaches women their primal fear instinct is their best friend
+2022-09-25 {{q1XhaAN9M5k@1502}} opinion In Hunter x Hunter Nen terms he looks like a conjurer from outside but is really a manipulator: logical, argumentative, does things his own way
+2022-09-25 {{q1XhaAN9M5k@1688}} opinion His favorite fiction is a French young-adult fantasy series by an author who died young in a motorcycle accident; he ranks it with Lord of the Rings and far above Harry Potter
+2022-09-25 {{q1XhaAN9M5k@1752}} opinion His favorite film is Watchmen for its gray morality, and One Piece is to him the greatest story ever told
+2022-09-30 {{tLAM5L-YQug@0}} opinion Viking imagery is common in lifting culture (shirts, tattoos, hardcore gym emblems) because Vikings are the modern archetype of masculinity and power
+2022-09-30 {{tLAM5L-YQug@881}} anecdote Vikings fought with axes and little armour, which required exceptional strength; they relied on surprise raids and deliberately cultivated a fearsome reputation so enemies would not fight back
+2022-09-30 {{tLAM5L-YQug@1069}} anecdote The Berserkers (bear-skin wearing Odin worshippers who entered battle trances) inspired Berserk's Guts and the Apostle troop, and may lie behind European werewolf myths; even Vikings viewed them as villains
+2022-09-30 {{tLAM5L-YQug@1256}} anecdote Vikings bathed weekly, combed their hair daily and smelled good; English chroniclers complained they seduced local wives, showing grooming plus muscle beat the competition
+2022-09-30 {{tLAM5L-YQug@1636}} opinion Norse and other Indo-European gods are idealised, muscular, human-like role models men can relate to, unlike the distant god of monotheism
+2022-09-30 {{tLAM5L-YQug@2965}} anecdote Viking society was meritocratic: freedom had to be earned through strength, and women who could fight (shield-maidens) were free to do so
+2022-09-30 {{tLAM5L-YQug@3219}} anecdote Viking women held power indirectly: they ran family finances and pushed men and boys toward masculinity, raids and vengeance
+2022-10-21 {{UgkxFJlNZJs4N3a56pG774kX2ReUgyik6c22@0}} anecdote After 5 months of legal disputes, his Grappler Baki videos blocked by Japanese rights holders were restored  {"months": 5}
+2022-12-29 {{6YWa3qOu6BY@316}} data Calisthenics comes from the Greek kalos (beauty) and sthenos (strength)
+2022-12-29 {{6YWa3qOu6BY@637}} data Russia has about 5,000 calisthenics parks  {"parks": 5000}
+2023-01-21 {{TPcnP8Tvj5E@0}} opinion 300 is a movie that pushes men to action: it makes you want to imitate the warriors and become stronger, unlike films that only trigger melancholy
+2023-01-21 {{TPcnP8Tvj5E@498}} opinion The film uses physiognomy: virtue is shown as health and strength, vice as deformity; the point is not that ugly people are evil but that resentment from rejection can debase a soul
+2023-01-21 {{TPcnP8Tvj5E@815}} opinion Leonidas embodies the leader who serves (both slave and king), sharing his men's attire and risks, whereas Xerxes takes all glory and no burden, an effeminate and vain tyrant
+2023-01-21 {{TPcnP8Tvj5E@1069}} opinion The phalanx only works if every individual is strong and trusts the others; it mirrors a healthy high-trust society, while the Persian army of fearful slaves mirrors a dysfunctional one
+2023-01-21 {{TPcnP8Tvj5E@1819}} opinion 300 is fairly called masculine propaganda: its focus on muscularity, strength and justified violence is meant to awaken the dormant warrior in modern men
+2023-01-21 {{TPcnP8Tvj5E@2075}} opinion You do not need to be white or European to appreciate 300: every man has ancestors who fought and died for him
+2023-01-27 {{pBszDfFvoVI@2137}} opinion He judges that weak men create weak art and that Hollywood, run by weak men, now makes strong men the butt of jokes, which young men must reject
+2023-02-11 {{UWr5TQVT63g@814}} anecdote His goal physique is an anime body (Hunter x Hunter style) that no human or even drug user can reach, which is exactly why he keeps striving
+2023-03-09 {{-TgjzFfuUjQ@61}} opinion The show's opening, with sculptures of each torso, invites viewers to equate muscle mass with capability, which is a trap
+2023-03-09 {{-TgjzFfuUjQ@380}} opinion The athletes' camaraderie, with losers bowing and praising winners, shows real inclusivity under the banner of fitness that Westerners could learn from
+2023-03-09 {{-TgjzFfuUjQ@772}} opinion The show is a refreshing counter to body positivity, offering masculine role models and brotherhood
+2023-03-09 {{-TgjzFfuUjQ@969}} opinion Fitness is better for its diversity of physiques and sports
+2023-04-26 {{Ux-tXsicqIk@4536}} opinion He reads the Eclipse as the natural result of the Band refusing responsibility and clinging to a broken Griffith; Griffith is the band's behelit
+2023-04-26 {{Ux-tXsicqIk@5227}} opinion Only those who stay masters of their fate survive in Berserk (Guts, Griffith, Skull Knight), while characters who lean on others (Wyald, the Count) die
+2023-06-19 {{LGmtei80ohU@1}} anecdote He has reread the Book of Five Rings every summer since age 22; it is short, cheap and life-changing
+2023-06-19 {{LGmtei80ohU@128}} anecdote Musashi had no formal teacher, killed his first man at 13, won 60-70 duels by 30, and mastered strategy only around 50
+2023-06-28 {{sgQD0WIfuvc@258}} opinion Male power fantasies, stories with characters men want to resemble for their masculine traits, have always existed from Greek and Norse myth to manga and are healthy because they give men a blueprint
+2023-06-28 {{sgQD0WIfuvc@761}} opinion Young men idolize 'literally me' villains like Patrick Bateman because those characters express masculinity without shame, a catharsis for men restricted their whole lives
+2023-06-28 {{sgQD0WIfuvc@1015}} opinion Yujiro in Baki is the caricature of toxic hypermasculinity and is coded as what not to be; Baki is written as his opposite
+2023-06-28 {{sgQD0WIfuvc@3546}} opinion Motobe represents the fear of aging, since aging means losing strength and agency as a man
+2023-06-28 {{sgQD0WIfuvc@3612}} data The Baki author, a martial artist and lifter, said the story was meant as a modern mythology for Japanese men he saw as lacking masculinity; Toriyama similarly coded Goku as an Asian Superman
+2023-08-06 {{ZDWFfYLYVNs@38}} opinion Unlike Yujiro Hanma, Toji's physique is a realistic goal
+2023-08-06 {{ZDWFfYLYVNs@104}} principle Mistake one: copying what the character does (e.g. swinging a sword to look like Guts) won't build the body; resistance training is the best way
+2023-08-26 {{fC9Z2s8d1fA@127}} opinion Anime fans copy their heroes' physiques rather than their feats because the feats (flying, energy blasts) are impossible; you take the part that is reachable
+2023-08-26 {{fC9Z2s8d1fA@693}} principle The real goal of shonen is not physical superiority or getting jacked but self-improvement; strength and physique are only means to that end
+2023-08-26 {{fC9Z2s8d1fA@1007}} opinion Male power fantasies (Greek heroes, anime) deliberately combine impressive physique and feats to inspire young men; form and function complete each other
+2023-08-26 {{fC9Z2s8d1fA@1570}} opinion Dragon Ball Super got worse because power-ups stopped being shown by the body getting bigger; removing the aesthetic side breaks the power fantasy
+2023-10-05 {{YzE7sjeMFCs@764}} opinion Greek statues had small penises to encourage sexual self-control, while modern porn worships the opposite to push men toward animal consumerism
+2023-10-27 {{SS5uAU1rcEo@710}} opinion Many young men relate to Guts for the wrong reasons and copy his pathological traits instead of the virtues he tries to preserve
+2023-10-27 {{SS5uAU1rcEo@772}} opinion Guts is a tragic hero, not an anti-hero: his lone-wolf, violent traits are dysfunctional responses to his environment, not traits to emulate
+2023-10-27 {{SS5uAU1rcEo@1193}} opinion The 'memefied' stoic-chad Guts seen in Instagram quotes ignores his psychological flaws, which are what make him interesting
+2023-10-27 {{SS5uAU1rcEo@2158}} opinion Revenge never heals: once achieved, you are left an empty husk, as Thorfinn finds in Vinland Saga
+2023-10-27 {{SS5uAU1rcEo@4733}} opinion Berserk's ultimate lesson is that relationships anchor us to our humanity; every effort to become better should aim at becoming a more loving person
+2023-10-27 {{SS5uAU1rcEo@4885}} opinion Guts is a kind man in a wicked world and Griffith a wicked man in a wicked world; bad people often do well, but never let your dysfunctions become who you are
+2023-12-04 {{M2yqxp4IHXg@190}} data Russia has over 5,000 calisthenics parks, which explains why many calisthenics champions come from Eastern Europe  {"parks": 5000}
+2023-12-04 {{M2yqxp4IHXg@2201}} opinion NH prefers Eastern training methods to Western ones
+2023-12-22 {{YWyby9wS7Zk@63}} opinion The Boy and the Heron is one of Miyazaki's worst films, not a masterpiece, because characters, plot and themes are all underdeveloped
+2023-12-22 {{YWyby9wS7Zk@90}} opinion Great Ghibli films build a self-contained universe with its own rules that fully makes sense by the end and leaves a clear message; this one leaves questions unresolved
+2023-12-22 {{YWyby9wS7Zk@378}} opinion Show, don't tell is a tenet of good storytelling, but Mahito's whole emotional backstory is crammed into the first 10-15 minutes, so most viewers miss it  {"minutes": "10-15"}
+2023-12-22 {{YWyby9wS7Zk@820}} opinion Characters bend to the plot instead of the plot growing from the characters, which makes them feel like robots or NPCs
+2023-12-22 {{YWyby9wS7Zk@1134}} opinion Kiriko and the father are empty archetypes relying on nostalgia for earlier Ghibli characters; leaning on nostalgia signals having nothing new to say
+2023-12-22 {{YWyby9wS7Zk@1642}} opinion First rule of horror: never reveal the monster; turning the threatening Heron into comic relief in one scene kills all tension, unlike No-Face's film-long arc in Spirited Away
+2023-12-22 {{YWyby9wS7Zk@2157}} opinion Contrary to common criticism that it is too slow, the film is far too fast; Ghibli films need contemplative 'useless' scenes that let you connect with characters
+2023-12-22 {{YWyby9wS7Zk@3550}} opinion Most Ghibli films handle 2-3 themes; Boy and the Heron tries five (war, grief, creation, family, humanity) in about 2 hours, so pacing is rushed and themes go unresolved  {"themes": 5, "runtime_min": 124}
+2023-12-22 {{YWyby9wS7Zk@3231}} opinion Beautiful visuals without meaning are empty sensationalism; people remember how a film made them feel, not how it looked
+2023-12-22 {{YWyby9wS7Zk@3294}} opinion Many set pieces are recycled from Pom Poko, Spirited Away, Howl's Moving Castle and The Cat Returns, getting close to Disney-style nostalgia recycling
+2023-12-22 {{YWyby9wS7Zk@0}} anecdote He has written a seven-page essay on the film and rewatches Mononoke and Spirited Away every year because he learns something about himself each time
+2023-12-22 {{YWyby9wS7Zk@5451}} anecdote His wife's theory: the uncle stands for Miyazaki himself, an aging creator with too many worlds and no successor
+2023-12-22 {{YWyby9wS7Zk@5575}} opinion The film may be a warning about AI art: technically perfect but soulless visuals that will never move humans like a person with pen and paper
+2023-12-22 {{YWyby9wS7Zk@5575}} opinion Even so, the film is better than 99% of Japanese animation; it only fails by Ghibli standards  {"pct": "99%"}
+2024-01-06 {{yX1br2PHa0w@1466}} opinion In Baki, Jack is the only PED user while Yujiro, Oliva and Doppo are natural; Baki trains in 25-30% of his panels, environmental storytelling that training alone is the right way  {"pct": "25-30%"}
+2024-02-16 {{wr4N8rQWR4s@128}} opinion Berserk is a love story: the battles supplement the Guts and Casca romance
+2024-02-16 {{wr4N8rQWR4s@699}} opinion Berserk fans tend to be emotionally sensitive people, not gore addicts
+2024-02-16 {{wr4N8rQWR4s@1331}} opinion Berserk is one of the finest feminist works, showing the hell a world without protection creates for women
+2024-02-16 {{wr4N8rQWR4s@2150}} opinion Griffith does not love because reason always overrides his emotions, a self-inflicted sociopathy that leads to his downfall
+2024-02-16 {{wr4N8rQWR4s@2529}} opinion Judeau shows quiet desperation: never expressing love out of fear made him miserable
+2024-02-16 {{wr4N8rQWR4s@2782}} opinion Guts left the Hawks because of low self-worth, not believing he deserved love
+2024-02-16 {{wr4N8rQWR4s@4050}} opinion Griffith's betrayal makes him human and a coward, not an Übermensch; Apostles are all cowards who refused to suffer
+2024-02-24 {{29XrRmOrCMs@63}} opinion The sword-for-gains trend comes from it being cool to men and from imitating Guts in Berserk
+2024-02-24 {{29XrRmOrCMs@1320}} prescription He also offers a separate free Guts physique program for those who only care about the look
+2024-03-08 {{RPW-PxhYqrA@314}} anecdote [full_body] The Solo Leveling daily quest (100 push-ups, 100 sit-ups, 100 squats, 10 km run) is Saitama's One Punch Man routine, which was a joke, yet people follow it unironically to get jacked  {"reps": 100, "distance": "10 km"}
+2024-03-08 {{RPW-PxhYqrA@880}} opinion Isekai follows a formula aimed at young men who feel let down: a weak, unpopular man is suddenly made strong, popular and good with women
+2024-03-08 {{RPW-PxhYqrA@1261}} opinion Shonen is healthier media: Luffy had trained ten years and grows over years of work, and his DBZ generation watched Goku and Vegeta train hard
+2024-03-08 {{RPW-PxhYqrA@1324}} opinion Modern shonen like Naruto and later One Piece drift toward bloodlines and destiny, which weakens the hard-work message; sports manga like Hajime no Ippo, where the hero improves only by work, are better
+2024-03-08 {{RPW-PxhYqrA@1703}} opinion The MC becomes more sociopathic and resentful as he gains power; isekai heroes are revenge stories and poor role models
+2024-03-08 {{RPW-PxhYqrA@1952}} opinion Unintentionally, Solo Leveling depicts predatory, anti-meritocratic capitalism where random birthright rank decides wealth and power
+2024-03-08 {{RPW-PxhYqrA@2578}} opinion Isekai works like porn: it shows the fruit of your desires while keeping you frustrated and coming back
+2024-03-08 {{RPW-PxhYqrA@2641}} opinion Compared with Berserk, Solo Leveling has no intentional symbolism or philosophy
+2024-03-14 {{tbY5VMSmlP8@192}} opinion Gymnastics is the anti-powerlifting: instead of finding the most mechanically advantageous technique, gymnasts must hold the hardest positions because of aesthetic criteria
+2024-03-14 {{tbY5VMSmlP8@320}} data Gymnastics began in ancient Greece mixing training with philosophy; the Romans made it purely military, and German educators revived it after the defeats by Napoleon
+2024-03-31 {{-PDjwKZQVLw@0}} opinion Dune is his favourite book of all time; he thinks the knowledge it contains is almost infinite
+2024-03-31 {{-PDjwKZQVLw@956}} opinion Bodies reflect minds: the lean, stoic Atreides contrast with the obese Baron, who has no self-control and is a slave to instant gratification
+2024-03-31 {{-PDjwKZQVLw@1842}} opinion The book repeatedly links the Baron's obesity, effeminacy, homosexuality and paedophilia to his corruption, which he reads as deliberate characterisation of a degenerate ruler
+2024-03-31 {{-PDjwKZQVLw@2154}} opinion The Baron surrounds himself with low-agency, vice-ridden subordinates he can control through fear or pleasure, which eventually degrades his whole society
+2024-03-31 {{-PDjwKZQVLw@3234}} opinion Dune's political system is an unstable tripod (Imperium, great houses, Guild/Bene Gesserit), held up by the Emperor's three legs: wealth, military power and descendants
+2024-03-31 {{-PDjwKZQVLw@4883}} opinion Dune's spice economy illustrates Marx: wealth comes from exploiting Arrakis's poor, water inequality is flaunted, and the rich wall themselves off as the wealth gap grows
+2024-03-31 {{-PDjwKZQVLw@5266}} data He estimates Arrakis's spice harvest at about 10 billion solaris a year, roughly 1.6 billion dollars, and the Harkonnen raid cost about 50 years of harvest, roughly 80 billion dollars (low-confidence)
+2024-03-31 {{-PDjwKZQVLw@8889}} data Hardship builds psychological strength; the Emperor used a prison planet with 60% prisoner mortality, versus under 0.2% in US prisons, to forge the Sardaukar (low-confidence)
+2024-03-31 {{-PDjwKZQVLw@9528}} opinion Dune has no hero and no villain; reading Paul as either hero or anti-villain shows poor media literacy. Paul is a deconstruction of the hero myth
+2024-03-31 {{-PDjwKZQVLw@9780}} opinion His favourite character is Stilgar from the book; he is everything he wants to be as a man
+2024-03-31 {{-PDjwKZQVLw@12014}} opinion When religion and politics merge under a living prophet, people lose individuality and agency and fanaticism follows; the Fremen could have reached paradise through patience alone
+2024-04-25 {{APmM-moU9z8@63}} opinion Season 1's flaw was too little emphasis on stamina; Season 2 fixed it with a cardio elimination on manual treadmills
+2024-04-25 {{APmM-moU9z8@189}} opinion Ball-possession fights test will and strength but strip out technical and athletic skill, as most contestants just curl on the ball
+2024-04-25 {{APmM-moU9z8@381}} data In the maze quest, heavy barrels were a trap: heavier but bulkier, so worse economy of space; every team that chased them lost
+2024-04-25 {{APmM-moU9z8@508}} opinion Strength-heavy tests skew against women, but more finesse-based balance tests would not necessarily favor them either, as the monkey bars showed
+2024-04-25 {{APmM-moU9z8@825}} opinion The show's culture of encouragement between rivals is inspiring; he wants a western version since media shapes society
+2024-06-04 {{2LoP6-KdEx4@1956}} anecdote Watching Dragon Ball or Baki growing up drives many of the biggest naturals; Baki started by hiking 30 min with a weighted backpack to a calisthenics park and training for hours  {"hike": "30 min"}
+2024-06-10 {{AZSZmhOJZJI@5060}} opinion Eyeshield 21 includes a science-based versus Spartan training arc relevant to lifters; read the manga, the anime is a poor, filler-heavy partial adaptation
+2024-09-21 {{lyj1BFZ85Dg@2520}} opinion Jack Hanma in Baki embodies the PED-user mindset: living only in the present and sacrificing his future, and he loses because of it; he's not a role model
+2024-09-21 {{lyj1BFZ85Dg@7015}} opinion Journey to the West's Sun Wukong is the original male power fantasy and the root of most anime and manga
+2024-09-21 {{lyj1BFZ85Dg@10314}} opinion Modern shonen heroes are crybabies (male weakness fantasies), unlike the hypermasculine 80s-90s heroes; he would show his sons Dragon Ball Z
+2024-09-21 {{lyj1BFZ85Dg@10574}} opinion Helplessness is learned, like Corkus in Berserk who believes only special people control their fate
+2024-09-28 {{jmOPC_ozpwc@9528}} prescription Rather than an anime waifu as motivation, model yourself after a male character you admire
+2024-10-12 {{D5AUHq98RdY@9871}} opinion Stoicism is too cut and dry to need a stream; Dostoevsky novels are better as videos
+2024-10-20 {{UgkxsO_zo0DYcovbD9kBO7pERz_ylwnhicgu@0}} anecdote The Educated Barbarian series returned via a Jung stream on 'Modern Man in Search of a Soul', setting up planned videos on Jung and Mishima for 2024/2025
+2024-10-26 {{wBct3Pl8OY4@10495}} opinion He is an active pessimist like Guts: less cheerful daily but prepared when things go wrong, whereas active optimists like Griffith collapse on failure
+2024-10-26 {{wBct3Pl8OY4@8765}} opinion With no real role models he took them from anime and manga; fictional role models are valid
+2024-11-16 {{fPU3nRIH8sM@4026}} opinion Berserk is a feminist story: showing the plight of women from the shadow side is necessary to explain and change it, not an apology for it
+2024-12-11 {{Plr3f3LXO_o@3241}} principle Myths across unconnected cultures tell the same hero story because humans share the same psychic context
+2024-12-11 {{Plr3f3LXO_o@9255}} opinion Dracula reflects British colonial-era fear of the foreign invading the motherland and corrupting women's sexuality
+2024-12-11 {{Plr3f3LXO_o@510}} opinion Jujutsu Kaisen and Dune contain Jungian themes; Paul's prophecy in Dune is pattern recognition from the past
+2024-12-14 {{hXx-KDH2p28@5879}} opinion Men compliment each other's muscles partly as a give-and-take, since praising someone's biceps invites praise back
+2024-12-14 {{hXx-KDH2p28@10543}} opinion A woman asking a random guy to spot her squat is a clear sign of sexual interest
+2024-12-14 {{hXx-KDH2p28@10543}} prescription Leave women alone at the gym; a woman wanting to approach a man can simply ask him to carry a plate
+2024-12-18 {{1bCQ2ezQfAA@700}} opinion Most anime and manga young men love are male power fantasies, which explains their appeal; the fantasy itself is neither positive nor negative, some are toxic and some are positive
+2024-12-18 {{1bCQ2ezQfAA@890}} opinion Solo Leveling is a toxic male power fantasy: a weak boy is handed divine power by chance, so he is not responsible for his own development, and that will never happen to the viewer
+2024-12-18 {{1bCQ2ezQfAA@955}} opinion Stories without innate mythical value get forgotten: Solo Leveling will be forgotten within about 5 years while Berserk will still be remembered in 100 years because it replicates a fundamental myth  {"years": "5 vs 100"}
+2024-12-18 {{1bCQ2ezQfAA@4816}} anecdote Mishima went from a cerebral boy with no body to a man of physical culture by building a deliberate plan around his fantasy
+2024-12-18 {{1bCQ2ezQfAA@6394}} opinion Old Disney movies are better than modern ones because they still told the fundamental myths children need
+2025-10-20 {{Ugkx3KoBMHIB2Z4Si08-JkuTd8dW_CHW89nD@0}} anecdote The Jung arc continued with part 2 of a lecture on 'Modern Man in Search of a Soul'
+2025-10-20 {{UgkxGKioSkxIp0R9-q6m2ZcQHqRo96YZVyiW@0}} anecdote The Educated Barbarian philosophy lectures moved to weekly Wednesday streams to cover more authors

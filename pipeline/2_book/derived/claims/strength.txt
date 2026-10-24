@@ -1,0 +1,490 @@
+2020-01-13 {{utLw7UeXCOo@374}} anecdote [hamstrings] He did straight-bar good mornings with 245 lb for 12, but with the SSB could not get 135 lb for 12.  {"load": "245 lb vs 135 lb", "reps": 12}
+2020-01-14 {{Pr6to3cPR1g@309}} prescription [chest] Raw powerlifters should use one sleeve; shirted benchers can use the second to mimic a bench shirt without the hassle.
+2020-01-18 {{S1h9qEhIo-I@249}} anecdote From 21 he trained powerlifting seriously on a self-made program of squat, bench, deadlift and their variations (paused bench, paused squat, front squat, paused/tempo/deficit deadlift), plus an arm day because he always liked training arms, but little else.
+2020-01-19 {{xFVva4-swKc@565}} opinion The program is not for strength-focused lifters.
+2020-01-20 {{IR-YS-TGGx0@0}} opinion NH doesn't care about the weight on the bar or which lift he does; given the choice between a 500 lb bench and a big chest he would pick the big chest.  {"load": "500 lb bench"}
+2020-01-20 {{IR-YS-TGGx0@125}} anecdote [shoulders] Some of NH's lifts are terrible relative to his size, e.g. overhead pressing one plate (135 lb) at about 200 lb bodyweight, yet he has big shoulders so it doesn't bother him.  {"load": "135 lb"}
+2020-01-22 {{t_RZT-AkjhE@64}} prescription [chest] Bench: never below 4 reps because the lift suffers too much from form breakdown; he works at 4-8.  {"reps": "4-8"}
+2020-01-22 {{t_RZT-AkjhE@127}} prescription [quads] Squat: never singles, doubles or triples, to avoid knee valgus and the back tipping forward; he works at 4-8.  {"reps": "4-8"}
+2020-01-22 {{t_RZT-AkjhE@127}} prescription Conventional deadlift: 2-5 reps, never more than 5, because he is confident he can always pull with a neutral back. Overhead press is also 2-5.  {"reps": "2-5"}
+2020-01-25 {{6JPbeLj0-xo@105}} principle Strength isn't only moving something once; it can be moving it five times, several times in a workout, or several times a week, and it means different things in bodybuilding and powerlifting.
+2020-01-27 {{BFVw7x1fZjs@248}} data [forearms] The Captains of Crush scale goes to #4; closing the #4 is a massive achievement, and closing the #2.5 or #3 already means a very strong grip.
+2020-01-29 {{Z-D9kRwK90I@63}} opinion [chest] You could superset heavy bench with curls without hurting performance, but he doesn't because his bench is highly affected by his mental state and focus.
+2020-01-31 {{7C5gtGrWYM0@62}} anecdote He pulls conventional and hates sumo; he tried sumo for about 8 months last year and reached roughly 335 lbs for sets of 8.  {"weeks": "~8 months", "load": "335 lbs", "reps": 8}
+2020-01-31 {{7C5gtGrWYM0@126}} prescription [back] Deadlift day 1 opens with conventional deadlifts for 1-3 heavy sets of 2-5 reps, raw without a belt (he doesn't like belts) and with straps.  {"sets": "1-3", "reps": "2-5"}
+2020-01-31 {{7C5gtGrWYM0@378}} opinion [hamstrings] The deadlift-stance safety squat bar box squat is in his view the best accessory for raising the conventional deadlift, maybe better than deadlift variations; it targets glutes and hamstrings.
+2020-02-02 {{RaGX9rPQr4k@0}} opinion His Wisconsin method review is only about hypertrophy; he fully agrees it makes you stronger.
+2020-02-02 {{RaGX9rPQr4k@790}} opinion [shoulders] Daily max bench destroys the shoulders, and the overhead press progresses too slowly (microplates) and strains some lower backs, so neither suits the method.
+2020-02-02 {{RaGX9rPQr4k@1799}} opinion The Wisconsin method suits people obsessed with getting stronger on one lift, and is an effective way to regain strength on a lift after a break.
+2020-02-02 {{RaGX9rPQr4k@1926}} anecdote [abs] Well-rounded athletes can run it because their sport gives them other stimulus and a strong core; his own sports coaches insisted on core work, so he always pulled with a vertical, unrounded torso.
+2020-02-04 {{j5PP3gx7DC4@191}} data [quads] He front squats about 3 plates and back squats about 3.5 plates; front squatting almost as much as he back squats shows how quad-dominant he is.  {"load": "~315 lbs front / ~365 lbs back"}
+2020-02-06 {{iY2uzM3vlBA@188}} principle [back] The fishing-rod position makes lockout harder because you must uncoil a body rounded over the bar, which is why many fail deadlifts above the knee.
+2020-02-06 {{iY2uzM3vlBA@442}} anecdote [back] NH briefly pulled with a rounded upper back when obsessed with powerlifting numbers; he was slightly stronger, but his proper-form strength is catching up.
+2020-02-10 {{lq_qgThCqHY@313}} principle [forearms] Static grip strength is most influenced by hand size and finger length, since fingers provide leverage on the bar.
+2020-02-10 {{lq_qgThCqHY@438}} anecdote [forearms] Anecdote: a man with stick forearms could tear a deck of cards with his fingers, while a 30-year construction worker with massive forearms could not.
+2020-02-10 {{xn8RN9807Ns@0}} principle Strength doesn't strictly correlate with size between individuals (bigger legs don't guarantee a bigger squat).
+2020-02-10 {{xn8RN9807Ns@64}} principle [biceps] Treat strength as a byproduct of hypertrophy: taking strict EZ-bar curls from 60 to 100 lbs for 6 reps will grow your biceps.  {"load": "60 -> 100 lbs", "reps": 6}
+2020-02-10 {{xn8RN9807Ns@129}} principle Some people gain strength faster than size, but a large percentage strength gain on a lift without any muscle adaptation is biologically impossible.
+2020-02-10 {{xn8RN9807Ns@192}} principle Strength isn't only found in low reps, but specificity applies: if you only train high reps, rep-max calculators overestimate your 1RM, and vice versa for low-rep lifters.
+2020-02-10 {{xn8RN9807Ns@254}} anecdote NH has always been better at higher rep ranges than explosive one-rep maxes; this depends on training and muscle fiber type.
+2020-02-11 {{sT8z3ENnqAQ@189}} anecdote [back] NH pulls more with a mixed grip than with straps/double overhand; straps don't necessarily let everyone lift more.
+2020-02-13 {{aiVrEt5ziHQ@0}} principle 'Lifting heavy makes you bigger' is true in a sense but lacks key information; mass moves mass, yet leverages matter more than muscle size for strength.
+2020-02-13 {{aiVrEt5ziHQ@63}} principle [back] Someone with arms reaching past the knees would be a deadlift world-record holder thanks to a tiny range of motion, with no need for big muscles.
+2020-02-13 {{aiVrEt5ziHQ@126}} principle [quads] Natural bodybuilders shouldn't assume getting stronger always means getting bigger; someone can squat 450 lbs without big legs if their leverages are better.  {"load": "450 lbs"}
+2020-02-14 {{3Mzk6FLh5UI@0}} data 1/2/3/4 means a 1-plate overhead press (135 lbs), 2-plate bench (225), 3-plate squat (315) and 4-plate deadlift (405); hitting it is said to mark graduation from novice status.  {"load": "135/225/315/405 lbs"}
+2020-02-14 {{3Mzk6FLh5UI@62}} principle The standards are staggered because lifts that involve more muscle mass (deadlift > squat > bench > OHP) let you fire more of the nervous system and be stronger.
+2020-02-14 {{3Mzk6FLh5UI@123}} opinion For most lifters 1/2/3/4 holds true: when you hit a one-plate OHP you will be around a two-plate bench and three-plate squat, with variation from leverages.
+2020-02-14 {{3Mzk6FLh5UI@123}} principle 1/2/3/4 works because absolute loads are low and most people don't start from the empty bar, so the margin of error between lifts stays small.
+2020-02-14 {{3Mzk6FLh5UI@249}} data [shoulders] Most people can start overhead pressing around 75-80 lbs, so reaching 135 is modest, but going from 135 to 225 is 90 lbs on a lift that is very hard to progress.  {"load": "75-80 lbs start; 135 to 225"}
+2020-02-14 {{3Mzk6FLh5UI@249}} opinion [chest] A three-plate bench is far easier to hit than a two-plate overhead press; the claim that they correlate is untrue.
+2020-02-14 {{3Mzk6FLh5UI@310}} anecdote [shoulders] When he had a three-plate bench his overhead press was only around 150 lbs.  {"load": "315 bench / ~150 OHP"}
+2020-02-14 {{3Mzk6FLh5UI@310}} anecdote [shoulders] In four years of commercial gyms he never saw anyone overhead press 225 lbs.  {"load": "225 lbs", "years": 4}
+2020-02-14 {{3Mzk6FLh5UI@310}} principle For lower body lifts leverages dominate: long femurs and a longer torso make a 4-plate squat hard while making deadlifts easier; short-limbed lifters struggle to deadlift 5 plates.
+2020-02-14 {{3Mzk6FLh5UI@437}} data [shoulders] Almost nobody can strict press three plates; the ones he knows, natural or not, bench at least 500 lbs and most around 550.  {"load": "315 OHP vs 500-550 bench"}
+2020-02-14 {{3Mzk6FLh5UI@437}} anecdote He had a 500 lb deadlift while squatting only around 365, so the squat/deadlift standards didn't correlate for him either.  {"load": "500 deadlift / 365 squat"}
+2020-02-14 {{3Mzk6FLh5UI@500}} principle Beyond novice level leverages play too much of a role to set standards based on fixed numbers.
+2020-02-16 {{xoLo7fptNA8@504}} principle [chest] This approach is aimed at hypertrophy; benching heavy only once a week may not be best for strength.  {"frequency": "1x/week heavy"}
+2020-02-19 {{Ox6TQAC9cW0@253}} principle Bigger structure (wide hips, big joints) gives more strength potential; strongmen usually have wide hips and big legs as a solid platform.
+2020-02-20 {{eU_f4lGi9vA@251}} prescription Only powerlifters who must compete under grip rules and cannot hook grip should use mixed grip.
+2020-02-20 {{eU_f4lGi9vA@377}} prescription Powerlifters should give hook grip a real try despite small hands or pain, and only use mixed grip after exhausting alternatives.
+2020-02-29 {{y_lPAdWi4sU@65}} opinion In powerlifting you can become an intermediate doing only bench, squat and deadlift, which makes sense when tested on three arbitrary lifts, but physique-focused lifters shouldn't follow the powerlifting mindset.
+2020-03-02 {{qdPmmahWTVA@253}} opinion Strongman is a better test of strength than powerlifting: a strongman would do well in a powerlifting meet thanks to squat and deadlift, but a powerlifter would struggle in strongman.
+2020-03-03 {{K4UBm1dV6WM@947}} anecdote [chest] Ring push-ups and push-ups don't carry over to bench strength: he was very advanced at push-ups yet benched only about 145 lbs his first time (while lightweight).  {"load": "~145 lbs"}
+2020-03-03 {{K4UBm1dV6WM@947}} principle [chest] Push-ups are great for size and joint health but won't add much bench strength; strength and hypertrophy are different things.
+2020-03-03 {{awNEfmfGkmY@126}} data Chinese weightlifter Lu Xiaojun said he only did the Olympic lifts occasionally and focused on squats and deadlifts for strength, which matches NH's reasoning about mastered lifts.
+2020-03-03 {{awNEfmfGkmY@379}} principle Strength is a transmission of energy; if technique is poor the transmission is not smooth, and a weaker person with better skill may outlift you.
+2020-03-09 {{KMcJAERb9Dk@1879}} data [shoulders] Powerlifters Dan Green (very heavy front raises, over 50 lbs) and James Strickland (side raises) use raises to build shoulder muscle without taxing the AC joint and rotator cuff.  {"load": ">50 lbs front raises"}
+2020-03-09 {{KMcJAERb9Dk@1943}} principle [shoulders] Whether built by presses or raises, the front delt gets bigger and stronger; raises lack the pressing neural adaptation but add muscle that supports strength and injury resistance.
+2020-03-10 {{m-DWvBP_ncU@63}} principle [forearms] Training with a thicker grip improves grip strength so a normal bar feels easier afterward.
+2020-03-11 {{1ZgJ8kMFd9s@907}} principle Grease the groove targets performance via neural adaptation (e.g., pull-ups) rather than hypertrophy; high daily frequency but low total weekly tonnage.
+2020-03-13 {{VVckf4vyYPE@260}} principle Training experience leads to strength, and even genetic freaks who start very strong still get stronger as they train.
+2020-03-13 {{VVckf4vyYPE@260}} data [quads] Bigger muscles produce more force, but it varies by individual: he has 20-inch legs and can barely squat 400 lbs, while some with 22-inch legs squat 500 lbs.  {"load": "400 lbs vs 500 lbs", "measurement": "20 in vs 22 in legs"}
+2020-03-13 {{VVckf4vyYPE@322}} principle Gaining 100 lbs of mostly fat raises absolute strength (mass moves mass) but not pound-for-pound strength; you got heavier, not really stronger.  {"weight": "100 lbs"}
+2020-03-13 {{VVckf4vyYPE@815}} anecdote [quads] The reverse also holds: away in the mountains with no gym and unable to squat, his legs barely shrank but he lost a lot of strength.
+2020-03-13 {{VVckf4vyYPE@1129}} principle [quads] Olympic lifters' relatively small legs don't prove strength doesn't equal size: they back squat infrequently, mostly as an accessory in off-season blocks, so their total squat volume is low.
+2020-03-16 {{sQSM1JiaN80@570}} opinion Despite hating the big three, Nether chose them for his faked strength demos, admitting they are valid tests of strength.
+2020-03-16 {{sQSM1JiaN80@2533}} principle Odd lifts and partials can mask true strength because nobody can compare them; his own 500 lbs front-rack holds look impressive but Olympic lifters do 700 lbs easily.  {"load": "500 lbs vs 700 lbs"}
+2020-03-26 {{_iaU9_rM1QQ@438}} principle It is tempting to focus on variations that suit your strengths because being strong is fun, but you should train your weak points; his are the top portion of the deadlift, not the floor.
+2020-04-03 {{T_DyRlu3Y7I@317}} anecdote He never does 1-rep maxes and doesn't use bands or chains; he trains with straight weight.  {"reps": 1}
+2020-04-09 {{IgxJijW3MSQ@125}} data Some people can rack pull above the knee with 1000 lb but barely deadlift 500 lb, because the shorter range is much easier.  {"load": "1000 lb rack pull vs 500 lb deadlift"}
+2020-04-09 {{tZ9CSu2DMIE@440}} opinion He thinks strength also plateaus without more tonnage for most people, because bigger muscles give the nervous system better leverage to move weight.
+2020-04-14 {{-wk3jSpm434@127}} principle Fixed ROM standards exist mainly to judge strength sports like powerlifting, where lifters still find ways to cut ROM within the rules.
+2020-04-14 {{-wk3jSpm434@445}} principle Partial ROM work can help you get stronger on the full-ROM lift.
+2020-04-22 {{fSOiGuUPqBc@0}} opinion Strength and size are correlated only to an extent, less than people think; he reviews programs as a bodybuilder, not a powerlifter.
+2020-04-27 {{TIsnQ03FegQ@338}} principle He rejects the idea that strength and tonnage can rise while muscles shrink; neural adaptation only goes so far, after which strength depends on muscle size (depending on leverages).
+2020-04-27 {{TIsnQ03FegQ@377}} data Most past Olympic weightlifters and powerlifters peaked at 35-40, which he says is when male maximal strength occurs.  {"age": "35-40"}
+2020-04-28 {{KadH0ZYObS0@1007}} anecdote He follows powerlifting and strongman and learns from them despite lacking the talent or passion for them, because they are also moving bodies through space.
+2020-05-04 {{4aThavRpYLw@314}} prescription [back] He prefers deadlifts at 5 reps or fewer, but sets of 6 are fine for novices since they shouldn't grind to their max; 2x6 (12 reps) is good novice deadlift volume.  {"sets": 2, "reps": 6}
+2020-05-04 {{4aThavRpYLw@376}} opinion The squat is more taxing than the deadlift, with more actual loading.
+2020-05-09 {{Vw9MhD5Amfw@67}} principle Powerlifters still grow from low-rep work, but lower total tonnage means they gain more strength than size; bodybuilders using high reps with real weight end up bigger relative to their strength.
+2020-05-09 {{Vw9MhD5Amfw@132}} data Successful powerlifters don't just do 1-3 rep sets; they train various ranges because they also need muscle size.  {"reps": "1-3"}
+2020-05-11 {{Cn38kgCdOhw@2014}} data The Bulgarian method (Abadjiev) meant multiple daily sessions maxing several lifts, 6-8 hours a day, needing PEDs; the 'Wisconsin/Bulgarian light' approach of maxing once in 45 minutes is low-volume, high-intensity and completely different.  {"hours": "6-8/day vs 45 min"}
+2020-05-20 {{GClcGq2tIDU@753}} opinion [back] One set of 5 deadlifts is enough for most people when intensity is high; the deadlift drives pulls, rows and lower-body strength but is not the best hypertrophy lift  {"sets": 1, "reps": 5}
+2020-05-20 {{GClcGq2tIDU@1134}} opinion [quads] With proper technique squats are more taxing than deadlifts; big deadlift-to-squat ratios come from sloppy heavy deadlifts and overly cautious squatting
+2020-05-20 {{GClcGq2tIDU@1450}} opinion [quads] People who think a 500 lb leg press means a 500 lb squat usually squat about 300  {"load": "500 vs 300 lb"}
+2020-05-25 {{f0vdsC2yyhY@1325}} principle Pound-for-pound strength favors smaller, lighter lifters; even Wilks-type scoring favors very light competitors.
+2020-06-01 {{2hwj-NEebj8@378}} anecdote [back] By contrast he pushes the deadlift very hard and does 2-rep maxes, because it works for him.  {"reps": 2}
+2020-06-01 {{5Wz0xTfWOOs@1315}} prescription [back] Revised day B starts with heavy deadlift 1x5, optionally back-off sets of 3x3 at submaximal weight for technique and safe tonnage.  {"sets": 1, "reps": 5}
+2020-06-03 {{LdBCFMxkcIY@380}} anecdote [traps] He shows the lift with 300 lb, though his working weight is four plates.  {"load": "300 lb"}
+2020-06-03 {{UieXEWMNnfI@62}} principle Fat adds some strength as a spring and because mass moves mass, but muscle adds far more because moving is its only purpose
+2020-06-04 {{k3O630Nz4B8@188}} principle [chest] Someone who adds a second 100 lb to their bench after the first gets far more muscle from that second 100 lb, because the learning phase is over  {"load": "100 lb"}
+2020-06-05 {{PYmr91aELnE@413}} opinion Most of bodybuilding is really powerbuilding: you need strength to get bigger and size to get stronger, though he dislikes hybrid labels
+2020-06-12 {{ML5AQa9THHI@252}} anecdote He openly says he's weak, but his strength can still rise relative to himself, which raises his tonnage.
+2020-06-14 {{w4jdMeiW_5I@0}} anecdote [forearms] He compares dead hang grips to find his strongest so he knows which one to regularly test himself on.
+2020-06-17 {{g4mX62QGzTo@1251}} opinion Lift claims without any video, photo, witness or public record (600 lb squat, 500 lb reverse-grip bench, 2000 lb leg press for 20, six-plate deadlift) should not be believed; a 500 lb reverse-grip bench is near the world record held by ~300 lb men.  {"load": "600 lb squat, 500 lb reverse bench, 2000 lb leg press x20"}
+2020-06-17 {{g4mX62QGzTo@1627}} opinion Strength claims are meaningless without bodyweight: at a possible 240 lb, Blaha's lifts would be around 2x bodyweight, which NH calls atrocious after 20 years of training.  {"load": "~2x bodyweight", "weeks": "20 years training"}
+2020-06-18 {{4Dop4_sIWn4@64}} anecdote NH uses the 2-5 rep scheme on deadlifts and overhead press because they benefit from high intensity and stay safe for him at that percentage.  {"reps": "2-5"}
+2020-06-19 {{hi-kNbZnXz0@379}} opinion [back] Deadlift 3x5 is not the best rep range for progression but is a good volume for pulls from the floor, especially with high intensity.  {"sets": 3, "reps": 5}
+2020-06-22 {{wiuVyCccWC4@187}} principle Front rack holds help the setup and unrack and reduce the mental pressure of holding a front-racked bar, letting you rep more weight.
+2020-06-22 {{wiuVyCccWC4@436}} data NH holds five plates and calls himself a weakling; Olympic lifters weighing about 170 lb easily hold 700 lb.  {"load": "700 lb"}
+2020-06-25 {{aoVexKzTOt0@0}} principle [forearms] Dead hangs are a convenient timed grip-strength test, but bodyweight changes affect the result
+2020-06-29 {{o3RTXWAia4A@1009}} prescription [back] Day 4: pull from the floor in any style (conventional, sumo, Jefferson) hard, 1-3 sets of 2-5 reps, as the only floor pull in the 4-day window.  {"sets": "1-3", "reps": "2-5"}
+2020-07-03 {{u10c43TRDb0@880}} opinion [quads] Squatting every day is the best way to gain squat strength, while a widowmaker squat about once every four days is best for size  {"frequency": "every 4 days"}
+2020-07-03 {{u10c43TRDb0@945}} data [quads] The viewer added 50 lb to his squat with squat every day  {"load": "+50 lb"}
+2020-07-06 {{DrAKKhJU0fY@2292}} opinion Strength and size correlate only partly; he is weak for his size and many stronger lifters have smaller muscles
+2020-07-08 {{bJK7L5fb-eI@125}} principle [quads] Squatting every day makes you very proficient: technique and neurological adaptation improve and the squat goes up fast.
+2020-07-08 {{bJK7L5fb-eI@187}} principle [quads] Bulgarian-style daily max squatting sits even further toward the high-intensity extreme than squat-every-day.
+2020-07-08 {{bJK7L5fb-eI@695}} opinion [quads] Bulgarian-style squatting gives even better strength but even less hypertrophy because intensity control is non-existent; the Wisconsin method is not great for hypertrophy either.
+2020-07-08 {{zCo31HKOsIY@317}} principle A small dose of strength work fires up the nervous system without tiring you, making the following accessories more efficient.
+2020-07-09 {{8I6IPBr2_z0@317}} principle Deadlift and squat are synergistic because both train the lower body: a stronger squat carries to the deadlift up to a point, but nothing beats specificity.
+2020-07-13 {{eaXDVkHjsZQ@1625}} principle Strength that you can keep pushing is what a bodybuilder needs
+2020-07-15 {{YcHkXwsIOI8@0}} principle The Bridge is a powerlifting program built around squat, bench and deadlift, and it makes no hypertrophy claims
+2020-07-15 {{YcHkXwsIOI8@316}} opinion [quads] Squats as single sets of 5 at RPE 6, 7 and 8 work as warm-ups leading to a top set and as quality volume, which beats 3 sets at the same intensity  {"reps": 5, "rpe": "6-8"}
+2020-07-15 {{YcHkXwsIOI8@812}} opinion [back] One set of 5 deadlifts is a great range when deadlifting once a week with rack pulls to complement; the deadlift can be strengthened without much volume  {"reps": 5, "frequency": "1x/wk"}
+2020-07-15 {{YcHkXwsIOI8@1159}} principle Powerlifting trains the prime movers of the lifts, which is why it ignores muscles like calves and rear delts
+2020-07-15 {{YcHkXwsIOI8@1406}} prescription Running one or two mesocycles of it to raise compound strength, then using that strength to push tonnage on a bodybuilding program, is a good use
+2020-07-15 {{YcHkXwsIOI8@1406}} principle A bodybuilding program progresses strength more slowly because effort is spread over more exercises and muscles, but it develops every body part
+2020-07-17 {{Zkhc-j-6ptU@399}} principle Rotating lifts gives artificial progress: strength shoots up while relearning the movement, but that builds no muscle
+2020-07-17 {{Zkhc-j-6ptU@450}} anecdote [quads] His SSB box squat went from 185 to 365 lb in under a year, yet most of that was relearning a new lift rather than muscle  {"load": "185->365 lb"}
+2020-07-17 {{Zkhc-j-6ptU@503}} opinion [quads] Adding 180 lb to a long-practised barbell back squat, say 300 to 480, would represent real muscle gain  {"load": "300->480 lb"}
+2020-07-17 {{Zkhc-j-6ptU@519}} principle After years of weekly practice you sit at 95-100 percent technical mastery, so any further strength gained, as long as you keep practising, is muscle  {"percent": "95-100%"}
+2020-07-20 {{7XqE7GhDsgc@314}} anecdote You can get stronger without gaining weight: he has stayed around or below 210 lb while all his lifts went up, without injury or joint pain  {"bodyweight": "210 lb"}
+2020-07-20 {{7XqE7GhDsgc@500}} principle Strength work is not only for strength athletes; it is key for bodybuilding
+2020-07-20 {{7XqE7GhDsgc@813}} anecdote [quads] Getting stronger on the squat strengthens every knee flexion variation and raises tonnage, so you grow: his legs went from 26 to 26.5 inches as all his leg lifts got stronger  {"thigh": "26->26.5 in"}
+2020-07-20 {{7XqE7GhDsgc@876}} opinion [chest] Adding 50 lb to your bench makes you look like a different person; 50 lb on the deadlift still brings some growth  {"load": "+50 lb"}
+2020-07-20 {{7XqE7GhDsgc@938}} principle The neurological adaptation from learning a new lift is gone after about six months of weekly practice; after that strength gains are muscle  {"weeks": 26}
+2020-07-20 {{7XqE7GhDsgc@938}} principle Small increases in muscle size produce surprisingly large increases in strength
+2020-07-20 {{7XqE7GhDsgc@1188}} principle You get stronger by doing reps and mixing rep ranges
+2020-07-24 {{7dqBu5KLIoQ@189}} principle Powerlifters and strongmen also run hypertrophy blocks because past a point strength requires more and bigger muscle fibers
+2020-07-24 {{7dqBu5KLIoQ@252}} principle Conversely, bodybuilders need to grow their strength because it drives progressive overload
+2020-07-29 {{Vvr512xTfRE@1964}} data [chest] Claiming a 1000 lb raw bench is outlandish when the raw world record is around 800 lb  {"load": "~800 lb record"}
+2020-07-29 {{Vvr512xTfRE@2215}} principle A real strength athlete shows full range of motion lifts, not partials
+2020-08-12 {{mUAHGlseeyk@502}} principle For strength, carry as much mass as possible, preferably muscle: 400 lb at 10% beats 400 lb at 20%  {"bodyweight": "400 lb", "bodyfat": "10% vs 20%"}
+2020-08-14 {{jSUmn33lmlI@563}} prescription [chest] Flat barbell bench 3x4-6 is effectively a 3x5 with an evolving range, and it is the best horizontal press  {"sets": 3, "reps": "4-6"}
+2020-08-19 {{RYkGN4SOkX0@1319}} opinion Bands and chains can fake progression on camera: load goes up while raw strength stays flat; strength must be shown with straight weight
+2020-08-19 {{RYkGN4SOkX0@1509}} opinion He suspects the subject's plates are fake or mislabeled and would only believe the lifts if the plates were weighed on camera
+2020-08-25 {{N8Dp4inzHog@63}} principle [quads] Strength programs also build muscle because building strength builds muscle, and powerlifters usually have huge quads naturals can learn from
+2020-08-25 {{N8Dp4inzHog@127}} anecdote [quads] He doesn't know his 1RM and currently squats 375 for 6  {"load": "375 lb", "reps": 6}
+2020-08-25 {{N8Dp4inzHog@631}} opinion Many who think they fail mid-squat actually failed to build speed out of the hole; same for bench off the chest
+2020-08-26 {{mXLMkXmIeW8@377}} prescription [forearms] Even with a grip-heavy job, use straps or brief heavy holds like one heavy rack pull held until it slips
+2020-08-26 {{mXLMkXmIeW8@631}} principle Blue-collar workers still need strength training because their job only trains certain qualities
+2020-08-28 {{RgGkGiaGqks@187}} opinion Bodybuilders could instead run occasional strength blocks, but they don't peak performance like powerlifters, so peaking practices don't transfer
+2020-08-28 {{RgGkGiaGqks@1510}} principle Natural bodybuilders don't only do 4x20; strength work must exist year-round for tonnage progression, not just in a block
+2020-09-02 {{Grakquhsb30@436}} principle Strength training is essential for men and women alike; he can't think of a movement pattern women shouldn't do
+2020-09-02 {{Grakquhsb30@497}} anecdote Women who start real strength training get very strong; he saw women go from one to two plate squats without ballooning in weight  {"load": "1->2 plates"}
+2020-09-02 {{Grakquhsb30@1127}} principle Women should follow core principles of volume and intensity manipulation, compounds and progressive overload, but apply them differently
+2020-09-06 {{65rLZe9cz_0@251}} principle Strength work is the backbone of the program; it provides little tonnage but high-intensity peaks that drive progression, and must never disappear
+2020-09-06 {{65rLZe9cz_0@628}} principle Strength work is the biggest plank in the water: its swings affect the whole program most
+2020-09-06 {{65rLZe9cz_0@752}} prescription Spend more thought on evolving reps and sets for strength work than for volume work, since strength opens the session and influences the rest
+2020-09-07 {{-GYV9s5Ad8s@820}} anecdote [back] Double overhand would cap his deadlift around 330 for a single and under 300 for reps, while he now deadlifts 470  {"load": "470 lb"}
+2020-09-07 {{9M7QVlvFdQY@300}} opinion Online strength standards are unreliable: mostly unverified self-reported polls or powerlifter data, irrelevant to someone not training for powerlifting
+2020-09-07 {{9M7QVlvFdQY@315}} opinion [chest] A 180 lb lifter benching 230 has enough strength to grow a lot by accumulating volume on variations with 180-190 lb  {"load": "180-190 lb"}
+2020-09-07 {{9M7QVlvFdQY@1150}} prescription [back] The best deadlift accessory is more deadlifting: after the heavy top set, 4x3 with a weight you can comfortably triple  {"sets": 4, "reps": 3}
+2020-09-11 {{oLm1CDuY9zg@64}} principle Strength work stays the pillar and foundation of hypertrophy training
+2020-09-14 {{-banYSTnkq4@63}} opinion Everyone is a powerbuilder to some extent, but you cannot be top level at both; top powerlifters are massive but not aesthetic
+2020-09-14 {{-banYSTnkq4@230}} principle A day with zero strength work is bad: strength work should open every session, with only occasional exceptions
+2020-09-14 {{-banYSTnkq4@600}} opinion [chest] 3x5 is one of the best static rep schemes, especially on bench  {"sets": 3, "reps": 5}
+2020-09-18 {{HVD5j7hOobI@360}} prescription [back] Heavy deadlifts 3x4-6, or just one set if three is too much  {"sets": "1-3", "reps": "4-6"}
+2020-09-19 {{l3tsyzKEktQ@440}} prescription Do strength work as solo sets to stay fresh and focused
+2020-09-20 {{e3KPnpnfbxc@316}} anecdote From experience deadlifts and hip hinges barely suffer in a deficit while bench and overhead press drop a lot
+2020-09-23 {{-cPcWQqMRC8@800}} opinion [chest] Numbers like 'a natural can't bench 400' or idolising the three-plate bench are subjective standards that create plateaus in your head  {"load": "315-400 lb"}
+2020-09-25 {{aaQr-Av0x9Y@495}} opinion [shoulders] Overhead press is a lift where progression is tough
+2020-10-02 {{TD9SB9Bt45o@378}} opinion [chest] Bench is the one lift you can get away with not treating as strict strength work
+2020-10-03 {{k8k1PycHKDI@0}} principle To progress in size you'll have to progress in strength, but the focus differs
+2020-10-03 {{k8k1PycHKDI@126}} principle Strength is skill practice with heavy weights at low reps; powerlifting is singles and strongman rarely exceeds 15  {"reps": "1-15"}
+2020-10-03 {{k8k1PycHKDI@220}} principle For a bodybuilder, strength and size both rise but one faster than the other; size can't rise while strength stays flat
+2020-10-03 {{k8k1PycHKDI@249}} principle Powerlifters who stall add volume to build muscle; bodybuilders must likewise keep strength as a factor in their program
+2020-10-03 {{k8k1PycHKDI@270}} principle Don't say 'I'm a bodybuilder, I don't train for strength'; strength promotes progression
+2020-10-03 {{k8k1PycHKDI@340}} principle Hypertrophy and strength share a wall but not the same room
+2020-10-05 {{MIHPylz3f7Q@987}} opinion [chest] Benching 150 lb for 10 at 150 lb bodyweight is not horrible; a light lifter shouldn't focus on strength, and if skinny-fat should recomp  {"load": "150 lb", "reps": 10}
+2020-10-14 {{EElvKR4K_HE@355}} principle [chest] Once past basic muscular development, an adult male should never drop below 20 push-ups; he can still do 20 after two hours of benching  {"reps": 20}
+2020-10-14 {{EElvKR4K_HE@405}} opinion A distorted mass-to-strength ratio robs you of moving your body through space; immobile powerlifters at least trade dynamic for static strength
+2020-10-16 {{sCMGXCXKVjs@1130}} prescription Deadlift prescription: 1-3 sets of 2-5 reps, or even one set, followed by backup sets  {"sets": "1-3", "reps": "2-5"}
+2020-10-17 {{ISLtO-xJbYo@252}} principle Neural strength gains mostly affect novices, who still gain muscle; after a technical peak, strength gains reflect muscle growth
+2020-10-17 {{ISLtO-xJbYo@252}} principle Specialized frequency-manipulation strength programs can raise one lift without much muscle, but he never prescribes them
+2020-10-18 {{cGzlMRCxvxo@406}} prescription [shoulders] Barbell overhead press as strength work should sit between high intensity and high volume: 3-6 sets of 2-5 reps, never superset  {"sets": "3-6", "reps": "2-5"}
+2020-10-18 {{cGzlMRCxvxo@968}} prescription [quads] Squats for a lifter who wants big legs: 3 sets of 4-8 reps on the one heavy squat day  {"sets": 3, "reps": "4-8"}
+2020-10-18 {{cGzlMRCxvxo@1887}} prescription [back] Deadlift: 2-5 reps for 1-3 sets; it is a lift where low frequency and low reps work if intensity is high and form is on point  {"sets": "1-3", "reps": "2-5"}
+2020-10-19 {{qOQLKal7waY@878}} opinion [forearms] Grip strength is a powerful weapon; Hanayama relies on it to crush limbs and even grab the floor
+2020-10-24 {{Rz4uzjM068M@631}} opinion Speed work at 40% of 1RM is junk volume for hypertrophy; strength blocks are not useful for bodybuilders  {"intensity": "40% 1RM"}
+2020-10-24 {{Rz4uzjM068M@818}} opinion [back] For deadlifts he prefers speed back-offs over normal back-offs
+2020-10-28 {{ZTdIkUSgBEs@1625}} principle [lats] A one-arm pull-up is not just twice as hard as a two-arm pull-up; it is exponentially harder because body angle and movement change
+2020-11-06 {{-1dECrWYeFk@0}} principle Strength does not equal size; they are different values with cross-pollination, and training for one is not training for the other
+2020-11-06 {{-1dECrWYeFk@127}} principle If you train like a powerlifter you will look like a powerlifter: built to perform, not necessarily aesthetic
+2020-11-06 {{-1dECrWYeFk@230}} principle [quads] Bigger legs do not mean a bigger squat between two people, but if one person's legs grow from 20 to 25 inches, his squat has increased
+2020-11-06 {{-1dECrWYeFk@340}} principle Focusing only on the strength number makes you forget it was meant to serve size, and you drift onto a powerlifter's path
+2020-11-06 {{-1dECrWYeFk@447}} data [shoulders] A skinny guy who overhead presses 150 lb for 3 has strength potential far above normal but may have smaller shoulders than a one-plate presser doing far more volume  {"load": "150 lb", "reps": 3}
+2020-11-06 {{-1dECrWYeFk@530}} opinion [shoulders] For a naturally weak lifter like NH, a 225 lb overhead press would mean massive shoulders, but for a strength-gifted lifter it may produce nothing  {"load": "225 lb"}
+2020-11-07 {{A-asa7QMiG0@226}} anecdote [back] After deadlift strength work at 470 lb, 400 lb feels like nothing  {"load": "470 lb then 400 lb"}
+2020-11-09 {{6sFaB3rAY1A@1317}} opinion [chest] He likes 4-8 reps on bench because of capricious shoulders; many go too low in volume on bench variations  {"reps": "4-8"}
+2020-11-09 {{6sFaB3rAY1A@1317}} prescription [chest] Suggested ranges: 6-10 on paused bench, 8-12 on spoto press; his favorite is close-grip bench 4x6-10, which progressed extremely fast  {"sets": 4, "reps": "6-10"}
+2020-11-11 {{OtoSjIZudIA@1322}} opinion [chest] Adding bands and chains to a stalled bench does not make it a PR; at a meet you cannot swap bar weight for bands
+2020-11-11 {{OtoSjIZudIA@1825}} principle [quads] A squat with a curved bar, bands, chains, a box or above parallel would not pass in a powerlifting meet
+2020-11-11 {{OtoSjIZudIA@1930}} opinion [back] A deadlift with plates that are not verified, at a gym with witnesses or on a platform, does not count
+2020-11-14 {{xQQJUXf58ZE@1488}} prescription [back] 3-5 reps is NH's favourite deadlift range; sometimes one set of five is enough; he doesn't chase tonnage on deadlifts  {"reps": "3-5", "sets": "1-3"}
+2020-11-15 {{mbtAKsbDz9I@330}} anecdote [back] NH can do 2-rep maxes on the deadlift with zero lower back pain and sees more progress there than on any other lift  {"reps": 2}
+2020-11-15 {{mbtAKsbDz9I@350}} prescription [back] Don't do 12-rep maxes on conventional deadlifts; cardiovascular endurance and structural integrity limit you more than muscle  {"reps": 12}
+2020-11-15 {{mbtAKsbDz9I@373}} prescription Keep the deadlift around 2-5 reps and the squat around 3-8 or 3-6  {"reps": "2-5 deadlift; 3-8 squat"}
+2020-11-21 {{D3mJh0ZA5nc@524}} prescription [chest] Bench 4x6-8 is a good range; rows and bench can be supersetted without strength loss  {"sets": 4, "reps": "6-8"}
+2020-11-25 {{xxOQxGwiX4I@1134}} principle During warm-ups the bar feels similar from 400 to 440 lb because proprioception adapts, not because the weight changes  {"load": "400-440 lb"}
+2020-11-25 {{xxOQxGwiX4I@1197}} anecdote He used to obsess over whether he could lift a weight and sometimes failed lifts he should have made
+2020-11-25 {{xxOQxGwiX4I@1197}} prescription Approach the bar knowing the programmed weight will go up; since adopting this he has never failed a deadlift or squat in his notebook
+2020-12-05 {{niD0UuwTUvg@129}} prescription [shoulders] Overhead press 4x4-6 is a good range; since it's a safe lift you can even do 1-2 rep maxes  {"sets": 4, "reps": "4-6"}
+2020-12-05 {{niD0UuwTUvg@129}} prescription [lats] Weighted pull-ups 4x4-6 is a good range  {"sets": 4, "reps": "4-6"}
+2020-12-05 {{niD0UuwTUvg@879}} opinion [back] Deadlift 3x3 is medium volume, high intensity, with some sandbagging; good range  {"sets": 3, "reps": 3}
+2020-12-05 {{niD0UuwTUvg@1069}} prescription [back] Use a flexible 1-3 sets of 3 on deadlifts and 3-4x8-12 on rows to manipulate intensity  {"sets": "1-3", "reps": 3}
+2020-12-07 {{ZScs2L9rero@1450}} opinion Bulgarian 'lite' is really a Wisconsin-style method: practicing one lift daily builds strength on it but unbalances the body, since no single movement trains everything
+2020-12-16 {{so6MbvvtM1w@242}} principle Mass moves mass: gaining 100 lb at 200 lb raises all your lifts  {"weight": "+100 lb"}
+2020-12-16 {{so6MbvvtM1w@314}} opinion Strongmen and super-heavyweight powerlifters bloatmax for strength; they're massive but not jacked
+2020-12-16 {{so6MbvvtM1w@902}} anecdote [chest] Fat improves pressing leverage by shortening range of motion; he benched 315 at about 220 lb and doubts he could at 190  {"load": "315 lb", "bodyweight": "220 lb"}
+2020-12-16 {{so6MbvvtM1w@964}} data Super heavyweights' squat and bench benefit from the belly, while the gut makes the deadlift harder and often weaker than their squat
+2020-12-16 {{so6MbvvtM1w@1191}} opinion Many strength athletes now recomp to lower weight classes, prioritizing quality mass over quantity
+2020-12-19 {{7ZS-mGePFXw@90}} principle Powerlifting maximises strength while bodybuilding stabilises strength to provide a steady intake of tonnage
+2020-12-19 {{7ZS-mGePFXw@340}} principle Strength work is important for bodybuilding but should be a minority of the tonnage
+2020-12-19 {{hYFO2eKn-m4@126}} opinion 3x3 is one of his favourite strength rep schemes because it leaves little room to sandbag and keeps intensity very high  {"sets": 3, "reps": 3}
+2020-12-19 {{hYFO2eKn-m4@150}} opinion 3x3 works for bench, squat, pull-ups and is amazing for deadlift, but lacks the volume he wants for the overhead press  {"sets": 3, "reps": 3}
+2020-12-19 {{hYFO2eKn-m4@189}} prescription Accessory/tonnage lifts such as rows or Romanian deadlifts should not be run as 3x3; 3x3 is for strength work and possibly back-off sets  {"sets": 3, "reps": 3}
+2020-12-30 {{3IMgRqcRN4Y@1503}} principle In hip hinges and squats the negative is never the limiting factor; you fail on the positive or the reversal
+2020-12-30 {{3IMgRqcRN4Y@1565}} opinion With help on the positive, you could probably do at least 40 extra negative reps of RDLs, because resisting gravity is much easier than fighting it  {"reps": "40+"}
+2021-01-02 {{lZP5NoQ5pF4@125}} data Benching 225, squatting 315 and deadlifting 325 lb at 64 is impressive  {"load": "bench 225, squat 315, deadlift 325 lb"}
+2021-01-03 {{CTMwuqNsY9Q@436}} opinion One rep maxes are a powerlifting practice for learning to max or peaking; bodybuilders have no use for them and they are counterproductive for hypertrophy
+2021-01-03 {{CTMwuqNsY9Q@436}} principle Bodybuilding is about building strength because it builds tonnage and muscle, not testing it
+2021-01-03 {{CTMwuqNsY9Q@498}} opinion One rep maxes don't build strength; 2-3RMs or sets with one rep in the tank might, but 1RMs are a waste of time
+2021-01-03 {{CTMwuqNsY9Q@561}} principle You can't tell someone's strength from their size; strength does not equal size
+2021-01-15 {{3z75cYOdZ74@124}} opinion [chest] The bench is the most frustrating of the big three to progress because it recruits the fewest muscles
+2021-01-15 {{3z75cYOdZ74@186}} opinion [chest] Carryover from slingshot bench to raw bench is minimal; raising the raw bench raises the slingshot bench, not the reverse
+2021-01-15 {{3z75cYOdZ74@186}} opinion [chest] The slingshot deloads the bottom where the chest and shoulders work most, making it an overload tool for triceps; only slingshot benching for two months could lose you raw strength  {"weeks": 8}
+2021-01-15 {{3z75cYOdZ74@435}} opinion [triceps] Slingshot work leaves the chest fresh for strength work because it mainly tires the triceps, and you rarely fail a bench because of triceps
+2021-01-19 {{-anA4CV2SVU@440}} prescription [shoulders] If overhead press opens the day as strength work, 12-15 reps is too many; use about 3-6 reps; 8-10 on bench is fine  {"reps": "3-6 OHP; 8-10 bench"}
+2021-01-19 {{-anA4CV2SVU@504}} principle [triceps] Skull crushers do almost nothing for the bench; close grip bench carries over to it
+2021-01-23 {{V4aBuYpdY34@300}} principle [quads] Two lifters who both take their squat from 100 to 300 lb will differ in size: the one who focused on intensity gets there first, the one who focused on tonnage ends up bigger  {"load": "100 to 300 lb"}
+2021-01-23 {{V4aBuYpdY34@340}} opinion Bodybuilders should not chase strength as a goal; doing so makes you train like a powerlifter, strong but without the muscle to show for it
+2021-01-25 {{pey1Ni6HPlY@1031}} prescription [chest] With the program as written you bench with a standard grip only once a week, which is a problem for bench strength; rotate paused bench in for close-grip on alternate push-2 days and do it first  {"frequency": "1x/wk"}
+2021-01-27 {{bTin_tBGoVo@395}} principle [quads] The box allows more weight, so novices think they are getting stronger at the squat when they are only getting stronger at the box squat
+2021-01-30 {{_2M6FhWuIvs@314}} principle The strength hook is the one cornerstone you never cut; everything after it is expendable
+2021-01-30 {{_2M6FhWuIvs@420}} principle Powerlifters peak, drop and peak higher, which works for strength but not tonnage, which is why their strength does not match their size
+2021-01-30 {{_2M6FhWuIvs@480}} opinion Bouncing between hypertrophy and strength training is like living with divorced parents; it should all be hypertrophy, with strength work existing only to drive tonnage
+2021-02-06 {{AeIKc3A2FiY@188}} principle Everyone can eventually max out the neurological side; there is a technical ceiling, and after that strength comes from muscle or mass gain
+2021-02-06 {{AeIKc3A2FiY@270}} opinion The claim that all strength gains could be neurological is wrong and demoralizing; after a month to a year your technique has peaked, and further strength gains are muscle
+2021-02-06 {{AeIKc3A2FiY@312}} principle Unless you drastically change technique or stance, past that point any pound added to the bar is muscle gain
+2021-02-06 {{AeIKc3A2FiY@340}} opinion [shoulders] Presses, overhead press especially, regress fast when not practiced, probably because of the small muscles involved
+2021-02-10 {{3nyuEtmqL-I@1060}} principle Tall lifters have greater absolute strength because of their bigger frame, so they should not compare strength with shorter lifters; strength does not correlate with muscle size
+2021-02-10 {{3nyuEtmqL-I@1100}} opinion [quads] A tall lifter might squat 500 lb before his legs look impressive, while some lifters have massive legs with a 315 squat  {"load": "500 lb vs 315 lb"}
+2021-02-17 {{U1zVxzMVM2E@1765}} opinion Rogue sells red technical plates that look like 55 lb bumpers but weigh much less; swapping two in fakes roughly 100 lb on the bar
+2021-02-17 {{U1zVxzMVM2E@1807}} opinion The only way to verify a home-gym lift is to weigh the plates on camera, load them on camera and lift; ideally a sanctioned meet
+2021-02-17 {{U1zVxzMVM2E@2420}} principle Adding 100 lb to chin-ups, dips and overhead press would visibly change your physique; strength jumps without size change are a red flag
+2021-02-17 {{U1zVxzMVM2E@2600}} opinion [quads] A 600 lb squat to depth in competition with real plates, a straight bar and no box is what powerlifting is; box or cambered-bar squats do not count  {"load": "600 lb"}
+2021-03-11 {{S0qBQppUtTQ@1810}} opinion A 2-rep max deadlift done for hypertrophy purposes is hypertrophy training; strength and size are intertwined  {"reps": 2}
+2021-03-13 {{8mGHG5C-EPE@440}} opinion [back] Opening a day with deadlifts for 2 sets totalling 12 reps keeps volume high but intensity relevant; it shows the author knows what he is doing  {"sets": 2, "reps": "12 total"}
+2021-03-15 {{389BOWoca-4@320}} principle Pushing the limits of destructive ability requires becoming more powerful, which can't come from skill alone
+2021-03-15 {{_L5wLHlFfI0@62}} opinion You need to develop size and strength together, but to be really good you eventually have to specialise in one; chasing both makes you mediocre at both
+2021-03-17 {{WmH326eoF04@1164}} data Placing at a local meet often automatically qualifies you for worlds in some federations; it's a fee-paying business, not an elite invitation
+2021-03-17 {{WmH326eoF04@1227}} opinion A world record is only broken in competition, and backyard meets lack legitimacy
+2021-03-17 {{WmH326eoF04@1477}} opinion Pound-for-pound strength matters; top sub-200 lb powerlifters agree, otherwise big frames that can bulk to huge numbers have too much advantage
+2021-03-17 {{WmH326eoF04@1539}} opinion Powerlifting has shifted, even in top classes, from packing on mass to carrying heavy lean muscle, for efficiency and health
+2021-03-18 {{pHNNbwju0GU@495}} principle [quads] Carryover from front squat to back squat is real but smaller than people think; a pause squat carries over more
+2021-03-18 {{pHNNbwju0GU@513}} data Olympic lifters prioritise the front squat because the clean puts them in a front squat position
+2021-03-18 {{pHNNbwju0GU@669}} opinion [back] The front squat has almost no strength carryover to the conventional deadlift but helps technique through upper back rigidity
+2021-03-29 {{BvF2Tc-krG4@379}} opinion Widespread steroid use in grappling shows muscles matter; it is wrong to sum jiu-jitsu up as pure technique
+2021-03-29 {{BvF2Tc-krG4@379}} opinion Strength may matter more for grappling than striking, since pulling and controlling limbs benefits from resistance training more than punching does
+2021-04-07 {{62OBPecQPnM@440}} principle Strength work should be the priority; light pre-activation is fine, but nothing that fatigues the main lift
+2021-05-10 {{D1_tXh-Kp9Y@822}} anecdote [quads] During a month at his family's mountain home without a gym, his leg size barely changed but his strength dropped hard, around 60 lb off his lifts, along with work capacity  {"weeks": 4, "load": "-60 lb"}
+2021-05-19 {{MP01uQbcoLc@124}} principle Bodybuilders need strength growth because it is the only way to grow tonnage at relevant intensity; pause reps build strength
+2021-05-19 {{MP01uQbcoLc@868}} principle Pause reps force lighter weights and can't replace touch-and-go strength work; use them as variations
+2021-06-23 {{w4-2c3iWvDQ@709}} principle Strength sports (powerlifting, calisthenics, Olympic weightlifting) are minimalist by default, while bodybuilding is maximalist by default
+2021-06-23 {{w4-2c3iWvDQ@795}} principle The more specific the needs, the more minimalist the method; strength athletes should be minimalist
+2021-06-23 {{w4-2c3iWvDQ@1107}} principle Strength athletes train functions; bodybuilders train muscles. A powerlifter squats to train his squat, a bodybuilder to train quads, glutes, hamstrings and hips
+2021-06-23 {{w4-2c3iWvDQ@1153}} opinion [quads] A powerlifter training only for bigger quads will not raise his squat much, and a bodybuilder training only for a stronger squat will not grow his legs much
+2021-06-23 {{w4-2c3iWvDQ@1255}} principle Even top powerlifters and weightlifters use variations like pause squats that feed the main lift, so pure minimalism fails even for strength
+2021-07-02 {{5Nhv3cgzrAg@317}} principle The mainstream idea that heavy lifting is bad prevents people reaching their best; heavy lifting is key for strength and for natural and enhanced lifters
+2021-07-14 {{8ELQ2XZgpls@1275}} principle Ignore strength standards unless competing; what matters is a weight relevant to your leverages that takes you near failure
+2021-07-21 {{GH8tqzGTgH8@2285}} principle Strength sports give no style points: if a technique like sumo is in the rules and works, it counts
+2021-07-21 {{GH8tqzGTgH8@2482}} opinion [quads] A 900 lb squat with slight knee cave beats a perfect 600 lb squat because the weight on the bar is what matters  {"load": "900 vs 600 lb"}
+2021-07-28 {{yr4zj-WbG4I@1520}} opinion An untrained man deadlifts maybe 200 lb, while any lifter can reach 400 lb, so lifters are about twice as strong  {"load": "200 vs 400 lb deadlift"}
+2021-08-05 {{lG5SZbRdOjA@1512}} opinion Difficulty order: conventional hardest, then sumo, then trap bar; many 900 lb conventional pullers can trap bar 1000 lb  {"load": "900/1000 lb"}
+2021-08-05 {{lG5SZbRdOjA@1512}} opinion Strong sumo pullers tend to carry over to conventional better than the reverse
+2021-08-07 {{aIjUTEtXOcM@1442}} anecdote Years of calisthenics and dumbbells meant his first barbell sessions were a two-plate deadlift for reps, 150 lb bench and 185 lb squat with good form  {"deadlift": "225 lb", "bench": "150 lb", "squat": "185 lb"}
+2021-08-12 {{9mnLRQsrs9k@2044}} data [chest] Example: 0 to 250 lb bench in a year or so, then only 50 lb over the next two years  {"load": "250 lb"}
+2021-08-27 {{Q5y4wM8zcWY@1198}} principle Size and strength feed each other but are different qualities; moving more weight doesn't automatically mean more growth
+2021-09-08 {{mW8_jnUR8gg@594}} anecdote [chest] He has seen exactly one person bench 500 lb in person in his whole life  {"load": "500 lb"}
+2021-09-12 {{cNGPCn9Uupc@125}} opinion Strength sports (powerlifting, strongman) are excluded because they already use barbells; adding hypertrophy work would pull them away from what matters, while sports like track pair well with lifting
+2021-09-12 {{cNGPCn9Uupc@250}} opinion He says bodybuilding and powerlifting are like cousins who shouldn't mix, while lifting and an unrelated sport combine well
+2021-09-12 {{cNGPCn9Uupc@753}} principle Every top pro athlete does resistance training at some point; muscle multiplies power output, but only if it is the right muscle for the sport
+2021-09-17 {{XncJr9uMpWo@550}} prescription Don't superset strength work or heavy top sets; they need full focus, and they're only a small fraction of total training
+2021-09-18 {{twEeL-z4Zug@891}} anecdote [back] Back with his old upright technique less than a week later, the warm-ups flew up and he hit 495x2, an all-time PR, with 2 more reps left  {"load": "495 lb", "reps": 2}
+2021-09-18 {{twEeL-z4Zug@1017}} anecdote [back] After the 495 PR he did 4 sets with 425 lb that felt like nothing  {"load": "425 lb", "sets": 4}
+2021-09-29 {{eaypnfdz3J0@1135}} opinion A squat is not functional athletic training; to demonstrate athleticism you need to move your body
+2021-09-29 {{eaypnfdz3J0@1887}} opinion [forearms] Deadlifting heavy does not give you the grip to unscrew a wheel nut by hand
+2021-09-29 {{eaypnfdz3J0@2455}} opinion Lifting does not carry over to fighting; a strong lifter who has never fought will last about 25 seconds in a boxing ring
+2021-09-29 {{eaypnfdz3J0@3019}} opinion A strength athlete who never competes is not really a strength athlete
+2021-10-14 {{_Ak93cVwd1c@340}} principle [back] You don't need a 700 lb deadlift to have a big back; that powerlifter could have had a bigger back with a smaller deadlift  {"load": "700 lb"}
+2021-10-14 {{_Ak93cVwd1c@1152}} opinion Using Olympic lifts to develop athletes' power is counterproductive; most football players perform the clean with terrible front racks and wrist positions and test one-rep maxes
+2021-10-14 {{_Ak93cVwd1c@1260}} opinion The clean and jerk can be brute-forced while the snatch can't, which is why coaches rarely program snatches for athletes and a sign the technical rating is too high
+2021-10-17 {{THV7B11oalk@1012}} opinion High-rep light work can help strong powerlifters regain strength they previously had, but cannot build strength that was never there
+2021-10-20 {{f-XiVNy25tw@1996}} principle [abs] Core strength and visible abs are different things: strongmen have strong cores without six-packs and skinny guys can have six-packs with weak cores
+2021-10-21 {{UgyXasDBzCyFL1u71Fp4AaABCQ@0}} opinion Being able to deadlift twice bodyweight builds character he wishes leaders had  {"load": "2x bodyweight"}
+2021-11-07 {{45S8RV2nyKE@2098}} data LaLanne showed muscle and athleticism go together with one-arm handstands and backflips, and pushed resistance training for athletes when it was considered harmful
+2021-11-07 {{45S8RV2nyKE@2224}} data [back] At 45 LaLanne did 1,000 push-ups and 1,000 chin-ups in 1 hour 22 minutes on TV, finishing despite torn hands  {"reps": "1000+1000", "duration": "82 min"}
+2021-11-07 {{45S8RV2nyKE@2174}} data LaLanne swam 2 miles underwater with gear and paddleboarded 30 miles in 10 hours; the boat-pulling feats in his 60s-70s were exaggerated but still impressive
+2021-11-10 {{UrFS3Gs5zh0@665}} anecdote He hasn't tested a 1RM in about four years yet still programs by intensity  {"years": 4}
+2021-11-10 {{UrFS3Gs5zh0@763}} principle 1RMs are bad for bodybuilding: maxing is a skill only powerlifters need and gives no hypertrophy benefit
+2021-11-10 {{UrFS3Gs5zh0@922}} prescription A double just below your max beats a single: e.g. 485 lb x2 instead of 500 lb x1 doubles tonnage with less injury risk and less fatigue  {"load": "485 lb x2 vs 500 lb x1"}
+2021-11-10 {{UrFS3Gs5zh0@1054}} prescription [quads] Estimate your max from rep performance (e.g. 200 lb squat for 10) rather than testing it; bodybuilders should base intensity on reps  {"load": "200 lb", "reps": 10}
+2021-11-24 {{aFENxCkDXQM@509}} data [back] A deadlift bar (longer, thinner, whippier) adds roughly 20-30 lb to a 600 lb pull versus a stiff bar, per elite deadlifter Cailer Woolam  {"load": "+20-30 lb at 600 lb"}
+2021-11-24 {{aFENxCkDXQM@590}} principle [back] A deadlift-only event without prior squat and bench, and without a weight class, inflates a deadlift compared with a full powerlifting meet
+2021-11-24 {{aFENxCkDXQM@617}} opinion [back] Blaha's 620 lb deadlift-bar pull equals roughly his old 585 lb stiff-bar competition pull, so in four to five years he has made zero progress or regressed  {"load": "620 lb vs 585 lb"}
+2021-11-27 {{-T8qWCI4_No@616}} principle [chest] Gaining bodyweight raises strength through better leverages, especially on bench and overhead press, without much added muscle
+2021-11-27 {{-T8qWCI4_No@668}} opinion [chest] Put 50 lb on your frame and you can add about 100 lb to your bench  {"bodyweight_gain": "50 lb", "bench_gain": "100 lb"}
+2021-11-27 {{-T8qWCI4_No@668}} anecdote [chest] NH benched 335 lb when bulked up because he was fat, and regressed when the fat came off  {"load": "335 lb"}
+2021-11-27 {{-T8qWCI4_No@668}} opinion Even for powerlifting, a fluffy lifter loses to lighter lifters in his weight class who got strong without stuffing their face
+2022-01-17 {{9y2s6kyFkPc@874}} prescription [shoulders] Naturally strong lifters chasing hypertrophy shouldn't fall into constant max testing; use the strength to add sets and reps, and expect a higher strength threshold before size shows (e.g. 195 lb overhead press for reps vs 135 for NH)  {"load": "195 vs 135 lb"}
+2022-01-19 {{5VcEDIHK5Y8@181}} anecdote [full_body] As an 11-12 year old field labourer Apollon carried bags of sea salt weighing a couple hundred pounds, and he pressed loaded cartwheels overhead for reps  {"load": "~200+ lb", "age": "11-12"}
+2022-01-19 {{5VcEDIHK5Y8@332}} anecdote He was fast and athletic, not just a brute: as an amateur he wrestled professionals and never lost a match
+2022-01-19 {{5VcEDIHK5Y8@429}} anecdote [forearms] Apollon could pinch grip a custom 175-180 lb block of iron, a documented feat few modern strongmen could match even on drugs  {"load": "175-180 lb"}
+2022-01-19 {{5VcEDIHK5Y8@468}} anecdote [shoulders] He snatched a 180 lb weight one-handed to arm's length and held it there for time; audience members could not even lift it off the ground  {"load": "180 lb"}
+2022-01-19 {{5VcEDIHK5Y8@531}} anecdote In his shows audience members and rival strongmen could challenge him for money, and nobody ever beat him; rivals eventually came just to watch
+2022-01-19 {{5VcEDIHK5Y8@912}} anecdote [forearms] Because of his gigantic hands Apollon was for a long time the only person who could even grip the thick-handled Apollon wheels
+2022-01-19 {{5VcEDIHK5Y8@1010}} anecdote [forearms] In the escaping-prisoner act Apollon bent iron bars to squeeze through; when a blacksmith secretly hardened the bars he only succeeded after his wife screamed at him, then had to stop the show
+2022-01-19 {{5VcEDIHK5Y8@1115}} anecdote Apollon was lazy: he mostly lifted around 80% of his max to avoid struggling and never trained outside his childhood labour and the shows themselves  {"load": "~80% 1RM"}
+2022-01-19 {{5VcEDIHK5Y8@1176}} opinion Apollon made lifts look so easy that audiences thought they were tricks; laypeople cannot tell a 300 lb deadlift from a 700 lb one  {"load": "300 vs 700 lb deadlift"}
+2022-01-19 {{5VcEDIHK5Y8@1238}} opinion Being strong was not enough in that era: lacking showmanship and money drive, Apollon never got the fame his strength deserved
+2022-01-20 {{v-F3QHSM2hg@752}} principle Carryover runs one way: hypertrophy training transfers to fighting, but fight training (e.g. shadowboxing) does nothing for size
+2022-01-20 {{v-F3QHSM2hg@1752}} opinion One-rep-max testing makes no sense for fighters: a max is a grind, not explosive; higher reps build endurance muscle and lower injury risk
+2022-01-27 {{3JNwlqx3Z6w@1320}} prescription [full_body] Any pull from the floor (conventional, trap bar or Jefferson deadlift) for 1-3 sets of 5 is a staple for martial artists  {"sets": "1-3", "reps": 5}
+2022-01-27 {{3JNwlqx3Z6w@2580}} principle Grapplers need to move the opponent's body while preventing theirs from being moved (keeping the guard closed); strikers need explosive extension into the opponent's space
+2022-01-31 {{eC9Srr3ZygE@1672}} principle Strength has many forms, such as a widowed mother raising three kids; physical strength is a performance value while hypertrophy is an aesthetic, artistic value
+2022-02-10 {{GNJkAcgUJ_0@2445}} principle The claim that size equals strength oversimplifies; training for strength does not magically turn into size
+2022-02-18 {{BJXFeQWGUuY@318}} opinion Bodybuilding strength progresses more slowly than powerlifting strength because the goal is different, not because the lifts differ
+2022-02-20 {{5ANLeP4QvX8@1511}} opinion Liver King's base training resembles a modified Westside barbell system, good for strength and usable for size
+2022-03-04 {{NPlGK0-7h0A@250}} principle Strength is largely skill: the ability to recruit as many motor units as possible for a given movement pattern, which depends on a fresh CNS
+2022-03-04 {{NPlGK0-7h0A@1875}} principle Powerlifters empty the muscle buckets to grow the big CNS bucket; bodybuilders grow the big bucket so they can empty the small ones
+2022-03-06 {{PuIp9cGKMHo@313}} principle Strength training is effort-inducing; bodybuilding training is time-consuming and volume-targeted
+2022-03-06 {{PuIp9cGKMHo@1082}} principle Size and strength are correlated, but whoever says so usually prioritizes strength; natural bodybuilders prioritize size with strength as the by-product
+2022-03-06 {{PuIp9cGKMHo@1144}} opinion Strength athletes grow the muscles that drive their best lifts, e.g. Enkiri's legs and lats from squats and pull-ups, but have weak points like chest, biceps and the long head of the triceps
+2022-03-06 {{PuIp9cGKMHo@1331}} principle Picture size and strength as stacked columns: you grow the bottom one to raise the top one you care about, and which is on top depends on your priority
+2022-03-06 {{PuIp9cGKMHo@1393}} anecdote Enkiri is stronger on every lift, yet NH outweighs him by about 50 lb; focused purely on performance he could sit at 180-190 lb, but prioritizing size keeps him around 210  {"bodyweight": "210 lb"}
+2022-03-06 {{PuIp9cGKMHo@6164}} principle Powerlifters use fatigue management to drive performance; bodybuilders look for chances to perform so they can accrue fatigue
+2022-03-09 {{GeMs1MAEK60@1438}} opinion The final stage of the cope is claiming the best way to get big is to get strong
+2022-03-09 {{GeMs1MAEK60@2192}} principle Bodybuilders have accidental strength: weaker than powerlifters but much stronger than average
+2022-03-09 {{GeMs1MAEK60@2381}} opinion A 260 lb lifter mocking a 200 lb lifter for being weaker shows he does not understand weight classes  {"bodyweight": "260 vs 200 lb"}
+2022-03-09 {{GeMs1MAEK60@2445}} opinion [chest] Being 260 lb and benching 350 lb would not place at a natural meet  {"load": "350 lb", "bodyweight": "260 lb"}
+2022-04-08 {{KtoAImbVZF4@398}} anecdote For free publicity Sandow broke strength-testing machines in Amsterdam; when arrested he broke one in front of the police, who then came to his show
+2022-04-08 {{KtoAImbVZF4@604}} anecdote Sandow looked small in clothes; he wore a tear-away suit to reveal his physique, and beat the strongman Samson on his own stage by lifting the same weight for more reps
+2022-04-08 {{KtoAImbVZF4@716}} anecdote Sandow's feats were built for spectacle: a bridge holding a plank that a horse walked across, and a pony 'carried overhead' that actually rested on his upper back as an assisted carry
+2022-04-08 {{KtoAImbVZF4@885}} opinion Old-time strongman acts carried symbolism and a message; modern strongman is pure performance
+2022-04-14 {{LxGdGChvk2c@1007}} prescription If you want to know where you stand competitively, use competition standards for your strength sport, not YouTube strength standards
+2022-04-14 {{LxGdGChvk2c@1260}} data By Strength Level standards he is 'advanced' with a 485 lb deadlift at 210 lb bodyweight and a 330 lb front squat, yet national-level lifters at his weight pull at least 600 lb and records exceed 700-800 lb; light Chinese weightlifters beat his front squat  {"load": "485 lb deadlift, 330 lb front squat", "bodyweight": "210 lb"}
+2022-04-14 {{LxGdGChvk2c@1386}} opinion Average-based standards compare you to weaklings and lower your ambitions; do not use him as a strength authority, a natural powerlifter at his weight would pull seven plates  {"load": "7 plates"}
+2022-04-14 {{LxGdGChvk2c@1513}} principle Linking a strength number to muscle size ignores leverages, past lifting experience and muscle memory, nervous system differences, training style and time spent lifting
+2022-04-14 {{LxGdGChvk2c@1834}} opinion Standards are always round plate numbers (225, 315, 405) that exist only because of 45 lb plates; nothing in nature makes a 2-plate bench special  {"load": "225/315/405 lb"}
+2022-04-14 {{LxGdGChvk2c@2004}} opinion [biceps] Inverting the logic ('20-inch arms means a strong curl') shows how illogical size-from-strength standards are  {"arm": "20 in"}
+2022-04-14 {{LxGdGChvk2c@3076}} principle Size and strength are correlated within the individual but not codependent; the arrow points both ways and you can trade one for the other
+2022-04-14 {{LxGdGChvk2c@3139}} data Jonnie Candito has said he lost size while adding to his total, showing size and strength can move in opposite directions
+2022-04-14 {{LxGdGChvk2c@3264}} opinion Specializing in strength can sabotage the pursuit of size
+2022-05-07 {{BW-32tYoNxw@1010}} prescription Do not be afraid to swap your main strength lift now and then, for example squats for good mornings or bench press for weighted push-ups; a week off will not cost you strength
+2022-06-02 {{9kG_0Y7UYnw@253}} opinion [shoulders] Strength standards come from the same flawed logic, e.g. 'get a 200 lb overhead press and you'll have big shoulders'  {"load": "200 lb OHP"}
+2022-06-02 {{9kG_0Y7UYnw@1640}} principle Some pursuit of strength is needed because muscles grow as demands increase (progressive overload), but chasing performance makes you a strength coper with a bad physique
+2022-06-09 {{kAVZsNLPNQ4@2519}} principle No program builds strength and size equally without trading one for the other; a program that makes you very strong costs some hypertrophy
+2022-07-10 {{SDVF9vWBQAM@503}} anecdote [biceps] Devon pulled Cyplenkov with his weaker arm and kept pulling Levan after partially tearing his biceps
+2022-07-20 {{ZzcNdESueDs@4141}} opinion Senior powerlifting records mean little when teenagers and half-bodyweight YouTube bodybuilders bench three plates
+2022-07-20 {{ZzcNdESueDs@4204}} opinion Powerlifting is declining in popularity, especially senior lifting
+2022-08-03 {{yUecX6qONXg@790}} anecdote On deadlifts, four plates feels hard but after more warm-ups he moves 500 lbs at the same speed because his system warms up slowly  {"load": "500 lb"}
+2022-08-29 {{O9txIDHBBIk@1314}} principle On a recomp you must pick your battles: prioritised lifts (hip hinges, triceps extensions) rose while bench and curls stalled with only 5-10 lb gains  {"load": "5-10 lb"}
+2022-09-13 {{nqzVqvMvQ1s@62}} principle Strength and hypertrophy are different pursuits; people have been convinced strength equals size, and training like a strength athlete for size makes as little sense as the reverse
+2022-09-13 {{nqzVqvMvQ1s@438}} prescription He never giant sets heavy deadlifts or squats; at most he supersets them with neck or calves
+2022-09-13 {{nqzVqvMvQ1s@753}} opinion Putting all your eggs in the compound basket to get stronger leaves many people with poor physiques: the Starting Strength problem
+2022-09-13 {{nqzVqvMvQ1s@1196}} principle An explosive opener like a kettlebell swing done short of failure potentiates the main lift rather than fatiguing it; a leg curl opener is real work that hurts the lift
+2022-09-30 {{tLAM5L-YQug@693}} opinion [full_body] Rowing and wood chopping alone train the whole body; daily heavy labour plus plenty of protein and calories made every Viking man jacked compared with the rest of the population
+2022-09-30 {{tLAM5L-YQug@2329}} data [full_body] To get on an Icelandic fishing boat you had to lift natural stones: ~50 lb = useless, 100 lb = weakling, ~200 lb = half strong, ~340 lb (155-160 kg) = full strong  {"load": "50/100/200/340 lb"}
+2022-09-30 {{tLAM5L-YQug@2396}} opinion [full_body] A natural stone is much harder to lift than the same weight on a barbell; most commercial gym members could not pick up the 200 lb stone  {"load": "200 lb"}
+2022-09-30 {{tLAM5L-YQug@3787}} anecdote [full_body] Legendary Icelandic feats: shepherds carrying a 400 lb stone around a sheep pen, fishermen lifting stones of hundreds of pounds for bragging rights  {"load": "400 lb"}
+2022-10-21 {{UgkxSVRSWZapd_B7fnXIOyXduIuEundS2DZf@0}} opinion He rejects 'powerbuilding' as a concept, which he argued against with Stand Strength along with role models and lifting philosophy
+2022-10-25 {{E1er3oQ3IeM@3721}} anecdote [chest] (Guest Fazlifts) Patience and a plan let him go from a 90 kg bench he was told was his genetic limit to 180 kg  {"load": "90->180 kg"}
+2022-11-01 {{JgAoGDmM4n4@310}} principle Size and strength are different goals; trying to pursue both gives a mediocre amount of each, like a restaurant trying to be best at pizza and sushi
+2022-11-01 {{JgAoGDmM4n4@310}} opinion Many lifters are strong without looking it and others look far stronger than they are; strength numbers do not answer questions about physique
+2022-11-01 {{JgAoGDmM4n4@497}} principle You cannot gain size without some strength gain, but the ratio of strength to size depends on what you train for
+2022-11-01 {{JgAoGDmM4n4@560}} opinion No natural bodybuilder also holds powerlifting records; if one method gave both, nobody would train specifically for either sport
+2022-11-01 {{JgAoGDmM4n4@686}} opinion Strength blocks are not needed for hypertrophy; building the big three first is ego, not muscle growth
+2022-11-08 {{h7D6CB4p1oU@1139}} principle Strength progression is a valid sign of muscle growth only if the timeline is reasonable; strength gained from rapid fat gain comes mostly from better leverage and disappears when you cut
+2022-11-08 {{h7D6CB4p1oU@1580}} principle Sign #2: citing absolute strength while ignoring pound-for-pound strength; adding 20 lb to the bench while gaining 20 lb of bodyweight means no real progress
+2022-11-21 {{7dDEDax8854@1133}} anecdote The average man stays average by comparing himself to the average; he calls himself weak despite squatting four plates and pulling five because his standards are high  {"load": "squat 4 plates, deadlift 5 plates"}
+2022-12-12 {{uF-j7u5VLaY@3115}} opinion Fighting powerlifting dogma for hypertrophy is good, but it risks building a new hypertrophy-only dogma that will not serve lifters who care about strength
+2022-12-15 {{z2uzpl_smSg@631}} principle Rep ability at a given percentage of 1RM is individual: some can only do 2 reps at 90%, others 4; online percentage/RPE calculators mislead  {"intensity": "90%", "reps": "2-4"}
+2022-12-15 {{z2uzpl_smSg@695}} principle A bodybuilder should skew strength toward rep strength rather than 1RM strength; a 10RM correlates more with muscle mass, a 1RM more with nervous system
+2022-12-15 {{z2uzpl_smSg@1574}} principle The 85% rule deliberately does not maximize strength gains, since that would minimize volume accumulation
+2022-12-15 {{z2uzpl_smSg@1702}} principle [chest] Two lifters can reach a 250 lb bench at different speeds; the one who progressed through volume will be bigger at the same strength level  {"load": "250 lb"}
+2023-01-31 {{elk4uYvjXos@440}} opinion The powerlifter's big-mover mindset is logical for strength but most powerlifters have unbalanced muscular development
+2023-01-31 {{elk4uYvjXos@1070}} principle Strength standards become goals in themselves; ask which lift, rep range, technique, caloric state and timeline before chasing a number
+2023-01-31 {{elk4uYvjXos@1321}} principle For a bodybuilder strength is a means to keep stimulating muscle, not the goal; the intent defines the result
+2023-01-31 {{elk4uYvjXos@1701}} prescription Ask anyone who says just get strong: on which lifts? Unless the answer is every lift for every muscle, ignore it
+2023-03-06 {{HOgwZO70z_M@878}} principle Otter mode means never getting really strong or reaching your full size; getting strong requires letting bodyweight rise
+2023-03-09 {{-TgjzFfuUjQ@125}} opinion In the dead-hang quest the big muscular athletes dropped first; strategy and technique matter regardless of fitness
+2023-04-03 {{aJ1e41y8Na4@1824}} principle Size and strength ratios differ between people; don't let strength limit your pursuit of size, since the weight on the bar is only a tool for hypertrophy
+2023-04-10 {{-sf34ScWLK8@1265}} data [triceps] NH uses 85-90 kg on dumbbell French presses for 8-12 reps  {"load": "85-90 kg", "reps": "8-12"}
+2023-04-13 {{rFfLUloDHeg@567}} data Karelin was 6'4 and about 290 lb with a 420 lb clean and press, a 22+ inch neck and 887 wins to 2 losses
+2023-05-03 {{d1eLAd5WvIA@62}} opinion Strength athletes leave physique to chance; after his cut Alan realised his physique wasn't where he wanted
+2023-06-12 {{Z-hGdKz28RY@1383}} principle Trying to get as strong as possible on every movement for every muscle with proper form is bodybuilding
+2023-06-12 {{Z-hGdKz28RY@1948}} data [chest] Bald Omni-Man benches four plates and does about 4x8-10 with three plates  {"load": "4 plates; 3 plates 4x8-10"}
+2023-07-02 {{_IBSNO56zuE@1062}} opinion [quads] Leg training should use heavy loads; legs are extremely strong and he cites 500-600 lb as the sort of weight you should be pressing  {"load": "500-600 lb"}
+2023-07-06 {{GvuVZo70o1Q@128}} opinion [forearms] Arm wrestling is a legitimate martial art: confrontation, risk of severe injury, technique, the ability to beat stronger opponents and lifelong practice
+2023-07-06 {{GvuVZo70o1Q@257}} principle [forearms] Arm wrestling needs a very specific strength you won't build with bench, squat and deadlift; it is a game of angles and leverage
+2023-07-06 {{GvuVZo70o1Q@320}} anecdote [forearms] John Brzenk reportedly avoided the gym and prepared by pulling at the table as much as possible
+2023-07-06 {{GvuVZo70o1Q@384}} data [forearms] The three key arm-wrestling qualities are rising, cupping and pronating, plus back and side pressure to finish
+2023-07-06 {{GvuVZo70o1Q@574}} opinion Arm wrestlers are not meatheads; their specificity and handling of volume and intensity are top notch
+2023-07-06 {{GvuVZo70o1Q@574}} data Body mass matters in arm wrestling since many pins depend on how much weight you can hang on the opponent's arm
+2023-08-26 {{fC9Z2s8d1fA@629}} opinion Being able to lift heavy does not make you a better fighter
+2023-09-09 {{ZN5ohmPPfjM@630}} opinion A 140 lb lifter doing a few push-ups, pistols, pull-ups, a 60 lb overhead press and two handstand push-ups is weak; most should do that after a year of training  {"load": "60 lb OHP", "bodyweight": "140 lb"}
+2023-09-09 {{ZN5ohmPPfjM@630}} principle The lighter you are, the easier calisthenics movements become
+2023-09-09 {{ZN5ohmPPfjM@693}} data Lifters at ~140 lb can squat 400 lb, bench 250 lb and overhead press bodyweight for reps  {"load": "400 lb squat, 250 lb bench"}
+2023-09-21 {{IFniodTLscY@3345}} opinion Alex Leonidas is stronger than his rival on every lift at a lighter, natural bodyweight and has benched four plates, beating the rival's bench PR in an official meet  {"bench": "4 plates"}
+2023-09-26 {{XK9KjVP-5Wo@754}} principle [chest] Strength standards like a 3-plate bench can keep a bodybuilder's chest small, because the training to reach them doesn't align with hypertrophy; goals must align with what you actually want  {"bench": "3 plates"}
+2023-10-23 {{x9GNS5HBZ_4@63}} opinion Powerbuilding pairs the big three, heavy and low-rep, with high-rep bodybuilding accessories; it sounds reasonable but usually delivers neither strength nor size
+2023-10-23 {{x9GNS5HBZ_4@190}} opinion Powerbuilding trains one very specific kind of strength, 1RM on three lifts, so why powerlifting and not weightlifting or strongman as the strength half?
+2023-10-23 {{x9GNS5HBZ_4@504}} opinion Most powerbuilders never compete, so they have no reason to stick to the big three
+2023-10-23 {{x9GNS5HBZ_4@629}} principle 1RM strength is a specific skill that must dominate your program, so it takes energy away from everything else
+2023-10-23 {{x9GNS5HBZ_4@700}} opinion Most powerbuilders end up as unstructured 'max-out bros' with no peaking or deloads, or as 'powerlifters who do curls'
+2023-10-23 {{x9GNS5HBZ_4@1120}} principle The only difference between training for strength and for size is focus: strength is either the end or the means
+2023-10-23 {{x9GNS5HBZ_4@1262}} prescription Fix 2: don't train for 1RM strength; every max-out costs you muscle-building capacity, though low reps are still fine
+2023-10-23 {{x9GNS5HBZ_4@1325}} principle Apply those fixes and you are just bodybuilding, as the silver and bronze era bodybuilders trained: strong, varied rep ranges, every muscle
+2023-11-05 {{SxqjF2oPasg@440}} opinion Strength standards are C tier: universal numbers don't tell you where you stand and chasing them turns hypertrophy training into number-chasing
+2023-11-13 {{SZEjCsuclx8@1968}} opinion 'Build a base of strength before bodybuilding' is a lie; strength grows on a bodybuilding program anyway
+2023-11-20 {{DA7QvIAyptw@1136}} prescription [lats] Weighted pull-ups after leg day decompress the spine; done 3x3-5, very low volume and intense  {"sets": 3, "reps": "3-5"}
+2023-12-04 {{M2yqxp4IHXg@253}} data [chest] Shirokov's best dip is 170 kg (375 lb) added at 80 kg bodyweight; his 10-rep dip is 120 kg (275 lb) added  {"load": "170 kg 1RM, 120 kg x10", "bodyweight": "80 kg"}
+2023-12-04 {{M2yqxp4IHXg@819}} principle Training for 1RM makes your 1RM high relative to rep strength; bodybuilders train rep strength, so 1RM calculators built on strength athletes don't apply
+2023-12-04 {{M2yqxp4IHXg@1005}} data Shirokov's 'shock method' puts the body in unstable or explosive disadvantaged positions (band dips, ring holds, salmon ladder) so normal heavy lifts feel easier and tendons are conditioned
+2023-12-04 {{M2yqxp4IHXg@1319}} data [lats] Shirokov's strict pull-up 1RM is about 100 kg (225 lb) added  {"load": "100 kg"}
+2023-12-25 {{hEuy__sCbZA@0}} data [full_body] Haviland: 6'8", 350-400 lb at around 10% bodyfat, 1000 lb frame carry, 700 lb Zercher squat, 660 lb bench  {"height": "6'8\"", "bodyweight_lb": "350-400", "bodyfat": "10%", "zercher_squat_lb": 700, "bench_lb": 660}
+2023-12-25 {{hEuy__sCbZA@1830}} opinion Big-three lifts should be a way to express strength, not a pigeonhole, unless you compete in them
+2023-12-25 {{hEuy__sCbZA@2460}} data [biceps] Most men couldn't pick 225 lb up from the floor; Haviland Zercher-cleans and racks about twice that, and does slow 240 lb preacher curl negatives  {"load_lb": "225, 240"}
+2024-02-24 {{29XrRmOrCMs@1256}} opinion Lifting weights on the side also makes you better at swinging a sword
+2024-04-11 {{loDNjTHZjG4@2903}} principle Powerlifters are not small but are small for their strength, and their physiques are imbalanced: big legs, chest, front delts and traps with underdeveloped arms and parts of the back
+2024-04-11 {{loDNjTHZjG4@2967}} principle At the same bodyweight bodybuilders are weaker and powerlifters stronger; since genetics do not explain this, training parameters do, so strength and hypertrophy training differ
+2024-04-11 {{loDNjTHZjG4@3092}} opinion IFBB pros at 250-270 lb deadlifting about 600 lb is weak for their size, since 160 lb powerlifters pull that; their size comes mostly from drugs  {"bodyweight": "250-270 lb", "deadlift": "600 lb"}
+2024-04-11 {{loDNjTHZjG4@3155}} principle Natural powerlifters never match natural bodybuilders for size and balance, and natural bodybuilders never outlift powerlifters: specializing in one quality costs the other
+2024-04-11 {{loDNjTHZjG4@3217}} opinion Ronnie trained heavy on the big three but most of his bodybuilding program was not built on them; the big three were maybe 5% of Arnold's volume  {"volume": "5%"}
+2024-04-11 {{loDNjTHZjG4@3404}} opinion The big three are about a tenth of the body's strength potential; big natties like GVS may be weak on squat, bench and deadlift but strong on isolations and back work
+2024-04-21 {{Ft039H8jzXU@1131}} opinion A 3x3 deadlift is a fine scheme if you leave reps in the tank  {"sets": 3, "reps": 3}
+2024-04-21 {{Ft039H8jzXU@1822}} anecdote Testing a deadlift 1RM every two weeks kept him stuck between 465 and 485 lb for a year; he never pulled 495  {"load": "465-485 lb", "frequency": "every 2 wks"}
+2024-04-21 {{Ft039H8jzXU@1822}} principle Constant max testing is like smashing a piggy bank every two weeks; you test strength but never build it
+2024-04-21 {{Ft039H8jzXU@1884}} anecdote [hamstrings] Now he deadlifts about every 40 days, gets 95% of posterior-chain volume from RDLs, good mornings and hyperextensions, and PRs each time  {"frequency": "deadlift every ~40 days"}
+2024-04-21 {{Ft039H8jzXU@2385}} anecdote His BBBS best lifts were a 335 lb bench single, 395 lb squat for 7 and 495 lb deadlift single at 240 lb; he now beats all but the bench at 220 lb  {"bodyweight": "240 lb then, 220 lb now"}
+2024-04-25 {{APmM-moU9z8@251}} principle Grapplers dominate ground situations; jiu-jitsu technique let even smaller females beat males
+2024-04-25 {{APmM-moU9z8@381}} principle [full_body] Picking up and carrying a bag is an underrated fitness skill needing explosive strength plus strong hips and back  {"load": "15-50 lb"}
+2024-04-25 {{APmM-moU9z8@699}} data In the mine cart quest, the heaviest athletes didn't do best; intermittent-sport light heavyweights with strength-endurance mix excelled, and sled-push experience showed  {"load": "2 tons"}
+2024-04-25 {{APmM-moU9z8@953}} opinion [quads] The 'infinite squats' (100 kg x30, 115 kg x40, 200 kg x20...) are pure willpower, the only challenge where a bodybuilder like him could win  {"load": "100/115/200 kg", "reps": "30/40/20"}
+2024-04-25 {{APmM-moU9z8@953}} principle [quads] Shorter lifters keep an advantage on squats despite height adjustment because of reduced range of motion
+2024-05-05 {{K--tJia2Wnc@1258}} anecdote His logbooks show his presses jump every spring; currently he adds 5-10 lb to presses roughly every two weeks  {"load": "5-10 lb", "weeks": 2}
+2024-05-28 {{l6L6HlGM4F0@439}} anecdote [forearms] He closed a 2.0 Captains of Crush gripper easily and nearly closed the 2.5 cold
+2024-06-04 {{2LoP6-KdEx4@125}} data Baki, 27, won the street lifting world championship in 2021 and 2022 and placed second in 2023, losing only on the squat  {"age": 27}
+2024-06-04 {{2LoP6-KdEx4@187}} data Street lifting competitions judge four lifts: muscle-up, weighted pull-up, weighted dip and barbell back squat
+2024-06-04 {{2LoP6-KdEx4@250}} opinion Powerlifting is about 70-80% lower-body volume (squat, deadlift as hinge) and produces bottom-heavy, non-aesthetic physiques  {"lower_body_volume": "70-80%"}
+2024-06-04 {{2LoP6-KdEx4@691}} data [full_body] Baki's push/legs day: dips 1x2 at +120 kg, low-bar squat 1x6 with four plates, bench 3x5 at 120 kg with tempo  {"dips": "1x2 +120 kg", "squat": "1x6 180 kg", "bench": "3x5 120 kg"}
+2024-06-04 {{2LoP6-KdEx4@755}} anecdote [quads] His high-bar to low-bar squat difference is about 20%  {"difference": "20%"}
+2024-06-04 {{2LoP6-KdEx4@1321}} data Baki's competition bests: dip +170 kg, pull-up +107 kg, squat 250 kg, total 560 kg; Xavier Aubard holds the record 570 kg total via a 275 kg squat  {"dip": "+170 kg", "pullup": "+107 kg", "squat": "250 kg", "total": "560 kg"}
+2024-06-04 {{2LoP6-KdEx4@1450}} data [chest] Elite weighted dip at 200+ lb bodyweight is about +280 lb; Baki dips about three times what NH does  {"elite_dip": "+280 lb"}
+2024-06-04 {{2LoP6-KdEx4@1582}} opinion Because the squat moves the most weight, it dominates the street lifting total and advantages squat specialists, like the deadlift in powerlifting; the federation should rebalance
+2024-06-04 {{2LoP6-KdEx4@1644}} data [chest] Strength is strength: Baki benched four plates after six weeks of bench specialisation thanks to his dip strength  {"weeks": 6, "bench": "4 plates"}
+2024-06-04 {{2LoP6-KdEx4@1770}} anecdote [shoulders] Handstand push-ups get much harder as bodyweight rises; NH did them easily at 160 lb but cannot at 220 lb
+2024-06-04 {{2LoP6-KdEx4@1894}} data Baki has a strict curl of 70 kg and reps about 250 kg deadlift with hook grip without training it  {"curl": "70 kg", "deadlift": "~550 lb"}
+2024-06-04 {{2LoP6-KdEx4@2649}} opinion 'Strength copers' who chose strength training because they could not build a physique lie to themselves
+2024-06-13 {{jUMmu583w34@1030}} principle Hypertrophy needs full range of motion and increasing load; your goal is not strength, but you will have to get stronger
+2024-09-07 {{bRKQIOYo2u4@2622}} principle [chest] Dips carry over a lot to bench since both are horizontal presses, but the best way to bench more is to bench
+2024-09-07 {{bRKQIOYo2u4@3820}} opinion [hamstrings] Strength standards are stupid; at his size a 400 lb RDL is roughly early intermediate  {"load": "400 lb"}
+2024-09-14 {{okm6bZHKHI4@13415}} opinion [shoulders] Being much stronger on seated overhead press than on bench is not a problem unless the shoulders visually overpower the chest
+2024-09-21 {{lyj1BFZ85Dg@8891}} opinion [triceps] Before getting frustrated with human limits, get to a 10-plate dip  {"load": "10 plates"}
+2024-10-19 {{c7hl9u3h_s0@2033}} anecdote His years of chasing numbers were his worst: constant injuries and poor gains
+2024-10-19 {{c7hl9u3h_s0@2344}} opinion Lifters who chase big-three strength often stay skinny-fat; the powerlifting-builds-physique idea is a meme and they should pivot
+2024-10-20 {{UgkxXd5hx9tyj4ek2_Jd0OQXwMkWfIhd6M03@0}} anecdote He debated Dr. Milo Wolf on powerbuilding in 'The Final Powerbuilding Debate', hosted by Alex Leonidas
+2024-10-26 {{wBct3Pl8OY4@764}} opinion [back] Bodybuilding is functional: heavy rows and a strong grip let him rip whole tangled branches and trees down by pulling
+2024-11-09 {{yZC3Nsmmzb8@12766}} anecdote Tat Ketun (23, Finland) beat cancer at 10 and benches 150 kg, squats 200 kg x4 and overhead presses 90 kg while looking shredded and aesthetic  {"bench": "150 kg", "squat": "200 kg x4", "ohp": "90 kg"}
+2024-11-09 {{yZC3Nsmmzb8@12699}} opinion Most powerlifters think they will look aesthetic from powerlifting, but almost none do
+2024-11-23 {{6p2x4kDDjzs@990}} anecdote [chest] He is working towards weighted dips with four plates for 4x5, but gym plates are so big his legs already spread wide  {"sets": 4, "reps": 5, "load": "4 plates"}
+2024-11-23 {{6p2x4kDDjzs@3977}} prescription [full_body] A rugby player should keep lower-body compound volume low because the sport already supplies leg work, and use compounds rather than isolation for the upper body
+2024-12-07 {{pt4mbNb7NJ0@4075}} anecdote A former elite-level powerlifter who got hurt and switched to bodybuilding built an excellent physique while running a company, proof that you don't need to live in the gym
+2024-12-07 {{pt4mbNb7NJ0@6664}} opinion He dislikes strength standards as a way to judge progress
+2024-12-07 {{pt4mbNb7NJ0@7998}} principle Strength doesn't equal size: a 216 lb lifter with big delts benches only 205, squats 250, RDLs 275 and overhead presses 145 lb; what matters is that performance trends up  {"load": "bench 205, OHP 145 lb"}
+2024-12-11 {{-OjJEzZTXtQ@757}} anecdote [quads] Switching to belt squat and SSB split squats raised his split squat strength about 50% in about 6 months  {"weeks": 26}
+2024-12-11 {{-OjJEzZTXtQ@820}} prescription [quads] 300 lb per leg on split squats is a realistic hypertrophy goal for a heavy lifter  {"load": "300 lb"}
+2024-12-14 {{hXx-KDH2p28@6071}} opinion [chest] Alex 405 is a freak on the bench; with his build he would like to see him specialize in a lower-body lift
+2024-12-16 {{qvWxIzhT1QU@127}} anecdote [forearms] His top suitcase deadlift set is a 3-rep max per side; left grip is slightly stronger, and he strapped up for a 4th rep  {"reps": "3-4"}
+2024-12-22 {{ZLheQPgEfoA@4816}} opinion [chest] Not everyone can reach a 4-plate bench since it depends on being built for it and staying uninjured, but he believes everyone can reach a 4-plate dip
+2024-12-22 {{ZLheQPgEfoA@4816}} anecdote [chest] His best bench is 335 lb; 350 seems possible but 405 is out of reach without drugs, whereas a 5-7 plate dip feels achievable because he can train dips without getting hurt  {"load": "335 lb"}
+2024-12-22 {{ZLheQPgEfoA@10351}} opinion [back] Powerlifting builds a dominant lower body and a thick back without the detail bodybuilders want
+2024-12-25 {{uKOuj3Mzc9c@1570}} opinion The average male cannot do one pull-up or deadlift his bodyweight, has small arms and is active under 45 minutes a week; every able-bodied man should manage these basics  {"activity": "<45 min/wk"}
+2025-01-01 {{J9_udWdk6ZM@1030}} opinion Former strongmen and powerlifters in their 30s-40s, often injured, moving to bodybuilding for health and looks are a good fit
+2025-01-04 {{0O0nG2jLadU@132}} anecdote [lats] He does weighted chin-ups for sets of 8 with 60 lb, holding a dumbbell between his feet instead of using a dip belt because it is more practical  {"reps": 8, "load": "60 lb"}
+2025-01-04 {{0O0nG2jLadU@132}} anecdote [lats] His regular-grip weighted pull-ups are sets of 3-5 reps with 115 lb (two plates and some change)  {"reps": "3-5", "load": "115 lb"}
+2025-01-04 {{0O0nG2jLadU@572}} anecdote [quads] He high-bar squats only 3-5 times a year (last time about four plates) and enjoys seeing how much it has improved without training it; he does the same with bench  {"frequency": "3-5x/yr"}
+2025-01-04 {{0O0nG2jLadU@6414}} anecdote [shoulders] Gym staff told him to be quieter after an overhead press with 175 lb  {"load": "175 lb"}
+2025-02-08 {{-7bzbmL-x3Q@748}} opinion [biceps] He doesn't care about strength and isn't proud of any lift, but is happy with how strong he is on biceps movements
+2025-03-15 {{ACFKXT44BzM@1694}} principle Switching from high to low reps makes strength shoot up short-term, but long-term progression is what matters

@@ -1,0 +1,652 @@
+2020-02-12 {{VAblRcVMjqw@310}} prescription Either count calories precisely to keep the surplus in range, or eat instinctively to fullness while monitoring the scale.
+2020-02-16 {{VpPf9o5923k@0}} anecdote He says he is fairly new to diet work so won't give precise dietary guidance, but has a lot of experience with bulking.
+2020-02-16 {{VpPf9o5923k@253}} opinion The '70% diet' saying from pro bodybuilding is false for naturals: diet isn't complicated, you don't need that many calories unless very big, and hitting macros is easy; training is what matters.  {"percent": "70% diet claim rejected"}
+2020-02-29 {{y_lPAdWi4sU@383}} principle Average novices don't need to care much about diet beyond watching protein; intermediates must manage calories (less to look drier, more to be fuller) so the kitchen doesn't undo their training.
+2020-03-03 {{a02c10s3Pjk@130}} principle Nutrition is more case-by-case than exercise because of genetic differences between individuals; no single diet is best for everyone.
+2020-03-03 {{a02c10s3Pjk@130}} opinion A junk-food based diet is good for no one; nobody gets healthier on it.
+2020-03-04 {{E783zHvVUdk@63}} opinion The 'drinking another species' milk is unnatural' argument is a nature fallacy and should be disregarded.
+2020-03-04 {{E783zHvVUdk@192}} opinion He believes milk and dairy are not good for most of the population, even beyond lactose intolerance.
+2020-03-04 {{E783zHvVUdk@255}} anecdote He digests lactose fine, but quit milk entirely because one side of his ancestry did poorly with dairy; check your ancestry for genetic risks before drinking large amounts.
+2020-03-04 {{E783zHvVUdk@316}} opinion Even for someone fully tolerant of dairy, relying on GOMAD on top of meals is lazy because it puts all your eggs in one basket.
+2020-03-04 {{E783zHvVUdk@445}} principle GOMAD supplies so much fat that even cutting fat elsewhere you overconsume it, and it provides far more calcium than you need; macro imbalance is never good.
+2020-03-04 {{E783zHvVUdk@506}} principle Growth on GOMAD comes from the protein and calories, not any special growth factor; milk protein is whey, available as isolate without the fat.
+2020-03-04 {{E783zHvVUdk@634}} opinion Milk is cheap and convenient; for broke students he is somewhat okay with it short term, but not for long periods, and convenience is no excuse for choosing the less healthy option.
+2020-03-04 {{E783zHvVUdk@696}} principle People ignore GOMAD's health consequences because they aren't immediate; good blood tests now don't prevent dormant chronic or genetic diseases later.
+2020-03-11 {{x5_bNfh9sN8@0}} principle This method is for people who don't count calories and eat by feel; counting calories makes it useless, and it only works if you eat for sustenance, aren't food-addicted and your appetite is disciplined.
+2020-03-11 {{x5_bNfh9sN8@0}} prescription To stay at maintenance, eat until satiated rather than full; most people keep eating after hunger is gone due to momentum and being raised to finish their plate.
+2020-03-11 {{x5_bNfh9sN8@62}} prescription Pause about 30 seconds mid-meal; if you're no longer hungry, your body has had enough, so pack the rest away for later.  {"rest": "30 s to 1-2 min"}
+2020-03-11 {{x5_bNfh9sN8@187}} principle Smaller meals are fine as long as you get your protein in; you won't lose muscle or hurt performance.
+2020-03-11 {{x5_bNfh9sN8@187}} prescription He trains, eats and then goes to bed; that last post-workout meal is the best one to cut back on, while reducing the pre-workout meal hurts training energy.
+2020-03-11 {{x5_bNfh9sN8@187}} principle If you wake up not very hungry, you ate what you needed the night before.
+2020-03-11 {{x5_bNfh9sN8@248}} anecdote He admits he gets greedy with food and often serves twice what he needs, which would push him into a bigger surplus than wanted; the method also saves money.
+2020-03-11 {{x5_bNfh9sN8@248}} prescription Don't apply this on refeed, carb-up or cheat days where you want calories to spike.
+2020-03-11 {{x5_bNfh9sN8@311}} principle The method suits instinctive eaters with neither low nor high appetite.
+2020-03-20 {{j2DCJGxIE-s@187}} opinion Phytoestrogens, mammal estrogens and xenoestrogens from plastic do have an effect in his view, but its size depends on genetics and receptor sensitivity.
+2020-03-20 {{j2DCJGxIE-s@187}} opinion Most studies find soy isn't feminising, but they test normal consumption, not overconsumption; there are cases of men who lost male characteristics after soy replaced much of their protein, while others drink a gallon of soy milk a day with no issue.  {"volume": "1 gallon/day"}
+2020-03-20 {{j2DCJGxIE-s@250}} anecdote Cow's milk contains a lot of estrogen too; for him it didn't cause gyno but increased fat and water retention around the love handles and waist.
+2020-03-20 {{j2DCJGxIE-s@313}} anecdote About four months ago he gave up milk and most red meat; at the same bodyweight and calories, his love handles slimmed noticeably as if they no longer retained water.  {"months": 4}
+2020-03-20 {{j2DCJGxIE-s@376}} prescription If you're lean and vascular but keep stubborn love handles, try cutting dairy and see what happens.
+2020-03-20 {{j2DCJGxIE-s@441}} anecdote Raw garlic, onions and capers are said to boost testosterone; he hasn't tested his levels, but raw garlic gives him insane pumps and more vascularity without cutting.
+2020-03-24 {{Jd2wr0Qe42I@0}} data Garlic has long been used in traditional medicine for immunity, before science backed it.
+2020-03-24 {{Jd2wr0Qe42I@0}} principle Raw garlic is better than cooked because heat destroys some nutrients; cooking only makes it milder.
+2020-03-24 {{Jd2wr0Qe42I@125}} opinion Raw garlic will not protect you from catching or cure coronavirus; it may only support general immunity.
+2020-03-24 {{Jd2wr0Qe42I@187}} anecdote Eating a lot of raw garlic at lunch gives him a very high-quality pump when training 4-5 hours later.  {"hours": "4-5"}
+2020-03-24 {{Jd2wr0Qe42I@187}} anecdote Tolerance builds: 1-1.5 months ago three cloves gave insane pumps, now three cloves do nothing.  {"cloves": 3, "months": "1-1.5"}
+2020-03-24 {{Jd2wr0Qe42I@187}} data Garlic is said to improve cholesterol, reduce blood pressure and help prevent some diseases with regular consumption.
+2020-03-24 {{Jd2wr0Qe42I@249}} data Very high doses can thin the blood and cause dizziness, but you need to eat a lot to get there.
+2020-03-24 {{Jd2wr0Qe42I@249}} anecdote The main downside is that breath and sweat smell of garlic; brush and shower. The smell was worst at first and decreased as his body adapted.
+2020-03-24 {{Jd2wr0Qe42I@312}} prescription Start with one clove for a week and then add one, rather than five or six at once.  {"cloves": 1}
+2020-03-24 {{Jd2wr0Qe42I@374}} prescription He eats raw garlic twice a day every day during the crisis, 3-6 cloves daily as a heavy person; more than half a bulb a day is overkill.  {"cloves": "3-6/day", "frequency": "2x/day"}
+2020-03-24 {{Jd2wr0Qe42I@438}} principle You must cut or crush garlic so it contacts oxygen and releases its beneficial compounds; don't swallow it whole like a pill.
+2020-03-24 {{Jd2wr0Qe42I@438}} prescription His method: peel and slice the garlic very thin and place it on warm food so it goes down easily; the burn fades with habituation.
+2020-03-24 {{Jd2wr0Qe42I@501}} anecdote Bro-science: garlic seems to have increased his vascularity (a vein on his right shoulder, veins on his hips) without fat loss, making him look leaner.
+2020-03-24 {{Jd2wr0Qe42I@564}} prescription Buy organic raw garlic from a good origin; it's cheap and a bag lasts months, so get top quality.
+2020-04-01 {{Xx7A1dAAPDo@0}} principle Diet is like training: you must learn how your own body works; borrow ideas from others but check they fit you.
+2020-04-01 {{Xx7A1dAAPDo@0}} opinion He is suspicious of any diet advice claimed to work for 100% of people; general rules cover most people but always need individual tweaks.
+2020-04-01 {{Xx7A1dAAPDo@127}} principle Being stubborn with diet is more detrimental than being stubborn with training; hard work compensates less.
+2020-04-01 {{Xx7A1dAAPDo@189}} anecdote He calls himself plant-based in the old sense: the bulk of his diet by volume is vegetables, mostly greens and colorful vegetables, with limited rice and potatoes; he is not vegan.
+2020-04-01 {{Xx7A1dAAPDo@253}} anecdote His staples: spinach, cabbage, green onions, lots of onions and garlic, peppers of every color, citrus (cuties, oranges, limes), asparagus and Brussels sprouts.
+2020-04-01 {{Xx7A1dAAPDo@253}} principle Don't eat 'bodybuilding' or 'healthy' foods that don't agree with you: broccoli wrecks his stomach so he skips it; people who can't digest raw spinach should stop eating it.
+2020-04-01 {{Xx7A1dAAPDo@315}} opinion Veganism benefits many people but isn't the easy fad it became and doesn't suit everyone, e.g. those in climates with no winter harvest; some people need animal products to be healthy.
+2020-04-01 {{Xx7A1dAAPDo@315}} anecdote He eats animal products because he likes them, they kill his hunger and suit his body: lots of chicken, fish (likes salmon, eats much tilapia).
+2020-04-01 {{Xx7A1dAAPDo@379}} anecdote Red meat is bad for him specifically (not everyone; he knows people eating pounds weekly who live long), so he limits himself to 1 lb of red meat per week and avoids overcooking it.  {"load": "1 lb red meat/week"}
+2020-04-01 {{Xx7A1dAAPDo@442}} anecdote He likes goat cheese, avoids milk because it's bad for him, and drinks mostly water, in large amounts.
+2020-04-01 {{Xx7A1dAAPDo@442}} anecdote His snacks: cashews, green olives, sardines. He eats the same foods day in, day out.
+2020-04-01 {{Xx7A1dAAPDo@442}} anecdote He eats 4-8 eggs a week now, down from 12 a day in the past, for health reasons.  {"eggs": "4-8/week (was 12/day)"}
+2020-04-01 {{Xx7A1dAAPDo@442}} anecdote He cooks everything himself, preferably in the oven, and avoids microwave ready-meals.
+2020-04-01 {{Xx7A1dAAPDo@505}} anecdote By volume his diet is mostly low-calorie, micronutrient-rich vegetables, but calories come largely from animal products; he usually has animal products in one meal, reducing portions if in both.
+2020-04-01 {{Xx7A1dAAPDo@505}} anecdote He eats two big sit-down meals a day plus snacks or a breakfast between.  {"meals": 2}
+2020-04-01 {{Xx7A1dAAPDo@569}} anecdote He'd be described as having a 'low metabolism' and does fine on relatively few calories.
+2020-04-01 {{Xx7A1dAAPDo@569}} anecdote He doesn't count calories or macros and high-balls everything, because he is already obsessive about training and weighing food would make him go crazy.
+2020-04-01 {{Xx7A1dAAPDo@629}} data He estimates he eats around 2200-2400 kcal a day.  {"kcal": "2200-2400"}
+2020-04-01 {{Xx7A1dAAPDo@629}} opinion He doubts the accuracy of smaller lifters claiming to eat 4000 kcal a day; either they miscount or they overfeed.  {"kcal": 4000}
+2020-04-01 {{Xx7A1dAAPDo@629}} opinion His meals are cheap and easy; good food isn't hard to make.
+2020-04-01 {{Xx7A1dAAPDo@758}} prescription Most people would benefit from eating mostly vegetables complemented by animal products, eating whole foods, and cooking themselves rather than buying microwave meals; it's also cheaper.
+2020-04-01 {{Xx7A1dAAPDo@821}} opinion Diet is case by case; people who say everyone should eat only raw meat or only vegetables are too dogmatic.
+2020-04-18 {{yenqGI_FVQ4@383}} principle He only really started gaining weight once he began lifting and eating more; skinny guys must eat when they train or it's all for nothing.
+2020-04-24 {{_iugC-xY1Og@26}} principle Being hungry or calorie-depleted causes mood swings and poor focus for many people, which can be a real problem in high-stakes or safety-critical jobs.
+2020-04-24 {{_iugC-xY1Og@61}} principle How you spread calories through the day can prevent hunger-driven cheating, whether you count calories or eat by instinct like him.
+2020-04-24 {{_iugC-xY1Og@11}} anecdote He does not count calories; he eats by instinct and is currently at maintenance.
+2020-04-24 {{_iugC-xY1Og@86}} opinion He sets aside claims that eating calories early is better for muscle gain and fat loss; his concern is the person's well-being.
+2020-04-24 {{_iugC-xY1Og@102}} principle People split into those who can sleep on an empty stomach and those who can't, and those who can function hungry and those who can't; he is foggy and inefficient when hungry but can sleep hungry.
+2020-04-24 {{_iugC-xY1Og@140}} prescription If you can sleep hungry but not function hungry, eat most calories early in the day, then have something lighter and high in protein after training and go to bed.
+2020-04-24 {{_iugC-xY1Og@195}} prescription If you can fast easily but can't sleep hungry, fast after waking and start eating later; the later you start, the easier it is to save calories for a filling evening feast before bed.
+2020-04-24 {{_iugC-xY1Og@222}} principle Know who you are and experiment with your diet, because people react differently to the same approach.
+2020-05-15 {{IeYLu4_hkZY@439}} anecdote After dropping dairy and cutting red meat in January he went from 215 to 210 lbs in about two months, but looked much leaner, mostly from losing water and puffiness (face, love handles), which he links to estrogen in the diet.  {"load": "215 -> 210 lbs", "weeks": "~2 months"}
+2020-05-15 {{IeYLu4_hkZY@565}} anecdote Once protein, fats and carbs needs are met, how you fill remaining calories is individual; his body does great on carbs and he gets leaner eating them, and he thinks swapping carbs for fats at the same bodyweight would slow his fat loss.
+2020-05-15 {{IeYLu4_hkZY@628}} prescription Experiment with your diet before the recomp, not during it.
+2020-05-15 {{IeYLu4_hkZY@692}} anecdote He has a slow metabolism, does well on low calories and has a normal appetite; after dropping dairy his appetite didn't make up the lost calories, he lost weight, and he noticed because some lifts regressed.
+2020-05-15 {{IeYLu4_hkZY@753}} principle Don't rely solely on appetite during a recomp; his own advice to eat instinctively without counting backfired on him.
+2020-05-15 {{IeYLu4_hkZY@753}} prescription To maintain 210-211 lbs while getting stronger, he forces one daily snack of about 300 kcal when slightly hungry to avoid a deficit.  {"kcal": 300, "load": "210-211 lbs"}
+2020-05-15 {{IeYLu4_hkZY@815}} anecdote Don't follow someone else's diet for years; experiment. Dropping dairy was a revolution for him, and eating garlic and onions really helped him.
+2020-05-15 {{IeYLu4_hkZY@940}} opinion A calorie is not just a calorie: the macro source and timing (e.g. protein with carbs) affect insulin and where the body puts calories, so macro changes alter fat distribution.
+2020-05-28 {{_2yfdqBUoPQ@189}} opinion A diet should never be a lifestyle (vegans get a pass for ethics); it should fit your needs and genetic predispositions, and habits should not define you
+2020-05-28 {{_2yfdqBUoPQ@318}} opinion Snake juice is just water with minerals and salts, like a water fast; not dangerous
+2020-05-28 {{_2yfdqBUoPQ@382}} opinion A diet that is not paired with a training regimen loses about half its potential to transform the body
+2020-05-28 {{_2yfdqBUoPQ@382}} principle In a deficit or fast the body prioritises burning fat over muscle because muscle is costly to build; it will not burn all fat first, but it favours fat
+2020-05-28 {{_2yfdqBUoPQ@635}} principle Exercise alone burns few calories, especially weight training, and diet alone does not sculpt the body; diet and training must go hand in hand
+2020-05-28 {{_2yfdqBUoPQ@635}} principle Everyone fasts overnight, so intermittent fasting just extends it; three meals a day is a cultural construct built around farm working hours
+2020-05-28 {{_2yfdqBUoPQ@762}} opinion When you eat matters little compared with what and how much; meal distribution only affects how you get through the day
+2020-05-28 {{_2yfdqBUoPQ@887}} principle Even 5000 kcal is very hard to eat in a 1-2 hour window because satiety cuts you off  {"kcal": 5000}
+2020-05-28 {{_2yfdqBUoPQ@887}} principle People who overeat usually eat very frequently or choose calorie-dense foods that do not satiate
+2020-05-28 {{_2yfdqBUoPQ@951}} opinion Rapid weight loss tends to cause loose skin, cellular cleansing claims mean nothing, and starvation mode does not exist
+2020-05-28 {{_2yfdqBUoPQ@1078}} opinion A 1-2 hour eating window is impractical for anyone with a demanding job; going to bed hungry hurts sleep and next-day performance
+2020-05-28 {{_2yfdqBUoPQ@1078}} opinion Fasting puts many people, especially the overweight, in a dark place: sad, depressed or aggressive
+2020-05-28 {{_2yfdqBUoPQ@1204}} opinion Ancestors strove for consistent food supplies; blame the person who shops five times a week, not the 24/7 supermarket; the diet removes personal responsibility
+2020-05-28 {{_2yfdqBUoPQ@1391}} opinion Giving people with an unhealthy relationship to food a 2-hour window invites binging, usually on junk; a calorie is not just a calorie if it all comes from junk
+2020-05-28 {{_2yfdqBUoPQ@1456}} opinion Fasting is not magic and will not boost testosterone
+2020-05-28 {{_2yfdqBUoPQ@1456}} prescription Instead of crash diets, replace processed foods with vegetables and whole foods; calories fall on their own because fibre-rich food is more satiating
+2020-05-28 {{_2yfdqBUoPQ@1518}} opinion Training matters more than diet for naturals; this is not a diet channel
+2020-06-02 {{6nKKGsCCqxo@65}} principle Easy gainers should focus more on training since they gain regardless; hardgainers should focus more effort on eating enough to feed their workouts.
+2020-06-02 {{6nKKGsCCqxo@189}} principle Hardgainers often have weak appetites that shut off within five or six minutes of a meal.
+2020-06-02 {{6nKKGsCCqxo@189}} prescription Don't shovel food down quickly; chew properly for digestion and nutrient absorption.
+2020-06-02 {{6nKKGsCCqxo@251}} prescription Six meals a day is a myth for bodybuilders in general but useful for hardgainers: splitting meals lets the stomach empty repeatedly so you can fit in the calories.  {"meals": 6}
+2020-06-02 {{6nKKGsCCqxo@251}} prescription The worst thing a hardgainer can do is eat only once or twice a day; schedule dedicated meal times.
+2020-06-02 {{6nKKGsCCqxo@251}} anecdote He has a slow metabolism and mild appetite and can sometimes eat one meal a day and maintain 210 lb.  {"bodyweight": "210 lb", "meals": 1}
+2020-06-02 {{6nKKGsCCqxo@379}} principle Bad foods exist: foods whose only benefit is calories, like cake (fat and sugar, no vitamins or minerals); they're empty calories but won't kill you in a big surplus.
+2020-06-02 {{6nKKGsCCqxo@379}} opinion Too many tall skinny guys follow bro diets of chicken and broccoli and don't grow because they don't eat enough; eat the cake or pizza, but balance it for health (sugar, sodium).
+2020-06-02 {{6nKKGsCCqxo@508}} prescription Drink your calories with homemade blender shakes (peanut butter, milks, avocado, blueberries) to get hundreds of calories easily, sipped through the day or as a big bottle before bed; watch that raw eggs don't spoil.
+2020-06-10 {{FWxW69B5_XM@0}} opinion For him, training matters more than diet, and he is still learning what his body likes to eat.
+2020-06-10 {{FWxW69B5_XM@0}} principle There is no universal diet; you should understand your ancestry and listen to your body, since some foods that are technically good may not agree with you.
+2020-06-10 {{FWxW69B5_XM@63}} principle Your culture and personality type also affect how you consume food, and your relationship with food affects your body and diet.
+2020-06-10 {{FWxW69B5_XM@124}} principle If you grew up with food insecurity, the strategy of keeping no snacks at home to avoid cheating can create heavy psychological stress.
+2020-06-10 {{FWxW69B5_XM@124}} anecdote He feels excellent after grocery shopping and uneasy with an empty fridge despite having plenty of money, so restricting groceries doesn't work for him; instead he uses discipline, e.g. making a month's snacks last a month.
+2020-06-10 {{FWxW69B5_XM@187}} principle If you lack self-control when food is available, keeping little food at home may be the right route; the stress that having or not having food causes is a key indicator of which diet to follow.
+2020-06-10 {{FWxW69B5_XM@251}} prescription If you can eat intuitively, roughly know your calorie needs and hit macros and micros without calculating, do that; he does, and has never had anxiety about meeting his training's nutritional requirements.
+2020-06-10 {{FWxW69B5_XM@251}} opinion Counting macros or calories is not stupid; it is a means to an end, and if weighing everything makes you feel better, do it. Don't let anxiety grow until it stalls your gains.
+2020-06-10 {{FWxW69B5_XM@381}} principle Fixing your relationship with food is vital and should be done as early as possible, through self-work or therapy if needed.
+2020-06-10 {{FWxW69B5_XM@445}} principle Keep your relationship with food 'professional', without emotional attachment, so you can see food as sustenance without psychological stress clouding your judgment.
+2020-06-10 {{FWxW69B5_XM@571}} opinion He doesn't care about insulin/carbs/protein talk because he never had to; his diet content will stay somewhat spiritual.
+2020-06-13 {{CRXE2gFfwcs@314}} prescription Strength should trend steadily upward; if strength or tonnage drops unexpectedly, check your diet before deloading, since you may not be eating what you think.
+2020-06-17 {{g4mX62QGzTo@1071}} data Eating 13 large pizzas would be over 20,000 kcal, beyond what even top competitive eaters manage, so the claim is impossible.  {"kcal": 20000}
+2020-06-17 {{g4mX62QGzTo@1815}} opinion Misinterpreting data to fit a narrative, e.g. citing Michael Phelps eating carbs all day to justify a large surplus as a non-athlete, is a red flag.
+2020-06-22 {{YVxYG7FhlVE@62}} principle Everyone has different dietary needs; a lifelong goal is to learn what your body likes, and by your 30s or 40s you should have about 80% of the puzzle figured out
+2020-06-22 {{YVxYG7FhlVE@62}} opinion He dislikes any diet that gives strict directives while knowing nothing about the individual
+2020-06-22 {{YVxYG7FhlVE@188}} data The vertical diet gets most calories and macros from white rice and red meat, supplemented with vegetables and other lean proteins
+2020-06-22 {{YVxYG7FhlVE@188}} opinion Making red meat the main protein source is unhealthy for most people, and heavier lifters end up eating even more of it
+2020-06-22 {{YVxYG7FhlVE@251}} data Apparently people who undercook beef suffer fewer consequences than those who overcook it, and Westerners tend to overcook
+2020-06-22 {{YVxYG7FhlVE@251}} principle No food is universally good or bad; dose matters per person, e.g. 100 g of something may be beneficial and 300-400 g detrimental for one person but fine for another
+2020-06-22 {{YVxYG7FhlVE@377}} data The diet bans brown rice and other grains, some vegetable oils, soy, onions, garlic, coffee, added sugar and high-FODMAP vegetables like broccoli
+2020-06-22 {{YVxYG7FhlVE@441}} opinion Being able to digest lactose does not mean dairy is good for you; some groups like Scandinavians thrive on it, but many accumulate harm, so dairy should be questioned
+2020-06-22 {{YVxYG7FhlVE@504}} opinion Garlic changed his life and onions are a staple; they help prevent cancers that red meat and dairy may promote, so the diet removes protective foods while emphasizing risky ones
+2020-06-22 {{YVxYG7FhlVE@566}} opinion He does not drink coffee and thinks many are addicted, but coffee in equal amounts is likely healthier than red meat
+2020-06-22 {{YVxYG7FhlVE@628}} anecdote He thrives on high carbs and gets fat from dietary fat; others would get fat on his high-carb diet, so macro balance is individual
+2020-06-22 {{YVxYG7FhlVE@691}} opinion White rice is not universally digestible; some people, especially those suited to high protein/high fat, get constipated from it
+2020-06-22 {{YVxYG7FhlVE@691}} opinion The vertical diet is low in fiber because it bans several vegetables, hurting people eating lots of lean meat who need fiber most
+2020-06-22 {{YVxYG7FhlVE@755}} principle A fixed food template changes macros with bodyweight: a lighter person may hit calories with little rice while a much heavier one eats huge amounts of rice
+2020-06-22 {{YVxYG7FhlVE@818}} anecdote He has not given up refined sugar and sees no reason to yet
+2020-06-22 {{YVxYG7FhlVE@880}} anecdote He can eat garlic and onions without any gut issues while some 'easy to digest' foods bother him, so one-size-fits-all digestion rules are lazy
+2020-06-22 {{YVxYG7FhlVE@944}} opinion Fiber supplements are pointless; the value of high-fiber diets comes from the minerals and micronutrients in vegetables and fruit
+2020-06-22 {{YVxYG7FhlVE@944}} opinion Bowel movements should not exceed once or twice a day; abusing fiber to go five times a day signals gastrointestinal problems
+2020-06-22 {{YVxYG7FhlVE@1007}} opinion The body holds onto micronutrients effectively, so you can cover them from limited sources if smart
+2020-06-22 {{YVxYG7FhlVE@1071}} principle Any diet that meets your calories and protein will build muscle; this one is not special
+2020-06-22 {{YVxYG7FhlVE@1071}} prescription If you can get away with two meals a day, do it; you set your meal frequency, not the diet
+2020-06-22 {{YVxYG7FhlVE@1133}} opinion Cutting onions and garlic also cuts prebiotics important for gut health
+2020-06-22 {{YVxYG7FhlVE@1133}} data Brian Shaw followed the vertical diet and stopped because he felt it lowered his performance
+2020-06-22 {{YVxYG7FhlVE@1133}} prescription Don't pay someone to tell you what to eat; listen to your body and build your own diet
+2020-06-27 {{dgxdlxNZUUs@374}} opinion Nutrition is overrated: once you eat clean whole foods and understand macros and micros, there is little left to gain; quitting milk made him much less puffy but it was a one-time change
+2020-06-27 {{dgxdlxNZUUs@437}} opinion The 70% nutrition, 20% training, 10% recovery idea is idiotic; training is at least 50% and becomes more important as you advance
+2020-07-01 {{2sIS1fZYqrc@0}} principle Refeeds are planned with one goal, fueling performance; cheat meals are designed to make you feel better and make dieting easier, which is the problem.
+2020-07-01 {{2sIS1fZYqrc@64}} data A typical cheat meal is very high in calories with distorted macros: lots of carbs and fat, less protein than you think, few micronutrients, lots of sodium and trans fats.
+2020-07-01 {{2sIS1fZYqrc@64}} opinion If your diet is so strict you need a weekly junk binge to stay sane, rethink the diet; it's like an abusive relationship with your food.  {"frequency": "weekly"}
+2020-07-01 {{2sIS1fZYqrc@191}} opinion A weekly binge after restriction does refill glycogen, but rich food once a week also stresses the stomach and skin.
+2020-07-01 {{2sIS1fZYqrc@254}} principle Tasty food doesn't automatically have bad macros; many home-made whole foods are delicious and sustainable, though highly palatable foods tend to be higher in fat and calories.
+2020-07-01 {{2sIS1fZYqrc@254}} anecdote NH never does cheat days: every day is a cheat day because he only eats food he enjoys, avoids processed food and distorted macro ratios, and is very happy with his diet.
+2020-07-01 {{2sIS1fZYqrc@317}} anecdote Through years of experimenting he has so many food options that for any nutrient he can think of 10 dishes to make himself.  {"options": 10}
+2020-07-01 {{2sIS1fZYqrc@317}} opinion A sustainable diet requires doing your own grocery shopping and cooking; meal-prepping dry chicken and rice then bingeing on Sunday is a weak-minded approach.
+2020-07-01 {{2sIS1fZYqrc@317}} principle Diet must be something you can repeat for the rest of your life; anything you dislike won't be consistent for years.
+2020-07-06 {{DrAKKhJU0fY@204}} opinion No food will make you big; once you hit your macros with healthy foods, it is just a calorie calculation to feed the gains
+2020-07-06 {{DrAKKhJU0fY@1150}} anecdote 4000 kcal would make him (6 ft, slow metabolism) gain weight fast, though metabolisms vary  {"kcal": 4000}
+2020-07-06 {{XweCS5RdqNk@0}} prescription Intramuscular water matters for size; don't avoid it or chase it by overeating sodium, just eat balanced and get minerals from sea or pink salt
+2020-07-22 {{pr6glFcyye0@127}} prescription Skinny hardgainers need a calorie surplus; you cannot build mass out of nothing
+2020-07-22 {{pr6glFcyye0@191}} prescription Eat until you start gaining weight; that shows you are in an anabolic state, and training directs the mass toward muscle
+2020-08-09 {{3dLu3VQinL8@947}} anecdote During his master's he ate rice, chicken, spinach and green olives every day for a year and was never bored  {"weeks": 52}
+2020-08-12 {{ewvy5V03gTE@189}} prescription If you are depressed, don't run a caloric deficit; eat at maintenance rather than bulking
+2020-08-12 {{mUAHGlseeyk@251}} opinion Some people need to be full to train well, others train better hungry because it makes them aggressive
+2020-08-12 {{mUAHGlseeyk@314}} principle After 48 hours of fasting your strength drops a lot  {"hours": 48}
+2020-08-12 {{mUAHGlseeyk@314}} opinion A meal eaten just before training helps mostly psychologically unless it is fast-digesting carbs, and you do not need protein right after training to build muscle
+2020-08-19 {{RYkGN4SOkX0@2135}} opinion GOMAD (a gallon of milk a day) is idiotic even for people who need to gain weight; there are better calorie sources
+2020-08-23 {{VXwYO2qG9ZY@570}} prescription Before training, be fed in your optimal window: not full and queasy, not hungry
+2020-08-27 {{7eZtMIgSnOE@304}} prescription He gets sleepy for an hour after any meal; schedule your last meal shortly before bed if food makes you drowsy
+2020-08-27 {{7eZtMIgSnOE@354}} principle A carb-heavy meal can strengthen post-meal sleepiness (low-confidence)
+2020-08-27 {{7eZtMIgSnOE@389}} anecdote A huge meal before bed makes him wake up starving
+2020-09-16 {{7naFa8JCGHQ@507}} principle You cannot do keto and GOMAD: milk has carbs that knock you out of ketosis
+2020-09-16 {{7naFa8JCGHQ@570}} opinion Claiming 5000 kcal to maintain at 5'7, 225 lb and about 25% body fat just maintains fat; Michael Phelps' intake reflects hours of swimming, not lifting  {"kcal": 5000, "bodyfat": "25%"}
+2020-09-21 {{ZdcKQXMmmPY@460}} principle Muscle mass is metabolically expensive, so a very muscular, very active athlete can justify an enormous calorie intake
+2020-09-21 {{ZdcKQXMmmPY@939}} data Baki's 200 kg of food in three months implies roughly 8,000-10,000 kcal and over 2.2 kg of food per day, which would make most people obese  {"kcal": "8000-10000/day", "food": "200 kg total"}
+2020-10-01 {{NpIo8tFRESg@150}} principle As you train and grow, appetite rises; the body asks for the fuel it needs
+2020-10-01 {{NpIo8tFRESg@160}} opinion NH ate less protein than most prescribe early on and still grew, so stop worrying about optimising diet, especially as a beginner
+2020-10-01 {{NpIo8tFRESg@252}} prescription If possible, live off campus; dorms with no kitchen and overpriced cafeterias make gaining very hard
+2020-10-01 {{NpIo8tFRESg@439}} prescription Cook for yourself; it's cheapest, and grown men should be able to feed themselves
+2020-10-01 {{NpIo8tFRESg@812}} anecdote After advice based on his genetic makeup, he cut milk, dairy and most eggs and red meat; within six months water retention and fat dropped and he felt more anabolic and pain-free  {"weeks": 26}
+2020-10-01 {{NpIo8tFRESg@936}} principle Training is the variable that drives growth, but food and calories matter most for longevity and health
+2020-10-22 {{YXAguRizeqQ@0}} principle Food intake control and hormonal environment help, but truly matter once muscle is in the mix
+2020-10-28 {{ZTdIkUSgBEs@300}} opinion Nutrition is not a magic pill: it matters for longevity but has significant limits for building a body or fighting
+2020-10-29 {{ylbxNE-2Im0@62}} anecdote NH did not take a DNA test; he built his diet from family history by talking with male elders like his uncle, supervised by a longevity-focused nutritionist
+2020-10-29 {{ylbxNE-2Im0@100}} principle Diet matters less than training for muscle building but is the number one factor for longevity and disease avoidance, more than cardio or lifting
+2020-10-29 {{ylbxNE-2Im0@125}} principle What you eat every day compounds over time and dwarfs your training tonnage, yet most people eat mindlessly
+2020-10-29 {{ylbxNE-2Im0@187}} opinion Paying attention to diet can be the difference between dying in your 60s and in your 80s
+2020-10-29 {{ylbxNE-2Im0@220}} principle Like genetic strong points in bodybuilding, everyone has genetically strong and weak organs; focus on protecting the weak organ that runs in your family because it will fail first
+2020-10-29 {{ylbxNE-2Im0@311}} anecdote NH must limit liquid dairy (milk, yogurt), certain fish and red meat, which aggravate his family condition, and favors tomatoes, onions, garlic and small amounts of red wine
+2020-10-29 {{ylbxNE-2Im0@499}} principle The earlier you identify a hereditary disease risk, the more prevention you can do; men who catch conditions in their 40s-50s still gain 10 years
+2020-10-29 {{ylbxNE-2Im0@520}} prescription Ask your family what your relatives died of, on both the paternal and maternal lines, to learn which conditions you may be predisposed to
+2020-10-29 {{ylbxNE-2Im0@604}} prescription If no relative has seen a nutritionist, research your conditions online using credible sources; most conditions have aggravating and protective foods
+2020-10-29 {{ylbxNE-2Im0@624}} opinion Foods that improve most conditions tend to be vegetables; red meat rarely helps any condition
+2020-10-29 {{ylbxNE-2Im0@660}} opinion Nothing is wrong with animal products, but they should not make up the majority of your calories or food volume
+2020-10-29 {{ylbxNE-2Im0@720}} principle Balancing protein, fats and carbs is easy; the hard part is filling those macros with foods that agree with you
+2020-10-29 {{ylbxNE-2Im0@770}} opinion If a food makes you sick, stop eating it; taking lactose pills to eat cheese only tricks the body
+2020-10-29 {{ylbxNE-2Im0@812}} anecdote Some foods disagree with you without obvious symptoms: milk made NH retain water and fat in odd areas, and too much red meat showed similar quiet signs
+2020-10-29 {{ylbxNE-2Im0@878}} principle Foods are negative, neutral or beneficial; beneficial foods slowly make you feel better and should be eaten in abundance
+2020-10-29 {{ylbxNE-2Im0@920}} anecdote Eating tomatoes, onions and garlic daily changed how NH felt and his body composition dramatically
+2020-10-29 {{ylbxNE-2Im0@960}} prescription Detach emotionally from foods that taste good but do not do you good
+2020-10-29 {{ylbxNE-2Im0@1004}} opinion Diet changes take a long time; it is a lifelong process and good diet choices stay with you even if you lose your muscle
+2020-11-01 {{LOXdxKNqSag@110}} opinion Enhanced lifters' diets do not apply either; some cut fats almost completely, which would crush a natural's testosterone
+2020-11-17 {{vC9cKh9tFxs@0}} anecdote NH says nutrition is the area where he has done the least research and is least accurate, so take his advice with a grain of salt
+2020-11-17 {{vC9cKh9tFxs@90}} opinion The '70-80% nutrition' idea is bogus; nutrition is the least important factor because training takes effort and eating doesn't
+2020-11-17 {{vC9cKh9tFxs@126}} principle Once your nutritional base is built, diet becomes an automatism; a diet shouldn't be a struggle, your training should
+2020-11-17 {{vC9cKh9tFxs@190}} prescription Never boil or steam chicken; cook it in the oven or a pan and season heavily so you can eat it in large amounts
+2020-11-17 {{vC9cKh9tFxs@230}} anecdote NH spent a year eating only chicken breast, spinach, rice and green olives, with occasional dark chocolate  {"weeks": "1 year"}
+2020-11-17 {{vC9cKh9tFxs@254}} prescription Diversify protein sources: fish, fatty fish and plant proteins, which complement animal proteins
+2020-11-17 {{vC9cKh9tFxs@300}} principle Animal protein is very satiating for its calories, so skinny lifters on high-protein diets fill up and fail to eat enough calories
+2020-11-17 {{vC9cKh9tFxs@316}} principle Beginners with little muscle can't use large amounts of protein; the excess is used as fuel or wasted
+2020-11-17 {{vC9cKh9tFxs@420}} opinion Eating 2 g/kg protein is unnecessary for most people; past a point protein is burned as fuel, and mainly steroid users can use that much  {"protein": "2 g/kg"}
+2020-11-17 {{vC9cKh9tFxs@441}} principle Anabolism is driven mainly by training, which raises the body's demands, not by extra protein
+2020-11-17 {{vC9cKh9tFxs@460}} anecdote At 95 kg (210 lb) NH eats about 120-140 g protein a day, 140 only on heavy days, with low fat, moderate protein and high carbs  {"protein": "120-140 g/day"}
+2020-11-17 {{vC9cKh9tFxs@590}} opinion NH firmly opposes extreme diets such as keto, zero fat, carnivore or vegan; they suit only a small minority, and humans are omnivores who need a balanced diet
+2020-11-17 {{vC9cKh9tFxs@1190}} principle Maintenance calorie needs rise very slowly unless activity or climate changes; your appetite usually signals it
+2020-11-17 {{vC9cKh9tFxs@1316}} prescription When raising calories, raise protein far more slowly, roughly 1 g protein per 100 kcal, to avoid excessive satiety  {"protein": "1 g per 100 kcal"}
+2020-11-26 {{zAUmHWbOywA@504}} prescription Set your diet (foods, calories, macros) and program, then don't touch them; constant tweaking makes you doubt and fuels anxiety
+2020-11-29 {{ZDKdqqbQ5Gk@317}} opinion Tap water carries hormones and toxins that filtration doesn't remove; filter it or use reverse osmosis
+2020-11-29 {{ZDKdqqbQ5Gk@442}} principle Processed food is anything prepared for you; the more steps in making it, the more additives and the worse it is
+2020-11-29 {{ZDKdqqbQ5Gk@506}} prescription Eat whole foods you cook from scratch, controlling the cooking, salt and condiments yourself
+2020-11-29 {{ZDKdqqbQ5Gk@567}} anecdote He uses the oven and pans instead of the microwave; his body composition and hormones improved after switching
+2020-11-29 {{ZDKdqqbQ5Gk@567}} prescription Buy organic, pesticide-free food; work overtime if needed to afford it, and buy from local farms in the countryside
+2020-11-29 {{ZDKdqqbQ5Gk@691}} opinion Food manufacturers optimise taste and addiction within the law, not your health
+2020-11-29 {{ZDKdqqbQ5Gk@691}} principle Even with perfect macros, poor food quality will damage your hormonal profile
+2020-11-29 {{ZDKdqqbQ5Gk@816}} prescription Introduce these changes step by step; removing junk at once can make the body fight back with acne or feeling bad
+2020-12-02 {{sDSQpzFJ3iE@0}} principle Weight loss comes down to a caloric deficit (calories in vs out), though it's more complicated in practice
+2020-12-02 {{sDSQpzFJ3iE@55}} prescription Cut sodas, juices and energy drinks; drink only water, maybe some milk; this alone can lose 5-10 lb  {"weight": "5-10 lb"}
+2020-12-02 {{sDSQpzFJ3iE@115}} prescription Stop snacking; eat only at planned sit-down meals, even if that means 4-5 meals instead of 3  {"meals": "3-5"}
+2020-12-02 {{sDSQpzFJ3iE@127}} anecdote Dieters starve on salads then snack, and the snacks add up to more calories than meals
+2020-12-02 {{sDSQpzFJ3iE@170}} data Never shop hungry: hungry shoppers buy 15-20% more products and gravitate toward fatty foods  {"percent": "15-20%"}
+2020-12-02 {{sDSQpzFJ3iE@191}} prescription Only eat what's in your house and don't buy junk, so there's nothing to cheat with
+2020-12-02 {{sDSQpzFJ3iE@315}} prescription Don't eat out or order delivery; cook whole foods yourself for satiety and micronutrients, keeping restaurants as occasional treats
+2020-12-02 {{sDSQpzFJ3iE@378}} prescription Don't compensate for extra activity by overeating; endure the hunger
+2020-12-14 {{WyxeMHovPJ8@565}} principle Without enough calories and sleep all the training in the world is useless for gaining mass
+2020-12-16 {{so6MbvvtM1w@1326}} opinion Bloatmaxxers eat junk food for calories, which ruins health
+2020-12-31 {{2dgtL3DKo3k@62}} opinion Carb-ups or high sodium only highlight existing veins temporarily, not a long-term solution
+2021-01-06 {{662MjNpnQcw@2197}} opinion Diet science is the worst area: people identify emotionally with their diet (vegans and carnivores alike) and many nutrition studies are industry-funded with deliberately chosen subjects
+2021-01-06 {{662MjNpnQcw@2322}} opinion He avoids making many diet videos because he thinks logic has deserted that topic and it is now pure emotion
+2021-01-08 {{xi9CuNbLd9g@0}} principle Diet is even more case-by-case than training; you must learn your ancestry and what works for you before applying any plan
+2021-01-08 {{xi9CuNbLd9g@0}} anecdote Dietary needs can change abruptly: a food that worked for a decade can suddenly stop agreeing with you
+2021-01-08 {{xi9CuNbLd9g@63}} opinion Diet advice tends to be either uselessly generic or overly precise secret-hack content; both are dangerous
+2021-01-08 {{xi9CuNbLd9g@126}} opinion Protein requirements pushed online are usually overshot; missing 10 g of protein a day will not stop your gains  {"protein": "10 g"}
+2021-01-08 {{xi9CuNbLd9g@126}} opinion Novices do not need much protein because they have not built the anabolic capacity to use it; the extra just becomes expensive calories better replaced with carbs
+2021-01-08 {{xi9CuNbLd9g@188}} opinion Diet has low impact on building muscle once you know what works for you and have balanced macros; training is what really matters
+2021-01-08 {{xi9CuNbLd9g@314}} prescription To judge clean foods, ignore calories and macros and look at micronutrients
+2021-01-08 {{xi9CuNbLd9g@377}} data You can lose weight on a junk food diet because fat loss only requires a caloric deficit, but that misses the point
+2021-01-08 {{xi9CuNbLd9g@439}} principle Potatoes and chocolate cake look similar by macros and calories, but potatoes bring vitamins and minerals and the cake almost none
+2021-01-08 {{xi9CuNbLd9g@439}} principle Most people easily reach maintenance calories, which is all you need for gains, and easily find protein and fat; hitting vitamins and minerals is the hard part on a junk diet
+2021-01-08 {{xi9CuNbLd9g@502}} principle The more junk food you eat, the more the rest of the diet must make up for missing micronutrients; only very hard gainers with high TDEE benefit from junk food
+2021-01-08 {{xi9CuNbLd9g@564}} principle Eating nutrient-rich whole foods to cover micronutrients usually meets caloric needs too
+2021-01-08 {{xi9CuNbLd9g@564}} opinion Obsessing over whether everything is clean breeds guilt and shame and can develop into a full eating disorder
+2021-01-08 {{xi9CuNbLd9g@627}} prescription Judge foods by whether they agree with you rather than by mainstream clean or dirty labels
+2021-01-08 {{xi9CuNbLd9g@689}} anecdote No food is clean for everyone: broccoli destroys his stomach, so he does not eat it
+2021-01-08 {{xi9CuNbLd9g@689}} prescription Clean foods are interchangeable; you can swap a hated food like chicken for another with similar macros
+2021-01-08 {{xi9CuNbLd9g@754}} opinion The cultish clean-eating crowd provoked an opposite cult claiming junk food does not exist and pizza equals steamed potatoes, which may be more dangerous
+2021-01-08 {{xi9CuNbLd9g@754}} prescription Diet is simple: get enough macros and micros from whole foods, then just maintain the habit
+2021-01-08 {{xi9CuNbLd9g@818}} principle Diet is a tool for health and performance, not a personality trait
+2021-01-11 {{A55c7v1yMn4@875}} opinion 2 g of protein per lb of bodyweight is far too much  {"protein": "2 g/lb"}
+2021-02-10 {{GJudkSxdp-Q@650}} principle Stoicism is not masochism: you never seek pleasure for its own sake, but you do not reject it as a by-product; eat food because it is beneficial, and if it is also pleasurable, fine
+2021-02-24 {{EP1Qw9aEKOU@1480}} opinion Diet matters less than people think for naturals: once macros are set, it stays fairly stable for life
+2021-03-17 {{WmH326eoF04@3106}} opinion Calories are fuel for strength or muscle; a big appetite that just stores fat on the couch is nothing to brag about
+2021-03-24 {{BnzVYV9_IQc@564}} opinion Chicken, rice and broccoli has nothing special; broccoli is poorly digested by many, and turkey, other veg or sweet potatoes work as well
+2021-03-24 {{BnzVYV9_IQc@627}} opinion Not even 5% of naturals need six meals a day; one or two meals are fine if calories and nutrients are met  {"meals": "1-2/day ok"}
+2021-03-24 {{BnzVYV9_IQc@627}} opinion Celebrities inflate calorie claims like 10,000 kcal and misjudge their body fat; don't let them shape your body image or eating  {"kcal": 10000}
+2021-03-30 {{xGoJNq78htU@761}} prescription Enjoy earthly pleasures but never let them control you; don't eat a favourite treat every week or make it a habit
+2021-04-05 {{XASWAdsSu0M@8}} opinion NH considers nutrition his weakest area and not very important for natural lifters' pure growth, though essential for health
+2021-04-05 {{XASWAdsSu0M@71}} opinion He likes the Eastern idea that feeding the body feeds disease: eating more means taking in more toxins, and slim elderly Asian populations live long
+2021-04-05 {{XASWAdsSu0M@134}} opinion Gaining weight with age is a Western mindset; being overweight at 50-60 is not normal
+2021-04-05 {{XASWAdsSu0M@134}} opinion G-flux (eating huge amounts and burning them off) still makes your body process massive amounts of food and doesn't improve body composition more than simply not eating the excess
+2021-04-05 {{XASWAdsSu0M@260}} principle Fear of catabolism is a myth; the body evolved with food scarcity and strongly preserves muscle, burning fat and other tissue first
+2021-04-05 {{XASWAdsSu0M@387}} opinion High-calorie diets usually rely on low-nutrient carbs like rice and bread, which don't help body composition
+2021-04-05 {{XASWAdsSu0M@450}} opinion He is a minimalist and aims for the smallest protein and calorie intake that still lets him grow
+2021-04-05 {{XASWAdsSu0M@512}} anecdote He doesn't fast because going without food makes him unproductive and gloomy; he just avoids long gaps between meals
+2021-04-05 {{XASWAdsSu0M@512}} prescription If you water fast, add vitamins and minerals to the water; dry fasting with no water is stupid and dangerous
+2021-04-05 {{XASWAdsSu0M@575}} opinion Fasting is an extreme fix for earlier overeating; a binge-then-fast cycle means your lifestyle isn't balanced
+2021-04-05 {{XASWAdsSu0M@637}} anecdote He follows an old-school high-carb diet: very low fat, with only 60-70 g protein a day (sometimes 50 g) at 210 lb, without losing muscle or strength  {"protein": "50-70 g/day", "bodyweight": "210 lb"}
+2021-04-05 {{XASWAdsSu0M@637}} opinion Even the low end of the 'optimal' protein range is still higher than he needs
+2021-04-05 {{XASWAdsSu0M@700}} anecdote When he swaps carbs for fats he gets fatter; prioritising carbs makes him leaner and more vascular. Test for yourself
+2021-04-05 {{XASWAdsSu0M@761}} opinion Gironda's steak-and-eggs diet, dips and lifting methods are extreme and not for everyone; that many eggs can be dangerous to health
+2021-04-05 {{XASWAdsSu0M@1334}} opinion Superfoods are a marketing meme; some foods are just high in micronutrients, which tend to be the scarce part of a diet
+2021-04-05 {{XASWAdsSu0M@1397}} opinion Nutrition is mostly zero-sum: you look better from stopping bad foods more than from adding good ones
+2021-04-05 {{XASWAdsSu0M@1397}} anecdote When he stopped drinking milk his body changed completely: at about the same weight (within 5 lb) he went from watery and soft to defined and vascular
+2021-04-05 {{XASWAdsSu0M@1459}} opinion Most supermarket tomatoes and cucumbers have almost no micronutrients because of early harvest and poor soil
+2021-04-05 {{XASWAdsSu0M@1521}} opinion Red meat's value lies in its other nutrients, not its protein; egg whites have more bioavailable protein
+2021-04-05 {{XASWAdsSu0M@1521}} opinion Examples of superfoods he names: kiwis, garlic, onions, ginger, olive oil
+2021-04-05 {{XASWAdsSu0M@1584}} opinion Water guidelines are rough; vegetables and salads supply a lot of water, and he needs little extra water
+2021-04-05 {{XASWAdsSu0M@1647}} prescription Judge hydration by urine: clear but not peeing pure water very frequently; follow your doctor if you have a condition
+2021-04-05 {{XASWAdsSu0M@1647}} prescription Enough salt and electrolytes are needed to retain water; tap water is poor in minerals
+2021-04-05 {{XASWAdsSu0M@1709}} anecdote He doesn't count calories or macros; he may leave gains on the table but protects his mental health and still progresses
+2021-04-05 {{XASWAdsSu0M@1772}} prescription If you want guidelines, follow science's optimal ranges and experiment within them
+2021-04-05 {{XASWAdsSu0M@1833}} principle Calories in vs calories out governs weight change for everyone, but macros and food choice decide what kind of weight you gain
+2021-04-05 {{XASWAdsSu0M@1896}} principle One-size-fits-all diet advice fails because individuals differ; you must experiment to find what works for you
+2021-04-05 {{XASWAdsSu0M@1957}} principle Eating carbs on press day doesn't directly improve pressing; carbs help pressing only by making you gain weight over time
+2021-04-05 {{XASWAdsSu0M@2022}} prescription On an upper/lower split, eat the most carbs (slow-digesting: rice, bread, potatoes) on lower-body days and lean on protein the next upper day for satiety
+2021-04-05 {{XASWAdsSu0M@2086}} opinion [quads] Lower-body days need more energy; being hungry during heavy squats can kill a workout
+2021-04-12 {{YKCNJS5KNvw@0}} anecdote Everyone fasts to some extent; NH usually goes 12-14 hours between bedtime and his first meal  {"fast": "12-14 h"}
+2021-04-12 {{YKCNJS5KNvw@61}} principle Meal timing is individual; no single method fits everyone
+2021-04-12 {{YKCNJS5KNvw@61}} principle Lifters need two things: pre-workout meals that sustain effort and post-workout meals that sustain recovery
+2021-04-12 {{YKCNJS5KNvw@124}} principle The body has reserves and knows how to use them; it won't fall apart because you aren't eating
+2021-04-12 {{YKCNJS5KNvw@124}} opinion 'Starvation mode' is mostly an excuse, though there is some truth to how the body handles a big refeed
+2021-04-12 {{YKCNJS5KNvw@313}} opinion Claims that fasting boosts fat metabolism or growth hormone are bogus or negligible; its real benefit is mental toughness and easier calorie control
+2021-04-12 {{YKCNJS5KNvw@313}} principle You won't lose gains from fasting; supplement companies created the fear of not constantly eating
+2021-04-12 {{YKCNJS5KNvw@376}} principle The body attacks fat before muscle because fat is energy-dense and easily replaced while muscle is expensive and vital; true autophagy of muscle only comes deep into starvation
+2021-04-12 {{YKCNJS5KNvw@439}} principle Muscle loss from fasting comes from training performance dropping, not from the fast itself
+2021-04-12 {{YKCNJS5KNvw@566}} principle Eating the instant you feel hunger trains bad habits and leads to overeating; waiting lets appetite match intake or even leave you in a deficit
+2021-04-12 {{YKCNJS5KNvw@756}} prescription With full-day fasts, schedule training on days when you're fed and energetic
+2021-04-12 {{YKCNJS5KNvw@818}} anecdote Fasting helped him rein in an appetite that ran wild after he over-bulked
+2021-04-12 {{YKCNJS5KNvw@818}} prescription If you struggle to eat enough calories, fasting is not for you
+2021-04-12 {{YKCNJS5KNvw@1068}} prescription During Ramadan, train in the morning about 2-4 hours after the pre-dawn meal, not at night when you're depleted  {"timing": "2-4 h after last meal"}
+2021-04-12 {{YKCNJS5KNvw@1130}} prescription Pre-dawn meal before training: carbs such as soft (not al dente) pasta or sticky rice that hold lots of water, a glass of water with a pinch of sea salt, and salted cooking water
+2021-04-12 {{YKCNJS5KNvw@1192}} prescription Prep the pre-dawn meal the night before; if needed, wake around 4 a.m. to eat, sleep again, and train around 6 a.m.
+2021-04-12 {{YKCNJS5KNvw@1253}} prescription If morning training is impossible, train at lunch; avoid training late in the afternoon or evening when you're dehydrated
+2021-04-12 {{YKCNJS5KNvw@1380}} prescription Break the fast with protein and good fats first, then fill up on carbs like pasta or couscous
+2021-04-12 {{YKCNJS5KNvw@1442}} principle Many people gain fat and lose muscle and strength during Ramadan by eating junk and training at night; aim for maintenance, not a surplus
+2021-04-12 {{YKCNJS5KNvw@1568}} prescription Eat plenty of vegetables and salads during Ramadan for water and micronutrients; feeling foggy points to a micronutrient shortfall
+2021-04-12 {{YKCNJS5KNvw@1694}} prescription For Lent, plant proteins like beans, or whey if allowed, replace animal protein; don't overdo carbs and sugar
+2021-04-23 {{VdBmYdUYCKM@191}} anecdote Protein needs are vastly overrated: he eats 50-60 g a day sometimes and still grows and gains strength  {"protein": "50-60 g/day"}
+2021-04-23 {{VdBmYdUYCKM@191}} opinion The lowest protein values in studies still aren't the true minimum
+2021-04-23 {{VdBmYdUYCKM@316}} opinion Someone weighing about 180 lb who eats 200 g of protein a day is wasting money  {"protein": "200 g", "bodyweight": "180 lb"}
+2021-04-23 {{VdBmYdUYCKM@378}} anecdote He maintains his mass on about 2000 kcal a day  {"kcal": 2000}
+2021-04-23 {{VdBmYdUYCKM@378}} opinion Eating stacks of eggs to look like Arnold and avoiding all cholesterol are both extremes
+2021-04-23 {{VdBmYdUYCKM@443}} opinion Physical activity probably changes how dietary cholesterol affects you: harmful when sedentary, possibly beneficial for testosterone when active
+2021-04-23 {{VdBmYdUYCKM@505}} opinion Insulin sensitivity depends on exercise; sugar after training affects you differently than after sitting on the couch. You can 'out-health' a bad diet
+2021-05-10 {{D1_tXh-Kp9Y@445}} prescription You don't 'feel' like you're not gaining weight: it's measurable; if the scale isn't moving, add a snack such as a bowl of rice with chicken (about 200 kcal)  {"kcal": "+200"}
+2021-05-15 {{32_wVUEiHQc@3411}} opinion Low-fat, super-high-protein pro diets may work on drugs but not for naturals; drugs mask bad training and diet
+2021-05-22 {{vx9XinnXBhc@0}} opinion His fried rice uses only cheap, simple ingredients (eggs, white rice, salt, olive oil) yet is very nutritious and tasty
+2021-05-22 {{vx9XinnXBhc@126}} prescription Start with olive oil and 4-5 eggs cooked until the white is only just set; these become the chewy egg chunks, so don't overcook them because they keep cooking the whole time  {"eggs": "4-5"}
+2021-05-22 {{vx9XinnXBhc@189}} prescription Break the eggs when the whites have set but the yolks are still runny so yolk and white mix into the chunks
+2021-05-22 {{vx9XinnXBhc@189}} prescription Use rice cooked 1-2 days earlier and kept in the fridge for a firmer texture; fresh rice absorbs more moisture and comes out softer, but it is easier for beginners  {"days": "1-2"}
+2021-05-22 {{vx9XinnXBhc@381}} opinion Thai rice is best for fried rice; jasmine rice is too rigid and sticky rice turns it into goo because the eggs already provide the stickiness
+2021-05-22 {{vx9XinnXBhc@444}} prescription Crack 3-6 more eggs over the rice and mix so the yolk soaks into every grain; if the mix gets too liquid, add more rice to soak up the moisture  {"eggs": "3-6"}
+2021-05-22 {{vx9XinnXBhc@507}} data Fried rice keeps 7-9 days in the fridge, so cook a big batch  {"days": "7-9"}
+2021-05-22 {{vx9XinnXBhc@632}} prescription Cook the eggs on low heat at first, then turn the heat up once the top eggs are in; there is too much moisture for it to burn, which is why the recipe is idiot proof
+2021-05-22 {{vx9XinnXBhc@697}} prescription Keep turning the rice from the bottom so it dries evenly without burning; cooking ends when the grains are dry and separate
+2021-05-22 {{vx9XinnXBhc@824}} prescription Season generously with salt, onion powder and garlic powder; skip pepper
+2021-05-22 {{vx9XinnXBhc@886}} principle People who train need sodium for muscle contraction and water retention in the muscle; sodium is not the enemy, inactivity is, though you should get your blood pressure checked
+2021-05-22 {{vx9XinnXBhc@886}} opinion Supermarket food has about 5 times the sodium of his home-cooked rice, so don't be shy salting your own cooking
+2021-05-22 {{vx9XinnXBhc@948}} prescription Add a small amount of lean protein (chicken breast, shrimp, lean ham, veggie sausages); avoid beef and fatty pork because they make it too rich
+2021-05-22 {{vx9XinnXBhc@1074}} prescription Finish with olive oil until the grains glisten, then cut the heat right away so the oil is absorbed rather than cooked
+2021-05-22 {{vx9XinnXBhc@1012}} prescription Serve it with a light cabbage salad to offset a heavy meal
+2021-05-22 {{vx9XinnXBhc@316}} opinion Rice is a good carb source, but plain white rice every day gets boring; fried rice keeps it palatable
+2021-05-30 {{QTHtVBP_36g@1800}} anecdote He doesn't drink to get drunk, only an occasional glass of red wine, and he rarely eats pork because he doesn't like it
+2021-05-30 {{QTHtVBP_36g@2819}} prescription To clear acne, stop harsh face washes, drink water, cut soda, refined sugar, dairy and fast food, and sleep more
+2021-05-30 {{QTHtVBP_36g@2870}} anecdote He has no skincare routine and credits whole home-cooked food, vegetables, water and clean air for his skin
+2021-06-09 {{b1o8K8EjpS0@654}} anecdote NH alleges Blaha advised teenage clients to swap vegetables for orange juice, add butter and oil to every meal and drink a gallon of milk a day, and that one 16-year-old client got acne and fat within a month (low-confidence)  {"milk": "1 gallon/day"}
+2021-07-07 {{Y7aV51eId6g@119}} opinion Advising teenage clients to replace vegetables with orange juice and overconsume fatty foods leads to obesity and health problems
+2021-07-07 {{Y7aV51eId6g@182}} opinion The vertical diet was designed for athletes coached by Stan Efferding; applying it to non-athlete teenagers is wrong
+2021-07-07 {{Y7aV51eId6g@328}} principle Teenagers need to build good dietary habits they can carry into adulthood
+2021-07-14 {{8ELQ2XZgpls@444}} prescription Beginners only need to manage calories, not macros; he ignored macros for his first five years and progressed fine
+2021-07-14 {{8ELQ2XZgpls@1643}} opinion Animal products are good calorie and micronutrient sources but do not overdo them; a beginner eating 12 eggs is ridiculous  {"eggs": 12}
+2021-07-14 {{8ELQ2XZgpls@2049}} prescription Micronutrients are underrated; do not eat only for macros
+2021-07-14 {{8ELQ2XZgpls@2531}} opinion Most people do better on an omnivorous diet than vegan, carnivore or keto
+2021-07-14 {{8ELQ2XZgpls@3550}} prescription Eat your vegetables; plants should make up a big portion of your diet
+2021-07-23 {{NVs5F-0e3dk@453}} opinion Training is the main driver of physique and eating is the easy part; diet-obsessed channels cater to people who avoid training
+2021-07-30 {{4sXkXeKAxIM@1314}} opinion Body odor is tied to diet: too much saturated fat, junk food or spices makes you smell
+2021-07-30 {{4sXkXeKAxIM@1614}} anecdote As a teen NH smothered his skin in creams and it got worse; it cleared once he stopped, since skin depends largely on diet
+2021-07-30 {{4sXkXeKAxIM@2014}} prescription Cutting dairy removed NH's facial bloat at the same bodyweight; if you have unexplained bloat, try cutting dairy
+2021-07-30 {{4sXkXeKAxIM@2196}} prescription For teeth, avoid sugar, coffee, tea, cigarettes and soda; don't whiten unless necessary; get calcium and vitamin D and brush
+2021-08-04 {{KelEHl5w8Jk@1514}} prescription When a pleasure tempts you, delay it and picture the regret afterwards; for a junk-food craving, wait about 15 minutes to break the addiction  {"wait": "15 min"}
+2021-08-12 {{9mnLRQsrs9k@2836}} principle Keep sleep, diet and daily life steady and increase only the training stimulus; diet is a baseline, not the most important part
+2021-08-20 {{qq459xqmq5A@1118}} opinion His reported 7000 kcal diet matters more for an enhanced pro than for naturals  {"kcal": 7000}
+2021-08-22 {{KARBYsklt2I@0}} prescription Base the medley on 3-5 sweet onions plus bell peppers; carrots and cabbage also work  {"onions": "3-5"}
+2021-08-22 {{KARBYsklt2I@62}} prescription Add spinach or cabbage only about 20 minutes before the end so they don't burn  {"time": "20 min"}
+2021-08-22 {{KARBYsklt2I@126}} prescription Make a big batch since it shrinks a lot: 5-6 carrots, 4 bell peppers, 5 sweet onions
+2021-08-22 {{KARBYsklt2I@190}} prescription Coat generously with olive oil and salt well; add soy sauce, garlic powder and only a little ginger
+2021-08-22 {{KARBYsklt2I@381}} prescription Roast around 400°F for 1-1.5 hours, stirring at about the hour mark, then leave in the switched-off oven 30-45 minutes to reabsorb juices  {"temp": "400F", "time": "1.5-2 hr"}
+2021-08-22 {{KARBYsklt2I@506}} prescription Keep the leftover broth as a sauce for rice; it makes eating rice every day easy
+2021-08-22 {{KARBYsklt2I@506}} principle Eating vegetables is very important
+2021-08-22 {{KARBYsklt2I@506}} data The batch costs about $3-4 and keeps 10-15 days in the fridge  {"cost": "$3-4", "days": "10-15"}
+2021-09-25 {{74XVh8ghvs4@444}} principle There's no proven link between being skinny or tall and low testosterone; skinny guys usually just don't eat enough to turn training into muscle
+2021-09-25 {{74XVh8ghvs4@506}} principle You won't gain muscle while constantly in a calorie deficit
+2021-09-29 {{eaypnfdz3J0@1383}} opinion A high-carb diet plus low-intensity cardio is what led Blaha to become obese
+2021-09-29 {{eaypnfdz3J0@2830}} opinion Michael Phelps' 10k kcal/day is justified by his swimming volume; non-athletes using that as an excuse are deluding themselves  {"kcal": 10000}
+2021-09-29 {{eaypnfdz3J0@3082}} opinion Bananas are sugary and not filling, so eating six of them is no proof of a big appetite
+2021-10-17 {{THV7B11oalk@193}} opinion Carbs are not the enemy; tolerance depends on the individual's digestion, body fat and ethnic background
+2021-10-17 {{THV7B11oalk@256}} opinion Base your diet on your ancestry and what your ancestors had access to, plus how your body responds; it avoids problems down the line
+2021-10-17 {{THV7B11oalk@320}} opinion Carbs are for champions: you should earn your carbs; most people eat pasta, rice and bread calories they don't need
+2021-10-17 {{THV7B11oalk@320}} anecdote He eats carbs only on training days, originally to cut and now as discipline so he never skips a session
+2021-10-17 {{THV7B11oalk@320}} opinion Carbs can cause inflammation in certain people
+2021-10-17 {{THV7B11oalk@572}} opinion 'The best diet is the one you stick to' only holds if the diet is healthy; people can stick to frozen pizza and beer for 15 years and then die
+2021-10-17 {{THV7B11oalk@572}} anecdote Bodybuilding nutrition need not be bland chicken and broccoli; he eats a diverse diet with fats and sodium, restricting sugars except from fruit
+2021-10-17 {{THV7B11oalk@635}} opinion Avoiding processed food and snacks matters most for overweight people; otherwise snacking within your macros is fine
+2021-10-17 {{THV7B11oalk@1638}} principle Salt is not bad for you; demonizing it causes cramps and poor hydration, as water without minerals just passes through (clear urine)
+2021-10-17 {{THV7B11oalk@1700}} prescription A home-cooked whole-food diet is low in salt, so you should salt your food
+2021-10-17 {{THV7B11oalk@1700}} opinion Salt is a baseline need, not the single biggest performance factor; fixing a deficiency just restores normal function
+2021-10-17 {{THV7B11oalk@1825}} principle Supercompensation happens over the period of protein synthesis after training; you have about 24 hours and prior meals already supply nutrients, so there is no urgent post-workout window  {"window": "24 h"}
+2021-10-17 {{THV7B11oalk@1888}} opinion A sugary post-workout drink like orange juice is optional and mostly placebo
+2021-10-17 {{THV7B11oalk@1951}} opinion The idea that protein or fat right after training slows absorption is nonsense, comparable to the old myth that eating after training pulls blood away from muscles
+2021-10-21 {{UgyhW_awL_5LPN_aIPB4AaABCQ@0}} opinion Rushing to eat within an 'anabolic window' after training is overblown
+2021-10-22 {{FxqDfwz_A-g@123}} principle Treat food as a finite resource and eat only what your body needs; anything above or below means something is off
+2021-10-22 {{FxqDfwz_A-g@186}} opinion Undereating is negative gluttony: starving yourself also reflects a lost balance with food
+2021-11-07 {{45S8RV2nyKE@141}} anecdote As a teen LaLanne was skinny, bulimic and sugar-addicted, often bedridden for up to six months; a Paul Bragg nutrition lecture at 15 turned his life around  {"age": 15}
+2021-11-07 {{45S8RV2nyKE@366}} opinion If everyone fixed their diet and trained regularly, roughly 90% of health problems would disappear
+2021-11-07 {{45S8RV2nyKE@875}} opinion Many people take pills to manage symptoms like diabetes, cholesterol, blood pressure or insomnia instead of fixing diet and exercise, which often makes things worse
+2021-11-07 {{45S8RV2nyKE@1117}} opinion Processed and junk food can contribute to anxiety and depression, not just physical disease
+2021-11-07 {{45S8RV2nyKE@1760}} data LaLanne was vegetarian apart from fish and eggs, ate two meals a day (e.g. hard-boiled eggs, broth, oatmeal, fruit) and stayed muscular, showing meat is not required for gains  {"meals": 2}
+2021-11-07 {{45S8RV2nyKE@1822}} opinion Huge rice-and-chicken meals six times a day came from steroid users; natural dieting is simple; NH himself eats twice a day at about 2,200 kcal  {"meals": 2, "kcal": 2200}
+2021-11-07 {{45S8RV2nyKE@1885}} opinion Many vegan or vegetarian fitness influencers are either on drugs, untrained-looking or fat, which hurts the case for those diets
+2021-11-24 {{aFENxCkDXQM@2960}} principle Food is anabolic only in the sense of building mass; it drives muscle gain only if you train, otherwise you just get fat
+2021-11-24 {{aFENxCkDXQM@3700}} principle Ketosis requires cutting carbs; a gallon of milk a day contains enough carbs to break keto
+2021-11-24 {{aFENxCkDXQM@3670}} data In the vertical diet, orange juice is meant to boost appetite, never to replace vegetables
+2021-11-24 {{aFENxCkDXQM@3786}} opinion Boiling red meat ruins its nutrients and taste
+2021-12-08 {{PSFqnl_EvSc@128}} principle Nutrition and recovery only matter if training is on point; without enough training fatigue they lose their purpose
+2021-12-10 {{qcRCMVABEQM@990}} principle Good natural nutrition advice should center on whole foods
+2021-12-10 {{qcRCMVABEQM@990}} prescription Reeves ate about 60% carbs, 20% protein and 20% fat; NH uses a similar carb-heavy split, though fat versus carb preference is individual  {"carbs": "60%", "protein": "20%", "fat": "20%"}
+2021-12-10 {{qcRCMVABEQM@1052}} prescription Reeves ate most of his carbs the day before training to be full of glycogen; NH does the same
+2021-12-15 {{mCWTQdKcU4o@0}} opinion Diet is overrated for muscle building compared with programming, but underrated for sustainability and long healthy life
+2021-12-15 {{mCWTQdKcU4o@62}} opinion Sustainable eating isn't about going vegan or carnivore; dietary tribalism misses easier measures everyone can apply
+2021-12-15 {{mCWTQdKcU4o@248}} prescription Buy local: fresher, often better quality and price, lower transport footprint, and it builds community ties
+2021-12-15 {{mCWTQdKcU4o@367}} prescription Buy seasonal produce: cheaper, less transport, more variety, and you discover new favorite foods
+2021-12-15 {{mCWTQdKcU4o@486}} prescription Minimize processed food; choose the least-processed versions, e.g. bread from a mill without added sugar
+2021-12-15 {{mCWTQdKcU4o@526}} prescription Buy animal products directly from the source rather than processed meat products with added sauces and sodium
+2021-12-15 {{mCWTQdKcU4o@561}} opinion Whole foods are cheaper than processed food; a head of cabbage costs about 28 cents and feeds you for two days  {"cost": "$0.28"}
+2021-12-15 {{mCWTQdKcU4o@624}} prescription Don't overbuy perishables; only stock up on non-perishables and buy what you'll eat so nothing gets thrown away
+2021-12-15 {{mCWTQdKcU4o@686}} prescription Go grocery shopping after a meal so hunger doesn't drive extra purchases
+2021-12-15 {{mCWTQdKcU4o@686}} data A French study found about 30% of food bought by households is thrown away  {"waste": "30%"}
+2021-12-15 {{mCWTQdKcU4o@686}} opinion Food waste is the biggest diet-related environmental problem
+2021-12-15 {{mCWTQdKcU4o@748}} prescription Shop with a list; without one you'll overbuy, since supermarket music and layouts are designed to trigger impulse purchases
+2021-12-15 {{mCWTQdKcU4o@824}} prescription Plan the week's meals and cooking so impulse buys have no room in your schedule
+2021-12-15 {{mCWTQdKcU4o@867}} opinion Supermarkets pair products like coffee and sugary foods to trigger cravings; small specialized stores avoid this
+2021-12-15 {{mCWTQdKcU4o@931}} prescription Cut takeout: it pollutes, costs about five times more than cooking, and restaurants load food with butter, sugar and sodium
+2021-12-15 {{mCWTQdKcU4o@1035}} prescription The vast majority of what you eat should be whole foods you cook yourself; restaurants are fine occasionally
+2021-12-15 {{mCWTQdKcU4o@1100}} opinion People who eat with family or friends tend to have fewer eating disorders, which are lonely illnesses
+2021-12-15 {{mCWTQdKcU4o@1164}} principle There are no foods everyone must eat and few truly bad ones; eat what you like and try many foods
+2021-12-15 {{mCWTQdKcU4o@1196}} opinion Following these tips can save a few hundred to about $1,000 a year and improve your relationship with food and micronutrient intake  {"savings": "up to $1000/yr"}
+2021-12-16 {{S_EF3ebs5Jg@699}} opinion Most lifters take far too much protein powder and treat it as a ritual; he was one of them
+2021-12-16 {{S_EF3ebs5Jg@763}} opinion The anabolic window was a marketing tactic to make people drink more protein powder
+2021-12-16 {{S_EF3ebs5Jg@763}} data About 0.8 g of protein per pound of bodyweight is close to optimal  {"protein": "0.8 g/lb"}
+2021-12-16 {{S_EF3ebs5Jg@826}} opinion Studies test what is optimal but never test lower intakes, so 'suboptimal' protein may still give 94-95% of the gains; less protein than recommended can still give nearly the same gains
+2021-12-16 {{S_EF3ebs5Jg@826}} opinion Old-school bodybuilders ate less protein than today's lifters, only from real food like steak and eggs, and still built great physiques
+2022-01-07 {{RryibwmuOWE@703}} principle Don't reject correct ideas just because Greg promotes them, e.g. calories in, calories out is simplistic but chemically correct
+2022-01-31 {{eC9Srr3ZygE@2234}} prescription Before cold sessions, eat thermogenic foods: more protein, and he finds raw garlic and onion help; good capillary density helps warm the body
+2022-01-31 {{eC9Srr3ZygE@2321}} anecdote He eats small portions; at holidays his family cooks a healthy dish and he just takes a second serving, eating sugar sparingly as empty calories
+2022-02-20 {{5ANLeP4QvX8@944}} principle Organ meats are not unhealthy and have some benefit, but eating them for size is a 60-70 year old gimmick and no food has the power to make you big
+2022-02-20 {{5ANLeP4QvX8@881}} opinion A raw-meat diet is not balanced, most people shouldn't eat like that, and raw meat risks bacterial illness
+2022-03-14 {{D2ERyDt4Pqo@604}} opinion Most women who want to slim down simply have to diet; the tape reinforces diet culture
+2022-03-29 {{7Sp526pPxEU@190}} opinion Supermarket produce is low in micronutrients because year-round farming drains soil minerals that fallow periods used to restore; fertilisers make plants grow without restoring their nutrition
+2022-03-29 {{7Sp526pPxEU@127}} opinion Tomatoes and cucumbers grown in fertile soil taste far better; supermarket ones taste like water because they are nutrient-poor
+2022-03-29 {{7Sp526pPxEU@190}} anecdote He admits he has no source for the claim about produce
+2022-03-29 {{7Sp526pPxEU@315}} anecdote He likes a full stomach on lower body days because hunger hurts his focus, and tends to eat more carbs on upper body days; these are preferences to experiment with
+2022-03-29 {{7Sp526pPxEU@378}} prescription Eat less on rest days: he eats mostly protein and non-starchy vegetables with carbs near zero, unless you are a hardgainer
+2022-03-29 {{7Sp526pPxEU@378}} anecdote Find your own macros instead of following set quotas; he eats lots of carbs, almost no fat and a little protein
+2022-03-29 {{7Sp526pPxEU@627}} opinion Artificial sweeteners like stevia are not harmless; the real danger is addiction to sweetness, so ask yourself why you need food to taste sweet
+2022-03-29 {{7Sp526pPxEU@627}} opinion Western culture links childhood with sugar (Halloween candy, Sunny D), which explains adults' addiction to sweet tastes
+2022-03-29 {{7Sp526pPxEU@753}} prescription To work around nutrient-poor produce, find farmers who rest their soil, favour hardy root vegetables like potatoes over thin-skinned ones, or grow your own garden
+2022-03-29 {{7Sp526pPxEU@816}} anecdote He eats about 70 g of protein a day at most; eating much more caused him health problems and no extra gains  {"protein": "70 g/day"}
+2022-03-29 {{7Sp526pPxEU@816}} anecdote His protein spread: about 35-40 g at dinner plus two snacks of about 20 g each  {"protein": "35-40 g dinner + 2x20 g"}
+2022-03-29 {{7Sp526pPxEU@879}} anecdote He used to eat 12 eggs and 500 g of red meat a day; he has since cut red meat, dairy and pork and now eats mostly chicken, turkey, salmon, sardines, tuna, eggs, lentils and beans  {"eggs": "12/day", "red meat": "500 g/day"}
+2022-03-29 {{7Sp526pPxEU@1132}} opinion The orthorexia label pathologises healthy eating; a whole-food diet is normal, though obsessing over clean eating can become a disorder
+2022-03-29 {{7Sp526pPxEU@1196}} opinion Eating only for pleasure while ignoring the consequences is close to addiction
+2022-03-29 {{7Sp526pPxEU@1258}} prescription You can make gains without meat; during religious meat restrictions, eggs and fish are good replacements, and red meat is not necessary
+2022-03-29 {{7Sp526pPxEU@1320}} opinion You can still make gains, though not optimal ones, while lifting through Ramadan or religious fasts; spirituality can take priority for a few months
+2022-04-06 {{3W-yE2pgTec@2202}} data Knights ate huge amounts of meat, cheese, fat and protein with few vegetables, thousands of kcal a day to match their expenditure
+2022-04-12 {{GowuEmDClqY@3966}} opinion Superfoods like African mango have no magical properties
+2022-04-12 {{GowuEmDClqY@4090}} opinion NH disagrees with Bugenhagen's diet stance
+2022-05-19 {{SPicD3F686s@1186}} prescription Don't starve yourself to look like a statue; eat enough without overdoing it
+2022-05-22 {{kKX0AUrXzIw@2262}} prescription Build diets from foods you enjoy; people who stuff diets with foods they hate can't stick to them
+2022-06-12 {{uYRIWAKlA0c@64}} prescription Novices don't need 5-6 meals a day; eat 2-3 times as usual and calories rise naturally  {"meals": "2-3/day"}
+2022-06-28 {{CVHNXyR5yCY@1062}} prescription [glutes] Women should eat on a moderate surplus by appetite; the gained fat and muscle will go to legs and glutes, so lift instead of getting butt implants
+2022-07-28 {{gSFUgZ42R1A@128}} principle NH prioritizes longevity and vitality in his diet over pure hypertrophy or strength; the two tend to go together when the diet fits your body
+2022-07-28 {{gSFUgZ42R1A@192}} principle Diet is individual, close to spirituality; experiment on yourself by removing and adding foods instead of copying cookie-cutter bodybuilder plans
+2022-07-28 {{gSFUgZ42R1A@255}} principle Reject broad diets and absolutes; amounts, ratios, timing and micronutrients will differ person to person
+2022-07-28 {{gSFUgZ42R1A@319}} anecdote NH is a carb person: most of his calories are carbs, which improve his recovery, training capacity, muscular endurance and appearance
+2022-07-28 {{gSFUgZ42R1A@381}} anecdote He eats minimal fat; a fatty homemade ramen broth left him lethargic for four hours  {"hours": 4}
+2022-07-28 {{gSFUgZ42R1A@400}} prescription NH's macro split is high carbs, low fat, moderate protein
+2022-07-28 {{gSFUgZ42R1A@444}} anecdote He cut animal products heavily on his nutritionist's advice based on his family history; his uncle, the only male relative to reach his 60s, did the same
+2022-07-28 {{gSFUgZ42R1A@470}} anecdote Cutting animal products did not cost him strength or muscle; his health and physique improved with each one removed
+2022-07-28 {{gSFUgZ42R1A@506}} opinion He is not vegan and has no ethical objection to eating animals
+2022-07-28 {{gSFUgZ42R1A@540}} anecdote He fully eliminated dairy and beef because relatives who ate them died early of diet-related disease
+2022-07-28 {{gSFUgZ42R1A@600}} anecdote Soy never had negative effects on him; he eats tofu fine
+2022-07-28 {{gSFUgZ42R1A@634}} anecdote Cutting milk while recomping at the same bodyweight removed his love handles, odd lumps and water retention, revealing separation and veins
+2022-07-28 {{gSFUgZ42R1A@680}} prescription Nobody should eat processed meats
+2022-07-28 {{gSFUgZ42R1A@698}} principle Beef and milk are not bad in themselves but may be bad for you depending on who you are; test it
+2022-07-28 {{gSFUgZ42R1A@760}} prescription Look at what your healthiest relatives eat to find out what suits you
+2022-07-28 {{gSFUgZ42R1A@822}} anecdote Remove foods gradually: he dropped milk, then cow cheese, then goat cheese over two years, and pork before beef  {"weeks": 3}
+2022-07-28 {{gSFUgZ42R1A@860}} anecdote He avoids pork as too fatty and avoids cheeseburgers and pizza
+2022-07-28 {{gSFUgZ42R1A@895}} principle Modern diets improve more by subtraction than addition; there's no point taking an antidote while still drinking poison
+2022-07-28 {{gSFUgZ42R1A@947}} anecdote His protein sources are chicken, turkey, sardines, salmon (including raw), eggs and tuna; turkey and chicken because they're low in fat
+2022-07-28 {{gSFUgZ42R1A@970}} prescription Avoid store rotisserie chicken; oven-cook poultry
+2022-07-28 {{gSFUgZ42R1A@1010}} prescription Watch mercury in fish and source locally when possible
+2022-07-28 {{gSFUgZ42R1A@1040}} prescription Eggs are fine; get pasture-raised eggs with deep orange yolks
+2022-07-28 {{gSFUgZ42R1A@1100}} anecdote Rice is his top carb; he avoids wild rice, which he digests poorly; rice can constipate in large amounts
+2022-07-28 {{gSFUgZ42R1A@1137}} prescription He tolerates pasta and gluten fine; if gluten bothers you, cut it
+2022-07-28 {{gSFUgZ42R1A@1150}} anecdote He eats lots of lentils but no beans, and watches iron intake since too much iron is bad for him
+2022-07-28 {{gSFUgZ42R1A@1190}} anecdote His fats come mainly from olive oil, fish and oat milk; avoid palm oil
+2022-07-28 {{gSFUgZ42R1A@1230}} anecdote He drinks about one liter of oat milk a week, mixed into protein shakes  {"volume": "1 L/wk"}
+2022-07-28 {{gSFUgZ42R1A@1240}} anecdote Leafy greens are his main vegetable; he eats large amounts of vegetables daily, plus mushrooms, carrots, tomatoes and peppers
+2022-07-28 {{gSFUgZ42R1A@1290}} prescription Drop foods you don't digest, like broccoli for him, even if they're nutritious
+2022-07-28 {{gSFUgZ42R1A@1324}} opinion Carnivore and vegan diets help people mainly because they remove processed junk, not because of the food group itself
+2022-07-28 {{gSFUgZ42R1A@1388}} anecdote In summer he eats mostly fruit: two mangoes a day, grapefruit, dozens of cherries, citrus, berries, bananas
+2022-07-28 {{gSFUgZ42R1A@1450}} opinion He could keep his physique on processed carbs, but his insulin sensitivity and health would suffer
+2022-07-28 {{gSFUgZ42R1A@1512}} opinion People with low metabolisms do better snacking plus occasional big meals than eating six big meals a day
+2022-07-28 {{gSFUgZ42R1A@1540}} anecdote NH eats around 2000 kcal a day at 6'2" while maintaining and gaining muscle  {"kcal": 2000}
+2022-07-28 {{gSFUgZ42R1A@1600}} anecdote He doesn't count calories, plan meals or meal prep; meal prepping on a budget made him hate his food
+2022-08-27 {{9WA6eQODjHQ@940}} principle As you gain muscle and lose fat your TDEE rises, so maintenance calories must go up over the recomp
+2022-09-05 {{EH4tG1AXblQ@170}} data 100 g of insects gives 9 to 35 g of protein versus 16 to 20 g for meat; insects vary far more, so only a few species (crickets, worms, grasshoppers) are worth eating  {"protein": "9-35 g/100 g insects vs 16-20 g/100 g meat"}
+2022-09-05 {{EH4tG1AXblQ@252}} opinion Protein per 100 g is misleading for insects because you need a mountain of them to match a small piece of chicken or beef; compare foods at the same scale
+2022-09-05 {{EH4tG1AXblQ@300}} principle Bioavailability makes or breaks a protein source; whey is popular because it is close to 100% absorbable, while many plant proteins are poorly absorbed and need more food volume
+2022-09-05 {{EH4tG1AXblQ@504}} opinion Taste is the most overlooked factor: food that tastes bad will not be eaten no matter its nutrient profile; insects have no fat, an exoskeleton and little or bad flavour, which is why snacks are covered in artificial flavours
+2022-09-05 {{EH4tG1AXblQ@629}} data Nutrition data on raw insects is useless because nobody eats them raw; brief boiling cut insect protein bioavailability by about 25%, bringing it to roughly 60%  {"bioavailability_loss": "25%"}
+2022-09-05 {{EH4tG1AXblQ@700}} data Roasting insects preserves protein better than boiling, but iron and zinc lost nearly 50% of their bioavailability even with roasting  {"mineral_loss": "~50%"}
+2022-09-05 {{EH4tG1AXblQ@752}} data Cooking meat tends to raise protein and amino acid bioavailability, so once both are compared cooked, insects and meat end up roughly equivalent protein sources
+2022-09-05 {{EH4tG1AXblQ@1490}} opinion Cricket powder could cost about a quarter of the price of whey once production scales  {"price": "~1/4 of whey"}
+2022-09-05 {{EH4tG1AXblQ@2005}} data A study of 300 Central European insect farms found 244 with parasite infections and 81 (about 30%) carrying parasites that can infect humans, though cooking kills most of them  {"farms": "300", "infected": "244", "human_risk": "81"}
+2022-09-05 {{EH4tG1AXblQ@2132}} data About 10% of cattle carry intestinal parasites, far less than farmed insects; insects seem built only for industrial farming, since free-range insects are hardly possible
+2022-09-05 {{EH4tG1AXblQ@2446}} opinion No human population eats insects as its main protein; even where they are traditional they are an extra, and people offered a choice pick a chicken leg over a roach
+2022-09-05 {{EH4tG1AXblQ@3835}} principle Conclusion: insects are a valid protein source but not a nutrition revolution, and production needs major work on safety and sustainability
+2022-09-15 {{gSMmb820owE@65}} opinion His protein-source grading: macros 4, micros 4, bioavailability+digestibility 3, price 3, availability 1.5, shelf life 1.5, taste 3, total 20 points, all standardized to 100 g
+2022-09-15 {{gSMmb820owE@255}} data Lentils per 100 g: 116 kcal, 9 g protein, 0.3 g fat, 20 g carbs; mainly a carb source with poorly bioavailable protein, anti-nutrients and flatulence for some  {"kcal": 116, "protein": "9 g", "fat": "0.3 g", "carbs": "20 g"}
+2022-09-15 {{gSMmb820owE@318}} data Lentils' real value is micronutrients: lots of fiber, potassium, iron, B6, selenium and manganese
+2022-09-15 {{gSMmb820owE@380}} data Lentils are very cheap (under $1 per 100 g), keep 1.5 years dry and about a week cooked; total 13/20  {"price": "<$1/100 g", "shelf_life": "1.5 yr dry, 1 wk cooked"}
+2022-09-15 {{gSMmb820owE@380}} anecdote He cooks lentils in an Instant Pot or crock pot and spices them afterwards, usually with Thai curry, because plain they are bland
+2022-09-15 {{gSMmb820owE@442}} prescription Vegans looking for something beyond rice should eat lentils but must learn to cook them or they will tire of them quickly
+2022-09-15 {{gSMmb820owE@504}} opinion Eggs give about 12 g protein and 10 g fat per 100 g; their protein is overrated and calories add up for people watching intake  {"protein": "12 g", "fat": "10 g"}
+2022-09-15 {{gSMmb820owE@504}} data About 90% of egg protein is bioavailable, one of the highest of any food  {"bioavailability": "90%"}
+2022-09-15 {{gSMmb820owE@567}} prescription Lifters should eat the whole egg; eating only whites throws away the yolk where the vitamins and minerals are
+2022-09-15 {{gSMmb820owE@567}} data Eggs are a micronutrient bomb: choline, vitamins D, A and E, some omega-3, calcium and iron, all highly bioavailable
+2022-09-15 {{gSMmb820owE@630}} prescription Buy eggs from a farmer whose hens roam and eat insects; a deep orange yolk usually signals quality, very cheap supermarket eggs are garbage
+2022-09-15 {{gSMmb820owE@757}} data Eggs keep 3-5 weeks but carry salmonella risk; plain they taste of little; total 16/20  {"shelf_life": "3-5 wk"}
+2022-09-15 {{gSMmb820owE@822}} data Mushrooms have about 22 kcal and 3 g protein per 100 g, with poor protein bioavailability, especially raw  {"kcal": 22, "protein": "3 g"}
+2022-09-15 {{gSMmb820owE@884}} prescription Mushrooms are rich in beta-glucan fiber and bioavailable vitamin D, so vegans should include them
+2022-09-15 {{gSMmb820owE@948}} opinion Supermarket mushrooms are often poor quality and spoil within about a week; total 10.5/20  {"shelf_life": "1-2 wk"}
+2022-09-15 {{gSMmb820owE@952}} anecdote He cooks mushrooms in a pan with olive oil and soy sauce, marinating about 10 minutes so they stay juicy, then uses them as a sauce over rice or pasta  {"time": "10 min"}
+2022-09-15 {{gSMmb820owE@1073}} anecdote He now eats mostly turkey rather than chicken
+2022-09-15 {{gSMmb820owE@1073}} data Turkey is lean with good macros and about 80% protein bioavailability; meat from birds raised on antibiotics and poor feed digests worse (low-confidence)  {"bioavailability": "80%"}
+2022-09-15 {{gSMmb820owE@1135}} data Turkey is rich in B3, B6, selenium, B12, phosphorus and zinc; costs about $3-5 per 100 g and keeps only 3-5 days in the fridge; total 14/20  {"price": "$3-5/100 g", "shelf_life": "3-5 days"}
+2022-09-15 {{gSMmb820owE@1260}} opinion People favor animal products because they taste good even without spices
+2022-09-15 {{gSMmb820owE@1304}} data Tofu per 100 g: 83 kcal, 10 g protein, 5 g fat, 1 g carbs, about 70% bioavailable when cooked; a low-calorie protein source but not dense  {"kcal": 83, "protein": "10 g", "fat": "5 g", "carbs": "1 g", "bioavailability": "70%"}
+2022-09-15 {{gSMmb820owE@1366}} data Tofu supplies calcium (often added in manufacturing), manganese, selenium, iron, zinc and magnesium, costs about $1 per 100 g, but tastes like nothing even when marinated; total 12/20  {"price": "$1/100 g"}
+2022-09-15 {{gSMmb820owE@1492}} data Canned sardines per 100 g: 200 kcal, 25 g protein, 11 g fat, 0 carbs, about 80% bioavailable; they can trigger gout  {"kcal": 200, "protein": "25 g", "fat": "11 g", "carbs": "0 g", "bioavailability": "80%"}
+2022-09-15 {{gSMmb820owE@1555}} data Sardines are dense in omega-3, iodine, calcium, B12 and iron
+2022-09-15 {{gSMmb820owE@1555}} prescription Buy real sea salt rather than table salt for iodine; fish is also a good iodine source
+2022-09-15 {{gSMmb820owE@1620}} principle Plant foods scored well on micronutrients and can be eaten in large volume; a balanced diet picks foods for micros and uses animal products for bioavailable protein
+2022-09-15 {{gSMmb820owE@1683}} anecdote He eats far more from the plant plate than the animal plate, but still relies on animal foods for protein bioavailability
+2022-09-15 {{gSMmb820owE@1745}} data Sardines keep about 5 years, are available worldwide and cheap; watch mercury; he eats them with mango chutney; top score 17.5/20, the sleeper pick  {"shelf_life": "5 yr"}
+2022-09-15 {{gSMmb820owE@1872}} data Protein bars per 100 g: 340 kcal, 14 g protein, 6 g fat, 65 g carbs; the calories are not justified and micros are low and often added; favor whole foods; total 12/20  {"kcal": 340, "protein": "14 g", "fat": "6 g", "carbs": "65 g"}
+2022-09-15 {{gSMmb820owE@2127}} data Crickets per 100 g: 126 kcal, 13 g protein, 6 g fat, 5 g carbs; a balanced food, not just a protein source as the media claims  {"kcal": 126, "protein": "13 g", "fat": "6 g", "carbs": "5 g"}
+2022-09-15 {{gSMmb820owE@2189}} data Cricket protein is about 90% bioavailable, but the chitin exoskeleton is hard to digest though not toxic; people allergic to shellfish may react  {"bioavailability": "90%"}
+2022-09-15 {{gSMmb820owE@2317}} data Crickets are high in calcium, iron, magnesium and bioavailable B12 that outranks some animal sources, plus vitamins A, C, D, E and K
+2022-09-15 {{gSMmb820owE@2380}} data Crickets cost about $15 per 100 g, a terrible deal compared with any other source because Western production is too low  {"price": "$15/100 g"}
+2022-09-15 {{gSMmb820owE@2444}} prescription Do not import insects from countries with weak oversight: parasite and pesticide risk; his supplier tests parasites below 2%
+2022-09-15 {{gSMmb820owE@2584}} opinion Roasted crickets taste good, nutty like sunflower seeds; avoid insect products doused in artificial flavors; total 11.5/20
+2022-09-15 {{gSMmb820owE@3085}} opinion Protein matters only until you have enough to recover and build muscle; beyond that it is not the most important thing
+2022-09-15 {{gSMmb820owE@3460}} opinion Insects can never be a staple protein: too small, too costly, chitin; no culture used them as a main food; at most a snack or whey replacement
+2022-09-15 {{gSMmb820owE@3523}} opinion Think beyond protein: digestion, your relationship with food and its effects as you age matter more than size
+2022-09-15 {{gSMmb820owE@3587}} principle A complete diet is doable with insects, vegan, or meat-based eating if you are intelligent about it
+2022-09-30 {{tLAM5L-YQug@564}} data [full_body] Vikings of all heights were described as far more muscular than the average European, largely thanks to a dairy-heavy, high-protein, high-calorie diet
+2022-10-25 {{E1er3oQ3IeM@2454}} data (Guest) Calories in vs out drives weight change; the anabolic window and eating every 2-3 hours are myths
+2022-10-25 {{E1er3oQ3IeM@2516}} prescription (Guest Fazlifts) Learn to cook and if overfat, lose the fat first before chasing size
+2022-12-07 {{eWP2m4lLq_0@2521}} prescription Food delivery services strip away the ownership and skill of buying and cooking your own food; better to cook badly yourself than outsource it
+2022-12-07 {{eWP2m4lLq_0@2709}} principle Cooking and shopping for food are lifelong skills that stay with you after the meal; outsourced services leave you with nothing once they stop
+2022-12-12 {{uF-j7u5VLaY@4242}} opinion Cooking meat is sensible: it eases digestion, saves energy and kills parasites
+2023-01-12 {{h3U30oRVrMU@445}} principle Calories are not equal in food quality; fitness channels have said this for years
+2023-03-20 {{-izcpmcGs-c@191}} opinion 'Diet is 80%' is nonsense; training is 80% or more, and diet shapes the body around the work  {"percent": "80% training"}
+2023-05-28 {{8C3R94M4yNM@1380}} anecdote He cycles the herbs: garlic on upper body days for pumps, ginger on lower body days when he eats more carbs, to fuel heavy squats and hinges
+2023-09-26 {{XK9KjVP-5Wo@817}} anecdote Every morning he ate 12 eggs on six toasts soaked in oil and butter; nobody needs 12 eggs a day, the excess can't be used and only makes you fat  {"eggs": 12}
+2023-09-26 {{XK9KjVP-5Wo@878}} anecdote He ate cheap low-quality eggs and almost no vegetables during that bulk
+2023-09-26 {{XK9KjVP-5Wo@878}} anecdote Every Saturday he force-fed a pound of pasta bolognese in one evening while watching pro-bodybuilder motivation videos, not realising the pros grew from drugs, not from eating  {"pasta": "1 lb"}
+2023-10-12 {{oytzIPcqih4@379}} data Michael Phelps reportedly ate about 12,000 kcal a day, six times an average man's needs, at 6'4 and about 200 lb; the average Olympic swimmer weighs about 180 lb  {"kcal": 12000, "bodyweight": "200 lb / 180 lb"}
+2023-10-19 {{TxDUQPe3B0E@63}} opinion Breakfast is his favourite meal psychologically, so he eats sweet things he enjoys (croissants with peanut butter or blueberry jam); banning all sugar is too extreme
+2023-10-19 {{TxDUQPe3B0E@126}} opinion He avoids Nutella because of palm oil and refined sugar and prefers fruit-based sweet options
+2023-10-19 {{TxDUQPe3B0E@188}} opinion Banana test: if a banana doesn't taste very sweet to you, modern products have probably ruined your taste buds
+2023-10-19 {{TxDUQPe3B0E@315}} anecdote His first meal is around 10:30 am after the last meal at 9 pm the night before, a de facto fast that just fits his schedule
+2023-10-19 {{TxDUQPe3B0E@315}} anecdote He drinks only water (sometimes with lemon), oat milk and occasionally orange juice; no sodas or coffee
+2023-10-19 {{TxDUQPe3B0E@443}} anecdote He uses about 4 garlic cloves in his sardine snack; too much garlic without adapting can make you vomit
+2023-10-19 {{TxDUQPe3B0E@629}} prescription Chewing 5-6 cloves (the spice) for about 10 minutes after garlic removes the bad breath and may help liver function and blood sugar
+2023-10-19 {{TxDUQPe3B0E@506}} opinion His bulking diet is very high carb, moderate protein and moderately low fat; he thinks high protein is unnecessary
+2023-10-19 {{TxDUQPe3B0E@567}} anecdote A past high-fat, high-protein, lower-carb diet was catastrophic for him; macro preferences must be found by trial and error
+2023-10-19 {{TxDUQPe3B0E@567}} prescription He avoids dairy and red meat because they make him bloated and sick, and says anyone who reacts badly to a food should drop it; no single food is required to grow
+2023-10-19 {{TxDUQPe3B0E@691}} prescription He cooks almost everything himself and gets veggies through homemade ratatouille mixed with white rice
+2023-10-19 {{TxDUQPe3B0E@754}} opinion White rice is his go-to carb because it digests easily and keeps him full through workouts
+2023-10-19 {{TxDUQPe3B0E@754}} anecdote He eats mostly plants and carbs with modest animal products, and finds he performs, grows and feels healthier that way
+2023-10-19 {{TxDUQPe3B0E@1007}} prescription A pre-workout meal should be just enough to avoid hunger without sitting heavy in the stomach, e.g. cereal and unsweetened applesauce
+2023-10-19 {{TxDUQPe3B0E@1070}} opinion Bland bodybuilder food is theatrics; naturals should eat tasty home-prepared food, since sacrificing enjoyment breeds eating disorders and misery
+2023-11-05 {{SxqjF2oPasg@3527}} prescription Meal timing is D tier: eat a carb-rich meal 2-3 hours before training, add a banana if hungry; protein timing doesn't matter  {"timing": "2-3 h pre"}
+2023-12-04 {{M2yqxp4IHXg@2265}} data Shirokov eats lots of red meat and up to 15 eggs at a time and separates protein, fat and carb meals for digestion; NH doesn't do this but says it may help high-intake eaters  {"eggs": 15}
+2023-12-04 {{M2yqxp4IHXg@2328}} opinion Diet is like religion: there are schools of thought, but your relationship with food and training should end up your own
+2023-12-25 {{hEuy__sCbZA@1135}} data Haviland's bulk day: about 7000 kcal, 361 g protein, ~1000 g carbs, 120 g fat from clean whole foods (beef, rice, sweet potato, veg, eggs, shakes)  {"kcal": 7000, "protein_g": 361, "carbs_g": 1000, "fat_g": 120}
+2024-02-28 {{ZRNSc-xBVnc@1067}} opinion Alcohol is the world's number one addiction, normalized so much that the non-drinker gets socially pressured and called weird
+2024-02-28 {{ZRNSc-xBVnc@1129}} principle Even moderate alcohol (beer, wine, worse with liquor) impairs muscle building and gym performance; the effect is small but adds up
+2024-03-03 {{SV5rA-iMHRE@0}} principle Training is the main driver of natural muscle growth; diet only fuels it, but a poor bulking plan wastes the effort
+2024-03-03 {{SV5rA-iMHRE@124}} anecdote About 80% of his calories come from carbs; a past high-fat high-protein diet made him gain fat, feel sluggish, perform poorly and hurt his health  {"carbs": "80% kcal"}
+2024-03-03 {{SV5rA-iMHRE@187}} anecdote His breakfast is 3-4 microwaved croissants with jam and butter plus whey protein  {"croissants": "3-4"}
+2024-03-03 {{SV5rA-iMHRE@251}} prescription White sticky rice is his staple: digests easily, is low in satiety so he can eat more, and fills glycogen for training
+2024-03-03 {{SV5rA-iMHRE@315}} prescription If you worry about insulin sensitivity, swap white rice for lower-glycemic carbs like brown rice, sweet potato, quinoa or lentils
+2024-03-03 {{SV5rA-iMHRE@315}} prescription Carb cycling: lots of carbs on upper-body days, fewer carbs and more animal protein on leg days, then eat the carbs the day after legs when hunger hits
+2024-03-03 {{SV5rA-iMHRE@441}} principle Carbs do not make you fat; processed low-fiber high-sugar products do because they are not satiating and keep you craving
+2024-03-03 {{SV5rA-iMHRE@505}} prescription Use whole fruit like bananas and apples as snacks instead of processed sweets: more fiber and micronutrients, more satiating
+2024-03-03 {{SV5rA-iMHRE@568}} prescription Roast sliced zucchini with olive oil and salt for an hour, or fry onions to mix into rice, for cheap tasty veggie sides  {"cook time": "1 h"}
+2024-03-03 {{SV5rA-iMHRE@631}} prescription Ending the day with a salad with balsamic vinegar helps digestion when eating a lot
+2024-03-03 {{SV5rA-iMHRE@694}} anecdote He eats only about 100 g protein a day, roughly 0.5 g per lb at 215-220 lb, and still grows, so sees no reason to eat more  {"protein": "100 g/day (0.5 g/lb)"}
+2024-03-03 {{SV5rA-iMHRE@821}} prescription He limits canned tuna or salmon to twice a week because large predatory fish accumulate mercury; small fish like sardines are safer  {"frequency": "2x/wk"}
+2024-03-03 {{SV5rA-iMHRE@821}} anecdote He eats fatty fish like trout twice a week, pan-cooked to keep it juicy with crispy skin  {"frequency": "2x/wk"}
+2024-03-03 {{SV5rA-iMHRE@884}} opinion He eats 4-6 eggs per week as a middle ground between people claiming one egg a day kills you and those eating 12 a day  {"eggs": "4-6/wk"}
+2024-03-03 {{SV5rA-iMHRE@946}} anecdote Olive oil is the only oil he cooks with
+2024-03-03 {{SV5rA-iMHRE@1011}} anecdote Butter is the only dairy he eats, once or twice a week; fats come as a byproduct, though naturals need some fat for hormones  {"frequency": "1-2x/wk"}
+2024-03-03 {{SV5rA-iMHRE@1138}} anecdote He mostly stopped weekly meal prep because it wasted food that went stale; he cooks fresh but keeps a few precooked dishes in the fridge
+2024-03-03 {{SV5rA-iMHRE@1262}} prescription Every man should learn to cook: it is cheaper and healthier than ordering food
+2024-03-03 {{SV5rA-iMHRE@1334}} prescription Spices have no calories but make calorie-dense food far easier to eat; bland food does not make you hardcore
+2024-03-03 {{SV5rA-iMHRE@1398}} prescription Season chicken with poultry seasoning and bake 25-35 minutes; garlic and onion powder go on anything  {"cook time": "25-35 min"}
+2024-03-03 {{SV5rA-iMHRE@1461}} anecdote He uses Mexican worm salt (sal de gusano) on nearly every dish instead of plain sea salt
+2024-03-03 {{SV5rA-iMHRE@1586}} principle Hydration is rarely discussed but poor hydration hurts performance, recovery and health
+2024-03-03 {{SV5rA-iMHRE@1586}} anecdote He drinks only carbon-filtered water: no coffee, tea or soda
+2024-03-03 {{SV5rA-iMHRE@1650}} principle Alcohol is the worst drink for performance; a binge wrecks the next day's training
+2024-03-03 {{SV5rA-iMHRE@1713}} prescription People who train, sweat and cook their own food are likely low in salt and should add it rather than fear it
+2024-03-03 {{SV5rA-iMHRE@1775}} prescription After a big meal he drinks 1 L of water with a whole lemon squeezed in before bed to ease digestion  {"water": "1 L"}
+2024-03-03 {{SV5rA-iMHRE@2089}} opinion Pro bodybuilder bro-diets are theatrics; naturals copying them burn out, so eat like a normal person and avoid diets that ban whole food groups
+2024-03-03 {{SV5rA-iMHRE@2152}} opinion Look at your ancestry to guess which foods suit you; descended from European peasants, he thrives on high carbs
+2024-05-05 {{K--tJia2Wnc@1009}} data One teaspoon of bee pollen has about 1.2 g protein and 2.18 g carbs for 15 kcal  {"protein": "1.2 g", "kcal": 15}
+2024-05-05 {{K--tJia2Wnc@1447}} prescription Real farm honey is far better than supermarket honey; he takes a spoon of honey with the bee pollen
+2024-05-12 {{qYaWxvA4fKg@314}} opinion Overeating to obesity also wastes food resources, yet fat people are never targeted by waste-shaming the way showers or flights are
+2024-05-12 {{qYaWxvA4fKg@564}} opinion Western obesity is a product of privilege: mechanization removed physical work and abundant hyperpalatable food made getting fat easy
+2024-05-12 {{qYaWxvA4fKg@886}} prescription The healthy-food-is-expensive argument is an excuse: kale, quinoa, spinach, brown rice, chicken and broccoli are cheaper than processed junk
+2024-05-12 {{qYaWxvA4fKg@886}} anecdote He once lived on $690 a month in the US and still ate healthy and got jacked  {"budget": "$690/month"}
+2024-05-12 {{qYaWxvA4fKg@1707}} opinion Obesity is most rampant in individualistic countries; collectivist cultures (Asia, Latin America) openly comment on weight because you are seen as part of the group
+2024-05-12 {{qYaWxvA4fKg@3280}} principle Fat kids are the result of their parents' habits, which carry into adulthood; if you were raised on balanced meals your ease at staying lean partly comes from that
+2024-09-03 {{JW73oft8Q60@1500}} prescription To avoid losing weight and strength on flights, eat greasy airport food and drink hydration packets during the flight
+2024-09-07 {{bRKQIOYo2u4@203}} opinion He does not count fiber or macros; he simply eats oats almost every day plus fruits and vegetables daily
+2024-09-07 {{bRKQIOYo2u4@326}} opinion An occasional beer or glass of wine will not kill your gains, but daily so-called moderate drinking is really an addiction and hurts hypertrophy since alcohol does nothing for you
+2024-09-07 {{bRKQIOYo2u4@713}} anecdote [abs] To lose love handles lose weight; if they persist look at your diet. His side chunks stayed after losing 30 lb and only vanished when he dropped dairy and meat  {"load": "30 lb lost"}
+2024-09-07 {{bRKQIOYo2u4@651}} anecdote He has avoided milk for three years and eats beef only about every two months because dairy made his body react badly  {"weeks": "3 years"}
+2024-09-07 {{bRKQIOYo2u4@1729}} opinion Brain fog after meals lasting over 30 minutes may point to overeating carbs or to gluten  {"rest": "30 min"}
+2024-09-07 {{bRKQIOYo2u4@4388}} anecdote He went from eating meat twice a day to once a day or less with no loss of gains and felt better; reduce meat if curious but avoid extremes  {"frequency": "meat 2x/day to 1x/day"}
+2024-09-14 {{okm6bZHKHI4@3555}} opinion Vascularity comes mostly from training and being lean; garlic is the only food he would credit
+2024-09-14 {{okm6bZHKHI4@5275}} anecdote When bulking, most of his calories come from carbs
+2024-09-14 {{okm6bZHKHI4@8320}} opinion He never trains fasted because it hurts his performance, and he eats as soon as he wakes up
+2024-10-19 {{c7hl9u3h_s0@5927}} prescription For bloating, find and eliminate trigger foods (dairy, red meat, gluten, oats, pasta)
+2024-10-26 {{wBct3Pl8OY4@702}} anecdote He cooks mostly with olive oil and sometimes butter
+2024-10-26 {{wBct3Pl8OY4@3429}} opinion He does not fast because it gives him dark thoughts, and he sees no reason to spend time with depleted glycogen when eating well builds his physique
+2024-10-26 {{wBct3Pl8OY4@5116}} prescription A quick high-calorie snack is oats loaded with bananas and honey
+2024-10-26 {{wBct3Pl8OY4@7859}} prescription Remove temptation from your environment, such as not keeping treats at home, rather than proving virtue by resisting it
+2024-11-03 {{o40xCjIzl14@722}} principle A good diet is a sustainable diet; find the one that works for you
+2024-11-03 {{o40xCjIzl14@722}} opinion Tofu is a good protein source
+2024-11-03 {{o40xCjIzl14@9021}} opinion Cooking for a woman is a huge turn-on; most of his meals take about 10 minutes  {"cook_time": "10 min"}
+2024-11-09 {{yZC3Nsmmzb8@11132}} principle Muscle does not turn into fat; when athletes quit and keep eating the same, the caloric surplus turns into fat
+2024-11-16 {{fPU3nRIH8sM@402}} prescription For a long mentally taxing session like a 3-hour stream, keep a quick caloric source at hand such as dark chocolate or applesauce
+2024-11-16 {{fPU3nRIH8sM@9094}} opinion He has no cheat meals because he does not eat clean; cheat meals imply punishing yourself all week
+2024-11-23 {{6p2x4kDDjzs@1170}} prescription Tuna is fine for mercury if eaten about twice a week in small amounts  {"frequency": "2x/wk"}
+2024-11-23 {{6p2x4kDDjzs@9216}} prescription A tall lifter struggling to gain should prioritise eating more and patience, since long limbs take a long time to fill out
+2024-12-01 {{TvKzeUKgZcY@258}} principle One meal a day is not inherently bad for hypertrophy: total calories and macros matter, timing is secondary
+2024-12-01 {{TvKzeUKgZcY@258}} anecdote He could never do OMAD because his single meal would need about 2,500 kcal, which he cannot stomach in one sitting  {"kcal": 2500}
+2024-12-01 {{TvKzeUKgZcY@1206}} anecdote He doesn't drink alcohol or eat pork simply by preference
+2024-12-01 {{TvKzeUKgZcY@10499}} anecdote On a school trip to India he lost about 12 lb eating only rice, goat milk and sugar with almost no protein  {"weight": "-12 lb"}
+2024-12-07 {{pt4mbNb7NJ0@9516}} anecdote A formerly obese reviewee lost about 40 kg by walking and intermittent fasting, then started lifting
+2024-12-22 {{ZLheQPgEfoA@193}} opinion At the most basic level weight loss is calories in versus calories out; saying otherwise gives overweight people an excuse, and macro or micronutrient peculiarities matter only in rare cases
+2024-12-22 {{ZLheQPgEfoA@1022}} anecdote He eats much less protein than usually recommended, about 100-120 g a day  {"protein": "100-120 g/day"}
+2024-12-22 {{ZLheQPgEfoA@8103}} opinion Training on an empty stomach is mostly stupid; you want energy, just not a full stomach
+2025-01-01 {{J9_udWdk6ZM@840}} anecdote He gives no strict diet plans, only advice on whether to bulk, cut or recomp and how long and how fast
+2025-02-08 {{-7bzbmL-x3Q@502}} prescription Tuna is an excellent protein source, but watch the mercury content
+2025-02-08 {{-7bzbmL-x3Q@8261}} principle All-you-can-eat sushi places delay plates so you lose appetite; eating fast lets you eat more, which is also why slow eating and chewing is advised for fat loss
+2025-02-08 {{-7bzbmL-x3Q@8387}} anecdote He and his crew would lift, fast for 24 hours, then eat an all-you-can-eat sushi buffet out of business; he once finished about 35 yakitori alone and got banned  {"fast": "24 h"}

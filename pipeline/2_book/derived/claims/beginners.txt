@@ -1,0 +1,527 @@
+2020-01-13 {{utLw7UeXCOo@249}} principle Because the bar weighs 60 lb, a brand-new or weak lifter may need to ramp up before using it.  {"load": "60 lb"}
+2020-01-18 {{S1h9qEhIo-I@124}} anecdote Early on he had no idea what he was doing and used the same weight for back rows as for biceps curls, even though the back is much stronger.
+2020-01-19 {{xFVva4-swKc@627}} opinion Pure novices shouldn't concern themselves with hypertrophy yet; NH believes everyone should first focus only on bench, squat and deadlift, then move to a structure like this once they have a base.
+2020-01-21 {{iX9lLFDvw_w@189}} opinion [biceps] Approach 2, isolation after the main lift (extensions after bench, curls after rows), is the best start for beginners who have never trained arms, but it only takes you so far.
+2020-01-27 {{BFVw7x1fZjs@248}} prescription [forearms] Beginners should start with the Trainer gripper and buy higher levels only once they can close the current one; don't buy all at once or start too high.
+2020-01-31 {{vnssPJqYmtQ@125}} data [forearms] Even lifters with strong grips and big forearms must start with the thinnest elastics because the hand-opening muscles are weak from never being trained.
+2020-02-01 {{PLgCL_rizPU@125}} data Overtraining is a real issue for very motivated beginners: just 2-3 extra sets can burn them out for a while, though rarely anything more serious.  {"sets": "2-3"}
+2020-02-02 {{RaGX9rPQr4k@542}} principle The Wisconsin method is bad for anyone short of a solid intermediate: daily maxes with unowned form magnify every flaw and ingrain bad movement patterns.
+2020-02-02 {{RaGX9rPQr4k@605}} opinion The promoters tell only total novices not to do it; he thinks anyone who isn't a seasoned lifter won't get a well-rounded physique from it.
+2020-02-02 {{RaGX9rPQr4k@666}} principle Deadlifts are just as taxing for beginners: they pull less weight, but with weaker muscles and a weaker CNS, so the relative cost is the same.
+2020-02-02 {{XXLuK_9Ilf4@189}} prescription [biceps] He would tell a beginner to learn strict curls first, add cheat reps only later and with very low weight, and never curl every day.
+2020-02-03 {{TrU2m-4yZT0@63}} opinion Beginners are often told to learn bench or squat on the Smith machine first; he thinks it should be reserved for advanced lifters and beginners shouldn't touch it.
+2020-02-03 {{TrU2m-4yZT0@63}} opinion The Smith machine doesn't teach compound movements, doesn't build the musculature needed for them, and is more dangerous than a free barbell.
+2020-02-03 {{TrU2m-4yZT0@627}} opinion Verdict: the Smith machine is useless for beginners and most people, who should focus on free weights; advanced lifters who know what they're doing can use it, but someone who has never free-benched has no business doing 225 on the Smith.  {"load": "225 lbs"}
+2020-02-08 {{UKr-dWXa73Q@187}} prescription Learn to make your own programs and to recognise a bad program; you don't need to be an elite athlete or coach, just willing to learn.
+2020-02-09 {{M-a4cj1yFX8@250}} prescription New lifters should first master the objective form rules; that alone greatly reduces injury rates.
+2020-02-14 {{3Mzk6FLh5UI@375}} opinion 1/2/3/4 is a good standard for novices; 2/3/4/5 is not, and 3/4/5/6 makes even less sense.
+2020-02-17 {{QpTHtmI8nrU@0}} principle His programs are built around hypertrophy, not strength or athletic goals, though those follow from gaining muscle.
+2020-02-17 {{QpTHtmI8nrU@0}} principle For novices anything works, but that true saying is misused; because anything works, novices should do things that set up the rest of their journey.
+2020-02-17 {{QpTHtmI8nrU@126}} principle Novices should build a muscular base that lets them branch out and discover what they like, what they respond to, and what they want to look like; this takes years even though novice status is short.
+2020-02-17 {{QpTHtmI8nrU@190}} data Beginners can't handle volume: they tire fast, recovery fails, and some even get sick; two extra sets of 10 can wreck a beginner for a week.  {"sets": 2, "reps": 10}
+2020-02-17 {{QpTHtmI8nrU@254}} prescription Novice sessions should last about an hour at most because the gym is an unfamiliar, mentally taxing environment and going too hard early kills motivation.  {"duration": "<=60 min"}
+2020-02-17 {{QpTHtmI8nrU@439}} principle Lifting with imperfect form is OK for novices because loads are very low, making injury risk nearly non-existent.
+2020-02-17 {{QpTHtmI8nrU@564}} opinion To learn to swim you should be tossed into the sea: beginners should explore rather than repeat the same thing.
+2020-02-17 {{QpTHtmI8nrU@627}} principle The program teaches compounds as the meat and potatoes, how to manipulate them to avoid overuse injuries, and small isolation doses that grow as you target areas you want to develop.
+2020-02-17 {{QpTHtmI8nrU@691}} prescription After graduating from the novice program, make it harder or move to the full-body hypertrophy program in his 'natural apogee' playlist.
+2020-02-17 {{_4wWgin1dVY@64}} prescription Monday: squats (any knee-dominant compound with triple extension, e.g. high bar, front, SSB, low bar, lunges) for 1-3 heavy sets of 4-8 reps; then a full-ROM deadlift variation supersetted with pull-ups, 4 sets of 6-10/AMRAP; then skull crushers supersetted with hammer curls, 4 x 8-12; then push-ups and abs to AMRAP.  {"sets": "1-3 heavy / 4 / 4", "reps": "4-8 / 6-10 / 8-12"}
+2020-02-17 {{_4wWgin1dVY@190}} prescription Wednesday: bench (replaceable by dips or push-ups) 1-3 heavy sets of 4-8 plus 3+ back-off sets of 6-10; overhead press supersetted with chin-ups 4 x 6-10/AMRAP; hyperextensions or cable rows 4 x 8-12; abs AMRAP.  {"sets": "1-3 heavy + 3 back-off / 4 / 4", "reps": "4-8 / 6-10 / 6-10 / 8-12"}
+2020-02-17 {{_4wWgin1dVY@190}} prescription Friday: deadlifts 1-3 heavy sets of 2-5; squat variation supersetted with pull-ups 4 x 6-10; EZ bar curls supersetted with pull-ups 4 x 8-12/AMRAP; push-ups and abs AMRAP.  {"sets": "1-3 heavy / 4 / 4", "reps": "2-5 / 6-10 / 8-12"}
+2020-02-17 {{_4wWgin1dVY@127}} prescription [lats] If you can't do pull-ups, do negatives: jump to the top and lower yourself slowly.
+2020-02-17 {{_4wWgin1dVY@127}} prescription [lats] The program uses high-frequency, low-volume pull-ups (many sets of 2-3) because novices can usually do only about 5, and this builds the ability fast.  {"reps": "2-3 per set", "max": "~5"}
+2020-02-17 {{_4wWgin1dVY@317}} prescription Start with any weight, even the empty bar; the goal is to accumulate lots of quality reps, never struggling or compromising your ability to come back next session.
+2020-02-17 {{_4wWgin1dVY@379}} principle Not doing every compound several times a week is a weakness for strength progression, but the program aims to build work capacity, not weight on the bar.
+2020-02-17 {{_4wWgin1dVY@693}} opinion [biceps] Novices don't need arm days or much arm isolation, but some isolation gives them a taste of it.
+2020-02-17 {{_4wWgin1dVY@756}} principle Rear delts, traps and calves are left out so as not to overpack the program; novices lack the mental capacity and recovery to stay in the gym for three hours.
+2020-02-17 {{_4wWgin1dVY@1012}} principle Mistakes are fine for novices as long as they stay in a safe rep range with good form; they won't get injured.
+2020-02-20 {{eU_f4lGi9vA@440}} prescription Non-competitors should pull double overhand and use straps (or hook grip if they like it); beginners should not use mixed grip at all, at least through their first deadlift progression to 300 lbs.  {"load": "300 lbs"}
+2020-02-23 {{WS84F3OElZ8@506}} opinion [back] In his view the biggest cause of wrist pain in beginners is pull-ups: they don't know how to pull with their back, grip the bar for dear life and pull with their wrists.
+2020-02-24 {{OATtf3kPtdI@64}} data Fierce 5 is a two-workout (A/B) novice program from bodybuilding.com, run one day on, one day off.
+2020-02-24 {{OATtf3kPtdI@187}} principle A novice program built on compound movements is a good sign; one full of machines and cables is a bad program.
+2020-02-24 {{OATtf3kPtdI@375}} prescription [back] Horizontal rows, especially from the floor, are not critical for novices; cable rows are preferable until the lifter can row with the back, then move to Pendlay rows.
+2020-02-24 {{OATtf3kPtdI@439}} principle [back] A novice program without a full-range pull from the floor is a deal breaker; it can be conventional, sumo, Jefferson, trap bar deadlift or Atlas stones, as long as it trains a full hip hinge.
+2020-02-24 {{OATtf3kPtdI@563}} prescription [shoulders] Face pulls are great for beginners and not taxing, so they can be superset with something else.
+2020-02-24 {{OATtf3kPtdI@626}} opinion [calves] Calves are not important for novices; they can catch up later, so he doesn't prioritise calf raises in beginner programs.
+2020-02-24 {{OATtf3kPtdI@687}} opinion [quads] He loves front squats but they aren't accessible to novices: they require thoracic extension and spinal mobility novices don't have, leading either to bad form and wrist pain or to wasted energy learning the lift.
+2020-02-24 {{OATtf3kPtdI@750}} prescription [quads] Novice programs should use paused back squats instead of front squats; front squats can come later if wanted (e.g. for Olympic lifting).
+2020-02-24 {{OATtf3kPtdI@750}} opinion Novices build neural associations quickly, so pairing front squats with overhead press back-to-back risks confusing the two different front rack positions.
+2020-02-24 {{OATtf3kPtdI@875}} prescription [lats] Any novice who can do three or more pull-ups should do pull-ups instead of lat pulldowns; pulldowns are an accessory, not a main lift.  {"reps": "3+"}
+2020-02-24 {{OATtf3kPtdI@938}} principle The centre line of the physique is built by compounds; the sides (arms, delts) are built by isolation, so novices should do some upper-body isolation.
+2020-02-24 {{OATtf3kPtdI@1375}} opinion Novices should be given rep range choices rather than fixed numbers, because they'll eventually have to build their own programs and need to learn early.
+2020-02-24 {{OATtf3kPtdI@1438}} principle A good novice program isn't afraid of monotony: repeat the basics and some variations; landmine presses and fancy lifts come later, after mastering the basics.
+2020-02-24 {{OATtf3kPtdI@1503}} opinion [lats] Vertical pulls are more critical than horizontal pulls for beginners.
+2020-02-24 {{OATtf3kPtdI@1503}} opinion [shoulders] Beginners don't need side raises; overhead press plus face pulls covers the shoulders.
+2020-02-24 {{OATtf3kPtdI@1757}} opinion [quads] Two knee-flexion lifts are enough quad work for novices; neck, calves and traps can be worked later once you have a solid physique.
+2020-02-24 {{OATtf3kPtdI@1757}} prescription Novices should warm up with as many sets as they need (three or five) and never jump straight into heavy weight; static stretching is not a must.
+2020-02-24 {{OATtf3kPtdI@0}} prescription His modified Fierce 5: main lifts in rotating rep ranges (3 sets of 4-8, 6-10 or 8-12, extra sets if needed), deadlift and back squat variation on day B, cable rows, chin-ups, pull-ups and push-ups AMRAP, hyperextensions 4x15, skull crushers 4x10, curls 4x10, all as supersets.  {"sets": "3-4", "reps": "4-8 / 6-10 / 8-12; accessories 10-15"}
+2020-02-26 {{KlSyeS0R9FE@61}} opinion Beginners don't need to measure since they'll progress regardless, and taping can become an obsession, which is toxic.
+2020-02-28 {{d7441LfRS9s@0}} principle In lifting, 'noob' is a neutral term for a beginner; noob gains are the period at the start when you progress very fast in strength and muscle.
+2020-02-28 {{d7441LfRS9s@63}} principle It's true that anything works for a beginner, but certain lifts and programs are far more beneficial, both now and for the rest of your lifting career.
+2020-02-28 {{d7441LfRS9s@63}} opinion Noob gains may represent only 3-4% of all the time you'll spend lifting, so use that grace period to set yourself up for later success.  {"percent": "3-4%"}
+2020-02-28 {{d7441LfRS9s@127}} prescription Beginners should run a compound-based program (not necessarily the big three) and add isolation movements based on what they want their body to look like.
+2020-02-28 {{d7441LfRS9s@127}} data Noob gains last about six months for some people and up to two years for others.  {"weeks": "26-104"}
+2020-02-28 {{d7441LfRS9s@127}} principle During noob gains you don't need to think hard about nutrition; results come with minimal effort.
+2020-02-28 {{xe1s_--iA98@0}} opinion The idea that a bad program 'wastes your noob gains', as if starting to lift ignites a fixed time window, is nonsense.
+2020-02-28 {{xe1s_--iA98@126}} principle Anyone who has never lifted will experience noob gains as long as they have no hormonal deficiency.
+2020-02-28 {{xe1s_--iA98@126}} principle A year on a bad program wastes a year but not your potential; someone who spent 6-8 months on a machine-only program will grow fast once switching to a compound-heavy program.  {"weeks": "26-35"}
+2020-02-29 {{y_lPAdWi4sU@130}} prescription Novices should get comfortable with a few compounds that suit their body and leverages, use variations to add volume without repeating the same stance, and do isolation.
+2020-02-29 {{y_lPAdWi4sU@256}} opinion His novice program exists to launch people into self-programming.
+2020-02-29 {{y_lPAdWi4sU@507}} opinion By his own admittedly made-up estimate, about 95% of people quit lifting during the move from novice to intermediate.  {"percent": "95%"}
+2020-03-03 {{a02c10s3Pjk@256}} opinion Most dirty bulkers are skinny beginners; becoming fat does not fix the insecurity of being small, it turns a skinny guy into a skinny-fat or small fat guy.
+2020-03-03 {{a02c10s3Pjk@380}} principle Novices are drawn to dirty bulking because it promises fast strength progress: mass moves mass, so lifts go up almost always.
+2020-03-03 {{awNEfmfGkmY@189}} prescription Novices should squat and deadlift several times a week, recovery permitting, to ingrain form; not always heavy, using volume work, speed work, pause reps or deloads.  {"frequency": "several times/week"}
+2020-03-03 {{awNEfmfGkmY@316}} principle A novice's goal is to raise skill on every lift as high as possible; strength should rise but never exceed skill, or form breaks down.
+2020-03-04 {{E783zHvVUdk@570}} principle Young lifters should be learning about diet instead of relying on a single substance.
+2020-03-05 {{0oH8-YBdpys@130}} principle Beginners often experience reverse dysmorphia, seeing themselves as much bigger than they are.
+2020-03-05 {{nWHewU0tAwQ@160}} principle Novices are the exception: they are the most numerous, often uncomfortable in the gym, and need a written program to hold on to until they gain confidence and can emancipate themselves.
+2020-03-08 {{g4-X8efWhTQ@252}} opinion He disagrees that you shouldn't lift before puberty ends; start when you're ready.
+2020-03-13 {{VVckf4vyYPE@1436}} opinion Telling beginners they can get big from low intensity is dangerous because most people take the easy path and will pick non-challenging weights; you need to experience high intensity.
+2020-03-25 {{K9hKDPaDFsI@62}} principle An attractive physique, or being stronger than 95% of the population, does not take many years of hard work, and once achieved it is easy to maintain.  {"percent": "95%"}
+2020-03-25 {{K9hKDPaDFsI@250}} principle Novices who only ever followed a program never learn how to program, so when they plateau they either luckily find a better program or quit, often restarting years later as novices and repeating the cycle.
+2020-03-25 {{K9hKDPaDFsI@374}} opinion Novice programs can turn followers into progress-obsessed drones who never ask what the progress is for.
+2020-03-28 {{QwoBxHI7NBU@375}} prescription Every program he writes, even for novices, includes isolation movements, because the earlier you start the better your physique looks long term.
+2020-03-30 {{Tw8qA93Gf58@63}} opinion The program defines a novice as someone who can't bench 225, squat 315 and deadlift 405 for 5; he dislikes such strength-based guidelines, especially for a non-powerlifting program, though any healthy male should eventually reach them (not necessarily in year one).  {"load": "225 bench / 315 squat / 405 deadlift for 5"}
+2020-03-30 {{Tw8qA93Gf58@252}} prescription [quads] Novices should do free squats; they needn't go ass-to-grass, parallel is fine, and if they can't reach parallel they should work towards it.
+2020-03-30 {{Tw8qA93Gf58@315}} prescription [chest] Novices should paused bench rather than floor press; floor press depends heavily on arm length and is an accessory for experienced lifters to bring up the bench.
+2020-03-30 {{Tw8qA93Gf58@819}} principle [triceps] Novices need a lot of horizontal pressing, and the close-grip bench press is a safe way to get it.
+2020-03-30 {{Tw8qA93Gf58@819}} prescription [lats] Novices should do bodyweight chin-ups/pull-ups until they can consistently hit a clean set of 15 before adding weight, otherwise form and ROM suffer. Most people can't do one pull-up when they start.  {"reps": 15}
+2020-03-30 {{Tw8qA93Gf58@1134}} opinion Including isolation movements in a novice program is very good, though it's odd that all of them sit on workout A.
+2020-03-30 {{Tw8qA93Gf58@1196}} principle You are a novice only briefly but an intermediate/advanced lifter for life, so the novice phase should build a base, prevent future injuries and teach good habits rather than chase performance.
+2020-04-01 {{Xx7A1dAAPDo@127}} opinion Novices who aren't already over- or underweight can basically eat whatever and just increase quantities; food quality starts mattering later. He still recommends whole foods and cooking.
+2020-04-03 {{T_DyRlu3Y7I@0}} opinion Telling novices not to modify a program is acceptable because novices need to be babied a bit.
+2020-04-03 {{T_DyRlu3Y7I@505}} principle [chest] Overhead press and overhead extensions don't replace horizontal pressing; novices need several horizontal presses (push-ups, dips or bench), but floor press isn't needed.
+2020-04-03 {{T_DyRlu3Y7I@630}} prescription [lats] Everyone should do chin-ups with bodyweight before adding weight.
+2020-04-03 {{T_DyRlu3Y7I@696}} opinion Novices shouldn't do Jefferson deadlifts or snatch-grip deadlifts; snatch-grip is too technical for novices (recovery cost depends on leverages, load and reps).
+2020-04-03 {{T_DyRlu3Y7I@696}} prescription He loves deficit deadlifts for novices because they teach pushing with the legs.
+2020-04-03 {{T_DyRlu3Y7I@819}} opinion Novices training 3 days a week at this workload don't need GPP on off days.  {"frequency": "3x/week"}
+2020-04-03 {{T_DyRlu3Y7I@884}} opinion Anything works for novices, and this program is written effectively, so it will work.
+2020-04-10 {{37WbiLy4Dkc@0}} principle Part of that is that novices gain from almost anything.
+2020-04-13 {{jA3PfQmxrYA@767}} principle Once you find your true path you diverge less and correct more easily, so novices should focus hard on finding it.
+2020-04-13 {{jA3PfQmxrYA@767}} opinion Too many novice programs are powerlifting-centric and push novices into powerlifting by default, even if they don't care about it, possibly leading to regret.
+2020-04-25 {{TwuT80wJql8@125}} principle Novices shouldn't stay novices more than four to six months, so novices and early intermediates shouldn't be attached to a program.  {"months": "4-6"}
+2020-05-04 {{4aThavRpYLw@125}} principle Novice programs must account for low work capacity and the need to learn the lifts; many share the same flaws.
+2020-05-04 {{4aThavRpYLw@125}} data About 90% of people who start training eventually quit, often discouraged by bad programs. (low-confidence)  {"percent": 90}
+2020-05-04 {{4aThavRpYLw@250}} prescription Four days a week is the high end for novices; he usually has novices train 3 days a week because they aren't comfortable in the gym yet.  {"frequency": "3 days/week"}
+2020-05-04 {{4aThavRpYLw@439}} prescription 3 sets of 8-12 on accessories is enough for novices, who don't need massive volume.  {"sets": 3, "reps": "8-12"}
+2020-05-04 {{4aThavRpYLw@631}} prescription [back] Novices given 3x6 on rows will butcher them; back exercises using the lower back and hamstrings need at least 6-10 reps so novices can stop when the reps get dirty.  {"reps": "6-10"}
+2020-05-04 {{4aThavRpYLw@820}} principle Leaving novices room to choose which muscles to emphasise is good because it's their body, though misguided novices may overtrain; you learn through mistakes, and even a $1,000-a-day coach can't puppeteer you.
+2020-05-04 {{4aThavRpYLw@882}} opinion Two very taxing days in a row with fixed rep targets is too much for novices without work capacity: either the volume or their mental fortitude gives out.
+2020-05-04 {{4aThavRpYLw@945}} opinion [quads] Never give novice bodybuilders front squats unless they love them; the front rack took him ages to master painlessly and he'd reinvest those hours elsewhere.
+2020-05-04 {{4aThavRpYLw@1011}} principle Technical hoops discourage novices; calisthenics is popular because it's accessible, and would lose many followers if beginners had to start on rings.
+2020-05-04 {{4aThavRpYLw@1136}} prescription [quads] 5x8 back squats followed by 3x8 deadlifts would wreck a novice; cut squats to 3-4 sets.  {"sets": "3-4", "reps": 8}
+2020-05-04 {{4aThavRpYLw@1261}} opinion Novices offered optional exercises at the end of a session will skip them or do fluff with weights too light to matter; programs must tell them what to do.
+2020-05-04 {{4aThavRpYLw@1508}} principle Novices can't be trusted to pick their own lift rotations; give them a choice among a few lifts or a movement pattern, then they must do it.
+2020-05-04 {{U8Lp_lYlj_M@62}} principle Anything works for novices, so simple programs are fine at first; as you advance it becomes a game of inches and programming matters.
+2020-05-07 {{2QnD9k0SbwA@0}} opinion Evolving rep ranges aren't suitable for beginners but give supreme volume and intensity control to those who master them.
+2020-05-15 {{IeYLu4_hkZY@64}} prescription Beginners should just eat and gain weight (unless very overweight) rather than worry about recomping.
+2020-05-20 {{GClcGq2tIDU@1324}} opinion Fixed rep schemes help beginners because they give structure and something to blame, but viewers of the channel should use evolving rep ranges
+2020-06-01 {{5Wz0xTfWOOs@125}} opinion A novice program with a fixed 12-week length makes no sense: beginners aren't peaking for a meet and should stay on a program until it stops working; a program that only works 12 weeks is bad.  {"weeks": 12}
+2020-06-01 {{5Wz0xTfWOOs@877}} principle Novices should focus on basics, but that doesn't mean cramming all the basics into one day with random rep schemes; 5x5 working for novices doesn't make it best.
+2020-06-01 {{5Wz0xTfWOOs@1568}} principle Ignored body parts matter more once intermediate; novices are building a base and won't stay novices long.
+2020-06-02 {{6nKKGsCCqxo@823}} opinion Hardgainers may do better with shorter workouts because they lack work capacity; focus mainly on diet first, and training becomes the priority once the body is bigger.
+2020-06-04 {{k3O630Nz4B8@126}} principle 5x5 and 3x5 (StrongLifts, Starting Strength) work for novices largely because anything works for novices
+2020-06-04 {{k3O630Nz4B8@126}} principle A novice's strength potential exceeds their neural ability to use it, so early bar gains are mostly technique learning and do not match muscle gained
+2020-06-04 {{k3O630Nz4B8@250}} opinion Beginners on these schemes can add 5 or even 10 lb to the bar per session for a long time  {"load": "5-10 lb"}
+2020-06-04 {{k3O630Nz4B8@313}} principle Results credited to 5x5 come from starting to train at all; almost any scheme short of something like 10x1 would have worked
+2020-06-04 {{k3O630Nz4B8@565}} opinion 5x5 catapults novices too fast into weights they should not be handling yet; they would benefit from spending longer as novices learning to program
+2020-06-04 {{k3O630Nz4B8@819}} opinion Static schemes reassure anxious novices and program authors avoid giving beginners freedom, but eventually you must accept that programming means thinking on your feet
+2020-06-08 {{MCUpClPnPkQ@250}} opinion People avoid the program not because 1.5 hours is long but because squats, deadlifts, overhead press and rows at high intensity on the same day with no rep variation is too much; 1.5 hours is still a bit long for novices  {"time": "1.5 h"}
+2020-06-08 {{MCUpClPnPkQ@313}} opinion You stop being a novice not when you bench two plates but when you can write effective programs for yourself
+2020-06-08 {{MCUpClPnPkQ@1063}} opinion Accessory work is fine for novices and prevents a backlog of side projects later; an accessory is whatever complements what the training misses
+2020-06-29 {{o3RTXWAia4A@0}} principle The arm day is labelled 'intermediate' content: novices can simply add isolation work to upper days; demanding lower-body frequency also requires work capacity and volume/intensity control.
+2020-07-06 {{DrAKKhJU0fY@1339}} opinion If you have trained hard and eaten properly for years and have no muscle, either you don't train as hard as you think or you have a hormonal issue
+2020-07-13 {{uND20Zam2jI@758}} prescription [biceps] Start cheat curls very light; anyone without much biceps training experience should stick to normal curls
+2020-07-15 {{YcHkXwsIOI8@62}} opinion Designing an RPE-based program to move lifters from beginner to intermediate is a smart idea
+2020-07-15 {{YcHkXwsIOI8@125}} principle Novice programs are high frequency, high intensity, low volume while intermediate programs are lower frequency, high volume, moderate-high intensity; the jump from 45-minute to 90-minute sessions burns people out or bores them  {"duration": "45 min vs 90 min"}
+2020-07-15 {{YcHkXwsIOI8@187}} opinion Needing a bridge exposes a flaw in novice programs: they should already introduce volume gradually, even if it keeps people novices a bit longer
+2020-07-20 {{7XqE7GhDsgc@438}} principle Squat, bench and deadlift do not cover every movement pattern; a real base covers them all, and a base is meant to be built upon: the higher the tower, the wider the base
+2020-07-21 {{RPUhg61IV-g@190}} prescription Beginners burn out by going too fast: jumping from junk food to dry chicken and broccoli lasts two weeks, and training three hours a day without work capacity makes you miserable  {"duration": "3 h/day"}
+2020-07-27 {{et6AylDr1uk@128}} principle Minimalism suits novices because repeating movements ingrains them neurologically before real muscle gains begin
+2020-07-27 {{et6AylDr1uk@253}} opinion [back] One set of 5 deadlifts is excellent for novices: clean technique, decent volume, without wrecking recovery  {"sets": 1, "reps": 5}
+2020-07-27 {{et6AylDr1uk@253}} opinion Starting Strength is a powerlifting program and should not be called a novice program; not every novice wants to be a baby powerlifter
+2020-07-27 {{et6AylDr1uk@378}} prescription Monday-Wednesday-Friday is probably the best frequency for novices, with 45-60 minute sessions since they lack work capacity  {"frequency": "3x/wk", "duration": "45-60 min"}
+2020-07-27 {{et6AylDr1uk@440}} prescription Do not give a novice a laundry list; have them do effective compounds, get their tonnage and go home
+2020-07-27 {{et6AylDr1uk@757}} principle Calisthenics such as chin-ups matter for novices because moving your body through space is an important skill
+2020-07-27 {{et6AylDr1uk@882}} opinion Calisthenics humble you: if you cannot do 10 clean push-ups, your bench number means you are regressing in athleticism  {"reps": 10}
+2020-07-27 {{et6AylDr1uk@1008}} principle A novice program should teach a wide range of movement patterns so lifters know what they are doing on the next program
+2020-07-27 {{et6AylDr1uk@1072}} prescription Restructure to two knee flexions, two hip hinges and two horizontal presses per week, freeing three slots for a curl, a triceps movement and a hyperextension  {"frequency": "2x/wk each"}
+2020-07-27 {{et6AylDr1uk@1136}} opinion Include some fun; endless squat, bench and deadlift makes many novices quit
+2020-07-27 {{et6AylDr1uk@1198}} opinion It pushes strength progression too fast to rush novices out; the novice phase should be one of discovery before specialising
+2020-07-31 {{RgYzmTnuwro@126}} principle Beginners can do fewer hard sets because they lack muscular endurance and work capacity; the more advanced you get, the more hard sets you can handle
+2020-08-10 {{QKpAtCK6oPQ@62}} opinion Beginners make up about 95% of the lifting community, and many running powerlifting-style novice programs actually care about aesthetics  {"percent": 95}
+2020-08-10 {{QKpAtCK6oPQ@125}} principle Novices do not recover faster than advanced lifters; they just lack the strength and work capacity to exert themselves as hard
+2020-08-10 {{QKpAtCK6oPQ@188}} principle For novices, frequency matters more for injury prevention than for hypertrophy
+2020-08-10 {{QKpAtCK6oPQ@227}} prescription Three days a week is a good frequency for novice programs  {"frequency": "3x/wk"}
+2020-08-10 {{QKpAtCK6oPQ@438}} principle [quads] 4x8 squats are risky for novices: mechanical failure comes fast, they grind ugly reps that ingrain bad patterns, and their muscles simply give out  {"sets": 4, "reps": 8}
+2020-08-10 {{QKpAtCK6oPQ@438}} prescription Novices should do high reps, but in a range that keeps their form clean
+2020-08-10 {{QKpAtCK6oPQ@563}} principle [lats] Vertical pulls are key in novice programs for decompressing the shoulders and spine, especially when they bench often
+2020-08-10 {{QKpAtCK6oPQ@563}} prescription [lats] Few novices can do 4x8 chin-ups; just do as many reps as possible for four sets  {"sets": 4}
+2020-08-10 {{QKpAtCK6oPQ@1130}} prescription [lats] Don't program weighted chin-ups for novices; let them master bodyweight first
+2020-08-10 {{QKpAtCK6oPQ@1256}} opinion Novice programs pile too many heavy compounds into one day; better to focus on one compound a day with variations, rep range variety and isolation
+2020-08-10 {{QKpAtCK6oPQ@1382}} opinion The program has no long-head triceps, forearm, trap, neck, calf or ab isolation, producing an unbalanced physique
+2020-08-10 {{QKpAtCK6oPQ@1508}} principle A good novice program introduces every movement pattern to build a wide base: slower progress but a higher ceiling
+2020-08-10 {{QKpAtCK6oPQ@1699}} prescription To fix the template: move OHP so it appears on days 2 and 3 (4x4 on day 3), replace the third OHP with skullcrushers and curls, replace barbell rows with cable rows, face pulls and lateral raises, and superset with shrugs and ab work
+2020-08-11 {{O-x2v688wrg@127}} principle An intermediate is defined not by strength or size but by knowing what they want and being able to name their weak points
+2020-08-12 {{mUAHGlseeyk@630}} opinion Novices run the most extreme bulk/cut cycles outside pro bodybuilding, yet they are the ones who should never do it
+2020-08-14 {{jSUmn33lmlI@376}} opinion [back] Pendlay rows don't belong in novice programs; novices can't even pull from the floor with good form
+2020-08-17 {{o9uDgF5J89U@251}} opinion Most novice programs are too short (around four weeks) and try to make you strong too fast; spend about double the usual time on them  {"weeks": 4}
+2020-08-17 {{o9uDgF5J89U@313}} principle The novice phase builds the base, which should be as wide as possible; thanks to muscle memory you'll never be that weak again, so enjoy it
+2020-08-17 {{o9uDgF5J89U@376}} prescription Modify your novice program freely, even suboptimally, to learn programming on a template that has already proven to work
+2020-08-22 {{2ag0uM9zhs4@596}} principle Avoiding compounds because you wasted time on machines is a sunk cost fallacy; the best time to start deadlifting is now
+2020-08-22 {{2ag0uM9zhs4@974}} principle [biceps] Novices don't need a dedicated arm day; that time should go to compounds or rest
+2020-08-22 {{2ag0uM9zhs4@974}} prescription Six training days is pushing it for a novice; most novices can train 3 days a week and progress well  {"frequency": "3x/wk"}
+2020-08-28 {{RgGkGiaGqks@1448}} principle Early on you don't need a thousand options; a low-exercise program can still be flexible
+2020-08-31 {{Of7VDakRks4@818}} prescription Skinny lifters should start with compounds, build them slowly with perfect technique, and add patterns and isolation as they go
+2020-08-31 {{Of7VDakRks4@818}} opinion Novice programs over-focus on compounds; that's a strength bias
+2020-09-01 {{TgPYObguEM0@0}} principle Novice strength programs push fast progress and plate standards, which drives teens to bulk for leverage instead of muscle
+2020-09-05 {{sfUkrygYNiU@190}} prescription Novices need low frequency and low complexity: about 3 days a week, no lift rotations  {"frequency": "3x/wk"}
+2020-09-06 {{65rLZe9cz_0@63}} prescription Novices progress fine on fixed schemes like 5x5 or 3x5 and should use evolving ranges only on 8-12 or 6-10 accessory work  {"reps": "8-12 or 6-10"}
+2020-09-06 {{65rLZe9cz_0@502}} principle Novices shouldn't use only evolving ranges because if all hit their low point at once tonnage collapses
+2020-09-11 {{oLm1CDuY9zg@1370}} prescription Do not switch programs if you already have good neurological adaptation to the movements; rearrange them instead
+2020-09-14 {{-banYSTnkq4@752}} principle Lifters who never isolated will grow from any isolation work, even poorly programmed; that is why such programs seem to work
+2020-09-18 {{HVD5j7hOobI@0}} prescription Not for novices; late novices to intermediates can run it as is, advanced lifters must adapt it
+2020-09-18 {{HVD5j7hOobI@220}} prescription For lifts or rep ranges you never practiced, start easy without failure to adapt, then push to failure
+2020-09-23 {{p6WcFTOBq3s@134}} prescription There should be a middle ground between novice and high-volume programs: a bridge program, or novice programs that push volume a bit more; novices are not made of sugar
+2020-10-01 {{NpIo8tFRESg@61}} prescription For novices diet barely matters unless they're very skinny or very fat; eat what your parents give you, as much as you can, and train
+2020-10-01 {{NpIo8tFRESg@100}} principle Novices lack the work capacity to train much at first
+2020-10-05 {{MIHPylz3f7Q@100}} opinion Very new lifters can get by on squats alone
+2020-10-16 {{sCMGXCXKVjs@440}} principle Novices burn out mentally before physically, so keep their sessions short
+2020-10-18 {{1f4aaqgOfXk@270}} principle The blank template is like a choose-your-own-adventure book: he did most of the work, you choose exercises and learn how programming works
+2020-10-18 {{cGzlMRCxvxo@830}} principle Gentleman splits are not for novices, both for frequency reasons and because much manipulation happens within the workout based on recovery and feel
+2020-10-22 {{3J-zADEbtqU@0}} principle Novice programs tend to neglect small body parts, so most lifters must play catch-up later
+2020-10-26 {{dfnn-YdXerg@125}} prescription Follow this routine only at 16 or older  {"age": "16+"}
+2020-10-26 {{dfnn-YdXerg@333}} principle Learning to program is a big part of building a muscular body; the progression versions teach it
+2020-10-26 {{dfnn-YdXerg@436}} principle Beginner movements are repeated often because they need lots of practice
+2020-10-26 {{dfnn-YdXerg@755}} principle Lower squat and deadlift frequency than a novice program trades fast progress for patience, better overall development and avoiding plateaus
+2020-10-28 {{ZTdIkUSgBEs@1900}} opinion Anyone following a program centered on compound movements with discipline already has the potential to look better than a fraudulent guru
+2020-11-04 {{h-QiKaysok0@436}} prescription Start ring push-ups with feet on the floor and rings high, and ring rows with rings low enough to limit range
+2020-11-07 {{s8mGWwTGLOo@1220}} opinion 5x5 and 3x5 at least teach novices to do reps, regulate endurance and repeat form; 10x10 tends to break novices or become their religion
+2020-11-12 {{gWdAfpJIXbc@123}} opinion Novices should not write their own programs; their programs are almost always bad because experience in the gym can't be replaced by papers or videos
+2020-11-12 {{gWdAfpJIXbc@184}} opinion Novice programs that only spam compound lifts are powerlifting-centric and neglect important movement patterns and muscle groups
+2020-11-12 {{gWdAfpJIXbc@220}} principle The novice phase should be a phase of discovery with many movement patterns, so you aren't lost when an intermediate program brings more volume, variations and rep ranges
+2020-11-12 {{gWdAfpJIXbc@247}} principle [quads] Don't rush novice gains; you won't make linear gains for 10 years, so adding 200 lb to your squat in six months is pointless  {"load": "200 lb", "weeks": "6 months"}
+2020-11-12 {{gWdAfpJIXbc@311}} data Almost everyone looks completely different after 6-12 months of training because muscles react strongly to the first stimulus  {"weeks": "6-12 months"}
+2020-11-12 {{gWdAfpJIXbc@385}} opinion NH defines the end of the novice phase as the moment you want to write your own program and stray from novice templates
+2020-11-12 {{gWdAfpJIXbc@497}} principle Staying a novice for one or two years, twice as long as most, doesn't matter; what matters is staying in the game  {"weeks": "1-2 years"}
+2020-11-21 {{D3mJh0ZA5nc@402}} opinion Don't judge whether you're past the novice phase from strength numbers
+2020-11-23 {{m1fD0HP6sIg@754}} principle Don't fixate on how much muscle a novice or intermediate should gain in a year; just train consistently, because by progressing you will build a good body
+2020-11-30 {{sK78-yohV1s@350}} principle Novices lack robust mobility simply because they never practiced; everyone can squat to depth and hip hinge, it's innate
+2020-11-30 {{sK78-yohV1s@774}} prescription [quads] Novices should squat without a box even if they can't hit depth, so they learn to squat unsupported
+2020-11-30 {{sK78-yohV1s@785}} prescription [hamstrings] He likes beginners to start deadlifting in a rack to learn the hip hinge
+2020-11-30 {{sK78-yohV1s@1170}} opinion He likes novices doing variations because they let them reach deeper ranges in most lifts
+2020-12-02 {{xCzoFKSPkIc@1067}} opinion Kids saying they have bad genetics after under two years of training can't know  {"weeks": "<2 years"}
+2020-12-07 {{ZScs2L9rero@1530}} prescription [full_body] A novice doing jiu-jitsu five times a week should not do Bulgarian-style training; two to three compound-focused sessions a week plus grip, core, neck and bridging work suits him better  {"frequency": "2-3x/wk"}
+2020-12-07 {{ZScs2L9rero@1610}} opinion A 19-year-old three months into lifting should not be getting injured; injured novices testify to how bad popular novice programs are
+2020-12-07 {{ZScs2L9rero@1600}} opinion His own novice program is deliberately lower impact so beginners have room to adapt it to their own goals
+2020-12-07 {{ZScs2L9rero@1890}} opinion Most so-called novice programs are actually powerlifting programs with an agenda; Body by Rings similarly grooms you into a rings specialist
+2020-12-07 {{ZScs2L9rero@1930}} prescription A teen whose calling is bodybuilding should pick an open program mixing weights and calisthenics; heavy specialization makes later transitions a hassle
+2020-12-14 {{DQo0DGn_wI4@170}} opinion The program suits intermediates and novices if one or two sets are removed; advanced lifters should write their own programs
+2020-12-14 {{DQo0DGn_wI4@520}} opinion Novices follow programs to the letter and struggle to recognize pain as an injury in the making, which is dangerous
+2020-12-14 {{DQo0DGn_wI4@700}} opinion Novice programs with squats, rows, deadlifts and bench in one day are way too much work for beginners
+2020-12-14 {{DQo0DGn_wI4@890}} prescription [shoulders] Novices should drop military press on day two or incline press on day one, since that much pressing overloads the shoulders
+2020-12-14 {{WyxeMHovPJ8@170}} prescription [full_body] Skinny young men should focus on resistance training, especially compound exercises, which put the most muscle on the frame
+2020-12-14 {{WyxeMHovPJ8@520}} principle Build a body that can eventually handle monstrous sessions; never start with them, and match the regimen to the body's demands
+2020-12-14 {{WyxeMHovPJ8@1030}} prescription Start with about 40-minute sessions and increase density gradually, adding 10 minutes here and there as the body demands more work  {"duration": "40 min"}
+2020-12-16 {{so6MbvvtM1w@264}} opinion Novice programs that push rapid weight gain produce strength carried by bloat, not just muscle
+2020-12-17 {{twgzqTg4nug@631}} prescription Novices should apply evolving ranges only to strength work at first, keep variations static, then gradually spread evolving ranges
+2020-12-17 {{twgzqTg4nug@631}} opinion Teaching evolving ranges early makes them second nature; switching late is a culture shock, so go slowly
+2020-12-20 {{YDTUYiKFcFo@0}} prescription [back] Beginners should not use a support when rowing; they must first learn to stabilise with the lower back and hamstrings
+2020-12-23 {{TMAJzmrQVvc@506}} opinion Beginners who fear the gym because people will mock them are wrong: people don't even notice you, which should be a relief
+2020-12-24 {{4xgx3q5a1DQ@330}} principle For a skinny young man transformation takes years, not weeks or months  {"years": "several"}
+2021-01-09 {{UprNxHue9d0@187}} prescription Sessions get longer as you advance; a novice training two hours is doing junk volume and can get by with 40-minute sessions  {"session_length": "40 min"}
+2021-01-13 {{U2WB_cYv2po@186}} prescription An average trainee who is neither very overweight nor very skinny can start maingaining from day one with a tiny surplus or maintenance
+2021-01-19 {{-anA4CV2SVU@567}} prescription [lats] Negative pull-ups can go first in the workout before squats or deadlifts since they take nothing from those lifts; use straps if grip is an issue  {"sets": 3, "reps": "5-8"}
+2021-01-22 {{G7rVTseabFU@660}} opinion Full body is often recommended to novices but needs a lot of programming knowledge; novices cannot make all the pieces fit
+2021-01-22 {{G7rVTseabFU@700}} opinion Novices should avoid a long 3-day full body because they lack the work capacity for two-hour sessions  {"frequency": "3x/wk"}
+2021-01-22 {{G7rVTseabFU@720}} prescription [full_body] For novices he prefers full body every day, with one heavy compound per day (bench, squat or deadlift), plus an arms day and an abs/GPP day, and the rest hit lightly  {"frequency": "daily"}
+2021-01-22 {{G7rVTseabFU@790}} prescription Novices should work shy of their maximum recoverable volume; they progress without pushing hard
+2021-01-22 {{G7rVTseabFU@800}} prescription A 3-day novice full body can work if each day has one main compound and the rest of the body is hit sparingly  {"frequency": "3x/wk"}
+2021-01-25 {{pey1Ni6HPlY@280}} opinion He would never prescribe that much isolation to a novice; novices should focus on compounds and shorter sessions
+2021-01-27 {{bTin_tBGoVo@0}} opinion [quads] Box squats are often given to novices as an easier intro to knee flexion; he believes that is wrong and they should not replace squats for novices or others
+2021-01-27 {{bTin_tBGoVo@361}} prescription [quads] A box does not fix mobility because it stops you at the same depth every time; better to squat high and go deeper over months with submaximal weight, e.g. paused squats
+2021-01-27 {{bTin_tBGoVo@410}} principle [quads] Novices who box squat for months and then free squat usually cannot reach parallel and are weak
+2021-02-04 {{rlWIogS2Qho@0}} principle Write your program while still running your novice program; a year can pass between drafting it and starting it
+2021-02-04 {{rlWIogS2Qho@340}} prescription Model the new program on the novice program you are running and match its tonnage, so volume and intensity do not jump
+2021-02-04 {{rlWIogS2Qho@360}} principle Many people crash going from novice to intermediate because their new program adds far too much volume
+2021-02-04 {{rlWIogS2Qho@420}} prescription Copy your novice rep ranges, and stay minimalist with a healthy dose of reductionism; avoid a laundry list of exercises
+2021-02-04 {{rlWIogS2Qho@480}} prescription A first draft will look terrible; refine it occasionally while still running the novice program, without obsessing or getting greedy
+2021-02-04 {{rlWIogS2Qho@540}} opinion You stop being a novice when you want to jump on your own program and explore
+2021-02-04 {{rlWIogS2Qho@560}} opinion Switching to your own program will not cost gains because it mimics the novice program; even if it did, the programming skill is worth more over a 10-year career  {"years": 10}
+2021-02-06 {{AeIKc3A2FiY@63}} opinion He considers real training to begin once you have learned the technical ability to perform the big lifts
+2021-02-06 {{AeIKc3A2FiY@250}} principle Novices adding 10 lb a week are mostly gaining neurological adaptation, not muscle  {"load": "10 lb/wk"}
+2021-02-17 {{U1zVxzMVM2E@213}} principle Novices gain strength on almost any program, so a coach claiming credit for a beginner's noob gains is misleading
+2021-02-17 {{tLvshnh6vZA@330}} principle Many would-be bodybuilders do nothing because they cannot get the perfect workout; between nothing and three push-ups, the correct choice is 30 push-ups, which lead to more  {"reps": 30}
+2021-02-21 {{K1GVimJowoM@70}} principle [biceps] For novices anything grows the arms, even curling a chair, so a strategy working for a novice does not make it good
+2021-02-21 {{K1GVimJowoM@140}} prescription [biceps] NH recommends novices start isolation right away, even just 3 sets of curls a week, to get used to the movement  {"sets": "3/wk"}
+2021-02-21 {{K1GVimJowoM@590}} prescription Novices belong in step one, late novices and intermediates in step two, and late-intermediate to advanced lifters in step three; a novice arm day is a waste
+2021-02-27 {{QL9Dh9CGOBQ@140}} prescription When starting to train a body part, begin with about 3 sets per week and move up to 4, 5, 6 only when needed  {"sets": "3/wk"}
+2021-02-27 {{QL9Dh9CGOBQ@160}} principle Doing too much early leads to burnout, no results and a poor relationship with set selection
+2021-03-01 {{kkbfHkyQ_q0@740}} principle Beginner burnout is usually over-stimulation, not overtraining: doing two-hour workouts you aren't prepared for  {"minutes": 120}
+2021-03-01 {{kkbfHkyQ_q0@760}} prescription Beginners should start with about 25-minute sessions three times a week and ramp up gradually  {"minutes": 25, "frequency": "3x/wk"}
+2021-03-03 {{McAet6dp70U@503}} principle Being skinnier at 17 is normal; you'll grow with time  {"age": 17}
+2021-03-08 {{pvpf7Yuayco@668}} prescription A 14-year-old lifting four days a week plus boxing is doing too much; do 2-3 full-body sessions instead  {"age": 14, "frequency": "2-3x/wk"}
+2021-03-08 {{pvpf7Yuayco@770}} prescription Teens 14-17 should prioritize proper form, work capacity and a good relationship with training over muscle gains  {"age": "14-17"}
+2021-03-11 {{S0qBQppUtTQ@0}} principle Novice programs matter because they are lifters' first exposure to structured programming and discipline
+2021-03-11 {{S0qBQppUtTQ@160}} prescription Novices should come in, do two to three movements and go home rather than spend two hours in the gym
+2021-03-11 {{S0qBQppUtTQ@254}} opinion Roughly 90% of YouTube fitness viewers are novices, with high turnover; some people stay novices for five years by quitting and restarting  {"years": 5}
+2021-03-11 {{S0qBQppUtTQ@442}} principle Because everything works for novices, we should choose what novices do based on long-term criteria, not results alone
+2021-03-11 {{S0qBQppUtTQ@610}} opinion Going from a 60 lb to a 200 lb squat in the first year is a given, not an accomplishment  {"load": "60-200 lb"}
+2021-03-11 {{S0qBQppUtTQ@660}} principle Noob gains are not a window that closes in hours; they represent a certain amount of development, and you can ride them for years
+2021-03-11 {{S0qBQppUtTQ@1006}} principle If you train 20 years you'll be a novice about six months; stretching it to a year costs nothing and builds good habits  {"years": 20, "months": "6-12"}
+2021-03-11 {{S0qBQppUtTQ@1040}} opinion Size and strength standards (e.g. full-plate deadlift) are worthless and promote rushing with bad form
+2021-03-11 {{S0qBQppUtTQ@1130}} opinion Enjoy the novice stage like childhood; you'll be intermediate soon enough
+2021-03-11 {{S0qBQppUtTQ@1490}} prescription Give novices just enough to keep them interested and hungry to come back
+2021-03-11 {{S0qBQppUtTQ@1540}} opinion Deadlifting once a week makes novices excited to return for a PR and less likely to skip  {"frequency": "1x/wk"}
+2021-03-11 {{S0qBQppUtTQ@1700}} prescription NH programs novices 'building-centric': more movement patterns like curls, delaying bench plateaus by months while gaining more total volume
+2021-03-11 {{S0qBQppUtTQ@1990}} opinion Most novices never reach intermediate because of injuries, plateaus and boredom, not just personal failings
+2021-03-13 {{8mGHG5C-EPE@91}} principle Novice programs should leave a bit of room for autoregulation so trainees can experiment and make their first mistakes; it builds the ability to program for yourself later
+2021-03-13 {{8mGHG5C-EPE@123}} opinion A fully idiot-proof program leaves less room for mistakes but also less room for creativity and learning to program
+2021-03-13 {{8mGHG5C-EPE@312}} opinion [quads] A 32-rep goal on the squat demands stamina and form maintenance that many novices lack  {"reps": "32 total", "sets": 4}
+2021-03-13 {{8mGHG5C-EPE@1253}} principle Minimalism works for novices and intermediates; don't do every isolation movement, but don't neglect muscle groups either
+2021-03-15 {{_L5wLHlFfI0@317}} principle Full body three times a week is a great frequency for novices  {"frequency": "3x/wk"}
+2021-03-15 {{_L5wLHlFfI0@423}} prescription [lats] Novices who can't do 6-10 pull-ups should just do what they can  {"sets": "3-4", "reps": "6-10"}
+2021-03-15 {{_L5wLHlFfI0@503}} opinion Novices lack the mental stamina to stay in the gym for long sessions
+2021-03-15 {{_L5wLHlFfI0@627}} prescription [back] 3-4 sets of 6-10 deadlifts is too much daily and weekly volume for novices; 1x5, 3x3 or 3x5 is enough  {"sets": "1-3", "reps": "3-5"}
+2021-03-24 {{EFhzEtjSG6s@887}} principle Anger at someone's mistakes teaches them not to try again; correct them patiently with evidence
+2021-03-24 {{EFhzEtjSG6s@1013}} opinion On the channel he gives keys but doesn't open doors; people must work things out themselves
+2021-03-24 {{EFhzEtjSG6s@1013}} prescription Remember where you came from and welcome newcomers to lifting with open arms
+2021-03-26 {{o05wgvQtSMc@66}} principle Mistakes from modifying a program can't be catastrophic; a bad change punishes you quickly and gets corrected
+2021-03-26 {{o05wgvQtSMc@66}} principle Modifying a program is learning to program; base your first program on the novice program you run
+2021-03-26 {{o05wgvQtSMc@129}} prescription If the base program is very bad, start from scratch rather than fixing it
+2021-04-24 {{K6R91uSnsPY@1454}} opinion As you learn more you will need his videos less; reaching the point where you know what he will say is a moment of pride
+2021-04-28 {{j1bS37-7AHA@2936}} opinion Most YouTube viewers are under 20 and lack a formed identity, so a creator can replace their core; novices likewise cannot judge whether information is good
+2021-04-28 {{j1bS37-7AHA@3137}} prescription Do not trust him, trust yourself; if you cannot evaluate what a YouTuber says, step away and build your own knowledge base before returning
+2021-05-02 {{vVlpg3202Uw@3134}} principle A grossly overweight novice will lose weight on almost any diet and exercise, so his transformation does not prove a coach's program
+2021-05-02 {{vVlpg3202Uw@3504}} opinion In his opinion a program should be made by you yourself
+2021-05-13 {{8nUneZclRp0@996}} prescription Novices should not neglect any body part; even three sets a week adds up over years  {"sets": "3/wk"}
+2021-05-19 {{MP01uQbcoLc@619}} prescription [quads] His novice program squats twice a week, once regular and once paused; the paused squat is his exception to 'no variations for novices' because it is the safest squat and exposes technique errors  {"frequency": "2x/wk"}
+2021-05-20 {{8A7hSygtWfM@125}} opinion First self-written programs are almost always too greedy: too many exercises, sets, reps and too much frequency
+2021-05-29 {{HH7kCVkRyJc@0}} opinion GreySkull is a powerlifting-style novice program built as an improvement on Starting Strength, but it stays close to its parent
+2021-05-29 {{HH7kCVkRyJc@62}} principle A program stands on its own; you judge it by its variables, not by its author
+2021-05-29 {{HH7kCVkRyJc@748}} prescription Run it for 3-6 months with the fixes, then use it as a skeleton to write your own program  {"months": "3-6"}
+2021-05-29 {{HH7kCVkRyJc@811}} principle Novices make gains on almost any program
+2021-06-02 {{HrUPp573ki0@645}} principle Novices should learn to move their own body first; proprioception has to be built from the base
+2021-06-02 {{HrUPp573ki0@709}} principle Starting with calisthenics gives easy, fun gains, carries over to barbell lifts and helps prevent injury
+2021-06-02 {{HrUPp573ki0@1890}} principle Novices can recover from daily full-body calisthenics because they cannot dig deep enough to do much damage
+2021-06-05 {{7n8RMhsxEB4@125}} opinion Novices can use variations too instead of repeating the identical lift three times a week, as long as they stay very close in specificity; advanced lifters can be more exotic
+2021-06-05 {{7n8RMhsxEB4@943}} prescription Master variations before using rotations, and don't build a complex program six months in  {"months": 6}
+2021-06-20 {{Mq2TaHm_ySI@1835}} opinion The program is extremely good and suits intermediates; for novices the volume and rotating variations are too much
+2021-06-23 {{w4-2c3iWvDQ@2818}} opinion Novices get to be minimalist, but Starting Strength is minimalist to a fault: novices need to train every muscle group with isolation work too
+2021-06-26 {{ZkQZPnTVKpg@189}} opinion [quads] Squat 3x5 is fine for novices; they do not need evolving rep ranges  {"sets": 3, "reps": 5}
+2021-06-26 {{ZkQZPnTVKpg@251}} opinion A program of only compound lifts smells of Starting Strength and powerlifting, which is wrong for a hypertrophy goal
+2021-06-26 {{ZkQZPnTVKpg@315}} prescription [back] Including pull-ups beats most novice programs; 3 sets to failure suits novices who cannot do many reps  {"sets": 3, "reps": "AMRAP"}
+2021-06-26 {{ZkQZPnTVKpg@439}} prescription [quads] Do not repeat 3x5 squats every session: vary the range (3x8, 3x10) or use variations like pause squats, lunges or anything you will stick to; people told to squat 3x a week often quit after two months
+2021-06-26 {{ZkQZPnTVKpg@750}} prescription Back hyperextensions 3-4x12 teach novices to pull with their legs and build the lower back; for advanced lifters they waste tonnage  {"sets": "3-4", "reps": 12}
+2021-07-02 {{5Nhv3cgzrAg@126}} opinion Pro bodybuilders can serve as inspiration for beginners; the problem starts when you get emotionally attached to them
+2021-07-08 {{4mW1c9W4QRk@189}} opinion For many novices, travel time equals training time, which helps explain why so many quit
+2021-07-14 {{8ELQ2XZgpls@638}} opinion Novices do not need to be scientific geniuses to put on muscle
+2021-07-14 {{8ELQ2XZgpls@684}} prescription Calisthenics are ideal for weak beginners or those without a gym: push-ups, sit-ups, assisted pull-ups
+2021-07-14 {{8ELQ2XZgpls@752}} principle Novice syndrome: progressing too fast leads to burnout and quitting; being mildly intense for a year beats being super intense for six months
+2021-07-20 {{-U6X37OXuLA@629}} opinion The bodyweight template suits light individuals; it can be frustrating for heavier people
+2021-07-21 {{GH8tqzGTgH8@4470}} opinion The anti-form reaction, typified by Bubble Brigade fanboys, is just as dogmatic; novices need structure, and that advice suits intermediates
+2021-08-05 {{lG5SZbRdOjA@1575}} prescription Use trap bar as an entry point for sedentary beginners: progress from high handles to low handles to conventional
+2021-08-07 {{aIjUTEtXOcM@252}} anecdote He began with knee push-ups and quarter-range crunches; 5-10 minute workouts left him cramping and needing 2-3 days to recover  {"duration": "5-10 min"}
+2021-08-07 {{aIjUTEtXOcM@314}} principle For a very weak beginner, five minutes of knee push-ups can be the optimal workout; optimal is relative to what you can do
+2021-08-07 {{aIjUTEtXOcM@689}} prescription Don't wait for perfect conditions to start; start with whatever you can, like knee push-ups
+2021-08-07 {{aIjUTEtXOcM@752}} opinion Novices need freedom in their first years; his novice program is deliberately open-handed
+2021-08-07 {{ulwUVDK7RUk@125}} opinion Easy novice linear progression spoils lifters; most quit when progress stops
+2021-08-07 {{ulwUVDK7RUk@314}} prescription Novices should use evolving references early to build habits for linear periodization
+2021-08-12 {{9mnLRQsrs9k@152}} opinion About 90% of people who start lifting quit because of novice syndrome  {"percent": "90%"}
+2021-08-12 {{9mnLRQsrs9k@207}} principle Novice syndrome is mostly mental, not physical; it's you giving up, whatever excuse you give
+2021-08-12 {{9mnLRQsrs9k@294}} opinion He defines novice simply as someone starting out, not by bench or squat numbers
+2021-08-12 {{9mnLRQsrs9k@758}} principle The novice period is the easiest and most rewarding phase yet loses the most people
+2021-08-12 {{9mnLRQsrs9k@916}} prescription The novice period is like childhood: preserve it, prolong it and don't rush to become intermediate
+2021-08-12 {{9mnLRQsrs9k@1083}} prescription Being a novice for 1.5-2 years is fine since you'll lift 20 more years  {"years": "1.5-2"}
+2021-08-12 {{9mnLRQsrs9k@1083}} prescription Spend less time watching fitness YouTube and more time training and experimenting
+2021-08-12 {{9mnLRQsrs9k@1651}} principle Copying someone's methods won't give you his body; you're not him and don't understand why they work
+2021-08-12 {{9mnLRQsrs9k@1691}} prescription Novices should start with a written program; it's a record of consistent input
+2021-08-12 {{9mnLRQsrs9k@1725}} opinion Many novice programs are too hard and act as filters that only outliers survive, like Eastern Bloc weightlifting
+2021-08-12 {{9mnLRQsrs9k@2514}} opinion 'Anything works for novices' should free time to build judgment and experience, not justify random programs
+2021-08-12 {{9mnLRQsrs9k@2636}} principle If a program breaks you so you can't train a full week, it's a bad program for you
+2021-08-12 {{9mnLRQsrs9k@2774}} prescription Of volume, intensity and frequency, novices should focus on frequency: start at 2x/week, go to 3x, then add sets rather than weight  {"frequency": "2-3x/wk"}
+2021-08-12 {{9mnLRQsrs9k@2885}} prescription Don't risk injury for a PR; repeat a hard weight before adding more
+2021-08-12 {{9mnLRQsrs9k@3024}} principle Understand everything you do in training; anything you don't understand is wasted time
+2021-08-12 {{9mnLRQsrs9k@3440}} prescription Don't keep quitting and restarting as a 'repeat novice'
+2021-08-12 {{9mnLRQsrs9k@3576}} principle Novice syndrome feeds on inactivity and overdoing it; the novice's job is to stay on the raft
+2021-08-27 {{Q5y4wM8zcWY@126}} opinion Novice 'big five' programs (bench, squat, deadlift, overhead press, row) skip small muscles like wrists, calves and neck, claiming compounds cover them
+2021-08-27 {{Q5y4wM8zcWY@252}} opinion The idea that compounds cover small muscles is false: novices end up two years in with big quads, glutes and chest and toothpick arms  {"years": 2}
+2021-08-27 {{Q5y4wM8zcWY@631}} prescription [back] Novices should not barbell row, and most intermediates should stay away from it too
+2021-08-27 {{Q5y4wM8zcWY@1260}} prescription [lats] Prioritize pull-ups over rows for novices; they build the back and keep bodyweight in check relative to strength
+2021-08-27 {{Q5y4wM8zcWY@1764}} anecdote [back] His novice program uses cable rows (dumbbell rows are a valid swap) so novices learn to use the lower back on deadlifts before it has to bridge a row
+2021-09-05 {{P89o8FBSWDI@2993}} prescription After about six months start building your own programs instead of depending on others, but you can stay a novice for strength up to two years and should not hop between programs  {"months": 6, "years": 2}
+2021-09-15 {{PYICG0hBlVo@1263}} principle The 'Arnold effect' (credited to Zack Telander) is when beginners set absurdly advanced goals with deadlines, get demotivated within weeks and quit
+2021-09-17 {{XncJr9uMpWo@394}} prescription Start with bi-sets of two exercises; add more bi-sets through the day and week before moving to tri-sets
+2021-09-17 {{XncJr9uMpWo@409}} prescription Novices can handle 1-2 bi-sets per day of 3 sets each, roughly 12 total sets  {"sets": "12"}
+2021-09-17 {{XncJr9uMpWo@1013}} prescription Novices and intermediates should avoid heavy giant sets; giant sets of small muscles (abs, neck, calves, forearms, calisthenics) are fine even for beginners
+2021-09-30 {{C4CnYbHCCGo@756}} prescription [lats] Beginners should pick one or two grips, pronated and chin-ups for most, then expand
+2021-10-10 {{OWbmOI3cuNs@1484}} principle Beginners will find this kind of giant set too hard on the cardiovascular system
+2021-10-20 {{f-XiVNy25tw@2820}} prescription [abs] Beginners should start small, maybe only bracing for three months, then add stretch exercises; don't rush, you won't have a six-pack in four months  {"months": 3}
+2021-10-21 {{UgwdhOH1Hk0TF_H4VlZ4AaABCQ@0}} prescription Novices should stop wasting money on supplements and start training hard instead
+2021-10-21 {{UgyIWsS9neo7YRb8-fN4AaABCQ@0}} opinion Fear of accidentally getting 'too big' is laughable for a natural beginner (low-confidence)
+2021-10-23 {{jAnfGqpsK38@745}} prescription [lats] If you can't yet do weighted chin-ups you should probably run a novice program first, unless you are a heavier individual
+2021-10-28 {{X8WMlqP6M78@650}} prescription Static rep ranges are a stepping stone for completely clueless lifters; convert a 3x3 into a 3x3-5 and it takes about two weeks to figure out  {"weeks": 2}
+2021-11-07 {{45S8RV2nyKE@564}} prescription [full_body] Elderly, disabled or amputee people should keep training: an amputee can still build the upper body and the other leg with unilateral work; strength training especially benefits people with cerebral palsy and nervous disorders
+2021-11-07 {{45S8RV2nyKE@1228}} opinion Exercise, not diet, is the most important pillar for healthy living; he rejects the '80% diet' idea except for certain disorders
+2021-12-08 {{PSFqnl_EvSc@394}} opinion Most people's best gains come from a program; without base knowledge, people instinctively do random things
+2021-12-10 {{qcRCMVABEQM@189}} anecdote Reeves started lifting after losing an arm-wrestling match to a smaller boy who lifted weights
+2021-12-10 {{qcRCMVABEQM@228}} opinion As a teen Reeves had good lat and core development but skinny arms, shoulders and legs, which is normal for teenagers
+2021-12-18 {{bqcRtC3bbK8@152}} prescription [full_body] The program is too fatiguing for untrained muscles; first spend at least two years on a novice program like his Adam or Baki programs  {"years": 2}
+2022-01-01 {{Bg7jQfbI1w8@380}} prescription Beginners should lower intensity and training volume at first so the habit lasts
+2022-01-01 {{Bg7jQfbI1w8@508}} prescription Set a real purpose, even a modest one like 20 push-ups, then move on to the next goal  {"reps": 20}
+2022-01-05 {{O5xVdqgt8Uo@1660}} opinion Novices are drawn to machines because they feel guided and safe, but those who never move beyond them stay small for years; this is especially common in France
+2022-01-05 {{O5xVdqgt8Uo@1943}} prescription Novices should start with free-weight compounds to learn to move their body through space; machines, cables and the Smith are tools for advanced lifters who understand hypertrophy
+2022-01-17 {{9y2s6kyFkPc@2885}} prescription Beginners without direction should study the channel and good educators but mainly train consistently, recover and progress
+2022-01-26 {{he2KJeMcoAI@378}} principle Women need muscle mass to stay healthy and mobile just as much as men
+2022-01-26 {{he2KJeMcoAI@630}} principle Almost everything works for a novice; only as you advance do you need a more specific approach
+2022-01-26 {{he2KJeMcoAI@630}} principle The people most confused by contradictory advice are those who never actually lift; training yourself builds critical thinking about principles
+2022-01-26 {{he2KJeMcoAI@819}} principle Lifting is simple, especially at the start; you don't need a PhD, and only about 10% of the value is knowledge while 90% is applying it  {"knowledge": "10%", "application": "90%"}
+2022-01-26 {{he2KJeMcoAI@1892}} principle Beginners stay hooked through results, like getting paid for work; later you train for mental stability and habit
+2022-02-04 {{0UJ1W5yogoQ@1834}} prescription Faith in your body does not need to be blind: lift for two months and you will grow, and that proof builds the faith  {"weeks": 8}
+2022-02-10 {{GNJkAcgUJ_0@936}} opinion Starting Strength reached cult status because huge numbers of people got their first gains from it
+2022-02-18 {{BJXFeQWGUuY@1890}} principle Novice programs should be minimalistic enough that deloads are unnecessary; a novice who needs a deload is doing too much
+2022-02-24 {{dVssxcEh1UQ@679}} opinion [back] Most viewers are novices to intermediates and don't need surgical precision: just hit the back and stop doing so many rows
+2022-02-24 {{dVssxcEh1UQ@2275}} prescription [back] Novices should start with one leg-involved back compound plus 1-2 legless compounds and 1-2 isolations per week, then expand  {"frequency": "1 + 1-2 + 1-2 per wk"}
+2022-03-06 {{PuIp9cGKMHo@2268}} prescription Novices should not deload; they need to learn fatigue management
+2022-03-16 {{YIIWlqhoNA0@817}} principle He considers someone intermediate once they can overload by means other than adding weight
+2022-03-16 {{YIIWlqhoNA0@817}} principle Intermediates struggle because volume becomes an overload variable when intensity used to be the only one
+2022-03-16 {{YIIWlqhoNA0@1452}} prescription He has novices manipulate volume, reps and sets, not just weight, so they learn other overload methods before load-only progress fails
+2022-03-24 {{LNggSj0WBd8@3031}} prescription NO is not for beginners, who have nothing but weak points and should focus on hard sets; it is for late novices onward, and a late novice should do it for only one muscle
+2022-03-26 {{Jdv6dG_Stzw@679}} principle Beginners need floaters, like learning to swim; get around weak willpower first, which will strengthen it over time
+2022-03-26 {{Jdv6dG_Stzw@1653}} prescription Tactic 3, remove barriers: meal prep, follow any novice program (having structure matters more than which one at first) and plan location and transport ahead
+2022-03-26 {{Jdv6dG_Stzw@1972}} opinion About 90% of people quit before the love of lifting kicks in  {"quit rate": "90%"}
+2022-03-26 {{Jdv6dG_Stzw@2010}} prescription Novices going too hard is the top reason they crash and burn; his novice program is 3 days a week with easy rep ranges and no non-stop overload  {"frequency": "3x/wk"}
+2022-03-26 {{Jdv6dG_Stzw@2169}} prescription Start with a broad goal like strength and size and specialise later; novice programs should not force a style on people
+2022-03-30 {{IYobXlRVLd0@309}} prescription The program needs high work capacity and recovery; novices and many early intermediates cannot run it and should pick another program
+2022-04-03 {{umQZm2ALxl8@3049}} principle Anything works for novices, so a channel working for noobs proves little; for intermediates bad advice can cause regression
+2022-04-12 {{GowuEmDClqY@4028}} principle For novices, intensity-first methods like daily Bulgarian-style maxes get results; optimisation only works for people already sold on training
+2022-04-14 {{LxGdGChvk2c@821}} opinion Lifting proficiency labels (beginner to elite) are defined solely by strength numbers; they would be useful only if based on work capacity, volume tolerance, frequency and recovery ability
+2022-04-14 {{LxGdGChvk2c@946}} opinion Whether you can do an 'intermediate program' should not depend on a bench number; his programs expect experience and work capacity, not a strength threshold
+2022-04-14 {{LxGdGChvk2c@3449}} opinion Newbie gains are poison for the brain: the rapid gratification makes people crash and quit when progress inevitably slows
+2022-04-14 {{LxGdGChvk2c@3951}} opinion The stigma of being a 'noob' makes people rush the newbie phase: bad form, no technique, too much weight gained, and they never build a base
+2022-04-14 {{LxGdGChvk2c@4141}} opinion Most lifters who don't quit early quit on reaching 'intermediate', because they rushed to get there, expected magic and changed nothing
+2022-04-14 {{LxGdGChvk2c@4079}} principle He defines an intermediate as someone who starts programming for themselves
+2022-05-12 {{k9_dDbGLFZQ@747}} prescription Beginners can start with one chest movement, one vertical press and one biceps movement, then progressively add exercises
+2022-05-19 {{SPicD3F686s@815}} opinion This is a late novice to early intermediate program; Farnese Hercules is late intermediate to early advanced
+2022-05-22 {{kKX0AUrXzIw@440}} principle Before building a body a lifter must build the mind; better to start with a non-optimal routine that builds fortitude
+2022-05-22 {{kKX0AUrXzIw@2073}} prescription Novices should do the bare minimum; the worst mistake is too big an aspiration in how much you put in, which is why his novice program is minimal
+2022-06-12 {{uYRIWAKlA0c@0}} principle A bodybuilding program with a fixed timeline (here 8 weeks) is a red flag; a novice program should run until progress stalls  {"weeks": 8}
+2022-06-12 {{uYRIWAKlA0c@127}} principle Making beginners live a pro bodybuilder's draconian lifestyle makes them burn out before seeing results
+2022-06-12 {{uYRIWAKlA0c@816}} prescription Novices should train 45 minutes to an hour at most, not 2.5-3 hours  {"duration": "45-60 min"}
+2022-06-12 {{uYRIWAKlA0c@939}} prescription Drop sets on the first exercise make no sense for novices; use standard straight sets and get fancy only once the basics are down
+2022-06-12 {{uYRIWAKlA0c@1506}} principle Stay in the gym until muscular endurance or mental stamina runs out; most novices have little mental stamina
+2022-06-23 {{itnjfi6RYtY@1127}} principle Novices need rigid structure, but intermediates must embrace freedom; the more advanced, the stranger and more day-to-day flexible the program should be
+2022-06-28 {{CVHNXyR5yCY@124}} principle Women respond to training like men physiologically, but their goals differ, so telling them to just train like men is lazy
+2022-06-28 {{CVHNXyR5yCY@814}} principle Beginner women must avoid doing too much and burning out mentally; they should modify the program to their liking
+2022-07-22 {{iDua_rNsBO8@820}} prescription Overshooting sets is for experienced lifters; novices should get as much as possible from as few hard sets as possible with conservative weights and higher reps, as in his novice program
+2022-07-22 {{iDua_rNsBO8@882}} opinion Beginners and early intermediates doing 18-20 weekly sets have been brainwashed by bodybuilding channels; go back to hard sets with real weights and relevant rep ranges  {"sets": "18-20/wk"}
+2022-08-10 {{yoROLGGUPXU@400}} prescription [chest] Beginners who cannot bench comfortably through full range should train that range with an easier pressing mode first
+2022-08-18 {{o_x3Ij2GBXM@900}} opinion Three training days keeps frequency low for novices while volume stays higher than typical novice programs  {"frequency": "3x/wk"}
+2022-08-27 {{9WA6eQODjHQ@1256}} prescription Skinny young men with no body fat and inexperienced lifters should not recomp; they will gain more muscle by bulking
+2022-09-07 {{XAcv427WvMw@188}} prescription [quads] As a beginner, vary your main squat with paused squats to reinforce technique and add hypertrophy instead of exotic variations
+2022-09-11 {{B17sX2hT-5w@3057}} prescription Bald Omni Man gives skinny beginners the right basics: bulk, gain weight, stop guarding your six-pack, get stronger on compounds
+2022-09-13 {{nqzVqvMvQ1s@690}} anecdote He uses supersets in his novice program to build work capacity
+2022-09-13 {{nqzVqvMvQ1s@1445}} principle Beginners do not need giant sets beyond push-ups, abs and calves; the more advanced you get, the more essential they become
+2022-09-17 {{bPUrJ3CSqEA@693}} prescription [quads] Novices should avoid the Smith squat and learn proprioception under free weights; the Smith is for those who have mastered the compounds
+2022-09-19 {{QNxCVZro9jc@187}} prescription [forearms] If new to arm isolation, start with just the curl and triceps pair and add the forearm work later when you recover better
+2022-09-28 {{6HGBdDOAReA@191}} principle Early on, experimenting without optimal programming builds instinct, but too much winging it wastes time
+2022-10-02 {{CSwbuwl33eA@253}} prescription Beginners or those who never ran his programs should start with his novice, Baki or Tokita Ohma programs; his methods are hard on people with low work capacity and this one requires on-the-fly autoregulation
+2022-10-04 {{nmgidpn3DNM@822}} anecdote People who start on machines and cables because barbells intimidate them often never progress to free weights and stay small
+2022-10-08 {{vdEfTs-aMmM@1506}} principle It is never too late to start lifting, even at 80; using past inaction as an excuse is a reverse sunk-cost fallacy
+2022-10-11 {{BhOuuyriBDw@1321}} prescription [shoulders] Novice example: one vertical press (e.g. OHP 8-12) and one lateral raise (10-12), 3-4 sets each, once a week: 6-8 total sets is all a novice needs  {"sets": "6-8/wk", "frequency": "1x/wk"}
+2022-10-13 {{RwEJpHTwWm0@2014}} prescription [biceps] Standing dumbbell curls are excellent and the place every beginner should start
+2022-10-23 {{g-pqgciOSgE@254}} prescription This program is too much for novices; they should start with his Greek Statue program as a stepping stone
+2022-10-25 {{E1er3oQ3IeM@2138}} prescription Early on it is useful not to be too optimal: try new things and make mistakes to develop instinct
+2022-10-25 {{E1er3oQ3IeM@63}} prescription (Guest Stand Strength) Do not learn more than you can apply; pick something, stick with it, change one thing at a time
+2022-10-27 {{Zv9QAIb5nGk@443}} principle Minimalism benefits novices the most because they need the least work to grow; for an advanced lifter like him it would be shooting himself in the foot
+2022-10-27 {{Zv9QAIb5nGk@886}} principle Long, high-set programs burn beginners out; lacking work capacity, they sandbag to survive and produce junk volume
+2022-10-27 {{Zv9QAIb5nGk@947}} principle For a novice two hard sets can tire a muscle enough to grow, so three hours in the gym is wasted
+2022-10-27 {{Zv9QAIb5nGk@947}} prescription Novices should start around 45 minutes to an hour and lengthen sessions as they progress  {"session": "45-60 min"}
+2022-11-11 {{wB-ydKSfQ5k@191}} prescription A three-day push/pull/legs-arms program is enough for a novice to progress  {"frequency": "3x/wk"}
+2022-11-11 {{wB-ydKSfQ5k@2022}} opinion The number one beginner mistake is training too easy
+2022-11-27 {{Cbq-vxVba4k@1442}} opinion [back] 5x5 and StrongLifts-style programs do not give an aesthetic upper back; he would rather have spent his first year on calisthenics and pull-up bar work
+2022-12-07 {{eWP2m4lLq_0@1576}} principle First-time effect: the first program or guru you try feels like the best only because you have nothing to compare it to; gather more experience
+2022-12-21 {{0pKnDucWcDc@125}} opinion Six training days a week is very hard to justify for novices, who make up most of Eubank's audience  {"frequency": "6x/wk"}
+2022-12-24 {{cUkWvnY8AJI@3200}} opinion [chest] Smith machine press is excellent for advanced lifters but a bad starting point for beginners
+2022-12-24 {{cUkWvnY8AJI@3262}} prescription [chest] Wall push-ups provide almost no tension; beginners should do incline or knee push-ups
+2023-01-11 {{_P0-kYyVMn4@885}} prescription This is an intermediate program for people already adept at both free weights and calisthenics; novices should use his novice programs
+2023-01-23 {{HXoY7xzHlWU@125}} principle [biceps] The novice/intermediate/advanced stages refer to arm-isolation experience, not strength: a 600 lb deadlifter can be a novice at arm training
+2023-01-23 {{HXoY7xzHlWU@374}} opinion [biceps] Novice arms are spaghetti and respond to anything; 9 sets instead of 6 might give marginally more but risks exceeding poor recovery and work capacity  {"sets": "6 vs 9"}
+2023-02-02 {{clzLnKrm6Ao@758}} prescription [forearms] For novices forearm isolation is optional; most early forearm growth comes from gripping during pulls, and pulls for the upper back take priority
+2023-02-09 {{upmJaBt1WHk@317}} prescription The program is for intermediates; novices who run it will crash and burn
+2023-02-16 {{ABTeMrXdgI4@670}} opinion A real base is proficiency at push-ups and pull-ups, not a four-plate deadlift; his novice program has more push-ups than bench
+2023-02-25 {{K2h1QhDo4qU@790}} prescription [lats] Beginners at pullovers should start with one session of 3 sets a week and build shoulder mobility and range gradually  {"sets": 3, "frequency": "1x/wk"}
+2023-03-06 {{HOgwZO70z_M@125}} opinion Otter mode is realistic for almost anyone without drugs, which makes it a good first goal for beginners
+2023-04-30 {{9L90ktKGPLw@1510}} anecdote [glutes] Bridges are C tier but a good stepping stone if your spine is weak; as a kid he did them with plates stacked on his belly before moving to heavy lifts
+2023-05-21 {{mMA3KF3qmlQ@1758}} opinion Calisthenics gives perhaps the best base for later bodybuilding
+2023-06-12 {{Z-hGdKz28RY@251}} prescription Floating rest days are for advanced lifters; novices need fixed structure such as Mon/Wed/Fri
+2023-06-15 {{gpFdh0eBMGc@375}} principle Full body is the best split for novices: enough high-intensity stimulus and lots of recovery; novices lack physical and mental stamina for long sessions
+2023-06-15 {{gpFdh0eBMGc@375}} prescription Novice program: three full-body days (Mon/Wed/Fri) with 48 h between sessions, supersets throughout, two to three compounds per day and the rest isolation  {"frequency": "3x/wk", "sets": "3"}
+2023-06-15 {{gpFdh0eBMGc@686}} prescription Beginner version: same as novice but two sets per exercise and no variations, for those intimidated by volume  {"sets": "2"}
+2023-07-02 {{_IBSNO56zuE@374}} prescription [quads] Learn to squat normally with a barbell before heel-elevated squats; they need skill and proprioception
+2023-07-02 {{_IBSNO56zuE@437}} opinion [quads] Beginners should not learn to squat on the Smith machine: free-bar balance is the key skill and the Smith machine teaches the pattern wrong (D tier used that way)
+2023-07-02 {{_IBSNO56zuE@562}} opinion [quads] Bodyweight beginner squats (Hindu, bodyweight, wall sits) are only introductory, C tier, and quickly outgrown
+2023-07-02 {{_IBSNO56zuE@562}} opinion [quads] The goblet squat is how he learned to squat; it is good for beginners but becomes impractical around 120-130 lb dumbbells: B tier  {"load": "120-130 lb"}
+2023-07-29 {{1TKqwXCge9E@2086}} opinion 'Optimal' training just means adding complexity once nothing simpler works; novices should keep things minimal for as long as possible
+2023-08-06 {{ZDWFfYLYVNs@219}} principle Mistake three: anime workouts are too frequent and too high-volume; most anime fans are novices with little work capacity, and you can't rush recovery
+2023-08-06 {{ZDWFfYLYVNs@253}} principle A good program should be relevant to the target look, scalable to experience and fun
+2023-09-09 {{ZN5ohmPPfjM@254}} opinion Functional/bodyweight training is the ultimate entry routine for beginners: no gym or equipment needed, not intimidating, and no rep ranges, RIR or plate math to learn
+2023-09-09 {{ZN5ohmPPfjM@317}} opinion Plate math is a gatekeeper for novices in the gym
+2023-09-14 {{7uBT8vp0lNw@66}} prescription [back] Start at the step that matches your training level; complete novices begin at step 1
+2023-09-14 {{7uBT8vp0lNw@509}} principle Beginners can grow with almost no work; enjoy it and do not add more volume than needed
+2023-09-17 {{APzQFpqmR10@2653}} principle Women benefit greatly from weightlifting; supporting serious female lifters would also make gyms better
+2023-09-26 {{XK9KjVP-5Wo@63}} principle Beginners don't need perfect macros: a balanced diet with enough calories guarantees muscle gain
+2023-09-30 {{43F9unmSc_I@313}} principle He builds each day by instinct from a fixed exercise menu and slots to fill; he doesn't recommend this to novices or intermediates, whose instinct will betray them
+2023-09-30 {{43F9unmSc_I@377}} principle Flexibility is earned: beginners follow strict programs, advanced lifters earn freedom, like painters who master formal training before going freestyle
+2023-10-08 {{16fjHEtZTCA@0}} data Most lifters (about 80-90%) quit as novices, not intermediates; reaching intermediate means you survived the first filter (low-confidence)  {"quit_rate": "80-90%"}
+2023-10-08 {{16fjHEtZTCA@443}} opinion Newbie gains are a curse: getting a year of gains so fast spoils you and teaches no patience
+2023-11-13 {{SZEjCsuclx8@2913}} anecdote His novice programs let the lifter choose but skew toward bodybuilding, because there's no reason to waste years building a 'base'
+2023-11-20 {{DA7QvIAyptw@377}} prescription This program is for intermediate and advanced lifters with good work capacity, not beginners
+2023-11-20 {{DA7QvIAyptw@440}} prescription Novices wanting 3 days a week are better served by a full-body program than by running half of this PPL
+2023-12-18 {{yRRXCYcgzJs@699}} principle [shoulders] Shoulder transformations from spamming lateral raises are newbie gains; when untrained, any method works
+2023-12-30 {{Rc9jhSVGoxM@695}} prescription Newcomers should run one template for at least 6 months to a year before adding the second; alternating is something you earn  {"months": "6-12"}
+2024-01-14 {{jDk3LytTEjA@377}} opinion The younger you start lifting, the more mistakes you accumulate and the more knowledge you can share; starting at 15 beats starting at 20
+2024-01-14 {{jDk3LytTEjA@1764}} opinion Childhood sport (peewee football, lacrosse) builds body awareness that later accelerates muscle building
+2024-01-14 {{jDk3LytTEjA@2778}} prescription Beginners should get in the gym without overthinking; optimisation can come once you reach a certain level
+2024-01-26 {{vVQmYGw7Kj8@2331}} prescription Avoid paralysis by analysis: pick a program and technique and go; anything B to S tier works
+2024-01-26 {{vVQmYGw7Kj8@2392}} principle Most viewers are beginners who don't need optimisation; mistakes can be adjusted later
+2024-03-08 {{RPW-PxhYqrA@377}} opinion Fictional routines are written by authors with no resistance training experience, so following them gives disappointing results
+2024-03-08 {{RPW-PxhYqrA@565}} prescription For a complete beginner 100 push-ups a day is a lot, and running 10 km on day one is a bad idea; you should ease in  {"distance": "10 km"}
+2024-03-08 {{RPW-PxhYqrA@565}} principle Adherence is the number one principle of any good program; a program not built to help the trainee stick with it is bad
+2024-03-08 {{RPW-PxhYqrA@754}} anecdote Followers of the Solo Leveling routine report no change after two months  {"weeks": 8}
+2024-03-08 {{RPW-PxhYqrA@816}} prescription One upside: the routine gets sedentary anime fans off the couch; to actually progress start with a low-volume novice program like his free one
+2024-06-10 {{AZSZmhOJZJI@3611}} prescription Fear of being laughed at in the gym is a fragile ego; everyone at a high level looked foolish once, so pay that price early instead of staying mediocre
+2024-06-10 {{AZSZmhOJZJI@4871}} prescription It is never too late to start lifting at 23: in three years you will have three years of training behind you  {"age": 23, "years": 3}
+2024-09-03 {{JW73oft8Q60@1030}} prescription Novices and early intermediates should not train by template, because they end up winging it and building an unbalanced physique
+2024-09-07 {{bRKQIOYo2u4@2785}} prescription [full_body] Teen lifters: take your time, never ego-lift, use 6-10, 8-12 and 10-15 rep ranges with some 5s, and train every body part semi-frequently; by 18-19 you will have a huge advantage  {"reps": "5-15"}
+2024-09-07 {{bRKQIOYo2u4@4770}} prescription [shoulders] Novices should lean heavily on the Smith machine vertical press because it handles stabilization and the bar path so they can just push
+2024-09-07 {{bRKQIOYo2u4@5616}} prescription At 20 years old and 120 kg, avoid calisthenics (joints) and powerlifting (slippery slope to staying fat); pick a balanced general resistance program, not Starting Strength  {"load": "120 kg bodyweight"}
+2024-09-07 {{bRKQIOYo2u4@9903}} prescription Kids can start conservative training around 10 (goblet squats, pull-ups, push-ups) but should wait until 15-16 for heavy squats and deadlifts
+2024-09-07 {{bRKQIOYo2u4@11858}} prescription He does not recommend the Guts program to a returning lifter
+2024-09-14 {{okm6bZHKHI4@1471}} opinion [full_body] StrongLifts 5x5 builds mass and strength in beginners but is imbalanced and lacks isolation; old programs like it should be dropped for free programs by natural bodybuilders on Boostcamp  {"sets": 5, "reps": 5}
+2024-09-14 {{okm6bZHKHI4@4630}} prescription [forearms] Novices should isolate their forearms from day one so they never become an intermediate with stick forearms
+2024-09-14 {{okm6bZHKHI4@6380}} anecdote It is normal not to look like you lift after one year; it took him 3-4 years
+2024-09-14 {{okm6bZHKHI4@13092}} prescription Novices do not need five sessions a week, grip variations on rows, or 4 sets of 6-12 deadlifts; they overdo compounds  {"frequency": "5x/wk"}
+2024-09-21 {{lyj1BFZ85Dg@4235}} prescription For women to be taken seriously in the gym: dress to train, train hard, politely shut down approaches, and pick a hardcore gym where people come to train
+2024-09-28 {{jmOPC_ozpwc@8708}} opinion Being small at 20 is normal; teens who look like Ronnie Coleman at 17 are the abnormal ones
+2024-10-19 {{c7hl9u3h_s0@1015}} anecdote [hamstrings] Dumbbell deadlifts teach novices to use their legs; after ~2 years of them in his bedroom his first barbell deadlift was 225 lb  {"weeks": "~2 years", "load": "225 lb"}
+2024-10-19 {{c7hl9u3h_s0@2659}} prescription To get a partner training, frame it as time together and start very easy (bar box squats, assisted split squats, 5 lb dumbbell press); results become the motivation
+2024-10-19 {{c7hl9u3h_s0@10049}} prescription After 6 months off, restart with 1-2 submaximal sets and let muscle memory work  {"sets": "1-2"}
+2024-11-03 {{o40xCjIzl14@406}} prescription [full_body] To get a reluctant girlfriend training without the 'getting big' fear, start her on bodyweight movements at home and only bring her to the gym once she catches the bug
+2024-11-09 {{yZC3Nsmmzb8@6381}} principle Five years of hard training makes most adults and teens look like a completely different person  {"years": 5}
+2024-11-09 {{yZC3Nsmmzb8@8488}} prescription Beginners should start on an established program, not make their own, because they lack the data to program for themselves
+2024-11-09 {{yZC3Nsmmzb8@9255}} opinion StrongLifts 5x5 is a garbage program for hypertrophy; 2.5 years of it plus program hopping still leaves you a novice  {"sets": 5, "reps": 5}
+2024-11-09 {{yZC3Nsmmzb8@9506}} principle There is no such thing as a non-responder to an absent stimulus; a skinny-fat novice just needs to train hard and gain muscle, and cut, bulk or recomp hardly matters
+2024-11-09 {{yZC3Nsmmzb8@10229}} prescription A novice should pick 4-5 movements per day, take them to failure and progressively overload; only add complexity later when needed to keep gaining  {"exercises": "4-5/day"}
+2024-11-09 {{yZC3Nsmmzb8@10549}} principle The novice phase is done within a year for many, but program hopping, bad programs or weak commitment can keep people novices for 3-4 years  {"years": "1 / 3-4"}
+2024-11-16 {{fPU3nRIH8sM@9161}} prescription [full_body] A strong manual laborer doing judo twice a week who wants to start lifting should train 2x/week, 45 minutes, 2 compound movements and 3 isolations  {"frequency": "2x/wk", "duration": "45 min", "exercises": "2 compound + 3 isolation"}
+2024-11-23 {{6p2x4kDDjzs@1975}} prescription Novices get tremendous results training 2-3 days a week for about an hour; enjoy it because later you will be forced to train 4-5 times  {"frequency": "2-3x/wk", "rest": "~1 h sessions"}
+2024-11-23 {{6p2x4kDDjzs@3450}} prescription A wrestler training 2-3 times a week can cut a novice program to two lifting days with less volume  {"frequency": "2x/wk"}
+2024-11-23 {{6p2x4kDDjzs@5434}} opinion Everyone should learn to write their own programs and then have an experienced coach review them
+2024-12-16 {{qvWxIzhT1QU@253}} opinion [biceps] Heavy partial curls are not recommended for people new to bicep isolation as they can be dangerous; for him progress on it grew his biceps
+2024-12-22 {{ZLheQPgEfoA@443}} opinion [chest] Strength standards say nothing about whether you are intermediate: some people bench 225 lb two weeks in and others take two years, which only reflects strength genetics  {"load": "225 lb"}
+2024-12-22 {{ZLheQPgEfoA@443}} anecdote [full_body] He knew a lifter with a near 4-plate bench, 5-plate squat and 6-plate deadlift who was still a novice: novice program, novice understanding, novice work capacity, just gifted for strength
+2024-12-22 {{ZLheQPgEfoA@2410}} principle Telling novices to just grow everything is bad advice: everyone has dormant strong and weak points, and catching them early prevents years of playing catch-up
+2024-12-22 {{ZLheQPgEfoA@2472}} opinion Most people only discover what physique or sport they want after lifting for a while
+2024-12-22 {{ZLheQPgEfoA@5639}} prescription Coming back from a long break: two 45-minute sessions a week, favourite exercises, minimal volume of about two sets  {"frequency": "2x/wk", "sets": 2}
+2024-12-30 {{RPc1lnNNXNg@1266}} principle Optimization content plays on fear of missing out; about 90% of the audience are novices, and optimizing is the surest way for a novice to stay a novice; they should try things and see what works  {"percent": "~90% novices"}
+2025-01-01 {{J9_udWdk6ZM@1050}} prescription Novices don't need a coach: eat more and follow a free program, and anything works for them; paying for coaching mostly wastes their money

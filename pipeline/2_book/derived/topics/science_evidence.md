@@ -1,0 +1,294 @@
+# science_evidence
+_273 claims from 145 videos, 2020-02-11 → 2025-03-15; merged into 269 distinct claims. Script output (reduce.py), not edited by hand._
+
+Line format: `- [Nv Y1-Y2 types] claim {numbers by month} cites` — Nv = distinct videos that said it; types P principle, R prescription, O opinion, A anecdote, D data; `?` = low-confidence caption; `also:` = differently-worded variants merged into it.
+
+## read / paper / data / fitnes (185)
+- [1v 2020 O] He is a bit colder toward academics who talk about building muscle but never did it, because he values experience over theory, though he deeply respects PhDs and science. {{4aIHcNEDTNA@318}}
+- [1v 2020 P] Rule 3: do they have credentials or diplomas in the field? Meeting any one of the three earns his ear; those with all three are the best to learn from. {{4aIHcNEDTNA@128}}
+- [1v 2020 D] A non-English study he read found only 2 of 400 lifters with shoulder injuries had muscle tears (always the front delt); the rest were structural injuries to the rotator cuff or AC joint. {2020-02 {"count": "2 of 400"}} {{3qbZ-gpkOmw@64}}
+- [1v 2020 P] Counterargument he accepts: extra work to build connection is extra volume and damage, and a growing muscle gains more neural representation so you feel it more; the effect may not be about feeling at all. {{rAn5y7bka9w@374}}
+- [1v 2020 O] Claims that it reduces fat in the targeted area are unverified; he hasn't tried the system himself. {{uTHCzF7Exck@635}}
+- [1v 2020 O?] Training that matches your personality tends to give the best gains, partly from enthusiasm and consistency, but he thinks there is more correlation and that studies exist matching personality types to training regimens. {{J608dwN-uqY@251}}
+- [1v 2020 O] He doubts that growing a muscular neck causes sleep apnea: the studies linking bigger necks to apnea mostly involved overweight men, so neck muscle may not be the cause. {{ZSML-yWspyY@192}}
+- [1v 2020 O] EMG studies favouring compounds usually use novices, who gain more initially from heavy compounds; long term, isolation is king for specific body parts. {{K4UBm1dV6WM@1197}}
+- [1v 2020 O] He prefers opinion-based discussion over pulling scientific data out of a hat; he finds it a healthier way to debate. {{K4UBm1dV6WM@1449}}
+- [1v 2020 P] The goal is to develop an eye for BS so you can immediately spot when something looks strange and be skeptical. {{nWHewU0tAwQ@377}}
+- [1v 2020 O] Comparing 'lifters' rear and medial delts to non-lifters moves the goalposts; bodybuilders train rear and medial delts heavily and would show similar 5x differences. {{KMcJAERb9Dk@1504}}
+- [1v 2020 D] Studies show that taking PEDs while sitting on your butt builds muscle, so anyone saying they're not effective is lying. {{HG4X9ILzCgc@314}}
+- [1v 2020 O] Small differences in EMG/activation numbers between exercises (e.g. sumo vs conventional deadlift) don't mean they work the same muscles; the numbers aren't representative, and training with only one or the other yields visibly different development. {{g4N7gpzHm5k@188}}
+- [1v 2020 A] You can absolutely get bigger and more muscular without scientific knowledge of lifting; for his first ~5 years he progressed doing whatever he wanted, following bro science from the internet and anime/manga. {2020-04 {"weeks": "5 years"}} {{37WbiLy4Dkc@0}}
+- [1v 2020 P] The human body didn't wait for science to grow; many big, strong natural gym bros never read exercise science. Your body is the teacher and the source of what studies measure. {{37WbiLy4Dkc@63}}
+- [1v 2020 P] There's a threshold of knowledge needed to be optimal, mainly technique and proper form adapted to your body; beyond it, extra literature is a bonus that may not be useful. {{37WbiLy4Dkc@190}}
+- [1v 2020 O] He is skeptical of testosterone-decline studies because the subjects may have poor lifestyles; he'd want a study following athletic, whole-food-eating, sober men sleeping 8 hours from 20 to 35+. {2020-04 {"sleep": "8 h"}} {{TIsnQ03FegQ@236}}
+- [1v 2020 P] The internet gives quick access to information, but nothing replaces applying it to your own body, because studies may not translate to you. {{INvQIstsTz8@63}}
+- [1v 2020 P] Most bodybuilding principles are simple; if one seems complex, something about it is probably misunderstood, though simple topics branch out endlessly. {{2QnD9k0SbwA@0}}
+- [1v 2020 O] Hypertrophy has no hidden secret and is well understood, but some aspects are underrated and underused, nucleus overload principles among them. {{T74sR7AIOZc@63}}
+- [1v 2020 O] DEXA scans are not accurate either and can be skewed by manipulating water intake, especially across repeated scans; being used by elite labs doesn't make them accurate. {{f0vdsC2yyhY@122}}
+- [1v 2020 O] Lifters mainly gain subcutaneous fat around the muscles rather than visceral fat; the trained body places fat around muscles as a spring and sleeve for resilience {{JYl3S7yuN6M@251}}
+- [1v 2020 P] No body fat measurement method is accurate, and in the 15-20% range each percent of error changes the picture a lot {2020-05 {"bodyfat": "15-20%"}} {{JYl3S7yuN6M@63}}
+- [1v 2020 O] Justifying a diet by evolution is the naturalistic fallacy {{_2yfdqBUoPQ@510}}
+- [1v 2020 D] The argument that post-training cold disrupts the beneficial inflammation process mostly comes from studies on long cold or ice-bath immersion that really drop body temperature. {{mfweKhLM5L0@252}}
+- [1v 2020 O] The claim that training over 60-90 minutes is wasted because cortisol rises, testosterone crashes and you turn catabolic is nonsense {2020-06 {"time": "60-90 min"}} {{7e0gcEEa-ms@252}}
+- [1v 2020 O] The stimulus-to-fatigue ratio debate is mostly unproductive because 'stimulus' and 'fatigue' are too loosely defined to support a sensible argument {{boPKiKE26Rw@0}}
+- [1v 2020 O] Watching someone who just googles a topic and recites points is pointless; the same goes for science-fitness channels that simply read studies to you. You should read and interpret the research yourself. {{g4mX62QGzTo@1753}}
+- [1v 2020 O] Hypertrophy is simple but not easy; its concepts all interconnect {{Hn3oGdUUhic@379}}
+- [1v 2020 P] The body does not panic at a new movement; bones, tendons and fibers just react to the stress placed on them {{Zkhc-j-6ptU@302}}
+- [1v 2020 P] Joints strengthen far too slowly to explain yearly strength gains, and muscles do not just get denser without growing {{7XqE7GhDsgc@1002}}
+- [1v 2020 O] People who read an abstract and think they are experts are worse than ordinary people, because they lack knowledge and are also conceited {{O-x2v688wrg@1008}}
+- [1v 2020 O] He strongly disagrees with the current view that bad form and bad posture don't exist {{6a-qQTsmsi0@567}}
+- [1v 2020 O?] Incline press doesn't activate upper chest more than flat press when tonnage is equalized {{m-XeEY4xRDU@124}}
+- [1v 2020 D?] Studies showed expansive postures raise testosterone and GH {{Of7VDakRks4@312}}
+- [1v 2020 O] Purely intellectual fitness experts often resent physicality and shame others; novices overestimate them because they cite science {{24j6eNqmnZ0@990}}
+- [1v 2020 P] Hypertrophy value cannot be assigned universally by phase; it depends on the lift and range of motion {{L5gcFxTG_cU@230}}
+- [1v 2020 P] Other pursuits are fine if they serve your main way: read science only insofar as it improves your training; if it takes away from training it's a hindrance {{JXVJtNrIZ9U@407}}
+- [1v 2020 O] Refusing to accept that something exists because you can't explain it is immature {{vZUEtun_5no@946}}
+- [1v 2020 O] NH distrusts studies claiming failure is unnecessary; he finds their parameters skewed toward their conclusion {{MIHPylz3f7Q@314}}
+- [1v 2020 P] A principle is good or bad only within the context of the program and the individual's goals {{T0QddSpwwdc@188}}
+- [1v 2020 O] He will not believe subliminals grow height or body parts without footage proving it {{kh--k3genZA@250}}
+- [1v 2020 D?] He cites an elevator conformity experiment where strong-willed subjects faced the right way while low scorers copied the group {{uL-pwl2nfa0@1701}}
+- [1v 2020 D] The Dunning-Kruger effect: those who know least are most confident; the most knowledgeable are the most modest {{UcD6XAb_1YY@819}}
+- [1v 2020 O] A claim that humans carry extraterrestrial DNA proven by peer-reviewed papers would be the biggest scientific news in a century; it is absent because it is false {{ZTdIkUSgBEs@890}}
+- [1v 2020 O] 'Science-based' programs are mostly marketing: people distrust fake natties but not science, so creators google a study that backs the program they sell {{OtoSjIZudIA@1512}}
+- [1v 2020 P] Body fat tests are mostly inaccurate and easy to cheat; track strength and tonnage progression instead as a sign of muscle gain past the novice phase {{vC9cKh9tFxs@640}}
+- [1v 2020 P] Neural adaptation happens in a learning phase, not over years; once proficient, strength gains come from muscle unless you change form {{6z43GClpmK8@65}}
+- [1v 2020 O] Ask what you will do with a fact before spending energy debating it; most science debaters are trying to turn their opinion into absolute truth {{TMAJzmrQVvc@881}}
+- [1v 2020 O] Training makes the body more anabolic, which promotes veins that feed further muscle growth, in a cycle {{2dgtL3DKo3k@250}}
+- [1v 2021 O] People who rely heavily on science tend to be small: lacking physicality, they argue with papers against people far stronger than them {{662MjNpnQcw@2766}}
+- [1v 2021 P] Your opinion and critical thinking when reading a study matter as much as the study itself {{662MjNpnQcw@2510}}
+- [1v 2021 O] Real science is anti-dogma, but science channels present one paper as the truth, then silently switch to the next paper without ever admitting they pushed wrong ideas for years {{662MjNpnQcw@378}}
+- [1v 2021 O] People arguing with studies have usually only read the abstract, found via search engines that feed confirmation bias; you can always find a study to support any theory {{662MjNpnQcw@1820}}
+- [1v 2021 O] Studies comparing exercise variations on a spectrum often wrongly conclude two lifts are equivalent, e.g. trap bar deadlift versus conventional deadlift {{662MjNpnQcw@1755}}
+- [1v 2021 P] He gives information as his opinion precisely so that if it changes he can simply say it changed, rather than having staked his identity on a study {{662MjNpnQcw@441}}
+- [1v 2021 A] When he actually reads and dismantles a study someone throws at him, the response is always silence because they only wanted to win {{662MjNpnQcw@2071}}
+- [1v 2021 O] Someone who trains 10 years, takes notes, learns to program and eats well is more of a scientist than paper-waving YouTubers {{662MjNpnQcw@2702}}
+- [1v 2021 P] Papers must be interpreted and are not free of subjectivity; the same stats can be made to say many different things {{662MjNpnQcw@880}}
+- [1v 2021 P] A scientific finding is true only on a timeline; treating a paper as fixed final truth turns science into ideology {{662MjNpnQcw@692}}
+- [1v 2021 O] Linking a paper in a comment argument to end the discussion is anti-speech and stops people from thinking together {{662MjNpnQcw@942}}
+- [1v 2021 O] People who cite shoulder flexion as part of the curl misread the data: only the small motion at the top is needed; any more and you drift into cheating {{N4-K79MZNPs@250}}
+- [1v 2021 P] Hypertrophy as a response to damage is not unnatural; if muscles were not supposed to grow, that adaptive response would not be coded in our DNA {{TPPCu5zBPLk@315}}
+- [1v 2021 P] For NH science means empiricism: applied practices and programming; he is neither pro nor anti science because it is not his god {{EP1Qw9aEKOU@380}}
+- [1v 2021 O] Being bigger is not an argument; a 160 lb person can know more about nutrition than a big lifter {2021-02 {"bodyweight": "160 lb"}} {{EP1Qw9aEKOU@2485}}
+- [1v 2021 O] There is no evidence that training while starving stores up unrepaired damage that turns into gains once you eat {{K7cehT_XyBQ@1002}}
+- [1v 2021 O] Muscle memory speeds regaining lost muscle, perhaps cutting 10 years of work to five or six, but isn't magic {2021-03 {"years": "10 to 5-6"}} {{K7cehT_XyBQ@900}}
+- [1v 2021 O] Hyping science to novices is detrimental because it gets in their heads; a good program is good even written on a McDonald's bag {{_L5wLHlFfI0@874}}
+- [1v 2021 O] A scientific paper is still an opinion backed by facts; research can be skewed and most papers taken as gospel will be disproven within five years {2021-03 {"years": 5}} {{_L5wLHlFfI0@252}}
+- [1v 2021 O] Demanding scientific proof for every effort raises pampered lifters who never train while waiting for the perfect workout {{_L5wLHlFfI0@125}}
+- [1v 2021 O] Blind belief in science is as stupid as blind belief in opinions {{_L5wLHlFfI0@252}}
+- [1v 2021 O] Research claiming you need a 25% surplus to build muscle seems poorly done to him {2021-04 {"surplus": "25%"}} {{XASWAdsSu0M@2532}}
+- [1v 2021 O] 'Conspiracy theory' is a dishonest label for ideas science or media haven't ruled on yet; his theories are just unproven hunches {{VdBmYdUYCKM@0}}
+- [1v 2021 D] He cites a study (about five years earlier) where men on 500 mg testosterone without training gained more muscle than naturals training properly; real users take far more for 10-20 years {2021-05 {"dose": "500 mg test/wk", "years": "10-20"}} {{32_wVUEiHQc@2860}}
+- [1v 2021 O] Evolutionary psychology is valid; calling it an appeal-to-nature fallacy ignores that humans are still animals {{ncd9mxXViBk@3920}}
+- [1v 2021 O] EMG studies on deadlift styles are often misinterpreted; a small per-set activation difference compounds over years of training {{lG5SZbRdOjA@126}}
+- [1v 2021 O] Experience and logic beat scientific meta-studies for deciding exercise selection; test any new style yourself {{lG5SZbRdOjA@250}}
+- [1v 2021 O] Many people use science to win arguments and feel superior rather than to improve their lives {{zXqHX-uxTU8@343}}
+- [1v 2021 O] Semen retention is nonsense: semen does not accumulate as vitality, and he speculates it may have been a 4chan prank that could harm prostate health {{IPSRlANKpDw@6236}}
+- [1v 2021 P] Feeling horny and aggressive when abstaining is not the same as having elevated testosterone; men confuse the mental state with an anabolic one {{IPSRlANKpDw@1032}}
+- [1v 2021 D] Studies on boxers show sex before a fight does not hurt performance, and sex the day before may even raise testosterone {{IPSRlANKpDw@967}}
+- [1v 2021 D?] Science suggests you gain less muscle when stuffing your face and getting higher body fat {{-T8qWCI4_No@1049}}
+- [1v 2021 P] Programming is a reproducible science with hard numbers that can be passed on to others, unlike winging it {{PSFqnl_EvSc@1376}}
+- [1v 2021 O] Sellers twist turkesterone and ecdysterone studies, knowing buyers won't check the sources; he works with data and says numbers can be made to say anything {{S_EF3ebs5Jg@3032}}
+- [1v 2021 O] Food, pharma and supplement industries fund studies to label products 'scientific'; science used to push products stops being science and becomes marketing {{S_EF3ebs5Jg@3094}}
+- [1v 2021 D] He cites the mouse utopia experiment as a warning of societal collapse when sexual norms break down {{0ZZwr3REW5c@12927}}
+- [1v 2022 P] Ideas, in philosophy as in exercise science, are never objective: ask who created a concept and why, not only what it says {{jkQHeNZIHnY@849}}
+- [1v 2022 O] The fitness-fatigue model lumps strength and muscle into 'fitness' and muscle and CNS into one fatigue column, and ignores that bodybuilders need not be fully performant {{PuIp9cGKMHo@5345}}
+- [1v 2022 O] Most exercise science is designed around strength and function; applying it straight to hypertrophy is like a surgeon using veterinary studies {{PuIp9cGKMHo@5218}}
+- [1v 2022 O] Science in fitness content should serve the audience and underline training principles, not be used to bully others, win arguments or sell products; a good creator balances anecdotal and empirical evidence {{umQZm2ALxl8@314}}
+- [1v 2022 O] Citing science only when it corroborates what you already think is dogmatism, and nearly every fitness youtuber does it {{umQZm2ALxl8@878}}
+- [1v 2022 D] A study during lockdown found countryside children had about twice the arm strength of city children just from playing outside {2022-04 {"arm_strength": "2x"}} {{3W-yE2pgTec@1448}}
+- [1v 2022 O] As audiences demand studies over experience, channels drift toward citing science everywhere and risk losing authenticity; balance anecdotal and empirical evidence {{GowuEmDClqY@3152}}
+- [1v 2022 O] Online strength databases do not filter their data: most entries come from novices, so averages skew the standards low; they use averages instead of medians {{LxGdGChvk2c@318}}
+- [1v 2022 O] Databases cannot verify submissions: people lie about lifts out of ego and log improper lifts like half squats, further corrupting the numbers {{LxGdGChvk2c@507}}
+- [1v 2022 D] Rat studies showing huge testosterone increases are irrelevant; Derek's human data show about 30% more free testosterone from tongkat ali and a claimed ~50% with ashwagandha, both purchasable for about $20 {2022-04 {"price": "$20", "testosterone": "+30% to +50%"}} {{L_aq5x4lom8@2130}}
+- [1v 2022 O] Huberman has promoted digit-ratio claims (finger length predicting testosterone and personality), which he likens to phrenology and MBTI 'astrology for men' {{L_aq5x4lom8@688}}
+- [1v 2022 O] Testosterone was never developed for bodybuilding; science is rarely done for bodybuilders, and studies not designed for fitness (like EMG data) are often misapplied {{s1r1N-NEswc@1696}}
+- [1v 2022 O] The claim that men's testosterone halved in about 100 years cannot be explained by biology; evolution cannot change a species in a century, so modern men are biologically like the drug-free bodybuilders of 100 years ago {2022-05 {"years": 100}} {{goz7V7ncH8s@189}}
+- [1v 2022 D?] He believes sexual orientation is biological, citing a study from about seven years earlier linking a testosterone peak during pregnancy to whether the brain is tuned to male or female pheromones {{rVy03_C5jEU@1696}}
+- [1v 2022 O] Any system seeking absolute answers becomes corrupt; science denies what it cannot explain (e.g. the soul) just as ancient faith was corrupted {{C9Irlcw5FHU@1396}}
+- [1v 2022 O] AthleanX made 'science-based' titles a clickbait tool (science 2) and invented fitness clickbait thumbnails (clickbait 1) {{wNunDhhIvRE@4945}}
+- [1v 2022 O] Schenkel did not debunk the alpha wolf, he refined it: pack hierarchies are flexible and the alpha pair holds reproductive privilege; lions and gorillas clearly have alphas {{rGMi5_hLRH8@1810}}
+- [1v 2022 D] An alpha is a leader of the group; researchers found the longest-lasting alpha chimps are the kindest, not the most violent {{rGMi5_hLRH8@2908}}
+- [1v 2022 O] Resistance training was created by isolating the resistance part of functional farm labor to maximize muscle; going back is regression {{9kG_0Y7UYnw@1387}}
+- [1v 2022 O] Science-based gurus rely on EMG data and ignore real-world empirical evidence, cherry-picking data to fit their agenda {{EGCKBEWh8ng@936}}
+- [1v 2022 O] Lifters arrived at 2-4 sets, 48 hours between muscle groups and 7-14 weekly sets by instinct 30-40 years ago, before science backed it up {{iDua_rNsBO8@569}}
+- [1v 2022 O] Lifters with long experience but no published papers are still a library of valid information {{Sp_95PdknW4@5590}}
+- [1v 2022 O] Handling a diet controversy by saying 'I eat eggs and get my bloodwork' is better than trading cherry-picked studies {{Sp_95PdknW4@4646}}
+- [1v 2022 A] Alan Thrall actually ran every program he reviewed, which is more valuable than judging programs on paper {{Sp_95PdknW4@4709}}
+- [1v 2022 P] Good programming advice is good regardless of who says it; HIT is carried by Mentzer's charisma {{lmhW2W2UQto@1136}}
+- [1v 2022 O] Endless study consumption causes paralysis by analysis, which fitness-science subreddits full of overthinkers reinforce {{g9YniHngWDI@1448}}
+- [1v 2022 P] Use science-based content with your eyes open rather than turning your brain off because it cites studies {{g9YniHngWDI@1830}}
+- [1v 2022 O] Making science accessible to laypeople always loses some substance, but the trade is worth it; science should serve practitioners {{g9YniHngWDI@756}}
+- [1v 2022 P] You can make a study say whatever you want because viewers do not read the sources {{g9YniHngWDI@1196}}
+- [1v 2022 O] Bright, moving infographics hold attention but hurt retention; you remember more by just listening {{g9YniHngWDI@1007}}
+- [1v 2022 D] A study claiming cricket powder is 50% more digestible than whey mostly showed faster absorption, not better overall protein {{EH4tG1AXblQ@360}}
+- [1v 2022 O] Putting science in titles while citing studies without cross-checking is prostituting science {{B17sX2hT-5w@1638}}
+- [1v 2022 O] Criticising any lift is easy; that does not make it intellectually honest {{nmgidpn3DNM@315}}
+- [1v 2022 O] He is not science-based; he bases advice on his own experience, e.g. rope pushdowns feel tremendous despite strength-curve critiques {{ylmTf9Qb6jg@1067}}
+- [1v 2022 D] Longevity correlates with physical activity and resistance training {{ttUzFhGo6Bc@1204}}
+- [1v 2022 P] Soreness is not correlated with muscle growth {{gYyqqbs2SLI@1135}}
+- [1v 2022 O] He prefers experience-based 'bro science' grounded in logic over purely evidence-based coaching, though it narrows your horizons {{uF-j7u5VLaY@378}}
+- [1v 2022 O] Good science-based coaching is a mix of bro scientist and real scientist, which is almost impossible to achieve {{uF-j7u5VLaY@3490}}
+- [1v 2023 P] A burn (battle ropes, washing hair) means fast fiber activation, not a good hypertrophy stimulus {{k3yRgcmiCls@2321}}
+- [1v 2023 D?] Lengthened-position studies conflict; he cites a recent one with about 100 men where training only around 90 degrees outgrew training only lengthened {{CGhPZ9AxBJE@379}}
+- [1v 2023 P] The burn is not a variable of hypertrophy {{JSOvpTDcSvA@1948}}
+- [1v 2023 O] He doubts EMG data showing trap-bar deadlifts are great for quads; it is still a hinge: C tier {{_IBSNO56zuE@2514}}
+- [1v 2023 O] A novice cannot judge whether someone knows lifting because he lacks the knowledge himself; he must rely on blind trust or external signs of authority {{Z8Kwk55DxlU@188}}
+- [1v 2023 O] 'Science-based' is unearned authority that lets creators dismiss others without arguments and escape responsibility when a study is later disproven {{Z8Kwk55DxlU@1575}}
+- [1v 2023 P] The two external signs of authority are social proof, which proves nothing, and evidence that the method works, such as being bigger or stronger {{Z8Kwk55DxlU@376}}
+- [1v 2023 O] Judging someone's knowledge by their ability to replicate it is common sense, like asking the top student rather than the failing one for help {{Z8Kwk55DxlU@1263}}
+- [1v 2023 O] Coaches like Gregg Popovich have strategic rather than physical knowledge, but strategic knowledge must still be demonstrated by results {{Z8Kwk55DxlU@251}}
+- [1v 2023 P] Strategic knowledge usually stems from practical knowledge, but the reverse is not true {{Z8Kwk55DxlU@563}}
+- [1v 2023 O] You cannot separate theory from practice in fitness; someone who knows but refuses to apply it is like a baker who won't bake a pie {{Z8Kwk55DxlU@818}}
+- [1v 2023 P] Starting from a belief (e.g. 'I like watermelon') and then finding a study to confirm it is scientism, not the scientific method {{gFkAKDV8UFY@1827}}
+- [1v 2023 P] Science is the systematic study of the physical and natural world through observation, experiment and testing theories against evidence; for a result to count, the variables must be defined so the study can be replicated {{gFkAKDV8UFY@193}}
+- [1v 2023 O] Industry-funded studies (soy, dairy, poultry, eggs and cholesterol, pharma) reliably reach conclusions that favour their funders, because they start from the conclusion and work backwards {{gFkAKDV8UFY@1009}}
+- [1v 2023 P] Because science is produced by subjective humans, it is fragile and always close to corruption by money, politics or morality; only competence and constant vigilance protect it {{gFkAKDV8UFY@760}}
+- [1v 2023 O] Scientism was inevitable: most people want black-and-white answers, so science adapted to its public, even though a proper study should contain more unknowns than certainties {{gFkAKDV8UFY@1640}}
+- [1v 2023 O] Scientists who take criticism of scientism as an attack on science (his example is a Daniel Dennett quote) are showing scientism's cult-like defensiveness {{gFkAKDV8UFY@3027}}
+- [1v 2023 P] 'Believe in science' is a contradiction: once you believe instead of checking, no science is left, only scientism {{gFkAKDV8UFY@4230}}
+- [1v 2023 O] Asking 'source?' online is usually a way to dismiss a claim without debating it, and any source you give gets rejected as not reputable enough {{gFkAKDV8UFY@3786}}
+- [1v 2023 P] One person observing something produces experience, not evidence; you may share your experience but you cannot call it scientific evidence {{gFkAKDV8UFY@383}}
+- [1v 2023 O] Most people read only a study's abstract and conclusion, never its methods, so they have no way to judge whether the conclusion is sound {{gFkAKDV8UFY@1702}}
+- [1v 2023 O] Needlessly complex scientific jargon works like Latin mass: it keeps laymen dependent on an authority to interpret for them {{gFkAKDV8UFY@3468}}
+- [1v 2023 O] For any idea in your head you can google a study that seems to support it {{gFkAKDV8UFY@1514}}
+- [1v 2023 O] Saying physique tells you nothing about advice quality because drugs build size is a fallacy; once drugs are taken out, a natural's physique does say something about their methods {{aOk65xuzIPE@2720}}
+- [1v 2023 O] The claim that grip work steals CNS recruitment from the back is bro science {{4t72r8Q0vXQ@505}}
+- [1v 2023 O] Biomechanics are A tier but not vital; he built lots of muscle knowing nothing and recommends learning them through training rather than books {{SxqjF2oPasg@1195}}
+- [1v 2023 P] Tiers: S vital (can't skip), A important (everyone should use at some point), B useful (cheap to add), C negligible (gimmicks), D irrelevant (can sabotage training if you focus on them) {{SxqjF2oPasg@251}}
+- [1v 2023 P] Build 95% of training from S and A tier items, the remaining 5% from B, and treat C and D as optional fun {{SxqjF2oPasg@3590}}
+- [1v 2023 P] Judge methods by the physiques that programs produce, not by individual anecdotes {{SZEjCsuclx8@1587}}
+- [1v 2023 D] A 2011 study linked low testosterone with progressive views and high testosterone with conservative views; raising T shifted only undecided men slightly rightward, and the sample was small {2023-11 {"year": 2011}} {{kXdKs8Fu2WU@313}}
+- [1v 2024 O] The science-based lifting boom predictably swung the pendulum toward a new generation that hates science and just wants to lift; he wants a middle ground {{jDk3LytTEjA@3277}}
+- [1v 2024 O] Sam Sulek was doing lengthened partials before science caught up to them {{jDk3LytTEjA@3215}}
+- [1v 2024 P] Fitness studies are best at telling you what not to do, not at defining one optimal technique {{vVQmYGw7Kj8@1328}}
+- [1v 2024 D] Milo Wolf himself says lengthened partials help but not much and are dangerous to hyperfocus on {{vVQmYGw7Kj8@2205}}
+- [1v 2024 O] About 90% of what works has been known for a century; new optimal research concerns the remaining 10% and mostly confirms the basics {2024-01 {"share": "90/10"}} {{vVQmYGw7Kj8@2144}}
+- [1v 2024 D] There is only one study on lifting technique, so questions like squat stance, elbow tuck or shoulder extension lack data {{vVQmYGw7Kj8@1138}}
+- [1v 2024 D] Any tempo between 2 and 8 seconds per rep gave similar hypertrophy when load was adjusted to the tempo {2024-01 {"tempo": "2-8 s/rep"}} {{vVQmYGw7Kj8@508}}
+- [1v 2024 D] The ROM findings so far only have data for hamstrings, biceps and triceps {{vVQmYGw7Kj8@253}}
+- [1v 2024 D] Standing variations activate more of the calf than seated per recent studies; do both {{ryWJV6yN3ZE@2843}}
+- [1v 2024 P] EMG is a poor predictor of growth: it shows more chest than lat activity on chin-ups and supinated pulldowns, and more ab activity on squats than on crunches or leg raises {{ZRNSc-xBVnc@1955}}
+- [1v 2024 D] Carter cites EMG data showing pecs over twice as active as lats in the pullover, with lats at only about 8.4% even in the lowering phase {2024-02 {"lat_activation": "8.4%"}} {{ZRNSc-xBVnc@1830}}
+- [1v 2024 P] Muscle does not need to be confused; its function is to move a lever and get stronger when challenged {{-OYtq2AHGX8@1769}}
+- [1v 2024 O] Science-based influencers are not bigger than experience-based lifters, which weakens their claim to a superior method {{xqjfYhZ-CvQ@2084}}
+- [1v 2024 D] Bodybuilding makes bones denser {{bRKQIOYo2u4@6266}}
+- [1v 2024 O] The idea that exercise ages you is bogus; exercise is the fountain of youth, and the sedentary people he knows break down first {{okm6bZHKHI4@6575}}
+- [1v 2024 O] Muscle mass protects you in old age; long-time trainees can have about five times more leg muscle than untrained people, and studies linking muscle to shorter life are inconclusive {{okm6bZHKHI4@10416}}
+- [1v 2024 O] The stretch-focused trend is contrarian content; he believes the concentric builds more muscle than the eccentric and proposes a partner-removes-the-negative experiment to prove it {{c7hl9u3h_s0@1141}}
+- [1v 2024 A] He prepared a tier list ranking every training parameter (e.g. partials, tempo, deloads) by whether it is worth your time {{Ugkxh1lbPqpaIaBAjiVmffbwqRCJyexJtxsL@0}}
+- [1v 2024 P] Active range of motion / mechanical tension ranks 3rd; everyone agrees it matters but no one agrees which lift loads what or where {{6yW3GSskl8g@1455}}
+- [1v 2024 O] Science-based fitness creators bicker more than anyone, like old ladies at the park {{6yW3GSskl8g@1518}}
+- [1v 2024 O] Jung is trustworthy because he admits his own views are relative and subjective, unlike many people on YouTube fitness who claim objectivity for themselves {{Plr3f3LXO_o@951}}
+- [1v 2024 O] Psychology is a baby science; we have explored perhaps 2% of the human psyche, and claims that it is mapped out are bogus {{Plr3f3LXO_o@951}}
+- [1v 2024 O] Michael Gundill is one of the best sources of bodybuilding information {{ZLheQPgEfoA@3673}}
+- [1v 2024 O] Many science-based influencers start from an emotionally charged preference, cherry-pick studies to justify it and ignore contrary evidence, which is itself anti-scientific {{RPc1lnNNXNg@125}}
+- [1v 2024 O] Experience-based lifters also build a strawman of tiny science-based lifters with pink dumbbells; most people, and the best approach, sit in the middle between experience and science {{RPc1lnNNXNg@1140}}
+- [1v 2024 O] Almost nobody opposes the scientific method; critics attack the influencers' interpretation and character, so calling them anti-science is a dishonest shield and self-victimization {{RPc1lnNNXNg@62}}
+- [1v 2024 O] The evidence-based label grants instant credibility and escapes the source and credential demands placed on experience-based lifters; it should get extra scrutiny instead {{RPc1lnNNXNg@314}}
+- [1v 2024 O] Science-based influencers rarely apologize for promoting bad studies; they swap in a new study and blame the literature, although they chose and interpreted it {{RPc1lnNNXNg@693}}
+- [1v 2024 O] Science-based content is popularization made for entertainment; like pop philosophy, it removes the work of reaching your own conclusions {{RPc1lnNNXNg@1769}}
+- [1v 2024 O] Processed fitness science is like Kellogg's to oatmeal: tastier and easier but much less healthy {{RPc1lnNNXNg@1896}}
+- [1v 2025 D] The idea of a special hypertrophy rep range is mostly dead; most ranges work if you train close to failure {{ACFKXT44BzM@1694}}
+
+## mean / has / become / against (19)
+- [1v 2020 P] Consume YouTube fitness and books not to absorb everything but, once you know who you are and what you want, to spot the overlapping 'C' area of ideas that actually apply to you. {{7DtKMEEua2g@317}}
+- [1v 2020 P] Learning only from your body means making many mistakes and possibly leaving gains on the table. {{37WbiLy4Dkc@127}}
+- [1v 2020 O] No 'discipline gene' has ever been proven, even by those who claim to rely heavily on science. {{-i6A0etUfmE@124}}
+- [1v 2020 D] NH cites a study that people attacked for believing misinformation become more attached to it {{KTYf4E4YcB8@1089}}
+- [1v 2021 O] Being 'anti-science' for him means being against what science has become on YouTube, not against the actual practice of science {{662MjNpnQcw@252}}
+- [1v 2021 O] He distinguishes the rigorous scientific process, which he respects, from the 'meme science' used on YouTube fitness, which skips steps and is therefore fraudulent {{662MjNpnQcw@127}}
+- [1v 2021 O] Followers of YouTube science behave like a religious cult: they believe whatever the scientific community says and label dissenters 'anti-science' like heretics {{662MjNpnQcw@504}}
+- [1v 2021 P] Paralysis by analysis means focusing on theory over practice, not that programming is useless; lifting is proactive and you have to actually do it {{EP1Qw9aEKOU@1174}}
+- [1v 2021 O] 'Science-based' has become a gimmick and a meme that means nothing {{_L5wLHlFfI0@62}}
+- [1v 2021 P] A body-fat scan proves nothing without a baseline scan to compare against {{aFENxCkDXQM@4185}}
+- [1v 2022 P] Applying theory to everything without testing it against reality makes you dogmatic {{GowuEmDClqY@568}}
+- [1v 2022 P] Every Sigma ingredient has been used for at least 10 years, and the blend itself has never been clinically tested; citing single-compound studies for a combined product is not sound {2022-04 {"years": 10}} {{L_aq5x4lom8@1627}}
+- [1v 2022 P] A muscle looking contracted during an exercise does not mean it is working hard {{Cbq-vxVba4k@2700}}
+- [1v 2023 O] The placebo effect means a suboptimal method you believe in can work, and an optimal one you distrust (nocebo) can underperform {{UWr5TQVT63g@1191}}
+- [1v 2023 O] Real science means skepticism and questioning everything; modern science-based fitness has become closer to a cult or scientism {{Z8Kwk55DxlU@2146}}
+- [1v 2023 P] To know something practical like lifting means being able to replicate it, not just explain it {{Z8Kwk55DxlU@125}}
+- [1v 2023 P] He defines scientism as trusting the methods of natural science so much that you stop checking them, so the 'truths' they produce become wrong {{gFkAKDV8UFY@1452}}
+- [1v 2023 P] Telling people not to question the science is itself unscientific; science has to stay open to having its origins questioned {{gFkAKDV8UFY@1197}}
+- [1v 2023 P] The scientific method has seven steps: question, research, hypothesis, experiment, data analysis, conclusion, communication {{gFkAKDV8UFY@257}}
+
+## stretch / weight / negative / positive (14)
+- [3v 2020-2021 P] Muscle is gained mostly via weighted stretch; a negative is weighted stretch also: 2020-11: Weighted stretch drives muscle fiber damage; it is essentially the negative {{6sFaB3rAY1A@1194}} {{3IMgRqcRN4Y@939}} {{8ELQ2XZgpls@1986}}
+- [1v 2020 D] Whether a muscle must be felt to grow is controversial; critics argue a stretched muscle that stores and releases energy is being worked regardless. {{rAn5y7bka9w@62}}
+- [1v 2020 O] 'Squeeze' and 'stretch' are no more buzzwords than 'concentric' and 'eccentric'; using scientific terms is often a way to intimidate and claim authority. {{K4UBm1dV6WM@1260}}
+- [1v 2020 D?] Some studies point to heavy weights being better for growth, but the main issue is the difficulty of accumulating tonnage with light weights. {{lJyrBDvtQFU@319}}
+- [1v 2020 O] Bro science is just science not yet proven; nucleus overload and weighted stretching were dismissed and are now backed by studies {{XweCS5RdqNk@318}}
+- [1v 2020 P] Strength order: pure negative strongest, negative-then-positive middle, positive-only weakest because no stretch reflex {{L5gcFxTG_cU@189}}
+- [1v 2020 P] During the negative the muscle lengthens and stores energy, released in the positive like a spring {{L5gcFxTG_cU@50}}
+- [1v 2020 P] In a squat the negative is sandbagged relative to the positive because you are stronger eccentrically {{L5gcFxTG_cU@313}}
+- [1v 2020 P] A lengthened muscle under load accumulates muscle damage over time, as shown by benefits from a static stretched hold like heavy shrug holds stretching the traps {{VB0LzTb3SQM@63}}
+- [1v 2021 O] Researchers chase spicy, clickable findings such as leg press beating squats or flyes beating bench for chest activation; better stretch or activation does not mean more growth {{662MjNpnQcw@2007}}
+- [1v 2021 D] Studies claiming box squats activate as much muscle used more weight on the box squat, so their design is flawed {{bTin_tBGoVo@625}}
+- [1v 2022 D] A YouTuber did weighted dead hangs for 3 months and saw no lat difference {2022-06 {"weeks": 12}} {{QfHfxLYRu88@2135}}
+- [1v 2022 A] He made a video on 'biohacking' muscle growth through myonuclear (nucleus) overload {{Ugkx7BVTbT5FxevCH8S0iGwelDfIcj0XtQoK@0}}
+- [1v 2024 O] The divide between science-based lifters and mindless just-lift people is largely fabricated; people tracked their weights 100 years ago and even the most bro lifter knows his bench numbers {2024-12 {"years": 100}} {{RPc1lnNNXNg@1011}}
+
+## channel / own / shar / valuable (16)
+- [1v 2020 O] He will never be a channel that makes diagrams of what the science says; he shares his own experience. {{j2DCJGxIE-s@505}}
+- [1v 2020 O] A natural with a good physique is a mine of knowledge that, while not peer-reviewed, is just as valuable; his channel shares experience, not science. {{37WbiLy4Dkc@505}}
+- [1v 2020 O] Theory-only fitness bores him: studies, writing and theories are worthless if never applied with your own body; you should both think about strategy and apply it. {{QTxLU8WTx6g@189}}
+- [1v 2020 O] Data from your own body is the most valid and valuable; studies were not done with your body in mind {{Hn3oGdUUhic@253}}
+- [1v 2021 P] He deliberately never cites or links studies or uses them as arguments of authority; his channel is built on his own experience of what worked for him {{662MjNpnQcw@190}}
+- [1v 2021 P] Paying attention to what happens in your own training sessions teaches more relevant programming knowledge than books {{kkbfHkyQ_q0@100}}
+- [1v 2021 O] Recommends Frédéric Delavier's biomechanics work and French channel {{kkbfHkyQ_q0@2420}}
+- [1v 2022 A] He doesn't watch the news, believing it lies, and rarely cites studies, preferring to give his own information {{eC9Srr3ZygE@3278}}
+- [1v 2022 O] Channels that put 'science' in titles and cite a single study for 15 seconds are using science as clickbait and should be punished {{GowuEmDClqY@1570}}
+- [1v 2022 P] Experience-based channels tend to be the best; NH's science grade rewards experience or correct use of the scientific process {{Sp_95PdknW4@2510}}
+- [1v 2022 O] A faceless channel cannot rely on parasocial charm, so it must win on information quality, and viewers judge it more clearly {{g9YniHngWDI@629}}
+- [1v 2022 P] Science-based channels grow because viewers in a post-trust era want certainty after years of contradictory YouTuber advice {{g9YniHngWDI@126}}
+- [1v 2022 P] Hyperbole and overcomplication turn science channels into emotion-based channels and create a gimmick {{g9YniHngWDI@1322}}
+- [1v 2022 P] Citing science is also an argument from authority; people defer to it whether or not it is right {{g9YniHngWDI@565}}
+- [1v 2023 O] Obsessing over optimal training is a paradox that leads to a poor physique; optimal is whatever you've proven works on your own body {{iU-oYc8fbEM@1328}}
+- [1v 2024 O] Think of archetypes like blood types: shared structures with real consequences; Myers-Briggs is flimsy science at best {{D5AUHq98RdY@8477}}
+
+## volume / intensity / frequency / programm (9)
+- [1v 2020 O] Time under tension is relevant but too chaotic to be a main programming principle {{VB0LzTb3SQM@110}}
+- [1v 2021 P] Be wary of anyone who says an entire part of programming can be ignored: only intensity, only volume, or only frequency {{0YrBT05ZwYM@562}}
+- [1v 2021 A] He has met one-heavy-set trainees and people doing 10x10 at about 45% intensity year-round who could each produce studies proving they were right {2021-01 {"load": "45%", "sets": "10x10"}} {{662MjNpnQcw@1945}}
+- [1v 2021 P] NH explains programming through metaphors: the tree of specificity, the holy trinity of volume, intensity and frequency, the lower back as a bridge, and now the recovery pot {{p-kR3RfGBHw@0}}
+- [1v 2021 O] The recent study showing equal hypertrophy at once versus three times a week with volume equated is flawed, because higher frequency lets you accumulate more volume, so volume is never equal in practice {2021-02 {"frequency": "1x vs 3x/wk"}} {{hDAcqWHzrJE@110}}
+- [1v 2021 P] The main drivers of hypertrophy are volume, intensity and frequency; metabolic stress is an accessory at best {{gjZ6qGRxS10@470}}
+- [1v 2021 O] Metabolic stress accounts for maybe 3-4% of progression and is not worth focusing on {2021-07 {"percent": "3-4%"}} {{8ELQ2XZgpls@4383}}
+- [1v 2022 P] In his pyramid of hypertrophy, intensity, volume and frequency sit at the top; tempo is near the bottom for naturals {{uYRIWAKlA0c@190}}
+- [1v 2025 P] If a fringe theory denies what most agree on, like volume mattering, it is most likely wrong {{ACFKXT44BzM@1568}}
+
+## doesn't / grow / cell / care (8)
+- [1v 2020 D] The proposed mechanism is that high-volume, high-frequency, low-intensity work builds up satellite cells that add myonuclei, which supports fibre growth; he doesn't know if it's true and doesn't care, but in his experience the method works. {{T74sR7AIOZc@379}}
+- [1v 2020 D?] High-volume high-frequency activity in youth may increase myonuclei so much that it stays visible for life (he links it to epigenetics). {{2edX06SQDnU@1136}}
+- [1v 2020 P] A method working for you doesn't prove it is superior; novices grow on anything new, as long as they're in a caloric surplus {{LqsqSGZooR0@437}}
+- [1v 2021 P] Anything that works eventually becomes conventional, so communities that reject all orthodox methods are left with what doesn't work {{K7cehT_XyBQ@1470}}
+- [1v 2022 O] Muscle grows either by enlarging cells (hypertrophy) or by adding cells (hyperplasia); he does not care which, only whether the muscle grows {{LNggSj0WBd8@126}}
+- [1v 2022 O] You do not need to know the science of how a muscle grows to grow it; the theory is only the cherry on top {{LNggSj0WBd8@250}}
+- [1v 2022 P?] Nucleus overload works mainly through hyperplasia, adding satellite cells through metabolic stress rather than breaking down muscle fibre {{LNggSj0WBd8@188}}
+- [1v 2024 O] He doesn't care what studies say about pullovers; his experience and that of his peers is what counts {{ZRNSc-xBVnc@2397}}
+
+## pump / damage / goal / flow (7)
+- [1v 2020 O] A pump does not prove a lift makes you grow, nor does its absence prove the opposite; muscle damage is what matters {{4rjywMLXt98@1138}}
+- [1v 2021 P] The pump comes from rapid lengthening and contraction of muscle fibres at a high tempo with light weight, not from how much damage is done; fast empty-bar curls pump more than heavy curls {{gjZ6qGRxS10@30}}
+- [1v 2021 O] NH is not anti-pump; increased blood flow may have some hypertrophy benefits, but most hypertrophy comes from muscle fibre damage done with heavy weight {{gjZ6qGRxS10@110}}
+- [1v 2021 P] Resistance training's one goal is to damage muscle fibers so they repair bigger {{8ELQ2XZgpls@380}}
+- [1v 2023 O] Fast/slow-twitch fibre profiling is D tier; find out in practice which muscles respond to high or low reps {{SxqjF2oPasg@2457}}
+- [1v 2024 D] Carter notes zero studies link the pump to muscle growth; the pump as a training goal is a myth {{ZRNSc-xBVnc@1384}}
+- [1v 2024 O] Most supposed breakthroughs have been in the literature for about 30 years, while newer studies on volume, tempo, partials and lengthened training are inconclusive and contradict each other, which keeps the content flowing {2024-12 {"years": 30}} {{RPc1lnNNXNg@1707}}
+
+## personal / worthles / people' / yourself (5)
+- [2v 2020 OP] Your personal experience is more valuable than his experience or all the science, because it is what works for you {{j2DCJGxIE-s@0}} {{m1fD0HP6sIg@1319}}
+- [1v 2020 O] Using science to place yourself above others and criticise them makes it worthless; it should be positive {{O-x2v688wrg@1257}}
+- [1v 2021 P] Science and personal experience should work together: studies give broad group generalizations, but they are worthless until you test them on yourself {{662MjNpnQcw@2386}}
+- [1v 2023 O] Real evidence-based lifting is experience-based lifting times ten, pooling many people's experience, but current science-based fitness robs people of agency {{Z8Kwk55DxlU@1890}}
+- [1v 2024 O] Science-based lifting is disliked because it dismisses people's personal experience and instincts as worthless {{ZRNSc-xBVnc@2459}}
+
+## cancer / ejaculation / lower / frequent (6)
+- [1v 2021 D] Some studies link frequent ejaculation (about 21 times a month) to lower prostate cancer risk, while others find the opposite, so he falls back on logic that periodic release is healthy {2021-11 {"frequency": "21x/month"}} {{IPSRlANKpDw@11045}}
+- [1v 2021 D] Testosterone dips for roughly an hour after ejaculation then returns to baseline; abstinence gives a brief rise, then levels fall back to normal or lower as the body gives up {2021-11 {"duration": "~1 h dip"}} {{IPSRlANKpDw@1329}}
+- [1v 2021 O] About half of men do NoFap believing masturbation lowers testosterone and slows muscle gains; this is an old myth going back to Greek athletes and coaches banning release before competition {{IPSRlANKpDw@809}}
+- [1v 2021 O?] Speculatively, frequent ejaculation could signal the body to produce more testosterone, while abstinence could teach it to be less anabolic (unproven theory) {{IPSRlANKpDw@1455}}
+- [1v 2022 D] Prostate cancer is the second most common cancer in men, roughly a 10% lifetime risk, and about 9 in 10 cases are easily treatable if caught early {{ttUzFhGo6Bc@1329}}
+- [1v 2023 O] The 'oncologist need not have cancer' argument is dishonest; you still judge an oncologist by results, by how many patients he cures {{Z8Kwk55DxlU@1136}}
+
+## Possible contradictions / changes over time (0 flagged by script; verify)
+None flagged.

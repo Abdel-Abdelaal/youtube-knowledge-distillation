@@ -1,0 +1,472 @@
+2020-01-06 {{zXjb2_iz7DM@1}} anecdote All his training is done and filmed in his own garage gym, starting with short lifting vlogs showing his lifts and lifting philosophy, with informative videos later.
+2020-01-12 {{TN76DttpTKI@0}} anecdote [calves] His calf goal is 18 inches, training in a garage gym without calf-raise or donkey-calf machines.  {"goal": "18 in"}
+2020-01-13 {{utLw7UeXCOo@0}} data The Elitefts SS Yoke bar weighs 60 lb and its sleeves are slightly thinner than an Olympic bar's, so regular collars slide; cheap hardware-store clamps solve it.  {"load": "60 lb"}
+2020-01-13 {{utLw7UeXCOo@0}} data Full price is $400, but Elitefts sales bring it to $280-300, around the price of Titan and Rogue SSBs; wait for a sale.  {"price": "$400 full, $280-300 on sale"}
+2020-01-13 {{utLw7UeXCOo@61}} opinion He considers it the best safety squat bar available, mainly because its thick pad means you never feel metal on your shoulders, unlike thin, sliding pads on other SSBs.
+2020-01-13 {{utLw7UeXCOo@61}} opinion The standard handles are fine for most people (he is 6 ft); only very long-armed lifters need the longer handles.
+2020-01-14 {{Pr6to3cPR1g@18}} data [chest] The Bench Daddy is a thicker slingshot with two sleeve layers; the more sleeves you use, the more resistance it gives.
+2020-01-14 {{Pr6to3cPR1g@42}} data [chest] A slingshot adds energy at the bottom of the press, deloading the shoulders and chest; it takes roughly 30-40 lb or more off depending on the person.  {"load": "30-40+ lb assistance"}
+2020-01-14 {{Pr6to3cPR1g@67}} data It costs about $70, more than a Mark Bell slingshot.  {"price": "$70"}
+2020-01-14 {{Pr6to3cPR1g@80}} opinion Its wide, stretchy sleeves suit big-armed lifters; regular slingshots often stop fitting as you grow, while this one, bought for your bodyweight (his was about 210-220 lb), lasts for life.
+2020-01-14 {{Pr6to3cPR1g@133}} opinion The stitching is extremely durable and it doesn't really need washing or get smelly.
+2020-01-15 {{Mnp9m8qpNkU@0}} data The Rogue EZ bar weighs 30 lb and is much thicker than typical commercial-gym EZ bars, which are thin, shiny and 10-15 lb; the thickness can make it harder to grip.  {"load": "30 lb vs 10-15 lb"}
+2020-01-15 {{Mnp9m8qpNkU@64}} opinion The Rogue bar's knurling runs throughout except the smooth middle and is not aggressive, which is fine because on curls your hand is under the bar rather than pulling straight up.
+2020-01-15 {{Mnp9m8qpNkU@128}} opinion It is expensive for an EZ bar because it is built to last decades.
+2020-01-15 {{Mnp9m8qpNkU@128}} opinion [biceps] Buy it if you love curls, have an arm day and do lots of arm isolation; if you only curl occasionally for a pump, a $20 Walmart EZ bar is enough.  {"price": "$20 alternative"}
+2020-01-16 {{vVTF2oCZN-g@1}} prescription [calves] You can build a seated calf raise at home with just a barbell (an EZ bar is more comfortable), a bench and a block or stack of plates.
+2020-01-16 {{vVTF2oCZN-g@123}} principle [calves] An EZ bar's crease sits well even on big legs; a straight bar is less comfortable and less stable because it tends to roll down the legs.
+2020-01-19 {{AK6xwDBOJLE@0}} principle [calves] You don't need a calf machine: simple movements based on progressive overload can grow calves in a garage gym.
+2020-01-25 {{ZvKRTWehUDk@0}} principle [forearms] Lifting gloves create an extra layer between hand and bar that lets the bar slip; barbells have aggressive knurling precisely so the bar sits in your bare hand without slipping.
+2020-01-25 {{ZvKRTWehUDk@63}} opinion The bar hurts at first, but if you stick with bare hands you won't feel it after about a week.  {"weeks": 1}
+2020-01-25 {{ZvKRTWehUDk@63}} opinion Gloves smell when worn daily, get spongy when washed and must be replaced, so they end up costing a lot of money.
+2020-01-26 {{4S7JYYVqIEg@0}} prescription NH wears heeled Olympic weightlifting shoes for any knee-flexion movement (all squats) and flat, thin-soled, high-ankle shoes for everything else.
+2020-01-26 {{4S7JYYVqIEg@63}} principle [quads] Weightlifting shoes give more squat depth and open the hips by effectively adding ankle flexibility.
+2020-01-26 {{4S7JYYVqIEg@63}} opinion Good weightlifting shoes are heavy and grippy, making you feel anchored and stable on the floor.
+2020-01-26 {{4S7JYYVqIEg@125}} prescription Rule 1: the sole should be as wide or wider at the toes than at the heel; most commercial shoes are wide at the heel and narrow at the toes, which is unnatural, scrunches the toes and prevents you from anchoring.
+2020-01-26 {{4S7JYYVqIEg@318}} anecdote He likes his flat shoes because they have almost no sole, so they add no deficit to his deadlift.
+2020-01-26 {{4S7JYYVqIEg@318}} opinion People who prefer flat shoes like Chuck Taylors for squatting usually have exceptional hip and ankle mobility or squat low bar, which involves more hip hinge and posterior chain.
+2020-01-26 {{4S7JYYVqIEg@380}} opinion Avoid sneakers and Jordans for lifting; they're fine for curls if you want to show them off.
+2020-01-26 {{4S7JYYVqIEg@380}} opinion Lifting barefoot is great (NH used to), but gyms may ban it as a liability, and if you get used to barefoot deadlifts and are then forced into shoes you could lose about 40 lb on your pull; find a good shoe you can wear anywhere.  {"load": "~40 lb"}
+2020-01-27 {{BFVw7x1fZjs@0}} anecdote [forearms] Captains of Crush grippers are extremely durable: some of his have lasted 4-5 years without rusting or damage, while cheaper grippers he bought broke.  {"years": "4-5"}
+2020-01-27 {{BFVw7x1fZjs@62}} opinion [forearms] Thin gripper handles are more comfortable than padded ones: padding rolls in the hand, and a smaller surface area lets you position the handle on the hand muscle instead of pressing on nerves.
+2020-01-27 {{BFVw7x1fZjs@186}} opinion The gripper price is reasonable given they last a lifetime; buying them bundled with extensor elastics is usually cheaper.
+2020-01-29 {{UdMWt_ofY2w@0}} opinion [glutes] Pads are indispensable for hip thrusts, unlike squats.
+2020-01-30 {{jcPAK0tXXu4@0}} data The Rogue Matador attaches to the rack with a pin through the side and back holes, and because of its size it only fits on the wide side of the rack.
+2020-01-30 {{jcPAK0tXXu4@64}} opinion The Matador handles are an awkward diameter: too big to wrap comfortably (it strains the wrist), too small for a stable thumbless grip.
+2020-01-30 {{jcPAK0tXXu4@64}} prescription Putting fat grips on the dip handles makes them wide enough to use thumbless or wrapped and just rest your hands on.
+2020-01-30 {{jcPAK0tXXu4@190}} opinion The Matador shakes even on a rack bolted deep into concrete, more so as you rep; at 210 lb it's not dangerous for him, but it could be for heavier lifters.  {"bodyweight": "210 lbs"}
+2020-01-30 {{jcPAK0tXXu4@190}} data The Matador's welding is good quality and the pin fits well, but the paint chips by itself; price is reasonable at about 80-100 dollars.  {"price": "80-100 USD"}
+2020-01-30 {{jcPAK0tXXu4@254}} opinion [shoulders] Buy the Matador only if you dip occasionally and have mastered dips; calisthenics enthusiasts and anyone doing weighted dips should avoid it or risk destroying their shoulders.
+2020-01-30 {{jcPAK0tXXu4@254}} opinion The Matador is one of the few Rogue products he doesn't like or recommend.
+2020-01-31 {{7C5gtGrWYM0@126}} opinion Every bodybuilder should use lifting straps; pulling without straps makes no sense to him.
+2020-01-31 {{vnssPJqYmtQ@63}} data [forearms] IronMind hand-extensor elastics are cheap (about 9 dollars a bag) and his have lasted 3 years without breaking, but any elastic works.  {"price": "~9 USD", "years": 3}
+2020-02-03 {{TrU2m-4yZT0@0}} data A Smith machine is a rack with a barbell fixed to it that only moves straight up and down.
+2020-02-03 {{TrU2m-4yZT0@315}} opinion The Smith machine is much easier than free weights because the fixed straight path lets you apply all your strength and the bar is stabilized on both sides.
+2020-02-03 {{TrU2m-4yZT0@442}} opinion He only partly agrees that gyms should replace Smith machines with racks, because the Smith has uses.
+2020-02-04 {{M9QpHgTUago@187}} opinion [shoulders] With a band, leaning back makes face pulls easier and pulling further back makes them harder; long-term band use stops being felt, so he prefers a Spree device.
+2020-02-04 {{M9QpHgTUago@253}} principle [forearms] Face pulls with rotating handles (Spree) are easier on the wrists, useful for people with wrist issues.
+2020-02-08 {{tF1q5qarPxs@0}} principle [back] Straps take grip out of the equation so you only focus on your back and leg drive.
+2020-02-08 {{tF1q5qarPxs@0}} opinion [back] If you're a bodybuilder who doesn't compete in powerlifting, use straps; there's no reason not to.
+2020-02-08 {{tF1q5qarPxs@125}} anecdote NH has used IronMind straps for almost two years without any sign of breaking, whereas he has seen other straps snap mid-pull.  {"years": "almost 2"}
+2020-02-08 {{tF1q5qarPxs@186}} opinion A strap's texture matters: silky straps feel like they'll slip and mentally check you out; IronMind's grainy texture feels like knurling.
+2020-02-08 {{tF1q5qarPxs@186}} opinion Pricier durable straps beat $5 straps; changing straps often throws training off, so stick with one pair.  {"price": "$5 cheap alternatives"}
+2020-02-08 {{tF1q5qarPxs@249}} opinion Straps stiffen and take a permanent bend with sweat over months (he never washes his); he finds them too soft new and better once broken in like shoes.
+2020-02-08 {{tF1q5qarPxs@315}} anecdote Months of barbell friction wore away only about 1/20-2/20 of the strap; he expects several more years of use.
+2020-02-08 {{tF1q5qarPxs@315}} opinion The ideal strap length lets you loop it two or three times around the bar; much longer straps are pointless and shorter ones less secure.
+2020-02-10 {{lq_qgThCqHY@564}} opinion [forearms] Using straps actually helps forearm growth (topic of a follow-up video).
+2020-02-11 {{sT8z3ENnqAQ@0}} principle [forearms] With a double-overhand grip, grip limits floor pulls 100% of the time; no lifter has forearms stronger than their posterior chain.
+2020-02-11 {{sT8z3ENnqAQ@126}} opinion Critics contradict themselves calling straps both useless and cheating; if they let you pull more they're not useless, and pulling with good form isn't ego.
+2020-02-11 {{sT8z3ENnqAQ@189}} opinion [back] Unless you're a powerlifter, use straps on pulls; there's no reason for hook grip, and mixed grip is especially terrible.
+2020-02-11 {{sT8z3ENnqAQ@379}} prescription [forearms] If you dislike straps, do most working sets with your regular grip and use straps for volume work.
+2020-02-11 {{sT8z3ENnqAQ@379}} opinion [forearms] Hook grip is a 'biological strap'; the only difference from straps is ego, plus it's uncomfortable, slow to learn and impossible for some hands.
+2020-02-11 {{sT8z3ENnqAQ@442}} prescription [back] He uses double overhand where it doesn't hurt performance and straps for everything else; straps build the back faster because the back is far stronger than the forearms.
+2020-02-11 {{sT8z3ENnqAQ@693}} prescription [forearms] Use straps wherever grip limits the lift or stops you working the upper back, then spend the saved grip on forearm exercises.
+2020-02-15 {{Lg0FY5wzMqw@0}} prescription Weight is weight: don't worry about plate brand, looks or shine; buy the cheapest plates in the best condition you can find.
+2020-02-15 {{Lg0FY5wzMqw@51}} prescription Your best bet for cheap plates is small mom-and-pop gyms that are closing and selling everything.
+2020-02-15 {{Lg0FY5wzMqw@62}} prescription Once you lift in the 400-500 lb range consider calibrated plates: cheap 45s can actually weigh 38-48 lbs, which can create a dangerous ~20 lb side-to-side discrepancy on a 400 lb squat.  {"load": "400-500 lbs; 45s weighing 38-48; ~20 lb imbalance"}
+2020-02-15 {{Lg0FY5wzMqw@124}} anecdote He bought close to 1,000 lbs of plates, going for the cheapest, so he owns a mismatch of brands; companies discount bundles and each brand tends to be cheapest on different plate sizes.  {"load": "~1000 lbs"}
+2020-02-15 {{Lg0FY5wzMqw@186}} prescription $2 hardware-store clamps work as well as or better than barbell collars, except for dumbbell tricep movements where pressure on the plate can make them fly off.
+2020-02-15 {{Lg0FY5wzMqw@186}} prescription Don't buy wooden blocks (for block pulls, box squats) from fitness companies at about five times the price; have a hardware store build them or build them yourself.
+2020-02-15 {{Lg0FY5wzMqw@248}} prescription Build your own lifting platform: small branded platforms cost around $1,000 while you can build one for under $150.  {"cost": "$1000 vs <$150"}
+2020-02-15 {{Lg0FY5wzMqw@248}} anecdote His 16 x 8 ft multi-layer platform with stall mats cost about $500 to build; custom-made it would have cost at least $4,000, ten times more.  {"cost": "$500 vs $4000"}
+2020-02-15 {{Lg0FY5wzMqw@311}} prescription Never buy stations (cable machines, preacher curls) at commercial list price: buy used, or contact a wholesaler's sales rep directly, ask for a cheaper non-commercial model (often half price), and negotiate free shipping.  {"percent": "~50% cheaper"}
+2020-02-15 {{Lg0FY5wzMqw@438}} principle Saving money on equipment may mean waiting two or three months for shipping; patience is the price.  {"weeks": "8-12"}
+2020-02-15 {{Lg0FY5wzMqw@438}} opinion Following these five tips can save $3,000-4,000 on a home or garage gym.  {"cost": "$3000-4000 saved"}
+2020-02-15 {{Lg0FY5wzMqw@0}} principle 'Buy nice or buy twice' applies to gym equipment, with a few exceptions where going cheap is fine.
+2020-02-21 {{8j33uH5-RzA@0}} prescription If you buy a machine, make sure it serves several purposes (e.g. a cable machine usable for rows, triceps extensions and more), since you can't fit a machine per body part unless you have huge space.
+2020-02-21 {{8j33uH5-RzA@64}} opinion Internally weight-stacked cable stations are horrendous for home gym owners: very heavy to move, often must be disassembled to move without breaking, and are a headache to reassemble or sell.
+2020-02-21 {{8j33uH5-RzA@128}} prescription Always choose plate-loaded machines and cable stations: easier to move and in demand on the resale market.
+2020-02-21 {{8j33uH5-RzA@128}} data With patience you can recover 70-80% of the initial investment when reselling plate-loaded equipment even after three or four years.  {"percent": "70-80", "years": "3-4"}
+2020-02-21 {{8j33uH5-RzA@191}} opinion As a barbell purist he doesn't think guided plate-loaded machines (Hammer Strength style) are needed since most of their exercises can be done with a barbell.
+2020-02-21 {{8j33uH5-RzA@191}} anecdote [biceps] He bought a preacher curl bench because he loves training biceps, and a hyperextension bench because lower back training prevents injuries.
+2020-02-21 {{8j33uH5-RzA@252}} prescription Golden rule of the home gym: only buy equipment you will use at least once a week; otherwise it's wasted money.  {"frequency": ">=1x/week"}
+2020-02-21 {{8j33uH5-RzA@315}} prescription Measure dimensions meticulously: in a tight garage a few inches can make or break a piece of equipment.
+2020-02-25 {{Ukr7QbcWCMA@0}} anecdote He bought Vulcan calibrated plates for his home gym about seven months before the review.  {"weeks": "~30"}
+2020-02-25 {{Ukr7QbcWCMA@0}} data Vulcan plates are among the cheapest calibrated plates and the cheapest branded option with marked weights; unmarked black cast iron calibrated plates can be cheaper.
+2020-02-25 {{Ukr7QbcWCMA@62}} opinion He doesn't care much about plates, but wanted exact weight so the bar holds what he loads and both sides are balanced; a several-pound imbalance at heavy loads can be dangerous and throw you off.
+2020-02-25 {{Ukr7QbcWCMA@62}} data The plates have a lip that lets you pinch-grip them, but the paint makes them slippery; dropping them is destructive.
+2020-02-25 {{Ukr7QbcWCMA@126}} data All plates are the same thickness except the 25 kg plate, which is thicker; the 25 kg and 20 kg share the same diameter.
+2020-02-25 {{Ukr7QbcWCMA@188}} opinion The paint looks good and shiny but chips easily and rubs onto racks when plates bump them, even accounting for his rough handling.
+2020-02-25 {{Ukr7QbcWCMA@249}} opinion At launch he bought a bundle of 600-700 lbs cheaply, but Vulcan's bundles are mostly 25 kg plates with only a pair of each smaller size, leaving you short on fractional plates and 5 kg plates for dumbbells.  {"load": "600-700 lbs"}
+2020-02-25 {{Ukr7QbcWCMA@312}} opinion Even the 1.25 kg plates are branded and marked, which he appreciates.
+2020-02-25 {{Ukr7QbcWCMA@375}} data They are iron, not bumper plates: noisy, and you need a platform or sturdy rubber mats because they will break anything else; they slide onto the sleeve well without chipping it.
+2020-02-25 {{Ukr7QbcWCMA@375}} opinion He recommends Vulcan calibrated plates for a home gym if you want standardised, calibrated plates.
+2020-03-06 {{XiZPFJvijqA@39}} opinion Common anti-strap claims include that straps ruin form, impair growth, cause injuries, or turn the deadlift into a different lift that loses its benefits; he finds these silly.
+2020-03-06 {{XiZPFJvijqA@169}} anecdote [forearms] He has used straps for a year with submaximal weights; the only effect is marks or bruising on the wrist, never pain, and a bruise is not an injury.  {"weeks": "1 year"}
+2020-03-06 {{XiZPFJvijqA@205}} data Strongmen pull around a thousand pounds with straps from the floor or blocks and do farmer's walks and frame carries with around 800 lbs in straps, yet he has never heard of one injuring a wrist from straps.  {"load": "~1000 lbs pulls, ~800 lbs carries"}
+2020-03-06 {{XiZPFJvijqA@254}} opinion [back] People also wrongly tie straps to ego to discourage using them for rows and upper back work; avoiding straps out of fear means missing out on gains because straps are amazing.
+2020-03-10 {{lvgQDI8WztE@124}} data The Iron Bull Alpha Grips cost under $20 a pair, are very flexible and fit dumbbells, thick bars and dip bars.  {"load": "<$20"}
+2020-03-10 {{lvgQDI8WztE@124}} anecdote He bought them because his old gym's thick metal dip bars dug into his large palms and hurt his wrists and hands; he also used them on outdoor park bars for pull-ups and dips.
+2020-03-10 {{lvgQDI8WztE@188}} opinion After two years including outdoor use on rough equipment they show no wear; he recommends them (not affiliated).  {"weeks": "2 years"}
+2020-03-10 {{lvgQDI8WztE@188}} opinion They add only modest thickness; for extreme thickness choose another product.
+2020-03-10 {{lvgQDI8WztE@251}} prescription Fat grips are easy to forget on a dumbbell in a commercial gym, so always pack them back in your bag.
+2020-03-10 {{m-DWvBP_ncU@0}} anecdote [forearms] He does not train with fat grips and has no plans to yet; his forearm training is going another direction, so this is a beta take to be updated later.
+2020-03-10 {{m-DWvBP_ncU@0}} principle Fat grips are rubber sleeves that thicken a bar or dumbbell; strongman competitors can use them to simulate thick implements in a gym that lacks them.
+2020-03-10 {{m-DWvBP_ncU@379}} principle [forearms] Fat grips complement forearm work rather than replacing it.
+2020-03-12 {{egBEW3Iaiak@251}} principle A good ab bench costs at least $800 and takes space; he only buys expensive equipment he'll use often or for many exercises.  {"load": "$800"}
+2020-03-15 {{8s56W2sjc2g@0}} opinion For accommodating resistance on a barbell, looped bands beat SPRI tubes: they're easier to secure around pegs and a power rack, and good companies state their tension so you know how much load they add.
+2020-03-15 {{8s56W2sjc2g@64}} opinion Some people wrap SPRI tubes under a bench and onto the barbell ends for bench press; he doesn't recommend it because a handle can slip off and put you in danger.
+2020-03-15 {{8s56W2sjc2g@190}} opinion SPRI handles rotate and move, letting the wrist find its angle; for standing curls and especially overhead press they feel much better than bands, which sit awkwardly in the hand.
+2020-03-15 {{8s56W2sjc2g@252}} opinion [shoulders] SPRI tubes are also great for pull-aparts and shoulder dislocates.
+2020-03-15 {{8s56W2sjc2g@252}} prescription SPRI sellers give arbitrary difficulty colours rather than load, and even the red ones are tough; buy the lightest (yellow) first to avoid getting one you can't use.
+2020-03-15 {{8s56W2sjc2g@313}} anecdote In very cold garage gyms (below 0 F) rubber bands freeze stiff and become unusable, while SPRI tubes don't freeze; he ruined a band this way.  {"temperature": "below 0 F"}
+2020-03-15 {{8s56W2sjc2g@313}} opinion SPRI tubes are pricier than bands but last a lifetime, which is why commercial gyms buy them.
+2020-03-18 {{jPw1ZJko9rY@0}} prescription Don't build a home gym in the middle of a crisis; do calisthenics at home and build it once things blow over.
+2020-03-18 {{jPw1ZJko9rY@0}} principle Building a home gym bit by bit is viable and spreads cost and effort; buying everything at once saves money on shipping and gives peace of mind.
+2020-03-18 {{jPw1ZJko9rY@126}} prescription Account for every cost; know where you can go cheap, but pay for quality on key items: a good barbell lasts 10 years, a bad one may be done in two.  {"years": "10 vs 2"}
+2020-03-18 {{jPw1ZJko9rY@187}} prescription Check stock before ordering bundles: retailers may hold the whole shipment for one out-of-stock item; call and ask them to ship that piece later, usually at no extra cost.
+2020-03-18 {{jPw1ZJko9rY@249}} prescription Use order thresholds for discounts and free shipping (e.g. Rogue over 5000 USD, many plate sellers over 500 USD), but don't buy a piece you like less just to hit a threshold.  {"price": "5000 USD / 500 USD"}
+2020-03-18 {{jPw1ZJko9rY@312}} prescription Plan delivery dates: be present to receive big items, and make sure carriers bring heavy items inside rather than leaving 500 lbs of plates on the curb.  {"load": "500 lbs"}
+2020-03-18 {{jPw1ZJko9rY@374}} principle Space planning is the key part: draw a map of the space so you don't discover on build day that equipment doesn't fit.
+2020-03-18 {{jPw1ZJko9rY@436}} prescription If you build a platform, it comes first and the gym goes on top of it.
+2020-03-18 {{jPw1ZJko9rY@436}} data His whole gym fits in a 16 by 8 ft space in a garage full of mechanical equipment.  {"area": "16x8 ft"}
+2020-03-18 {{jPw1ZJko9rY@502}} prescription Measure the space and chalk its exact outline on the floor, then sit and visualise where every piece will go, since bolted pieces can't move later.
+2020-03-18 {{jPw1ZJko9rY@502}} prescription List every piece of equipment with a number (e.g. 1-10) and place the numbers on the paper plan, keeping each item's real footprint in mind; construction video games train this skill.
+2020-03-18 {{jPw1ZJko9rY@628}} prescription The rack is the centrepiece and should come first; avoid putting it in the middle, which wastes space in front and behind. His sits near the back.
+2020-03-18 {{jPw1ZJko9rY@690}} principle A home gym is a 3D project: leave clearance on both sides of the rack for loading plates and for your body, and padding if you pull from the floor.
+2020-03-18 {{jPw1ZJko9rY@755}} prescription Plan months in advance and don't over-pack; a cramped, non-ergonomic gym kills enthusiasm to train.
+2020-03-18 {{kY88aqcwRqI@30}} prescription Maintain muscularity with push-ups, pull-ups if you have a bar, ab work, bridges for the lower back, and air squats; work on form and mindset.
+2020-03-18 {{kY88aqcwRqI@64}} prescription Don't build a home gym during the crisis: prices are spiking because everyone is buying equipment for the new clickbait programs; wait until it's over.
+2020-03-19 {{smAsuyqAQOo@253}} opinion Train in a gym that lets you go 100% and lift how you want; a restrictive gym reduces your ability to lift heavy and, he believes, hurts hormone production.
+2020-03-23 {{RxnaWqkkVlg@38}} prescription Don't build a garage gym right after moving somewhere in spring or summer; live through a winter first to know how cold it gets.
+2020-03-23 {{RxnaWqkkVlg@113}} principle Walking into a cold gym after an 8-hour workday saps all your energy.  {"hours": 8}
+2020-03-23 {{RxnaWqkkVlg@113}} principle Don't trust insulation: unless the gym is inside the house, a garage or shed exposed to the elements will get cold, and a garage door lets in cold air even when sealed.
+2020-03-23 {{RxnaWqkkVlg@154}} data Where he lives, winter lasts about 8 months a year; his gym dropped as low as 15-20 F even with the heat running.  {"months": 8, "temperature": "15-20 F"}
+2020-03-23 {{RxnaWqkkVlg@194}} principle A furnace or heater in a garage gym only provides relief; it fights the outside cold and won't raise the temperature like in a house.
+2020-03-23 {{RxnaWqkkVlg@228}} prescription If you feel cold at 40-50 F, don't build a gym that exposes you to cold daily; you'll be miserable and your relationship with training will become toxic.  {"temperature": "40-50 F"}
+2020-03-23 {{RxnaWqkkVlg@338}} principle Cold tolerance depends on bodyfat and genetics; if you lack it, cold will hurt your gains, so don't just assume you'll get used to it.
+2020-03-23 {{RxnaWqkkVlg@390}} principle Steel barbells freeze and numb your hands, which is painful and can be dangerous on lifts like bench where you need to feel the bar.
+2020-03-23 {{RxnaWqkkVlg@390}} data Resistance bands freeze at low enough temperatures and lose all elasticity, becoming useless.
+2020-03-26 {{rDfa3uMzwMQ@0}} opinion Encouraging people to rush into building home gyms during the COVID closures is irresponsible; companies are exploiting the crisis and some prices have already doubled.
+2020-03-26 {{rDfa3uMzwMQ@63}} principle The best thing about a home gym is being able to train however you want: bang weights, scream, drop plates, be shirtless, blast music.
+2020-03-26 {{rDfa3uMzwMQ@254}} anecdote He has made far more progress since having his own gym; training as aggressively as you like unlocks something mentally that lets you push your limits.
+2020-03-26 {{rDfa3uMzwMQ@381}} prescription Build a home gym deliberately once the crisis passes, rather than piling up equipment bought in a hurry.
+2020-04-03 {{T_DyRlu3Y7I@254}} opinion Use whatever equipment you like (belts, straps, sleeves) as long as it doesn't modify the lift's strength curve; if it helps recovery or strength, use it. He has never used a belt himself.
+2020-04-03 {{T_DyRlu3Y7I@317}} opinion Equipment that adds a lot of poundage, like wraps and slingshots, needs thought and novices shouldn't use it.
+2020-04-20 {{vW-SG1vMgHQ@0}} principle Any pull where you put the bar down on the floor damages concrete over time, and it takes much less weight than you'd think to cause permanent damage.
+2020-04-20 {{vW-SG1vMgHQ@0}} data Floor protection options are wood, rubber mats, or a combination of both as a platform.
+2020-04-20 {{vW-SG1vMgHQ@0}} opinion Avoid the interlocking puzzle mats sold online: they are usually expensive, not thick enough, fall apart and keep coming unstuck.
+2020-04-20 {{vW-SG1vMgHQ@62}} opinion Horse stall mats are the best home gym mats: the least expensive and the best at absorbing shock because they are thick and good quality.
+2020-04-20 {{vW-SG1vMgHQ@124}} prescription Stall mats are easy to carry rolled up and taped, but when picking them up flat from a store warehouse, call ahead and bring a second person to stabilize them to avoid injury.
+2020-04-20 {{vW-SG1vMgHQ@185}} opinion Good-quality stall mats don't bounce a dropped deadlift back at you; they absorb the shock, which is what they should do.
+2020-04-20 {{vW-SG1vMgHQ@185}} opinion Stall mats feel too slippery for squats and overhead press, risky when walking out heavy squats, and your foot can slip during bench leg drive; wood feels like night and day.
+2020-04-20 {{vW-SG1vMgHQ@311}} opinion He suspects, without proof, that soft mats absorb some of the energy you use to drive out of a squat, unlike solid wood; he can't squat on them. (low-confidence)
+2020-04-20 {{vW-SG1vMgHQ@311}} data In humid climates stall mats collect a thin layer of water, especially in the morning, making them even more slippery.
+2020-04-20 {{vW-SG1vMgHQ@374}} anecdote Even heavy mats shift and form creases that trap dust; he screwed his mats onto wooden planks for stability.
+2020-04-20 {{vW-SG1vMgHQ@374}} anecdote After about seven months of deadlifting on one spot over one layer of mat on wood, the wood underneath is sinking, so mats don't fully protect against shock.  {"months": 7}
+2020-04-20 {{vW-SG1vMgHQ@436}} prescription If the floor underneath is sensitive, use two layers of stall mat or screw the mats onto cheap thin wood.
+2020-04-20 {{vW-SG1vMgHQ@436}} principle Stall mats are a good placeholder if you're unsure about building a platform, since they can later be reused in one; it's better to start small with home gym equipment than invest a lot at once without expertise.
+2020-04-27 {{87CMjYjX2jY@0}} principle Whatever setup you have, do the best you can with it; calisthenics-only programs are fine.
+2020-04-27 {{bjxj5mm_2bA@0}} opinion Owning your training space greatly increases your ability to make gains.
+2020-04-27 {{bjxj5mm_2bA@63}} principle In a commercial gym your schedule depends on others: you must share equipment and wait if the bench or rack is taken.
+2020-04-27 {{bjxj5mm_2bA@63}} opinion Bullying people off equipment is easy but bad behaviour that can get you banned.
+2020-04-27 {{bjxj5mm_2bA@190}} anecdote He spent thousands of dollars on his home gym and considers every penny worth it just to avoid gym staff.
+2020-04-27 {{bjxj5mm_2bA@252}} opinion Attractive people at the gym are a distraction that takes energy away from lifting, and chatting people up means you're no longer training.
+2020-04-27 {{bjxj5mm_2bA@314}} opinion Giving up the gym's social contact is a sacrifice you have to be ready to make to improve your physique.
+2020-04-27 {{bjxj5mm_2bA@314}} opinion Commercial gym pop music bleeds through headphones, so you crank the volume and risk your hearing; at home you can lift in silence or play your own music.
+2020-04-27 {{bjxj5mm_2bA@441}} principle Big gyms waste time walking between machines, fetching plates and locker rooms, which costs focus, pump, warm-up and strength; at home everything is right there.
+2020-05-01 {{eFhwWirR70o@991}} principle You don't need a barbell to make gains; it helps but isn't required.
+2020-05-06 {{j0UMvyV80VY@0}} data Building a platform yourself instead of buying retail saved him about $3,000.  {"cost": "$3000 saved"}
+2020-05-06 {{j0UMvyV80VY@0}} principle A platform protects the floor by combining a rigid wood structure with mats; a small 2x4 deadlift platform can be moved, but his 16x8 ft one can't.  {"size": "16x8 ft"}
+2020-05-06 {{j0UMvyV80VY@65}} prescription Mark the footprint on the floor with chalk, measure it, and write every detail down so you don't freeze at the hardware store.
+2020-05-06 {{j0UMvyV80VY@130}} prescription Decide how much protection you need: one layer of plywood plus mat over solid ground, or two layers of plywood for more; more layers cost more and are harder to move.
+2020-05-06 {{j0UMvyV80VY@193}} prescription If you'll bolt a rack to the platform, plan where the screws go and buy wood/mat screws, since racks usually come with concrete anchors.
+2020-05-06 {{j0UMvyV80VY@256}} prescription Draw a step-by-step paper plan (layers, piece counts, dimensions, cuts, screws, glue) a month or two before buying materials; get wood cut at the store if you lack tools.
+2020-05-06 {{j0UMvyV80VY@441}} prescription Don't use cheap plywood underneath: it's often warped and makes a wobbly surface for deadlifts. Quality plywood costs about three times more but lasts years.
+2020-05-06 {{j0UMvyV80VY@503}} prescription Never buy plywood online; stores offload the worst stock. Inspect every sheet in person for warping and knots, which make screwing impossible.
+2020-05-06 {{j0UMvyV80VY@567}} prescription The exposed top wood piece takes the most abuse (humidity, sweat, impact), so buy the best quality you can for it.
+2020-05-06 {{j0UMvyV80VY@567}} prescription Buy high-quality horse stall mats, not puzzle-piece mats from websites.
+2020-05-06 {{j0UMvyV80VY@630}} prescription Rent a truck and bring at least one strong helper to haul plywood and mats.
+2020-05-06 {{j0UMvyV80VY@692}} prescription Do a full mock assembly before gluing or screwing, so you can fix the plan if it doesn't match.
+2020-05-06 {{j0UMvyV80VY@692}} principle Garage floors slope, so you need to calculate a structure that levels the platform.
+2020-05-06 {{j0UMvyV80VY@756}} anecdote Glue the base layers before screwing and let the glue dry first; in warm weather his dried in about 40 minutes.  {"minutes": 40}
+2020-05-06 {{j0UMvyV80VY@820}} prescription Don't glue the mats or the exposed top wood; screw them only, so a cracked or worn piece can be swapped for about $30 instead of rebuilding the platform.  {"cost": "$30"}
+2020-05-06 {{j0UMvyV80VY@884}} anecdote He once cracked the exposed wood by dropping a weight during squats.
+2020-05-06 {{j0UMvyV80VY@884}} principle A large multi-layer platform becomes immovable as a unit; removing it means unscrewing every piece.
+2020-05-18 {{_up-dPpdMF0@0}} anecdote He has used the Rogue adjustable monolift every week for 8 months.  {"weeks": "8 months"}
+2020-05-18 {{_up-dPpdMF0@62}} data A rack-mounted monolift attachment costs about $100-120, versus a few thousand dollars for a dedicated monolift (e.g. Elite FTS), and can be moved for squat, OHP or bench, though moving it takes more effort than J-cups.  {"load": "~$120 vs thousands"}
+2020-05-18 {{_up-dPpdMF0@124}} prescription Rogue sells them for 3x4 racks; for a 3x3 rack buy Rogue's cheap conversion kit rather than forcing the 3x4 version or cutting metal. He loves 3x3 racks.
+2020-05-18 {{_up-dPpdMF0@186}} data The arm only swings back under weight; with light loads (under about 135 lbs) it stays put.  {"load": "135 lbs"}
+2020-05-18 {{_up-dPpdMF0@249}} anecdote A monolift lets you set up statically and skip the walkout on squats; he doesn't use it for squat or OHP because he finds walking out comfortable and likes it.
+2020-05-18 {{_up-dPpdMF0@373}} principle [chest] With the monolift at the right height you just straighten your elbows and the arms slide clear; J-cups at that height would be hit on every rep.
+2020-05-18 {{_up-dPpdMF0@435}} prescription If you move the monolift between lifts, chalk-mark the holes so you don't have to work out positions each time.
+2020-05-18 {{_up-dPpdMF0@497}} prescription If the arm stops short of full travel, the side screws have become too tight; loosen them slightly rather than returning it to Rogue.
+2020-05-18 {{_up-dPpdMF0@558}} data The plastic liner grips the bar and wears down when you reposition heavy (300+ lb) bars; once worn through, steel contact can damage a quality barbell.  {"load": "300+ lbs"}
+2020-05-18 {{_up-dPpdMF0@621}} opinion [shoulders] He recommends it to any home-gym owner without a spotter for lift-offs: it saves the shoulders and makes benching easier, and the hook angle makes missing the re-rack effectively impossible.
+2020-05-18 {{_up-dPpdMF0@621}} prescription [chest] If you bench heavy at home, always set safety arms to catch the bar.
+2020-05-18 {{rucwL-SIefg@1605}} anecdote [quads] Legs are the easiest body part to train with only a barbell; his own leg training is 100% barbell movements.
+2020-05-19 {{4rjywMLXt98@695}} prescription Use bands as much as possible for nucleus overload: light work still taxes tendons and joints, while bands are easy on and even beneficial for the joints
+2020-06-05 {{PYmr91aELnE@289}} principle Band movements should be done with high volume and low intensity
+2020-06-15 {{NiV6lE0XUH8@127}} principle Dumbbell-only training is less efficient than barbells: you outgrow 100 lb dumbbells fast on deadlifts, and goblet or dumbbell squats are different movements from back squats  {"load": "100 lb"}
+2020-06-17 {{_DBo2ZfeWXI@63}} principle Steel J-cups let the bar slide but gradually wear down the knurling, reducing the bar's grip and resale value, especially when shifting heavy squats
+2020-06-17 {{_DBo2ZfeWXI@126}} principle Plastic-lined J-cups protect the bar but resist sliding; around 400 lb it becomes almost impossible to shift the bar and you can hurt yourself forcing it  {"load": "~400 lb"}
+2020-06-17 {{_DBo2ZfeWXI@126}} opinion Roller J-cups hold the bar but offer no resistance side to side; if you squat heavy you need them
+2020-06-17 {{_DBo2ZfeWXI@189}} opinion Roller J-cups sell for around 300 dollars a pair versus 10-30 for normal ones, a markup due to lack of competition rather than material cost; prices will drop once big brands make them
+2020-06-17 {{_DBo2ZfeWXI@314}} prescription Hack: buy roller J-cups made for another brand's rack (hole sizes are standard, only pillar width differs) and have the angled rear guard cut off
+2020-06-17 {{_DBo2ZfeWXI@379}} prescription Do not cut metal yourself without proper tools; pay a welder about 20 dollars to cut it, and optionally paint the cut black
+2020-06-17 {{_DBo2ZfeWXI@443}} prescription Replace the removed guard with a strong strap looped through the rack's side pin holes and tightened, so the cup cannot tip forward under a loaded bar
+2020-06-17 {{_DBo2ZfeWXI@505}} anecdote He has squatted with this setup for about five months without the cups ever moving  {"months": 5}
+2020-06-17 {{_DBo2ZfeWXI@505}} principle Side holes are spaced farther apart than front holes, so you may have to set the cups a bit lower, slightly worsening your unrack position
+2020-06-17 {{_DBo2ZfeWXI@251}} anecdote His roller cups cost about 30 dollars, less than his Rogue J-cups; the hack should cost about 50 instead of 300-350
+2020-06-17 {{_DBo2ZfeWXI@568}} opinion Roller cups also make rolling the bar forward and backward much easier than regular J-cups
+2020-06-26 {{PFQ30yaL1t0@0}} principle With only 130 lb of free weights, rep ranges must stay higher because intensity cannot be raised by stacking weight  {"load": "130 lb"}
+2020-06-26 {{PFQ30yaL1t0@0}} opinion A bench and a squat rack are non-negotiable for full chest and leg development
+2020-07-02 {{aRipfEYaVdc@0}} prescription Don't buy cheap barbells: an 80-dollar Amazon bar can bend deadlifting 300 lb, has poor knurling and finish, and arrives oil-coated to stop rust  {"load": "300 lb"}
+2020-07-02 {{aRipfEYaVdc@63}} principle A quality stainless bar needs zero upkeep in any climate; a 300-dollar bar kept 10 years costs 30 dollars a year
+2020-07-02 {{aRipfEYaVdc@125}} prescription Buy high-end but not luxury: beyond a point, as with some boutique bars, you pay double for no meaningful quality gain
+2020-07-02 {{aRipfEYaVdc@187}} anecdote Check Rogue's Bone Yard for cosmetically flawed items; he got an Ohio Power Bar for 180 dollars
+2020-07-02 {{aRipfEYaVdc@187}} prescription The rack is your home where you squat, bench, press and do pull-ups; avoid knockoffs that are 40% cheaper but far worse, often with missing pieces and bad service
+2020-07-02 {{aRipfEYaVdc@313}} principle You need total trust that your safeties will catch any load, and accessory fit depends on rack quality
+2020-07-02 {{aRipfEYaVdc@313}} prescription Garage lifters need a platform: lifting on concrete is hard on feet, ankles and knees and dangerous for drops; build your own with quality materials rather than buying cheap pre-made ones
+2020-07-02 {{aRipfEYaVdc@438}} principle Quality barbells, racks and stations resell easily at high prices, while cheap knockoff racks won't sell
+2020-07-02 {{aRipfEYaVdc@502}} prescription For stations, contact the manufacturer to get a salesman who can find mid-range options about half the price of gym-grade gear; at home use they still last 10+ years
+2020-07-02 {{aRipfEYaVdc@566}} opinion Brand-name stations like Matrix or Hammer Strength sell like hot cakes, possibly at a profit
+2020-07-02 {{aRipfEYaVdc@628}} prescription His garage gym is cramped and gets very cold and hot, which he tolerates; research and invest in the gym location and environment before buying your first barbell
+2020-07-15 {{YcHkXwsIOI8@252}} prescription A belt adds weight on the bar for most people, so powerlifters should use one
+2020-07-22 {{GkU58YBoWqQ@0}} principle A pair of fixed dumbbells is cheap, but a full set covering shoulders, biceps and triceps costs a few thousand, which is why adjustable dumbbells make sense
+2020-07-22 {{GkU58YBoWqQ@63}} anecdote He keeps no machines or racks in his gym because they take too much space and cannot be moved
+2020-07-22 {{GkU58YBoWqQ@125}} data DB-10 and DB-15 have identical handle length and knurling, moderately aggressive and similar to the Rogue Ohio Power Bar; chrome finish does not change the grip
+2020-07-22 {{GkU58YBoWqQ@235}} data Collar length is the only real difference between the two models
+2020-07-22 {{GkU58YBoWqQ@315}} data The DB-10 weighs 10 lb and fits two standard 10 lb plates plus the collar, for about 55-60 lb maximum safely  {"load": "55-60 lb"}
+2020-07-22 {{GkU58YBoWqQ@315}} data The DB-15 weighs 15 lb and fits five 10 lb plates per side plus the collar, up to about 115 lb  {"load": "115 lb"}
+2020-07-22 {{GkU58YBoWqQ@315}} prescription Leave room for the collar; if plates press directly on it, it will work loose
+2020-07-22 {{GkU58YBoWqQ@440}} anecdote A fully loaded DB-15 is long enough that plates hit your body on curls; he had to switch dumbbell rows from inside to outside his body
+2020-07-22 {{GkU58YBoWqQ@502}} opinion They are extremely durable, surviving drops on steel and stone; only the logo marking wears off
+2020-07-22 {{GkU58YBoWqQ@502}} data DB-10s cost about 80 dollars or more and DB-15s over 100 each  {"price": "$80+ / $100+"}
+2020-07-22 {{GkU58YBoWqQ@565}} prescription Worth it if you do 4-6 isolation movements a week at different weights, arm wrestle, or are too strong for most dumbbells on rows; not worth it for occasional isolation  {"exercises": "4-6/wk"}
+2020-07-22 {{GkU58YBoWqQ@629}} prescription Loadable dumbbells are bulkier than fixed ones of the same weight and have a different strength curve, so start light to avoid injury
+2020-08-07 {{4ORCb_i7MxY@308}} opinion The safety squat bar is a game changer that every gym and home gym should have
+2020-08-19 {{RYkGN4SOkX0@1382}} opinion Accommodating resistance set up wrong, such as chains that never touch the floor, does nothing
+2020-08-28 {{RgGkGiaGqks@375}} principle More tools give more ability to adapt, but you can make do with anything
+2020-08-31 {{f_ElXUd7LHE@34}} principle Most gear either keeps form tight or stores kinetic energy; straps are their own category
+2020-08-31 {{f_ElXUd7LHE@106}} principle A belt doesn't store energy; it adds rigidity so you don't fold, letting you develop power
+2020-08-31 {{f_ElXUd7LHE@148}} principle Elastic gear has a learning curve; a bench shirt on a beginner can stop them touching their chest
+2020-08-31 {{f_ElXUd7LHE@183}} principle Knee sleeves and basic wraps add poundage for almost anyone; long knee wraps need practice
+2020-08-31 {{f_ElXUd7LHE@246}} principle [back] A belt takes some lower back stress and arguably makes legs work more by enabling leg drive
+2020-08-31 {{f_ElXUd7LHE@302}} opinion [abs] Any effect of a belt on ab use is too small to matter for hypertrophy
+2020-08-31 {{f_ElXUd7LHE@331}} principle There's no shame using a belt if you've built a reassuring connection with it, as long as it doesn't hide bad form
+2020-08-31 {{f_ElXUd7LHE@375}} principle Sleeves and wraps double up on tendons: they keep them warm, stop grinding and thicken the joint
+2020-08-31 {{f_ElXUd7LHE@479}} opinion Using gear for fashion, like the 2016 slingshot trend, is useless; it should fit your program, recovery and goals
+2020-08-31 {{f_ElXUd7LHE@722}} anecdote He uses wrist and elbow wraps to keep everything tight and pain-free
+2020-08-31 {{f_ElXUd7LHE@749}} opinion Even a placebo effect from gear is still an effect
+2020-08-31 {{f_ElXUd7LHE@766}} prescription Do warm-up sets raw and add gear from about 75-80% intensity; don't belt up for one plate  {"intensity": "75-80%"}
+2020-08-31 {{f_ElXUd7LHE@797}} anecdote He used a belt once, didn't like it, and never used one again
+2020-09-07 {{-GYV9s5Ad8s@191}} principle [forearms] A hook grip is like straps using your body as the hook
+2020-09-07 {{-GYV9s5Ad8s@315}} principle Double overhand, then mixed or hook grip, is dogma from powerlifting rules and makes no sense for hypertrophy
+2020-09-07 {{-GYV9s5Ad8s@1006}} opinion Gym rules about quiet, controlled lowering exist to protect equipment, not lifters
+2020-09-07 {{-GYV9s5Ad8s@1254}} prescription [forearms] Bodybuilders have no reason to hook grip; use straps
+2020-09-07 {{9M7QVlvFdQY@1570}} principle Rings are easy on the wrists, adjustable and easy to learn; scaled gymnastics movements on rings are good hypertrophy work with more stabilizer involvement
+2020-09-07 {{9M7QVlvFdQY@1633}} opinion [back] Rings are the main way to do bodyweight horizontal pulls, which are underrated
+2020-09-09 {{vijsrI1dkqs@560}} prescription Bands are the best tool for tendon work; I use a dumbbell for lat pullovers to stretch the ribcage and plates for calves and neck
+2020-09-13 {{I7vk4Kk5neA@0}} opinion The Elite FTS Yoke SSB is the one I use and recommend; buy it during their frequent sales
+2020-09-16 {{EnmFDF2DxAo@330}} prescription [neck] Bands work surprisingly well; plates become impractical near 45 lb; use a neck machine or a harness  {"load": "45 lb"}
+2020-09-30 {{gSpySaBZqn4@0}} prescription Pick a short, slightly rough towel (a dish towel works); too long is cumbersome and too soft is slippery
+2020-09-30 {{gSpySaBZqn4@62}} principle Towel exercises are low-load, and most towels can handle 200+ lb, far more than you'll use  {"load": "200 lb"}
+2020-09-30 {{gSpySaBZqn4@126}} anecdote [forearms] NH moved from bands (damaged) to chains (hurt his hands) to towels for his plate grip exercise
+2020-09-30 {{gSpySaBZqn4@438}} opinion Washing towels makes them smoother and less grippy; they get better the more you use them
+2020-10-02 {{TD9SB9Bt45o@245}} prescription [forearms] Use straps if grip fatigues on high-volume rows
+2020-10-18 {{1f4aaqgOfXk@101}} prescription Schedule the equipment-heavy arm day early Saturday morning when the gym is empty
+2020-10-18 {{cGzlMRCxvxo@557}} opinion He programs optimally and does not design around commercial gym constraints, but tries to make supersets need minimal equipment (e.g. EZ bar for curls, skull crushers and Pendlay rows)
+2020-10-26 {{dfnn-YdXerg@250}} principle [quads] Legs respond very well to barbell compounds and are much harder to grow with bodyweight alone
+2020-10-26 {{dfnn-YdXerg@283}} prescription Calisthenics program minimum equipment: pull-up bar, Olympic rings and resistance bands
+2020-10-26 {{dfnn-YdXerg@296}} prescription Barbell program needs only a squat rack, barbell and plates plus the calisthenics gear; no machines or dumbbells
+2020-10-26 {{dfnn-YdXerg@576}} opinion The advanced calisthenics program can be run for years and will build a good muscular body
+2020-11-04 {{h-QiKaysok0@230}} prescription Buy wooden rings: metal and plastic ones are slippery, damage easily, rust and can cut you
+2020-11-04 {{h-QiKaysok0@312}} opinion The three indispensable pieces of home training equipment are a pull-up bar, rings and elastic bands
+2020-11-04 {{h-QiKaysok0@340}} principle Rings only train the upper body: horizontal and vertical pulls and horizontal pushes; vertical presses require ring handstand push-ups
+2020-11-04 {{h-QiKaysok0@814}} opinion The Iron Bull Strength rings cost about $30 and are worth it for rows alone; NH is not sponsored  {"price": "$30"}
+2020-11-09 {{6sFaB3rAY1A@1255}} anecdote He can't do farmer walks because of eight months of frozen weather and no garage space
+2020-11-11 {{WbV8Ycdtx1o@0}} principle Five pieces of equipment are necessary to build your body at home, and you can make excellent gains with the first three alone
+2020-11-11 {{WbV8Ycdtx1o@498}} prescription A combined dip station and pull-up bar is one of the key home gym pieces (low-confidence)
+2020-11-11 {{WbV8Ycdtx1o@265}} prescription Resistance bands are recommended as a cheap home gym tool (low-confidence)
+2020-11-23 {{gCYXqFzqkVc@218}} prescription [forearms] Use straps on heavy deadlifts, rows and shrugs to save grip for dedicated forearm work; grip the bar on warm-ups
+2020-11-23 {{gCYXqFzqkVc@527}} principle [forearms] Thick bars or fat grips train pinch grip but reduce the weight you can move, hurting the movement's target muscles
+2020-11-23 {{gCYXqFzqkVc@572}} prescription [forearms] Loading pins let you attach many pinch implements and progressively overload easily; climbing boards also train fingers
+2020-11-23 {{gCYXqFzqkVc@592}} prescription [forearms] Don't buy every grip gadget; pick a few key movements per grip type and push progression
+2020-12-06 {{SbPaZ5giUNs@0}} anecdote His garage gym took 3-4 months to plan, clean and build  {"weeks": "3-4 months"}
+2020-12-06 {{SbPaZ5giUNs@61}} anecdote The gym is worth about $12,000 but cost him about $7,000 by cutting corners smartly  {"cost": "$7k vs $12k"}
+2020-12-06 {{SbPaZ5giUNs@61}} principle Don't lift on concrete; dropped weights shatter it, and it's bad for stability and knees
+2020-12-06 {{SbPaZ5giUNs@123}} anecdote His custom 16x9 ft platform cost $800-900 versus an estimated $5,000-6,000 if contracted  {"cost": "$800-900"}
+2020-12-06 {{SbPaZ5giUNs@186}} principle Garage floors slope toward the door for drainage, so a platform must be shimmed level or the barbell rolls
+2020-12-06 {{SbPaZ5giUNs@308}} anecdote Platform layers: plastic vapor barrier (arctic climate), mid-quality plywood, glued stall mats, high-quality plywood on top
+2020-12-06 {{SbPaZ5giUNs@308}} prescription Buy plywood in person, since ordered plywood is often warped
+2020-12-06 {{SbPaZ5giUNs@369}} prescription Buy equipment directly from manufacturers' sales reps and bundle purchases for discounts and free shipping
+2020-12-06 {{SbPaZ5giUNs@434}} opinion [chest] The Rogue fat pad bench is great for wide or problematic shoulders
+2020-12-06 {{SbPaZ5giUNs@559}} prescription [back] Straps are essential for deadlifts
+2020-12-06 {{SbPaZ5giUNs@622}} anecdote His favorite bar is a Rogue Ohio Power Bar (~$400), with a second one as a beater bar for rack pulls bought from the Boneyard for ~$180  {"cost": "$400 / $180"}
+2020-12-06 {{SbPaZ5giUNs@684}} anecdote EliteFTS refunded the difference when the SSB went on sale the day after he paid full price  {"cost": "$400 vs $280"}
+2020-12-06 {{SbPaZ5giUNs@746}} opinion [biceps] A quality EZ curl bar ($150-200) is worth it for curl bros
+2020-12-06 {{SbPaZ5giUNs@809}} opinion A rack is the most important home gym item if you want to train legs
+2020-12-06 {{SbPaZ5giUNs@1122}} prescription DIY roller J-cups cost about $30 and save your knurling  {"cost": "$30"}
+2020-12-06 {{SbPaZ5giUNs@1250}} prescription Use $1 spring clamps from a hardware store instead of collars during warm-ups  {"cost": "$1"}
+2020-12-06 {{SbPaZ5giUNs@1250}} prescription Get spotter arms if you train alone; don't die under the bar
+2020-12-06 {{SbPaZ5giUNs@1313}} prescription Chalk marks on the rack let him repeat exact pin heights for partials, pin press, squats and front squats
+2020-12-06 {{SbPaZ5giUNs@1438}} anecdote He spent about $2,000-3,000 on plates, all calibrated, and needed extra 10s and 5s for dumbbell work  {"cost": "$2-3k"}
+2020-12-06 {{SbPaZ5giUNs@1502}} prescription A $40 hardware-store mirror does the job versus $1,000 quotes; he uses it to check squat form  {"cost": "$40"}
+2020-12-06 {{SbPaZ5giUNs@1688}} opinion LeBron lifestyle sneakers are his favorite lifting shoes
+2020-12-07 {{ZScs2L9rero@1700}} opinion Ignoring load, barbells have the edge over dumbbells because their technical interaction with the body (bar path, grip) opens more pathways, though it requires upfront investment
+2020-12-10 {{wvVJFhVVrus@0}} principle A barbell alone does not make a gym: without a rack or stands you are mostly limited to pulls from the floor
+2020-12-10 {{wvVJFhVVrus@40}} prescription [quads] Do not clean a barbell onto your back to squat without a rack; the risk-to-reward ratio is skewed toward risk
+2020-12-10 {{wvVJFhVVrus@100}} opinion Barbells are available now only because plates and racks are not; a bar without plates is useless and without a rack loses much of its utility
+2020-12-10 {{wvVJFhVVrus@123}} prescription If possible, wait and buy a whole gym bundle at once with the barbell, which is more efficient and saves money
+2020-12-10 {{wvVJFhVVrus@140}} prescription Buy the highest-quality bar you can from a reputable company; a good bar lasts 10-20 years, so spending around $400 is worth it  {"cost": "$400"}
+2020-12-10 {{wvVJFhVVrus@186}} principle Cheap $100 bars from unknown sites feel terrible and bend permanently with around 400 lb, while a good bar flexes and returns to straight  {"load": "400 lb"}
+2020-12-10 {{wvVJFhVVrus@230}} anecdote Buy a bar you have already trained with for weeks; he used his bar for two years before buying his own
+2020-12-10 {{wvVJFhVVrus@280}} prescription Many high-quality bars are stiff, so if you dislike stiff bars, test before buying
+2020-12-10 {{wvVJFhVVrus@300}} anecdote Bars with cosmetic flaws, like those from Rogue's boneyard, can save money; his saved about $100 and he cannot tell the difference  {"cost": "-$100"}
+2020-12-10 {{wvVJFhVVrus@330}} prescription Start a home gym with an Olympic barbell because it is the most versatile; do not buy 15 specialty bars you never use
+2020-12-10 {{wvVJFhVVrus@380}} principle The centerpiece of a home gym is the barbell and the rack
+2020-12-10 {{wvVJFhVVrus@400}} prescription Non-chromed steel bars rust even in low humidity; oil and brush them often, since preventing rust is easier than removing it
+2020-12-10 {{wvVJFhVVrus@440}} prescription Brush the bar after every chalk session; chalk clogs the knurling and kills grip, and the deep cleaning needed later can damage the bar
+2020-12-10 {{wvVJFhVVrus@490}} prescription Store the bar horizontally on a wall or vertically in a holder like a sword to keep it off a cold, humid floor and away from your feet
+2020-12-12 {{VB0LzTb3SQM@317}} opinion [chest] Bands add tension at lockout and less at the chest on bench, matching the strength curve; he does not use them but has no issue with them
+2020-12-20 {{YDTUYiKFcFo@660}} prescription [forearms] Use straps only when you can't grip the weight; overusing them steals forearm work
+2020-12-20 {{YDTUYiKFcFo@700}} principle [forearms] With dumbbells, straps limit wrist rotation, which can disrupt the path or muscle recruitment
+2020-12-20 {{YDTUYiKFcFo@730}} opinion Straps are necessary for shrugs and deadlifts but not for rows
+2021-01-15 {{3z75cYOdZ74@0}} principle [chest] A slingshot adds elastic energy, reinforces tucked elbows and stabilizes the chest so the elbows do not flare out of position
+2021-01-19 {{-anA4CV2SVU@875}} prescription With only a pull-up bar, dip bars and 2 kg kettlebells: tons of kettlebell swings like cardio, uphill lunges, kettlebell RDLs, goblet squats, knee raises and band arm work  {"load": "2 kg"}
+2021-01-21 {{h21r7Mrxfo8@0}} opinion With home gyms normalized, competition has cut prices, so it is now a good time to build one
+2021-01-21 {{h21r7Mrxfo8@61}} opinion Other gym-goers are the biggest thing slowing your progress in a commercial gym
+2021-01-21 {{h21r7Mrxfo8@123}} opinion To build an elite physique you eventually need your own personal gym; sharing does not work long term
+2021-01-21 {{h21r7Mrxfo8@248}} anecdote Chatty members kill your flow and focus, especially between heavy deadlift reps
+2021-01-21 {{h21r7Mrxfo8@310}} anecdote [quads] Sharing a squat rack with a much shorter lifter forces you to wreck your setup every set
+2021-01-21 {{h21r7Mrxfo8@374}} prescription If a gym posts 'no grunting, no dropping weights', leave; it is a library pretending to be a gym
+2021-01-21 {{h21r7Mrxfo8@437}} anecdote [back] Staff who do not lift tell members to lower deadlifts slowly; a staff member targeting him forced him to learn her schedule to deadlift
+2021-01-21 {{h21r7Mrxfo8@562}} opinion At home you can slam weights, grunt, blast music and train shirtless; a gym is not supposed to be quiet
+2021-01-21 {{h21r7Mrxfo8@625}} prescription Pooling money with friends to build a shared neighborhood gym is a good solution if you need company
+2021-01-21 {{h21r7Mrxfo8@688}} opinion A good home gym can be built with modest funds and less space than you think
+2021-02-13 {{kCVudEfVU0c@270}} prescription If you cannot get to the gym, bring a pull-up bar to work and do pull-ups and push-ups there
+2021-02-17 {{U1zVxzMVM2E@3179}} opinion Gym equipment loses value once used; it is not an investment like stocks
+2021-03-01 {{kkbfHkyQ_q0@890}} anecdote NH's garage gym is near outdoor temperature: about 90°F in summer, usually 30°F in winter, sometimes 15-20°F
+2021-03-08 {{pvpf7Yuayco@1340}} opinion [chest] A thick wide 'fat pad' bench lets your back dig in so you don't slide, and keeps both shoulder blades on the bench for shoulder health
+2021-03-08 {{pvpf7Yuayco@1423}} prescription [chest] A fat pad limits depth and elbow tuck, so try before buying
+2021-03-08 {{pvpf7Yuayco@2235}} principle [quads] The SSB pushes you forward into a hinge, while a front squat pulls you to round; front squatting with an SSB is valid, but SSB back squats are nothing like front squats
+2021-03-08 {{pvpf7Yuayco@2422}} prescription [quads] With only 30 kg, combine weights and bands for lower reps to failure rather than 50 easy pump reps; supersets can raise relative intensity  {"load": "30 kg", "reps": 50}
+2021-03-20 {{Em00Z8i8V7c@378}} opinion For bodybuilding you can go your whole life with straight weights; chains and bands are unnecessary
+2021-03-31 {{eKBDacpRYSU@1071}} anecdote Gym staff have repeatedly told him he was intimidating, too heavy or too loud; commercial gyms are dying and you need a home gym
+2021-05-10 {{D1_tXh-Kp9Y@1886}} opinion [quads] The belt squat gives free quad tonnage with near-zero injury risk since it tractions the lower back; the danger is the setup, and cable-loaded belt squats pull you out of position more than plate-loaded ones
+2021-05-30 {{QTHtVBP_36g@3965}} anecdote He likes training in cold, dry weather even though a 20-degree garage is tough
+2021-06-02 {{HrUPp573ki0@1382}} opinion Calisthenics lets you train anywhere, which is why its athletes are the most consistent he has seen
+2021-06-28 {{9kIIW251uiI@754}} anecdote His cheap elastic elbow wraps do nothing for performance but keep the elbow warm and work as a placebo, so he wears them
+2021-06-28 {{9kIIW251uiI@1766}} opinion Sleeves and wraps mainly help injury prevention psychologically, not performance, and are still worth buying
+2021-07-08 {{4mW1c9W4QRk@0}} opinion The usual membership-savings argument is weak: a 3000-dollar home gym against a 300-dollar yearly membership takes 10 years to pay off, which most people cannot picture  {"cost": "$3000 vs $300/yr"}
+2021-07-08 {{4mW1c9W4QRk@64}} principle The hidden cost of a commercial gym is travel time: packing a bag, driving, parking, changing, showering adds about 1 h 10 min per session even with a gym 10 minutes away  {"time": "70 min/session"}
+2021-07-08 {{4mW1c9W4QRk@189}} principle Three hours of training plus three hours of travel per week is six hours of mental and physical drain  {"time": "3+3 h/wk"}
+2021-07-08 {{4mW1c9W4QRk@252}} data At 15 dollars an hour, losing 1 h 10 min three times a week is about 45 dollars a week of lost earnings  {"frequency": "3x/wk", "cost": "$45/wk"}
+2021-07-08 {{4mW1c9W4QRk@316}} principle Gas, bus or train fares are additional hidden costs of a commercial gym
+2021-07-08 {{4mW1c9W4QRk@379}} principle Walking between machines and hunting for clips or handles takes a shocking share of commercial gym time; a small home gym removes it
+2021-07-08 {{4mW1c9W4QRk@379}} principle Buying a home gym is like buying a house instead of renting: you own the equipment and can resell it, while a membership has no resale value
+2021-07-08 {{4mW1c9W4QRk@444}} opinion Even overpriced equipment saves money in the long run compared to memberships
+2021-07-08 {{4mW1c9W4QRk@506}} opinion Investing in physical equipment creates commitment, so home gym owners are more likely to stick with lifting consistently
+2021-07-08 {{4mW1c9W4QRk@568}} prescription You can start a home gym with 300-400 dollars  {"cost": "$300-400"}
+2021-07-14 {{8ELQ2XZgpls@752}} opinion Home training is fine for beginners and is the future of training
+2021-07-21 {{GH8tqzGTgH8@4324}} opinion Wraps and sleeves add maybe 10-20 lb and are largely placebo unless very rigid  {"load": "10-20 lb"}
+2021-08-05 {{lG5SZbRdOjA@1450}} data Most trap bars he's found max out around 500 lb, a limit for advanced lifters  {"load": "500 lb"}
+2021-09-05 {{P89o8FBSWDI@2898}} opinion Of the machines he liked the cable row for upper back and the triceps pulley; machines are good but often cannot replace free weights
+2021-09-29 {{eaypnfdz3J0@821}} opinion Sleds are a great, versatile tool: drag forwards, backwards or push
+2022-01-05 {{O5xVdqgt8Uo@698}} opinion Machines that simply copy a free-weight compound are bad; the best machines rethink the movement pattern with different angles while staying biomechanically efficient
+2022-01-05 {{O5xVdqgt8Uo@1116}} principle Most machines cannot be adjusted to your anthropometry, so very short or tall lifters repeat a path that does not fit them, which leads to injury or imbalances; good modern machines let you change arm angles and range of motion
+2022-01-05 {{O5xVdqgt8Uo@1541}} opinion Putting chains on a machine press is pointless because hanging chains never unload onto the ground, so there is no accommodating resistance
+2022-01-05 {{O5xVdqgt8Uo@2092}} prescription At home a cable stack can be replaced by elastic bands
+2022-01-17 {{9y2s6kyFkPc@563}} opinion Any type of resistance, kettlebells included, is valid for hypertrophy if you know how to use it; NH has no kettlebell experience
+2022-01-19 {{5VcEDIHK5Y8@696}} anecdote Apollon built his own weights from junkyard scrap; his famous Apollon wheels were two railway wheels on a thick axle weighing 366 lb, carried home by hand and now kept in a French museum  {"load": "366 lb"}
+2022-01-31 {{eC9Srr3ZygE@2120}} prescription For a garden gym in rainy England, build even a crude shed so the bar and platform stay dry, since squatting with a wet bar is a hazard
+2022-01-31 {{eC9Srr3ZygE@2171}} anecdote His own garage gym is at 20-30 degrees Fahrenheit for about six months a year  {"temperature": "20-30 F", "months": 6}
+2022-02-20 {{5ANLeP4QvX8@2962}} anecdote NH trains in a gym at about 20°F for eight months a year; the cold gives small benefits but large disadvantages and he wouldn't recommend it  {"temp": "20°F", "months": "8"}
+2022-04-06 {{3W-yE2pgTec@570}} principle [full_body] Medieval peasants exercised for fun after work: running, jumping, wrestling and throwing rocks; you do not need fancy equipment to build your body, just the will
+2022-05-30 {{iaNBZcYLMkY@755}} prescription [forearms] Pick coarse, non-absorbent towels for grip work, the opposite of a towel you'd dry off with
+2022-06-05 {{QfHfxLYRu88@2953}} opinion Adjustable benches are flimsier and narrower than flat ones; he never trains on an incline so he uses flat
+2022-06-23 {{itnjfi6RYtY@1253}} opinion He does two ring days per 8-day cycle; rings are a good supplement but doing only rings for arms would be foolish
+2022-07-02 {{Mt7cGMJZjkw@374}} prescription [forearms] Without fat grips, use a thumbless grip for the same benefit
+2022-07-02 {{Mt7cGMJZjkw@877}} prescription [lats] The square top frame of a Smith machine is ideal for cupped chin-ups without fat grips
+2022-08-01 {{C4ofaALlakI@949}} opinion The 'intimidating' hardcore gyms in the ads look better for making gains than sterile commercial gyms
+2022-08-29 {{O9txIDHBBIk@1628}} anecdote [quads] A belt squat machine will let him train quads more without loading his lower back
+2022-09-10 {{gizylGr0ebo@377}} principle Machines are all or nothing: a great machine can beat a barbell, a bad one injures you; check it, or use a Smith machine or barbell
+2022-09-17 {{bPUrJ3CSqEA@1202}} anecdote [shoulders] He pressed a forest log landmine-style for several days and it felt great on shoulders and triceps
+2022-09-23 {{BayeNJ0NUTE@0}} prescription Build a home gym gradually: pull-up bar, small rack or stands, an Olympic bar, then plates
+2022-09-23 {{BayeNJ0NUTE@0}} principle With only a barbell you will struggle to isolate small muscles and risk a spider physique
+2022-09-23 {{BayeNJ0NUTE@62}} opinion Cheap second-hand dumbbells feel terrible, can cause wrist tendonitis and still cost $30-50 a pair  {"price": "$30-50"}
+2022-09-23 {{BayeNJ0NUTE@124}} prescription A rope looped through a plate replaces a dumbbell at 5-10 times lower cost, about $3-10  {"price": "$3-10"}
+2022-09-23 {{BayeNJ0NUTE@187}} principle Rope loading needs no collars or clamps, takes any plate size or a kettlebell, and stores in almost no space
+2022-09-23 {{BayeNJ0NUTE@314}} prescription In a commercial gym bring your own rope so you can run giant sets without hogging dumbbells
+2022-09-23 {{BayeNJ0NUTE@376}} opinion Rope-plate lifts are harder: 25 lb on a rope does the job of 40-50 lb on a dumbbell  {"load": "25 lb vs 40-50 lb"}
+2022-09-23 {{BayeNJ0NUTE@754}} prescription Tie a band to a rack and loop the rope through it to mimic a cable attachment for triceps extensions, rows or face pulls; it fixes the band's poor grip and the rope's dependence on gravity
+2022-09-23 {{BayeNJ0NUTE@878}} prescription Buy quality rope, about 10 ft for around $10, half an inch to an inch thick, cut into short and long pieces  {"length": "10 ft", "price": "$10", "diameter": "0.5-1 in"}
+2022-11-22 {{1U5cgUdos88@379}} prescription [neck] Plates and bands are enough for an aesthetic neck; a harness or machine is only for advanced 'monster neck' goals
+2022-11-22 {{1U5cgUdos88@1011}} opinion [neck] Two 45 lb plates on the head are impractical, turning into a grip exercise; beyond that invest in a harness
+2022-11-22 {{1U5cgUdos88@1262}} opinion [neck] Bands feel more comfortable and, he believes, more hypertrophic than plates; use both for variety, to avoid overuse injuries and for adherence
+2022-11-27 {{Cbq-vxVba4k@2199}} opinion [lats] The Nautilus pullover machine is top tier and the holy grail of old-school lat machines; replicas still work
+2022-12-10 {{di9Qwrzs2Gg@823}} opinion African lifters training in community-owned gyms with scrap-metal equipment and limited food still build exceptional physiques, which shows mindset matters more than equipment
+2022-12-24 {{cUkWvnY8AJI@1063}} opinion [chest] Chest press machines that diverge outward and upward are mediocre, really shoulder presses; converging chest presses are Gorilla tier
+2022-12-24 {{cUkWvnY8AJI@1378}} opinion [chest] The Power Twister is A-cup tier: little real stimulus beyond sensation; chest expanders are mediocre for chest but great for back and arms
+2022-12-24 {{cUkWvnY8AJI@1879}} anecdote [chest] NH stopped dumbbell pressing because his heavy home dumbbells are too bulky and hit his chest
+2022-12-24 {{cUkWvnY8AJI@2693}} opinion [chest] Plate-loaded converging bench machines are Gorilla tier (he corrected himself on placement); some may even beat the bench
+2023-01-15 {{hRmjyBa64oE@1328}} opinion [traps] The trap bar is Leonidas tier for shrugs, power shrugs and carries; bars in front hit more mid back, trap bar more upper traps
+2023-01-15 {{hRmjyBa64oE@1702}} opinion [traps] Smith machine shrugs are decent; belt squat machine shrugs are excellent
+2023-02-02 {{clzLnKrm6Ao@1202}} prescription [forearms] Use straps where grip is the limiting factor to save grip stamina for forearm isolation; he does not use straps for pull-ups or dumbbell rows because grip does not limit him
+2023-03-26 {{iPtxiNtBY-M@1699}} prescription [forearms] Wrapping a towel around any implement upgrades it for forearms (towel rows go from C to B); use a thick, rough, non-absorbent towel
+2023-03-26 {{iPtxiNtBY-M@1763}} prescription [forearms] Fat grips are A tier and turn mediocre movements into good forearm exercises; avoid overpriced ones and pick a size where your fingers can barely touch
+2023-03-26 {{iPtxiNtBY-M@1824}} opinion [forearms] Axle bars are good but only B tier because their thickness is fixed, unlike adaptable fat grips
+2023-03-26 {{iPtxiNtBY-M@2322}} opinion [forearms] Grip-sport tools work (A tier) but cost 50-60 dollars; there are cheaper ways
+2023-03-26 {{iPtxiNtBY-M@2764}} opinion [forearms] Finger curl machines are C tier: free weights outdo them and isolation should be done light
+2023-03-26 {{iPtxiNtBY-M@2951}} opinion [forearms] Rings are C tier for forearms (thumbless rows), still better value than single-purpose gadgets
+2023-03-26 {{iPtxiNtBY-M@3013}} opinion [forearms] Spring-based forearm twisters are inferior to the wrist roller: less stretch, discomfort, wrist problems and high price
+2023-04-01 {{kQMrIszr_Bw@62}} principle [forearms] Beyond dumbbells, forearm training is best done with a rope and a towel
+2023-06-21 {{P7ADeDVghxg@62}} prescription With limited equipment, superset movements that hit the same muscle so you reach failure with light weight; not optimal, but it works away from the gym
+2023-06-21 {{P7ADeDVghxg@0}} opinion Gymnastic rings are invaluable for anyone without a home gym
+2023-06-21 {{P7ADeDVghxg@126}} anecdote [triceps] A wooden stick in a band loop makes a better pushdown handle than any V-bar, removing grip demand; he kept it for his home gym
+2023-08-31 {{zuvTDBbAWN8@0}} anecdote He trains in his family's old smokehouse with a few rusty plates, dumbbells, one barbell and portable implements; the nearest gym is about 70 km away
+2023-08-31 {{zuvTDBbAWN8@442}} opinion Commercial gyms are optimal for muscle building, but training in nature feels more personal
+2023-08-31 {{zuvTDBbAWN8@692}} prescription [quads] With little weight, do squats holding dumbbells with heels on an incline; even 50 lb per hand is hard in high reps  {"load": "50 lb per hand"}
+2023-08-31 {{zuvTDBbAWN8@1130}} prescription [triceps] Without a cable machine, attach a resistance band to something and do triceps pushdowns
+2023-09-17 {{APzQFpqmR10@2087}} opinion Male-only gyms already exist in practice: commercial weight rooms are ~90% men and hardcore gyms ~99% men
+2023-09-17 {{APzQFpqmR10@2778}} opinion Making the gym 'inclusive' for normies degrades it (Planet Fitness); women who want to lift will adapt and mostly just want to be left alone
+2023-09-30 {{43F9unmSc_I@440}} anecdote He now trains about 50% at home and 50% at a commercial gym, doing legs at home and things like pull-ups and overhead presses at the gym
+2023-11-02 {{4t72r8Q0vXQ@379}} prescription [forearms] Pulling doesn't develop the forearms fully, and letting grip limit the back is criminal; strap up as soon as grip fails on a set
+2023-11-17 {{6YC_gmRNhPo@1199}} opinion A belt squat machine (about $1,000) is worth it: he uses it for squats, rows, single-leg RDLs and shrugs, which beat any other shrug  {"cost": "$1000"}
+2023-11-17 {{6YC_gmRNhPo@1261}} opinion [neck] A neck harness is far better than plate neck curls; he regrets not buying one sooner
+2023-11-17 {{6YC_gmRNhPo@1072}} prescription Wrist cuffs for laterals and triceps extensions mean only the target muscle limits the set
+2023-11-17 {{6YC_gmRNhPo@1325}} prescription Build your own lifting platform from Home Depot for about $100 rather than paying $1,000 for a Rogue one  {"cost": "$100"}
+2023-11-17 {{6YC_gmRNhPo@885}} opinion Wrestling shoes are the best general lifting shoes; he uses Olympic weightlifting shoes for squats
+2023-12-04 {{M2yqxp4IHXg@880}} prescription Kettlebells are better than plates for loading weighted dips and pull-ups: more compact, less dangling, higher off the floor
+2023-12-13 {{DAZRYoex8_w@632}} principle Removing stability demands (Smith) or grip (straps) lets you hit the target muscle harder, not less
+2024-02-02 {{GyK1Y6WTR-g@1640}} prescription [forearms] Use straps on back work so the weak grip doesn't limit your back, and train forearms directly (e.g. hammer curls); forearm isolation costs only 10-15 minutes a week  {"time": "10-15 min/wk"}
+2024-02-24 {{29XrRmOrCMs@818}} principle Lifters standardized on barbells, dumbbells, machines and cables because they make load predictable and correct the strength curve; the more technique an implement demands, the less hypertrophy you get
+2024-05-24 {{Eta-sxecx9E@820}} anecdote [forearms] Tearing calluses is not inevitable; he hasn't torn one in about 4 years after tearing them monthly  {"years": 4}
+2024-05-24 {{Eta-sxecx9E@860}} prescription [forearms] Shave calluses down with a nail clipper about every two months so the bar has no edge to tear  {"frequency": "every 2 months"}
+2024-05-24 {{Eta-sxecx9E@883}} prescription [forearms] Rub a lotion bar (he likes Climb On) into calluses every night before bed, because chalk dries them out and makes them easier to tear
+2024-05-28 {{l6L6HlGM4F0@0}} anecdote His basement gym has a 6'4 ceiling, so he trains legs and some isolation at home and overhead work at a commercial gym
+2024-06-13 {{jUMmu583w34@600}} principle [forearms] Straps on back work don't hurt forearm development; they let you isolate the back better, and letting grip limit back growth leaves gains on the table
+2024-06-13 {{jUMmu583w34@800}} data Jack LaLanne invented the Smith machine to get barbell training without free-weight risk; mocking it shows ignorance of fitness history
+2024-09-03 {{JW73oft8Q60@90}} prescription [chest] Load push-ups with a sturdy backpack that sits tight on the shoulders; he uses 70 lb in a 200-lb-capacity pack and warns against flimsy ones  {"load": "70 lb"}
+2024-09-07 {{bRKQIOYo2u4@6007}} prescription With only a pull-up bar and dip bars, make weighted pull-ups and dips the staples and add cheap plates or a towel to isolate the arms  {"load": "25 lb plate ~20 USD"}
+2024-09-14 {{okm6bZHKHI4@1851}} prescription [forearms] Novices do not need straps at first; put them on as soon as grip becomes the limiting factor
+2024-09-14 {{okm6bZHKHI4@3245}} prescription For a home gym with no space for a rack, get a combined dip/pull-up station and compact squat stands. Avoid adjustable dumbbells because the extra plates get expensive; buy used dumbbells from closing gyms or private sellers
+2024-09-14 {{okm6bZHKHI4@7284}} opinion [triceps] Dumbbell-only training is limited for legs and for isolating muscles like the triceps; cables are a big upgrade
+2024-09-21 {{lyj1BFZ85Dg@9430}} opinion Adjustable dumbbells are a trap: expensive base and plates; only buy if you'll use them at least three times a week  {"frequency": "3x/wk"}
+2024-10-19 {{c7hl9u3h_s0@260}} opinion [quads] He now squats in flat shoes and sees no difference; he only keeps Olympic lifting shoes for high-bar squats
+2024-10-19 {{c7hl9u3h_s0@1332}} opinion Adjustable dumbbells are only worth buying if you use dumbbells a lot
+2024-10-19 {{c7hl9u3h_s0@1396}} anecdote [calves] He sells any home equipment he doesn't use weekly; his last purchase was a tibialis raise station used three times a week  {"frequency": "3x/wk"}
+2024-10-19 {{c7hl9u3h_s0@1460}} anecdote [shoulders] He joined a commercial gym because home-gym limits explain his lagging triceps and shoulders; Smith presses and cable lateral raises finally let him feel his delts
+2024-10-26 {{wBct3Pl8OY4@5241}} opinion Sandbag training is not practical for hypertrophy
+2024-11-09 {{yZC3Nsmmzb8@510}} anecdote A retired 45-year-old strongman neighbour gave him a Rogue yoke, a Husafell stone, a circus dumbbell, a Rogue sled and two 25 lb plates (about $1000) and delivered them; the man is now switching to bodybuilding  {"value": "~$1000"}
+2024-11-09 {{yZC3Nsmmzb8@11917}} anecdote Scott built his gym in Thailand from bamboo and homemade concrete plates
+2024-11-16 {{fPU3nRIH8sM@10243}} prescription Lifting gloves are fine if eczema leaves no choice
+2024-11-17 {{6yW3GSskl8g@1139}} data The Smith machine was created by Jack LaLanne to get heavy loading with stability, and every serious bodybuilding gym has one
+2024-11-23 {{6p2x4kDDjzs@284}} prescription [shoulders] Without weights, ring rows done with the feet walked far back, so the pull turns into an upright row, are a good substitute
+2024-11-23 {{6p2x4kDDjzs@1007}} anecdote [lats] At 6 ft he can no longer get a full lat stretch on his gym's pulldown because the stack bottoms out; he needed a gym pin to go above 200 lb  {"load": "200 lb"}
+2024-11-23 {{6p2x4kDDjzs@3531}} anecdote He supersets freely because he trains at empty hours, and if someone takes a machine he waits or asks to work in
+2024-11-23 {{6p2x4kDDjzs@11290}} prescription If storms keep you from the gym, build a cheap home gym with a pull-up bar for weighted calisthenics
+2024-12-01 {{TvKzeUKgZcY@2780}} anecdote [forearms] He does weighted carries and mace forearm work in his backyard
+2024-12-11 {{-OjJEzZTXtQ@381}} prescription [quads] Plates under the heels are hard to standardize and give little elevation; buy a sturdy, high-quality slant board
+2024-12-11 {{-OjJEzZTXtQ@1386}} anecdote [quads] He doesn't do leg isolation because he trains legs at home with no room for machines, and he reached 28 inches without it
+2024-12-16 {{qvWxIzhT1QU@64}} anecdote Cheap clamps let heavy plates tilt and slide on a one-arm implement once loads exceed about 200 lb; use proper clamps  {"load": "200 lb"}
+2024-12-16 {{qvWxIzhT1QU@572}} prescription [abs] Use a rolling (round-handled) dumbbell for side bends so it rolls off the leg comfortably
+2024-12-16 {{qvWxIzhT1QU@1072}} prescription [forearms] A 5 lb mace is all you need for forearm raising motions; a 20 lb mace is unusable for forearms  {"load": "5 lb"}
+2024-12-22 {{ZLheQPgEfoA@8040}} opinion Kettlebell training is inferior for hypertrophy and okay only as minimalist training
+2024-12-22 {{ZLheQPgEfoA@8103}} opinion Getting big from calisthenics alone is very hard; mix free weights with calisthenics
+2025-01-04 {{0O0nG2jLadU@132}} anecdote [chest] He no longer uses the Slingshot bench aid and is selling it
+2025-01-04 {{0O0nG2jLadU@761}} prescription A $100/month gym is expensive; look for an uncrowded mom-and-pop gym around $40-50; his own pro bodybuilding gym with IFBB pros is nearly empty
+2025-01-04 {{0O0nG2jLadU@6539}} anecdote Fear of being banned by a hostile gym staffer motivated him to build his first home gym (a planned 16x8 ft space with a self-made platform), which led to the channel
+2025-01-09 {{waeSP7DBmig@300}} prescription [back] Without straps he'd lose 20-30% performance; using straps whenever grip fails can multiply upper-back gains  {"loss": "20-30%"}
+2025-02-08 {{-7bzbmL-x3Q@10096}} anecdote His garage home gym was about $10,000 of equipment weighing thousands of pounds, which made moving across the country a major problem  {"cost": "$10,000"}
