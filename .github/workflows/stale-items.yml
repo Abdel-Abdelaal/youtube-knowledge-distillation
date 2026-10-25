@@ -1,0 +1,19 @@
+name: Stale items
+on:
+  schedule:
+    - cron: '17 5 * * 1'
+  workflow_dispatch:
+    inputs:
+      dry-run:
+        description: Inspect without changing issues or pull requests
+        type: boolean
+        default: true
+permissions: {}
+jobs:
+  stale:
+    uses: Abdel-Abdelaal/platform-workflows/.github/workflows/stale.yml@40e5261e2e39d8d0c88e709c26385cab3cc43466 # v1.7.0
+    permissions:
+      issues: write
+      pull-requests: write
+    with:
+      dry-run: ${{ github.event_name == 'workflow_dispatch' && inputs.dry-run }}
