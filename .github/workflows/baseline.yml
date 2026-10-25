@@ -6,7 +6,7 @@ on:
 permissions: {}
 jobs:
   baseline:
-    uses: Abdel-Abdelaal/platform-workflows/.github/workflows/baseline-sync.yml@7b7bea4e50c6ee1b1dcf0d318e4504655678b0b8 # v1.9.1
+    uses: Abdel-Abdelaal/platform-workflows/.github/workflows/baseline-sync.yml@f60efba792d811aa8a848cc465c3ae20523fdf14 # reviewed default-branch maintenance candidate
     permissions:
       contents: read
       issues: write
