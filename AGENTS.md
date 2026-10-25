@@ -40,7 +40,7 @@ This folder is a cited reference of Natural Hypertrophy's (NH) teachings, distil
 
 Follow the [fleet handbook](https://github.com/Abdel-Abdelaal/.github/tree/main/standards).
 Changes use Conventional Commit PR titles and full-SHA workflow/action pins.
-The default branch is master. Do not run archive, transcription or AI synthesis
+The default branch is master; the v1.8.0 candidate supports it for scheduled AI. Do not run archive, transcription or AI synthesis
 pipelines as CI checks: they need external data, credentials and explicit approval.
 No dependency environment or full pipeline test suite is defined in this kit.
 
