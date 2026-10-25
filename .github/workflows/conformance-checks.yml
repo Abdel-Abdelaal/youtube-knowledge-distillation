@@ -1,0 +1,13 @@
+name: Repository policy checks
+on:
+  pull_request:
+  schedule:
+    - cron: '15 5 * * 1'
+  workflow_dispatch:
+permissions: {}
+jobs:
+  conformance:
+    uses: Abdel-Abdelaal/platform-workflows/.github/workflows/conformance.yml@f06eb74320f169fa6ce3690b0cd44ccfba8f199b # v1.8.0 candidate
+    permissions:
+      contents: read
+      issues: write

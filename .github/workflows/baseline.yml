@@ -1,0 +1,15 @@
+name: Weekly baseline update
+on:
+  schedule:
+    - cron: '0 5 * * 1'
+  workflow_dispatch:
+permissions: {}
+jobs:
+  baseline:
+    uses: Abdel-Abdelaal/platform-workflows/.github/workflows/baseline-sync.yml@f06eb74320f169fa6ce3690b0cd44ccfba8f199b # v1.8.0 candidate
+    permissions:
+      contents: read
+      issues: write
+    secrets:
+      BOT_APP_ID: ${{ secrets.BOT_APP_ID }}
+      BOT_APP_KEY: ${{ secrets.BOT_APP_KEY }}

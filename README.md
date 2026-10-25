@@ -61,3 +61,17 @@ Example principle:
 - `KIT_GUIDE.md`: detailed usage, and what's deliberately not included
 
 Raw transcripts, verbatim quotes and viewer comments are **not** included: the creator's own words and other people's posts aren't ours to republish. The pipeline regenerates the transcripts from YouTube.
+
+
+## Engineering checks and AI evidence
+
+PRs run the shared fleet policy and security workflows. Weekly advisory AI audits
+and eligible PR reviews retain signed records and publish measured results on the
+[fleet dashboard](https://abdel-abdelaal.github.io/github-governance/).
+Missing credentials produce explicit skips; historical book-building AI runs have
+no retrospective telemetry. The automation App is required for generated fix and
+baseline PRs. No archive, transcription or synthesis pipeline is executed by CI.
+
+Original software scripts use the scoped [MIT license](LICENSE). The book and
+reference dataset are outside that grant; source videos and other third-party
+material retain their own rights.
