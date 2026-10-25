@@ -1,0 +1,6 @@
+# Third-party packages imported by pipeline/1_archive/whisper_transcribe.py.
+# Pinned to the versions the pipeline has been run with, so the environment is
+# reproducible and Dependabot and OSV can track them for updates and advisories.
+av==19.0.1
+faster-whisper==1.2.1
+numpy==1.26.4
