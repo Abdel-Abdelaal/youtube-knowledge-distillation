@@ -11,7 +11,7 @@ on:
 permissions: {}
 jobs:
   stale:
-    uses: Abdel-Abdelaal/platform-workflows/.github/workflows/stale.yml@f60efba792d811aa8a848cc465c3ae20523fdf14 # reviewed default-branch maintenance candidate
+    uses: Abdel-Abdelaal/platform-workflows/.github/workflows/stale.yml@40b37ce9647cc6cde2adc3d3d1acfc0aa06f92c9 # v1.10.0
     permissions:
       issues: write
       pull-requests: write
