@@ -3,4 +3,4 @@
 # reproducible and Dependabot and OSV can track them for updates and advisories.
 av==19.0.1
 faster-whisper==1.2.1
-numpy==1.26.4
+numpy==2.5.4
