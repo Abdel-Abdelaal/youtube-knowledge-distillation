@@ -51,6 +51,22 @@ Example principle:
     - https://youtu.be/YIIWlqhoNA0?t=251 …
 ```
 
+## Searching
+
+`ask.py` takes a query plus optional filters:
+
+- **`query`** — one or more words, joined with spaces. Plain words are AND-matched with prefix matching; explicit FTS5 syntax is passed through (`OR`, `AND`, `NOT`, `"phrases"`, `prefix*`). A query that is a single principle ID (e.g. `VOL-03`) shows that principle in full.
+- **`--only {principles,claims,transcripts}`** — search one layer only; the default is all layers. Transcripts are searched only if the DB has a `transcript_fts` table — the kit does not ship transcripts (you rebuild them with the pipeline).
+- **`--topic TOPIC`** — filters claims by topic (e.g. `volume`) and principles by ID prefix (e.g. `VOL`); it does not filter transcripts.
+- **`--since YYYY|YYYY-MM`** — claims and transcripts on or after that date; it does not apply to principles.
+- **`-n N`** — an integer, the maximum results per layer (default 10).
+
+```bash
+python ask.py deload --only principles           # search one layer only
+python ask.py protein --topic nutrition -n 30    # topic filter, up to 30 results per layer
+python ask.py "rir OR failure" --since 2024      # FTS5 operators; on or after 2024
+```
+
 ## Repo layout
 
 - `reference/`: the book, chapters, checklist, `principles.json`, `nh_reference.db`
